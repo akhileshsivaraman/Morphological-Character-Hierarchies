@@ -1,0 +1,162 @@
+
+P A U P *
+Version 4.0a (build 166) for macOS (built on Sep  1 2019 at 23:02:50)
+Wed May 13 13:06:40 2020
+
+
+paup> execute CPRS2019.nex
+
+Processing of file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Chani-Posse & Ramirez-
+Salamanca, 2019/CPRS2019.nex" begins...
+
+Are you sure you want to reset the active datafile? (Y/n)y
+
+Data matrix has 79 taxa, 138 characters
+Valid character-state symbols: 012345
+Missing data identified by '?'
+Gaps identified by '-'
+
+Character types changed:
+  Of 138 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+
+*** Skipping "MESQUITECHARMODELS" block
+
+*** Skipping "MESQUITE" block
+
+Processing of input file "CPRS2019.nex" completed.
+
+paup> tstatus
+
+Taxon-status summary:
+   Original data matrix contains 79 taxa
+   No taxa have been deleted
+   No taxa have been assigned to the outgroup: outgroup defaults to first taxon (Arrowinus minutus)
+
+paup> cstatus
+
+Character-status summary:
+  Current optimality criterion = parsimony
+  No characters are excluded
+  Of 138 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+    18 characters are parsimony-uninformative
+    Number of parsimony-informative characters = 120
+
+paup> pset collapse=no
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nreps=50
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 138 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        18 characters are parsimony-uninformative
+        Number of parsimony-informative characters = 120
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 50
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  'Maxtrees' setting = 10000 (will not be increased)
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+    Elapsed AddSeq   Taxa      Rearr.  -- Number of trees --    ------ Best trees -----
+       time    rep  added      tried      saved   to swap       this rep        overall
+  -------------------------------------------------------------------------------------
+    0:01:00      5      -  527990653       5585      1765            637            635
+    0:02:00      5      - 1056477435      10000      1911            637            635
+    0:02:28      5      - 1301022151       2640         0            637            635
+    0:03:00      8      - 1491620376       3999       734            640            635
+    0:04:00     10      - 1863946070       4308      1140            637            635
+    0:05:00     10      - 2391413024      10000      3021            637            635
+    0:05:46     10      - 2799165621       2640         0            637            635
+    0:06:00     15      - 2912888013       3067       390            641            635
+    0:07:00     16      - 3427425381       8991      3446            637            635
+    0:08:00     16      - 3966790496      10000       426            637            635
+    0:08:07     16      - 4022442008       2640         0            637            635
+    0:09:00     18      - 4487006376       9232      3495            637            635
+    0:10:00     18      - 5016142439      10000       183            637            635
+    0:10:03     18      - 5039539895       2640         0            637            635
+    0:11:00     21      - 5552179411       8891      3088            637            635
+    0:12:00     21      - 6093168704      10000       220            637            635
+    0:12:03     21      - 6120598434       2640         0            637            635
+    0:13:00     22      - 6628689027      10000      3860            637            635
+    0:14:00     23      - 7157586870       2959       232            640            635
+    0:15:00     24      - 7687228420       8838      2771            637            635
+    0:16:00     25      - 8206779489       2957       228            637            635
+    0:17:00     28      - 8738564116       6999      2884            637            635
+    0:18:00     28      - 9273976809      10000      1649            637            635
+    0:18:24     28      - 9484951070       2640         0            637            635
+    0:19:00     30      - 9813049713       4164       138            637            635
+    0:20:00     32      - 1.0357e+10       7903      2707            638            635
+    0:21:00     32      - 1.0902e+10      10000      1023            638            635
+    0:21:17     32      - 1.1053e+10       2640         0            638            635
+    0:22:00     36      - 1.1445e+10       7711      2546            638            635
+    0:23:00     36      - 1.1997e+10      10000      1015            638            635
+    0:23:16     36      - 1.2146e+10       2640         0            638            635
+    0:24:00     37      - 1.2543e+10       7590      2518            637            635
+    0:25:00     37      - 1.3082e+10      10000       969            637            635
+    0:25:14     37      - 1.3208e+10       2640         0            637            635
+    0:26:00     44      - 1.3611e+10       7978      3647            637            635
+    0:27:00     44      - 1.4147e+10      10000      1212            637            635
+    0:27:16     44      - 1.4286e+10       2640         0            637            635
+    0:28:00     45      - 1.4685e+10       8608      2830            637            635
+    0:29:00     46      - 1.5229e+10       2640         1            655            635
+    0:30:00     46      - 1.5773e+10       9452      3142            637            635
+    0:30:55     46      - 1.6268e+10       2640         0            637            635
+    0:31:00     47      - 1.6318e+10       3969       994            637            635
+    0:32:00     47      - 1.6863e+10      10000      3113            637            635
+    0:32:47     47      - 1.7283e+10       2640         0            637            635
+    0:33:00     49      - 1.7407e+10       3448       606            637            635
+    0:34:00     49      - 1.7945e+10       8879      1935            637            635
+    0:34:47     49      - 1.8362e+10       2640         0            637            635
+    0:34:48     50      - 1.8376e+10       2640         0            635            635
+
+Heuristic search completed
+  Total number of rearrangements tried = 1.8376e+10
+  Score of best tree(s) found = 635
+  Number of trees retained = 2640
+  Time used = 00:34:48 (CPU time = 00:34:32.1)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1       480      2161      2640             635            4       5
+     2       576      1585      2160             635            3       7
+     3      1584         1      1584             635            2       5
+     4        60         -         -             636            1       1
+     5        72         -         -             636           34       3*
+     6       384         -         -             637           15       2*
+     7       792         -         -             637           12       3*
+     8      1536         -         -             637           30       1
+     9      7360         -         -             637            5      14*
+    10       384         -         -             638            6       1
+    11       576         -         -             638           23       2*
+    12       768         -         -             638           31       1
+    13      1824         -         -             638           26       1
+    14      7360         -         -             638           32       2*
+    15        96         -         -             639           29       1
+    16      2880         -         -             640            8       1
+
+Note(s):
+    * Multiple hits on islands of unsaved trees may in fact represent different islands
+
+paup> savetrees file=Paup-CPRS2019.tre
+
+OK to replace file "Paup-CPRS2019.tre"? (Y/n)Y
+
+2640 trees saved to file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Chani-Posse & Ramirez-
+Salamanca, 2019/Paup-CPRS2019.tre"

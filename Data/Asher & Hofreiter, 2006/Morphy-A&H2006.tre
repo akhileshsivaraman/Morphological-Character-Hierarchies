@@ -1,0 +1,30 @@
+#NEXUS
+BEGIN TREES;
+	TRANSLATE
+		1 Didelphis,
+		2 Blarina,
+		3 Canis,
+		4 Chrysochloris,
+		5 Crocidura,
+		6 Echinops,
+		7 Elephantulus,
+		8 Erinaceus,
+		9 Erythrozootes,
+		10 Geogale,
+		11 Hemicentetes,
+		12 Limnogale,
+		13 Microgale,
+		14 Micropotamogale,
+		15 Orycteropus,
+		16 Oryzorictes,
+		17 Parageogale,
+		18 Potamogale,
+		19 Procavia,
+		20 Protenrec,
+		21 Setifer,
+		22 Sorex,
+		23 Tenrec
+		;
+
+		TREE Morphy_1 = [&U] (1,(15,(((5,(2,22)),(4,(((6,21),(11,23)),(((9,20),(10,17)),(16,(13,(12,(14,18)))))))),(7,(8,(3,19))))));
+END;

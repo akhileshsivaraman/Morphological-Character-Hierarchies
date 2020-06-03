@@ -1,0 +1,1478 @@
+#NEXUS
+
+[ File output by Morphobank v3.0 (http://www.morphobank.org); 2020-04-30 04.11.06 ]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX=14;
+	TAXLABELS
+		'Omeisaurus'
+		'Camarasaurus'
+		'Limaysaurus tessonei'
+		'Amphicoelias'
+		'Dicraeosaurus hansemanni'
+		'Amargasaurus'
+		'Suuwassea emilieae'
+		'Apatosaurus'
+		'Supersaurus vivianae'
+		'Dinheirosaurus lourinhanensis'
+		'Tornieria africana'
+		'Diplodocus'
+		'Barosaurus lentus'
+		'Kaatedocus siberi'
+	;
+ENDBLOCK;
+
+
+
+BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=234;
+	FORMAT DATATYPE=STANDARD MISSING=? GAP=- SYMBOLS="012345";
+
+	CHARLABELS
+		 [1] 'Premaxillary anterior margin, shape: without step (0); with marked step, anterior portion of skull sharply demarcated (1).'
+		 [2] 'Premaxilla, external surface: without anteroventrally orientated vascular grooves originating from an opening in the maxillary contact (0); vascular grooves present (1).'
+		 [3] 'Premaxilla, ascending process, shape in lateral view: convex (0); concave, with a large dorsal projection (1); subrectilinear and directed posterodorsally (2).'
+		 [4] 'Premaxilla, angle between lateral and medial margins of premaxilla as seen in dorsal view: greater than 20° (0); less than or equal to 20° (1).'
+		 [5] 'Premaxilla, shape in dorsal view: main body is massive, with proportionally short ascending process distinct (0); single elongate unit, distinction between body and process absent (1).'
+		 [6] 'Premaxilla, posterolateral process and the lateral process of the maxillary, shape: with midline contact forming a marked narial depression, subnarial foramen not visible laterally (0); without midline contact (1).'
+		 [7] 'Subnarial foramen and anterior maxillary foramen, position: well distanced from one another (0); separated by narrow bony isthmus (1).'
+		 [8] 'Maxilla, dorsal process, posterior extent: anterior to or even with posterior process (0); extending posterior to posterior process (1).'
+		 [9] 'Maxilla-quadratojugal contact: absent or small (0); broad (1).'
+		 [10] 'Preantorbital fossa: absent (0); present (1).'
+		 [11] 'Preantorbital fenestra: absent (0); present without sharply defined fossa (1); present within sharply defined fossa (2).'
+		 [12] 'Antorbital fenestra, maximum diameter: much shorter than orbital maximum diameter, less than 85% of orbit (0); subequal to orbital maximum diameter, greater than 85% orbit (1).'
+		 [13] 'Antorbital fenestra, shape of dorsal margin: straight or convex (0); concave (1).'
+		 [14] 'External nares, position: retracted to level of orbit, facing laterally (0); retracted to position between orbits, facing dorsally or dorsolaterally (1).'
+		 [15] 'External nares, maximum diameter: shorter than orbital maximum diameter (0); longer than orbital maximum diameter (1).'
+		 [16] 'Prefrontal, posterior process size: small, not projecting far posterior of frontal-nasal suture (0); elongate, approaching parietal (1).'
+		 [17] 'Prefrontal, posterior process shape: flat (0); hooked (1).'
+		 [18] 'Frontals, midline contact (symphysis): patent suture (0); fused in adult individuals (1).'
+		 [19] 'Frontal, anteroposterior length: subequal to longer than transverse breadth (0); considerably less than transverse breadth (1).'
+		 [20] 'Frontal-nasal suture, shape: flat or slightly bowed anteriorly (0); v-shaped, pointing posteriorly (1).'
+		 [21] 'Frontals, dorsal surface: without paired grooves facing anterodorsally (0); grooves present, extend on to nasal (1).'
+		 [22] 'Frontal, contribution to dorsal margin of orbit: less than 1.5 times the contribution of prefrontal (0); at least 1.5 times the contribution of prefrontal (1).'
+		 [23] 'Frontal, free lateral margin: rugose (for attaching palpebral elements) (0); smooth (1).'
+		 [24] 'Frontal, contribution to margin of supratemporal fenestra/fossa: present (0); absent, frontal excluded from anterior margin of fenestra/fossa (1).'
+		 [25] 'Frontals, distinct anterior U-shaped notch medially between the two elements: absent (0); present (1).'
+		 [26] 'Frontal-parietal suture, position relative to supratemporal finestra: close to anterior extension (0); around the center of the supratemporal finestra (1); close to the posterior extension (2).'
+		 [27] 'Orbit, anterior-most point: anterior to the anterior extremity of lateral temporal fenestra (0); roughly even with or posterior to anterior extent of lateral temporal fenestra (1).'
+		 [28] 'Orbital ventral margin, anteroposterior length: broad, with subcircular orbital margin (0); reduced, with acute orbital margin (1).'
+		 [29] 'Postorbital, posterior process: present (0); absent (1).'
+		 [30] 'Jugal, contribution to antorbital fenestra: very reduced or absent (0); large, bordering approximately one-third of its perimeter (1).'
+		 [31] 'Jugal, contact with ectopterygoid: present (0); absent (1).'
+		 [32] 'Quadratojugal, position of anterior terminus: posterior to middle of orbit (0); anterior margin of orbit or beyond (1).'
+		 [33] 'Quadratojugal, angle between anterior and dorsal processes: less than or equal to 90°, so that the quadrate shaft is directed dorsally (0); greater than 90°, approaching130°, so that the quadrate shaft slants posterodorsally (1)'
+		 [34] 'Lacrimal, dorsal portion of lateral edge: flat (0); bears dorsoventrally elongate, shallow ridge (1); bears a dorsoventrally short laterally projecting spur (2).'
+		 [35] 'Quadrate, articular surface shape: quadrangular in ventral view, orientated transversely (0); roughly triangular in shape (1); thin, crescent-shaped surface with anteriorly directed medial process (2).'
+		 [36] 'Quadrate fossa, depth: shallow (0); deeply invaginated (1).'
+		 [37] 'Quadrate, shallow, second fossa on medial side of the winglike anterodorsal ramus (not the quadrate fossa): absent (0); present, becoming deeper towards its anterior end (1).'
+		 [38] 'Squamosal, anterior extent: restricted to postorbital region (0); extends well past posterior margin of orbit (1); extends beyond anterior margin of orbit (2).'
+		 [39] 'Squamosal-quadratojugal contact: present (0); absent (1).'
+		 [40] 'Squamosal, posteroventral margin: smooth (0); with prominent, ventrally directed ''prong'' (1).'
+		 [41] 'Parietal, contribution to post-temporal fenestra: present (0); absent (1).'
+		 [42] 'Parietal, distance separating supratemporal fenestrae: less than 1.5 times the width of the long axis of the supratemporal fenestra (0); at least 1.5 times the length of the long axis of the supratemporal fenestra (1)'
+		 [43] 'Parietal, posterolateral process, dorsal edge in posterior view: straight, and ventrolaterally oriented, so that the supratemporal fenestra is slightly facing posteriorly as well (0); convex, so that the postorbital and thus the supratemporal fenestra are not visible (1).'
+		 [44] 'Parietal, distinct horizontal ridge separating dorsal from posterior portion: absent, transition more or less confluent (0); present, creating a distinct fossa below the ridge on posterior portion of parietal (1).'
+		 [45] 'Postparietal foramen: absent (0); present (1).'
+		 [46] 'Paroccipital process (popr), posterior face: smooth/flat (0); with longitudinal ridge along popr body extending from dorsomedial to ventrolateral corners (1).'
+		 [47] 'Paroccipital process distal terminus: expanded vertically (0); not expanded (dorsal and ventral edges are subparallel) (1).'
+		 [48] 'Supratemporal fenestra: present, relatively large (anteroposterior diameter is at least 5% of occiput width) (0); absent, or greatly reduced (so that anteroposterior diameter is less than 5% of occipital width) (1).'
+		 [49] 'Supratemporal fenestra, maximum diameter: more than 1.2 times greatest diameter of foramen magnum (0); less than 1.2 times the greatest length of foramen magnum (1).'
+		 [50] 'Supraoccipital: sagittal nuchal crest: broad, weakly developed (0); narrow, sharp, and distinct (1).'
+		 [51] 'Supraoccipital, height: more than 1.5 times height of foramen magnum (0); less than 1.5 times height of foramen magnum (1).'
+		 [52] 'Supraoccipital, foramen close to contact with parietal: absent (0); present (1).'
+		 [53] 'Crista prootica, size: rudimentary (0); expanded laterally into dorsolateral process (1).'
+		 [54] 'Basioccipital, distance from base of occipital condyle to base of basal tubera (best visible in lateral view): equal to or shorter than the posterior height of the basal tubera, so that area is gently curved in lateral view (0); longer than posterior height of basal tubera, with a flat portion between occipital condyle and basal tubera (1).'
+		 [55] 'Basipterygoid processes, shape: thin (0); massive (1).'
+		 [56] 'Basipterygoid processes: widely diverging (more than 41°) (0); including an angle between 25° and 41° (1); narrowly diverging (less than 25°) (2).'
+		 [57] 'Basipterygoid processes, orientation: directed more than 70° to skull roof (normally perpendicular) (0); angled less than 70° to skull roof (normally approximately 45°) (1).'
+		 [58] 'Basipterygoid processes, ratio of length:maximum basal diameter: < or = 2 (0); 2.01-3.99 (1); = or > 4.0 (2).'
+		 [59] 'Basipterygoid, area between the basipterygoid processes and parasphenoid rostrum: is a mildly concave subtriangular region (0); forms a deep slot-like cavity that passes posteriorly between the bases of the basipterygoid processes (1).'
+		 [60] 'Basal tubera, anteroposterior depth: approximately 33%, or more, of dorsoventral height (0); sheetlike, less than 33% (normally around 20%) dorsoventral height (1).'
+		 [61] 'Basal tubera, breadth: much broader than occipital condyle (0); narrower than occipital condyle (1).'
+		 [62] 'Basal tubera: distinct from basipterygoid (0); reduced to slight swelling on ventral surface of basipterygoid (1).'
+		 [63] 'Basal tubera, shape of posterior face: convex (0); flat (1); slightly concave (2).'
+		 [64] 'Paired basal tubera, anterior edge in ventral view: transversely straight (0); V-shaped, pointing posteriorly (1); U-shaped, pointing posteriorly (2).'
+		 [65] 'Basal tubera ventral margin in posterior view: round or V-shaped (0); forming a straight horizontal line (1).'
+		 [66] 'Basal tubera, foramen in notch that separates the two tubera: absent (0); present (1).'
+		 [67] 'Palatobasal contact, shape: pterygoid with small facet (0); dorsomedially orientated hook (1).'
+		 [68] 'Pterygoid, transverse flange (i.e. ectopterygoid process) position: between orbit and antorbital fenestra (0); anterior to antorbital fenestra (1).'
+		 [69] 'Pterygoid position relative to ectopterygoid on transverse palatal hook: lateral (0);medial (1).'
+		 [70] 'Dentary, anteroventral margin shape: gently rounded (0); sharply projecting triangular process or ''chin'' (1).'
+		 [71] 'Dentary, cross-sectional shape of symphysis: oblong or rectangular (0); subtriangular, tapering sharply towards ventral extreme (1).'
+		 [72] 'Dentary, tuberosity on labial surface near symphysis:absent (0); present (1).'
+		 [73] 'Mandible, coronoid eminence: strongly expressed, clearly rising above plane of dentigerous portion (0); absent (1).'
+		 [74] 'Splenial posterior process, position: overlapping angular (0); separating anteriorportions of prearticular and angular (1).'
+		 [75] 'Snout shape in dorsal view: rounded/pointed, premaxilla-maxilla index (PMI; Whitlock et al.2010) below 70% (0); square/blunt, PMI above 75% (1).'
+		 [76] 'Tooth rows, length: extending to nearly to or past antorbital fenestra (0); restricted to the jaw anterior of the antorbital fenestra (1); restricted anterior to subnarial foramen (2).'
+		 [77] 'Teeth, crown-to-crown occlusion: present (0); absent (1).'
+		 [78] 'Occlusal pattern: V-shaped, paired wear facets (0); 1 or 2 planar facets on crown apex (1).'
+		 [79] 'Occlusal pattern: V-shaped or single planar apical wear facet (0); paired planar facets (1).'
+		 [80] 'Tooth crowns, orientation: aligned slightly anterolingually, tooth crowns overlap (0); aligned along jaw axis, crowns do not overlap (1).'
+		 [81] 'Tooth crowns, cross-sectional shape at midcrown: D-shaped (0); cylindrical (1).'
+		 [82] 'Dentary teeth, number: greater than 17 (0); 17 or fewer (1).'
+		 [83] 'Replacement teeth per alveolus, number: three or fewer (0); four or more (1).'
+		 [84] 'Shape of tooth row in occlusal view: follows curvature of dentary (0); anterolateral corner of tooth row displaced labially (1).'
+		 [85] 'Teeth, orientation relative to long axis of jaw: perpendicular (0); inclined anteriorly (1).'
+		 [86] 'Teeth, longitudinal grooves on lingual aspect: absent (0); present (1).'
+		 [87] 'Teeth, thickness of enamel asymmetric labiolingually: absent (0); present (1).'
+		 [88] 'Teeth, marginal denticles: present (0); absent (1).'
+		 [89] 'Presacral bone texture: solid (0); spongy, with large internal cells (camellate) (1).'
+		 [90] 'Number of cervical vertebrae: 11 (0); 12 (1); 13 (2); 15 (3); 16 (4); 17 (5).'
+		 [91] 'Cervical pneumatopores (pleurocoels): absent (0); present (1).'
+		 [92] 'Cervical vertebrae, small fossa on posteroventral corner: absent (0); shallow, anteroposteriorly elongate fossa present, posteroventral to pleurocoel (1).'
+		 [93] 'Cervical vertebrae, epipophyseal-prezygapophyseal lamina (eprl): absent (0); present (1).'
+		 [94] 'Cervical vertebrae, longitudinal ridge on ventral surface: absent (0); present (1).'
+		 [95] 'Cervical vertebrae, longitudinal sulcus on ventral surface: absent (0); present (1).'
+		 [96] 'Cervical vertebra, posterior projection on cervical transverse processes: absent (0); present (1).'
+		 [97] 'Cervical vertebrae, bifurcation of neural spines in adults: absent (0); present only on posterior cervicals (1); present on middle cervicals (to C6) (2); present on anterior cervicals (anterior to C6) (3).'
+		 [98] 'Atlantal intercentrum, occipital facet shape: rectangular in lateral view, length of dorsal aspect subequal to that of ventral aspect (0); expanded anteroventrally in lateral view, anteroposterior length of dorsal aspect shorter than that of ventral aspect (1).'
+		 [99] 'Atlantal neural arch: without foramen (0); with foramen (1).'
+		 [100] 'Anterior cervical vertebrae, height/length ratio: height less than or roughly equal to 1.3 times the length of centrum (0); height greater than 1.3 (usually around 1.5) times length of centrum (1).'
+		 [101] 'Anterior cervical vertebrae, pleurocoel extending'
+		 [102] 'Anterior cervicals, paired pneumatic fossae on ventral surface: absent (0); present (1).'
+		 [103] 'Anterior and mid-cervicals, spinoprezygapophyseal lamina: continuous as a lamina (0); reduced to ridge or totally interrupted in the middle (at base of prezygapohysis) (1).'
+		 [104] 'Mid-cervical vertebrae, number of eye-shaped pleurocoels: 1 (0); 2, well separated by a central bony shelf (1).'
+		 [105] 'Mid-cervical centra, anteroposterior length/height of posterior face: 2.5-3 (0); 3.1-3.9 (1); 4-4.8 (2); 4.9 + (3).'
+		 [106] 'Mid-cervical vertebrae, angle between postzygodiapophyseal and spinopostzygapophyseal laminae: acute (0); right angle (1).'
+		 [107] 'Mid-cervical neural spines, orientation: vertical (0); anteriorly inclined (1).'
+		 [108] 'Mid-cervical neural spines: less than or approximately equal in height to neural arch (distance centrum-postzygapophysis) (0); considerably higher than neural arch (1).'
+		 [109] 'Mid- and posterior cervical vertebrae, pneumatization of lateral surface of centra: large, divided pleurocoel over approximately half of centrum (0); reduced, large fossa but sharp-bordered coel, if present, restricted to area above parapophysis (1).'
+		 [110] 'Mid- and posterior cervicals, pre-epipophysis: absent (0); present (1).'
+		 [111] 'Mid-cervical prezygapophyses anterior-most point: is always the articular facet (0); is often an anterior extension of the pre-epipophysis, which projects considerably anterior to the articular facet (1).'
+		 [112] 'Mid- and posterior cervical prezygapophyses, articular surfaces flat (0); articular surfaces strongly convex transversely (1).'
+		 [113] 'Mid- and posterior cervical centra with longitudinal flanges in the lateroventral edge on the posterior part of the centrum: absent (0); present (1).'
+		 [114] 'Mid- and posterior cervical neural arches, centroprezygapophyseal lamina (cprl), shape: single (0); divided (1).'
+		 [115] 'Mid- and posterior cervical vertebrae, pleurocoel extending onto dorsal surface of parapophysis: present (0); absent (1).'
+		 [116] 'Mid- and posterior cervical vertebrae, posterior centrodiapophyseal lamina: is single (0); bifurcates towards its anterior end (1).'
+		 [117] 'Cervical vertebrae 10 to 13, spinoprezygapophyseal lamina, anterior end: remains vertical, with the free edge facing dorsally (0); is strongly inclined laterally (sometimes roofing a lateral fossa in the prezygapophyseal process (1).'
+		 [118] 'Cervical vertebrae 10 to 13, lateral fossa at the base of the prezygapophyseal process, roofed by sprl: absent (0); present (1).'
+		 [119] 'Posterior cervical vertebrae, Elongation Index (cervical centrum length, excluding condyle, divided by posterior centrum height): less than 2.0 (0); 2.0 - 2.6 (1); higher than 2.6 (2).'
+		 [120] 'Posterior cervical vertebrae, rugose tuberosity on anterodorsal corner of lateral side: absent (0); present (1).'
+		 [121] 'Posterior cervical vertebrae, prezygapophysis articular facet posterior margin: confluent with prezygapophyseal process (0); bordered posteriorly by conspicuous transverse sulcus (1).'
+		 [122] 'Posterior cervical vertebrae, subvertical lamina extending between the ventral surface of the postzygodiapophyseal lamina and the dorsal surface of the posterior centrodiapophyseal lamina: absent (0); present (1).'
+		 [123] 'Posterior cervical vertebrae, accessory lateral lamina connecting postzygodiapophyseal and spinoprezygapophyseal laminae: absent (0); present (1).'
+		 [124] 'Posterior cervical vertebrae, spinoprezygapophyseal lamina: continuous (0); developing an anterior projection (just beneath but independent from the spine summit) (1).'
+		 [125] 'Posterior cervical neural arches, accessory spinal lamina: absent (0); present, running vertically just posterior to spinoprezygapophyseal lamina (1).'
+		 [126] 'Posterior cervical neural spines, dorsoventrally elongate coel on lateral surface: absent (0); present (1).'
+		 [127] 'Posterior cervical neural spine, horizontal, rugose ridge right below spine summit on lateral surface: absent (0); present, serves as distinct dorsal edge of the spinodiapophyseal fossa (1).'
+		 [128] 'Posterior cervical vertebrae, epipophysis: reduced to absent (0); pronounced, often reaching posterior edge of or even overhanging postzygapophysis posteriorly (1).'
+		 [129] 'Posterior cervical postzygapophyses: terminate at or beyond the posterior edge of the centrum (0); terminate in front of the posterior edge of the centrum (1).'
+		 [130] 'Posterior cervical neural and/or anteriormost dorsal neural spines, orientation: vertical (0); inclined anteriorly (1).'
+		 [131] 'Posterior cervical and anterior dorsal bifid neural spines, median tubercle: absent (0); present (1).'
+		 [132] 'Posterior cervical and anterior dorsal bifid neural spines: widely diverging (0) narrow, parallel to converging (1).'
+		 [133] 'Posterior cervical and anterior dorsal vertebrae, roughened lateral aspect of prezygodiapophyseal lamina: absent (0); present (1).'
+		 [134] 'Anterior and mid-cervical ribs, tuberculum in lateral view: is directed nearly vertically (0); is directed upwards and backwards (1).'
+		 [135] 'Cervical ribs, length: overlapping several centra posterior (0); overlapping no more than the next cervical vertebra in sequence (1); shorter than or roughly equivalent to centrum length (2).'
+		 [136] 'Cervical ribs, position relative to centrum: not projecting far beneath centrum (0); projecting well beneath centrum, such that height of vertebra exceeds length (1).'
+		 [137] 'Cervical ribs, length of posterior process: greater than length of fused diapophysis/tuberculum (0); subequal in length to fused diapophysis/tuberculum (1).'
+		 [138] 'Number of dorsal vertebrae: 13 (0); 12 (1); 11 (2); 10 (3); 9 (4).'
+		 [139] 'Dorsal pneumatopores (pleurocoels): present (0); absent (1).'
+		 [140] 'Dorsal centrum length (excluding articular ''ball''), remains approximately the same along the sequence (0); shortens from anterior to posterior dorsal vertebrae (1).'
+		 [141] 'Dorsal vertebrae, spinodiapophyseal webbing: laminae follow curvature of neural spine and diapophysis in anterior view (0); laminae ''festooned'' from spine, dorsal margin does not closely follow shape of neural spine and diapophysis (1).'
+		 [142] 'Dorsal transverse processes, orientation: horizontalor only slightly inclined dorsally (0); more than 30° inclined dorsally from the horizontal (1).'
+		 [143] 'Dorsal vertebrae, single (not bifid) neural spines, spinoprezygapophyseal laminae: separate along entire length (0); joined distally, forming single prespinal lamina (1).'
+		 [144] 'Dorsal and/or sacral neural spines (not including arch), height: less than 2 times centrum length (0); 2 to 4 times centrum length (1); more than 4 times centrum length (2).'
+		 [145] 'Dorsal vertebrae, hyposphene first appears: on D3 (0); on D4 (1); absent in all dorsal vertebrae (2).'
+		 [146] 'Anterior dorsal vertebrae, ventral keel: absent (0); present (1).'
+		 [147] 'Mid-dorsal neural spines, form: single, bifid form (if present) does not extend past the second or third dorsal (0); bifid, inclusive of at least the fifth dorsal vertebrae (1).'
+		 [148] 'Mid- and posterior dorsal vertebrae, height of neural arch below the postzygapophyses (pedicel): less than height of centrum (0); subequal to or greater than height of centrum (1).'
+		 [149] 'Mid- and posterior dorsal neural spines: without laterally flared, triangular lateral processes (0); with laterally flared, distal triangular processes (1).'
+		 [150] 'Mid- and posterior dorsal vertebrae, lateral pleurocoels present in centra: absent (0); present (1).'
+		 [151] 'Mid- and posterior dorsal vertebrae, vertically oriented rod-like struts divide thelateral pneumatic foramina: absent (0); present (1).'
+		 [152] 'Mid- and posterior dorsal vertebrae, accessory laminae in the region between the posterior centrodiapophyseal lamina (PCDL) and posterior centroparapophyseal lamina (PCPL): absent (0); present (1).'
+		 [153] 'Mid- and posterior dorsal neural arches, centropostzygapophyseal lamina (cpol), shape: single (0); divided, left and right medial cpols uniting beneath hyposphene (1).'
+		 [154] 'Mid- and posterior dorsal neural arches, posterior centroparapophyseal lamina: absent (0); present (1).'
+		 [155] 'Mid- and posterior dorsal neural arches: height above postzygapophyses (neural spine) equal to height below (pedicel) (0); neural spine much taller than pedicel (1).'
+		 [156] 'Mid- and posterior dorsal neural arches, prezygoparapophyseal lamina (prpl): present (0); absent (1).'
+		 [157] 'Mid- and posterior dorsal neural spines, midline cleft along the dorsal surface:absent (0); present (1).'
+		 [158] 'Posterior dorsal neural arches: spinopostzygapophyseal lamina (spol) single (0); spol divided near postzygapophyses (1).'
+		 [159] 'Posterior dorsal centra, articular face shape: amphicoelous (0); opisthocoelous (1).'
+		 [160] 'Caudal neural spines, elliptical depression between spinodiapophyseal lamina and postspinal lamina on lateral neural spine: absent (0); present (1).'
+		 [161] 'Caudal neural spines with triangular lateral processes: absent (0); present (1)'
+		 [162] 'First caudal centrum, articular face shape: flat (0); procoelous (1).'
+		 [163] 'Anterior caudal vertebrae, transverse processes: ventral surface directed laterally or slightly ventrally (0); directed dorsally (1).'
+		 [164] 'Anterior caudal neural spine (not including arch), height: less than 1.5 times centrum height (0); 1.5 times centrum height or more (1).'
+		 [165] 'Posterior dorsal, sacral and anterior caudal neural spines, shape in anterior/posterior view: rectangular through most of length (0); ''petal'' shaped, expanding transversely through 75% of its length and then tapering (1)'
+		 [166] 'Anterior caudal neural spines, transverse breadth: approximately 50% of anteroposterior length (0); greater than 50% anteroposterior length (transverse width equals or exceeds the anteroposterior length) (1).'
+		 [167] 'Anterior caudal neural arches, prespinal lamina: absent (0); present (1).'
+		 [168] 'Anterior caudal neural arches, postspinal lamina: absent (0); present (1).'
+		 [169] 'Anterior caudal neural spines, prespinal and postspinal laminae: terminate at or beneath dorsal margin of neural spine (0); project dorsally above neural spine (1).'
+		 [170] 'Anterior caudal centra (excluding the first), articular face shape: amphiplatyan (0); procoelous (1).'
+		 [171] 'Anterior caudal centra, ventral surface: without irregularly placed foramina (0); irregular foramina present on some anterior caudals (1).'
+		 [172] 'Anterior caudal centra, pneumatopores (pleurocoels): absent (0); present (1).'
+		 [173] 'Anterior caudal centra, pneumatopores: absent or restricted to foramina (0); large coels present (1).'
+		 [174] 'Anterior caudal centra, length: subequal amongst first 20 (0); doubling over first 20 (1).'
+		 [175] 'Anterior caudal vertebrae, anterior face shape: cylindrical (0); quadrangular (1).'
+		 [176] 'Anterior caudal neural arches; hyposphenal ridge on posterior face of neural arch; present (0); absent (1).'
+		 [177] 'Anterior caudal neural spines, expanded boss-like area on anterior margin of spinoprezygapophyseal laminae (SPRL): absent (0); present (1).'
+		 [178] 'Anterior caudal neural spines, spinoprezygapophyseal laminae (sprl)-spol contact: absent (0); present (1).'
+		 [179] 'Anterior caudal neural spines, SPRL: absent, or present as small short ridges that rapidly fade out into the anterolateral margin of the spine (0); present, extending onto lateral aspect of neural spine (1).'
+		 [180] 'Anterior caudal neural spines, shape: single (0); slightly bifurcate anteriorly (1).'
+		 [181] 'Anterior caudal neural spines, lateral expansion at distal extremity: absent (0); present, distolateral margins flared slightly over last third without tapering (1).'
+		 [182] 'Anterior caudal transverse processes, shape: triangular, tapering distally (0); wing-like (1).'
+		 [183] 'Anterior caudal transverse processes, diapophyseal laminae (acdl, pcdl, prdl, podl): absent (0); all present, well defined (1).'
+		 [184] 'Anterior caudal vertebrae, concavo-convex zygapophyseal articulation: absent (0); present (1).'
+		 [185] 'Anterior and mid-caudal centra, ventral longitudinal hollow: absent (0); present (1).'
+		 [186] 'Anterior and mid-caudal neural spines, shape: rectangular in anterior/posterior view (0); with distinct distal swelling in anterior/posterior view (1).'
+		 [187] 'Mid-caudal vertebrae, ratio of centrum length to height: less than 2:1 (0); greater than or equal to 2:1 (1).'
+		 [188] 'Mid-caudal vertebrae, lateral surface of centra: without longitudinal ridge at mid-height (0); longitudinal ridge present, centra hexagonal in anterior/posterior view (1).'
+		 [189] 'Mid-caudal centra, articular surface shape: cylindrical or quadrangular (0); subtriangular, with transversely wide ventral margin (1).'
+		 [190] 'Mid-caudal neural spines, orientation: posterodorsally inclined (0); vertical (1).'
+		 [191] 'Distal-most caudal centra, articular face shape: platycoelous (0); biconvex (1).'
+		 [192] 'Distalmost caudal centra, length-to-height ratio: less than 5.0 (0); greaterthan 5.0 (1).'
+		 [193] 'Distal-most biconvex caudal centra, number: ten or fewer (0); more than 30 (1).'
+		 [194] 'Chevrons, ''crus'' bridging haemal canal: present in all (0); present in proximal ones but absent in middle and posterior chevrons (1); absent on all (2).'
+		 [195] 'Scapular acromion process, dorsal part of posterior margin: convex or straight (0); U-shaped concavity (1).'
+		 [196] 'Scapular acromion length: 1/3 or less the scapular length (0); 1/3 to 1/2 scapular length (1); greater than 1/2 scapular length (2).'
+		 [197] 'Scapular blade, shape: acromial edge straight, without rounded expansion (0); rounded expansionon acromial side (1); racquet-shaped (2).'
+		 [198] 'Scapula: without semi-ovate, flat muscle scar just distal to glenoid on scapular shaft (0); scar present (1).'
+		 [199] 'Scapular glenoid, orientation: relatively flat or laterally facing (0); strongly bevelled medially (1).'
+		 [200] 'Sternal plates, shape: ovate (0); crescentic (1).'
+		 [201] 'Forelimb: hindlimb length ratio: 0.75 or higher (0); less than 0.75 (1)'
+		 [202] 'Humerus, midshaft cross-section, shape: circular, transverse diameter:anteroposterior diameter ratio is 1.5 or lower (usually close to 1.3) (0); elliptical, transverse diameter: anteroposterior diameter ratio is greater than 1.5 (usually close to 1.8) (1).'
+		 [203] 'Humerus, pronounced proximolateral corner: absent (0); present (1).'
+		 [204] 'Humerus, proximal end expanded laterally in anterior/proximal view: not expanded (0); expanded, lateral margin concave in anterior/posterior view (1).'
+		 [205] 'Ulna, proximal condylar processes: subequal in length (0); anterior arm longer (1).'
+		 [206] 'Carpus, number of carpal bones: more than two (0); two or fewer (1).'
+		 [207] 'Metacarpus, ratio of longest metacarpal to radius: less than 0.45 (0); equal .to or greater than 0.45 (1).'
+		 [208] 'Metacarpal I, length: shorter than IV (0); longer than IV (1).'
+		 [209] 'Iliac preacetabular process, shape: sharply pointed (0); blunt to semicircular anterior margin (1).'
+		 [210] 'Pubis, ambiens process development: small, confluent with anterior margin of pubis (0); prominent, projecting anteriorly (1).'
+		 [211] 'Pubis, length of puboischial contact: less than 0.45 total length of pubis (0); 0.45 or more of total length of pubis (1).'
+		 [212] 'Ischium, acetabular articular surface: maintains approximately the same transverse width throughout its length (0); is transversely narrower in its central portion and strongly expanded as it approaches the iliac and pubic articulations (1).'
+		 [213] 'Ischial distal shaft, shape: blade-like, medial and lateral depths subequal (0); triangular, depth of ischial shaft increases medially (1).'
+		 [214] 'Ischial distal shafts, cross-sectional shape: V-shaped, forming an angle of nearly 50° with each other (0); flat, nearly coplanar (1).'
+		 [215] 'Ischium, iliac peduncle: iliac peduncle straight or widening in smooth curve distally (0); narrow,with distinct ''neck'' (1).'
+		 [216] 'Ischium, elongate muscle scar on proximal end: absent (0); present (1).'
+		 [217] 'Ischial shaft, transverse distal expansion: absent (0); present (1).'
+		 [218] 'Ischium, posterodorsal expansion of distal end: absent (0); present (1).'
+		 [219] 'Ischium, lateral fossa at base of shaft: absent (0); present (1).'
+		 [220] 'Femur, fourth trochanter: prominent, visible in anterior view (0); not visible in anterior view (1).'
+		 [221] 'Femoral fourth trochanter, present as low rounded ridge (0); greatly reduced so that it is virtually absent (1).'
+		 [222] 'Femur, greatest anteroposterior thickness of shaft: less than or approximately equal to half the anteroposterior depth of the distal articular condyles (0); much greater than half the anteroposterior depth of the distal articular condyles (1).'
+		 [223] 'Femur, shape of distal condyles: articular surface restricted to distal portion of femur (0); expanded onto anterior portion of femoral shaft (1).'
+		 [224] 'Femur, pronounced ridge on posterior surface between greater trochanter and head: absent (0); present (1).'
+		 [225] 'Femur, large nutrient foramen opening midshaft anteriorly on femur: absent (0), present (1).'
+		 [226] 'Fibula, insertion of the M. iliofibularis: located approximately at mid-shaft (0); proximal, located above midshaft (1).'
+		 [227] 'Astragalus, shape: rectangular (0); wedge-shaped, with reduced anteromedial corner (1).'
+		 [228] 'Astragalus, ascending process length: limited to anterior two-thirds of astragalus anteroposterior width (0); extends beyond two-thirds of astragalus anteroposterior width (normally to posterior margin of astragalus) (1).'
+		 [229] 'Astragalus, fibular facet: faces laterally (0); faces posterolaterally, anterior margin visible in posterior view (1).'
+		 [230] 'Metatarsal I distal condyle, posterolateral projection: absent (0); present (1).'
+		 [231] 'Metatarsal I, transverse axis of proximal and distal condyles: at an angle to the axis of the shaft (0); perpendicular to the axis of the shaft (1).'
+		 [232] 'Metatarsals I-III, rugosities on dorsolateral margins near distal ends: absent (0); present (1).'
+		 [233] 'Pes, phalanx I-1: proximal and ventral surfaces meet at approximately 90° (0); proximoventral corner drawn out into thin plate underlying metatarsal I (1).'
+		 [234] 'Pes, phalanx II-2: well developed and subrectangular in dorsal view (0); reduced,with an irregular D-shaped outline and proximal and distal articular surfaces that meet virtually along the dorsal and plantar margins (1).'
+	;
+
+	STATELABELS
+		1
+		'State 0'
+		'State 1'
+		,
+		2
+		'State 0'
+		'State 1'
+		,
+		3
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		4
+		'State 0'
+		'State 1'
+		,
+		5
+		'State 0'
+		'State 1'
+		,
+		6
+		'State 0'
+		'State 1'
+		,
+		7
+		'State 0'
+		'State 1'
+		,
+		8
+		'State 0'
+		'State 1'
+		,
+		9
+		'State 0'
+		'State 1'
+		,
+		10
+		'State 0'
+		'State 1'
+		,
+		11
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		12
+		'State 0'
+		'State 1'
+		,
+		13
+		'State 0'
+		'State 1'
+		,
+		14
+		'State 0'
+		'State 1'
+		,
+		15
+		'State 0'
+		'State 1'
+		,
+		16
+		'State 0'
+		'State 1'
+		,
+		17
+		'State 0'
+		'State 1'
+		,
+		18
+		'State 0'
+		'State 1'
+		,
+		19
+		'State 0'
+		'State 1'
+		,
+		20
+		'State 0'
+		'State 1'
+		,
+		21
+		'State 0'
+		'State 1'
+		,
+		22
+		'State 0'
+		'State 1'
+		,
+		23
+		'State 0'
+		'State 1'
+		,
+		24
+		'State 0'
+		'State 1'
+		,
+		25
+		'State 0'
+		'State 1'
+		,
+		26
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		27
+		'State 0'
+		'State 1'
+		,
+		28
+		'State 0'
+		'State 1'
+		,
+		29
+		'State 0'
+		'State 1'
+		,
+		30
+		'State 0'
+		'State 1'
+		,
+		31
+		'State 0'
+		'State 1'
+		,
+		32
+		'State 0'
+		'State 1'
+		,
+		33
+		'State 0'
+		'State 1'
+		,
+		34
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		35
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		36
+		'State 0'
+		'State 1'
+		,
+		37
+		'State 0'
+		'State 1'
+		,
+		38
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		39
+		'State 0'
+		'State 1'
+		,
+		40
+		'State 0'
+		'State 1'
+		,
+		41
+		'State 0'
+		'State 1'
+		,
+		42
+		'State 0'
+		'State 1'
+		,
+		43
+		'State 0'
+		'State 1'
+		,
+		44
+		'State 0'
+		'State 1'
+		,
+		45
+		'State 0'
+		'State 1'
+		,
+		46
+		'State 0'
+		'State 1'
+		,
+		47
+		'State 0'
+		'State 1'
+		,
+		48
+		'State 0'
+		'State 1'
+		,
+		49
+		'State 0'
+		'State 1'
+		,
+		50
+		'State 0'
+		'State 1'
+		,
+		51
+		'State 0'
+		'State 1'
+		,
+		52
+		'State 0'
+		'State 1'
+		,
+		53
+		'State 0'
+		'State 1'
+		,
+		54
+		'State 0'
+		'State 1'
+		,
+		55
+		'State 0'
+		'State 1'
+		,
+		56
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		57
+		'State 0'
+		'State 1'
+		,
+		58
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		59
+		'State 0'
+		'State 1'
+		,
+		60
+		'State 0'
+		'State 1'
+		,
+		61
+		'State 0'
+		'State 1'
+		,
+		62
+		'State 0'
+		'State 1'
+		,
+		63
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		64
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		65
+		'State 0'
+		'State 1'
+		,
+		66
+		'State 0'
+		'State 1'
+		,
+		67
+		'State 0'
+		'State 1'
+		,
+		68
+		'State 0'
+		'State 1'
+		,
+		69
+		'State 0'
+		'State 1'
+		,
+		70
+		'State 0'
+		'State 1'
+		,
+		71
+		'State 0'
+		'State 1'
+		,
+		72
+		'State 0'
+		'State 1'
+		,
+		73
+		'State 0'
+		'State 1'
+		,
+		74
+		'State 0'
+		'State 1'
+		,
+		75
+		'State 0'
+		'State 1'
+		,
+		76
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		77
+		'State 0'
+		'State 1'
+		,
+		78
+		'State 0'
+		'State 1'
+		,
+		79
+		'State 0'
+		'State 1'
+		,
+		80
+		'State 0'
+		'State 1'
+		,
+		81
+		'State 0'
+		'State 1'
+		,
+		82
+		'State 1'
+		,
+		83
+		'State 0'
+		'State 1'
+		,
+		84
+		'State 0'
+		'State 1'
+		,
+		85
+		'State 0'
+		'State 1'
+		,
+		86
+		'State 0'
+		'State 1'
+		,
+		87
+		'State 0'
+		'State 1'
+		,
+		88
+		'State 0'
+		'State 1'
+		,
+		89
+		'State 0'
+		,
+		90
+		'State 0'
+		'State 1'
+		'State 3'
+		'State 4'
+		'State 5'
+		,
+		91
+		'State 1'
+		,
+		92
+		'State 0'
+		'State 1'
+		,
+		93
+		'State 0'
+		,
+		94
+		'State 0'
+		'State 1'
+		,
+		95
+		'State 0'
+		'State 1'
+		,
+		96
+		'State 0'
+		'State 1'
+		,
+		97
+		'State 0'
+		'State 1'
+		'State 2'
+		'State 3'
+		,
+		98
+		'State 0'
+		'State 1'
+		,
+		99
+		'State 0'
+		'State 1'
+		,
+		100
+		'State 0'
+		'State 1'
+		,
+		101
+		'State 0'
+		'State 1'
+		,
+		102
+		'State 0'
+		'State 1'
+		,
+		103
+		'State 0'
+		'State 1'
+		,
+		104
+		'State 0'
+		'State 1'
+		,
+		105
+		'State 0'
+		'State 1'
+		'State 2'
+		'State 3'
+		,
+		106
+		'State 0'
+		'State 1'
+		,
+		107
+		'State 0'
+		'State 1'
+		,
+		108
+		'State 0'
+		'State 1'
+		,
+		109
+		'State 0'
+		'State 1'
+		,
+		110
+		'State 0'
+		'State 1'
+		,
+		111
+		'State 0'
+		'State 1'
+		,
+		112
+		'State 0'
+		'State 1'
+		,
+		113
+		'State 0'
+		'State 1'
+		,
+		114
+		'State 0'
+		'State 1'
+		,
+		115
+		'State 0'
+		'State 1'
+		,
+		116
+		'State 0'
+		'State 1'
+		,
+		117
+		'State 0'
+		'State 1'
+		,
+		118
+		'State 0'
+		'State 1'
+		,
+		119
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		120
+		'State 0'
+		'State 1'
+		,
+		121
+		'State 0'
+		'State 1'
+		,
+		122
+		'State 0'
+		'State 1'
+		,
+		123
+		'State 0'
+		'State 1'
+		,
+		124
+		'State 0'
+		'State 1'
+		,
+		125
+		'State 0'
+		'State 1'
+		,
+		126
+		'State 0'
+		'State 1'
+		,
+		127
+		'State 0'
+		'State 1'
+		,
+		128
+		'State 0'
+		'State 1'
+		,
+		129
+		'State 0'
+		'State 1'
+		,
+		130
+		'State 0'
+		'State 1'
+		,
+		131
+		'State 0'
+		'State 1'
+		,
+		132
+		'State 0'
+		'State 1'
+		,
+		133
+		'State 0'
+		'State 1'
+		,
+		134
+		'State 0'
+		'State 1'
+		,
+		135
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		136
+		'State 0'
+		'State 1'
+		,
+		137
+		'State 0'
+		'State 1'
+		,
+		138
+		'State 1'
+		'State 3'
+		'State 4'
+		,
+		139
+		'State 0'
+		'State 1'
+		,
+		140
+		'State 0'
+		'State 1'
+		,
+		141
+		'State 0'
+		'State 1'
+		,
+		142
+		'State 0'
+		'State 1'
+		,
+		143
+		'State 0'
+		'State 1'
+		,
+		144
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		145
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		146
+		'State 0'
+		'State 1'
+		,
+		147
+		'State 0'
+		'State 1'
+		,
+		148
+		'State 0'
+		'State 1'
+		,
+		149
+		'State 0'
+		'State 1'
+		,
+		150
+		'State 0'
+		'State 1'
+		,
+		151
+		'State 0'
+		'State 1'
+		,
+		152
+		'State 0'
+		'State 1'
+		,
+		153
+		'State 0'
+		'State 1'
+		,
+		154
+		'State 0'
+		'State 1'
+		,
+		155
+		'State 0'
+		'State 1'
+		,
+		156
+		'State 0'
+		'State 1'
+		,
+		157
+		'State 0'
+		'State 1'
+		,
+		158
+		'State 0'
+		'State 1'
+		,
+		159
+		'State 0'
+		'State 1'
+		,
+		160
+		'State 0'
+		,
+		161
+		'State 0'
+		,
+		162
+		'State 0'
+		'State 1'
+		,
+		163
+		'State 0'
+		'State 1'
+		,
+		164
+		'State 0'
+		'State 1'
+		,
+		165
+		'State 0'
+		'State 1'
+		,
+		166
+		'State 0'
+		'State 1'
+		,
+		167
+		'State 0'
+		'State 1'
+		,
+		168
+		'State 0'
+		'State 1'
+		,
+		169
+		'State 0'
+		'State 1'
+		,
+		170
+		'State 0'
+		'State 1'
+		,
+		171
+		'State 0'
+		'State 1'
+		,
+		172
+		'State 0'
+		'State 1'
+		,
+		173
+		'State 0'
+		'State 1'
+		,
+		174
+		'State 0'
+		'State 1'
+		,
+		175
+		'State 0'
+		'State 1'
+		,
+		176
+		'State 0'
+		'State 1'
+		,
+		177
+		'State 0'
+		,
+		178
+		'State 0'
+		'State 1'
+		,
+		179
+		'State 0'
+		'State 1'
+		,
+		180
+		'State 0'
+		'State 1'
+		,
+		181
+		'State 0'
+		'State 1'
+		,
+		182
+		'State 0'
+		'State 1'
+		,
+		183
+		'State 0'
+		'State 1'
+		,
+		184
+		'State 0'
+		'State 1'
+		,
+		185
+		'State 0'
+		'State 1'
+		,
+		186
+		'State 0'
+		'State 1'
+		,
+		187
+		'State 0'
+		'State 1'
+		,
+		188
+		'State 0'
+		'State 1'
+		,
+		189
+		'State 0'
+		'State 1'
+		,
+		190
+		'State 0'
+		'State 1'
+		,
+		191
+		'State 0'
+		'State 1'
+		,
+		192
+		'State 0'
+		'State 1'
+		,
+		193
+		'State 0'
+		'State 1'
+		,
+		194
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		195
+		'State 0'
+		'State 1'
+		,
+		196
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		197
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		198
+		'State 0'
+		'State 1'
+		,
+		199
+		'State 0'
+		'State 1'
+		,
+		200
+		'State 0'
+		'State 1'
+		,
+		201
+		'State 0'
+		'State 1'
+		,
+		202
+		'State 0'
+		'State 1'
+		,
+		203
+		'State 0'
+		'State 1'
+		,
+		204
+		'State 0'
+		'State 1'
+		,
+		205
+		'State 0'
+		'State 1'
+		,
+		206
+		'State 0'
+		'State 1'
+		,
+		207
+		'State 0'
+		'State 1'
+		,
+		208
+		'State 0'
+		,
+		209
+		'State 0'
+		,
+		210
+		'State 0'
+		'State 1'
+		,
+		211
+		'State 0'
+		'State 1'
+		,
+		212
+		'State 0'
+		'State 1'
+		,
+		213
+		'State 0'
+		'State 1'
+		,
+		214
+		'State 0'
+		'State 1'
+		,
+		215
+		'State 0'
+		'State 1'
+		,
+		216
+		'State 0'
+		,
+		217
+		'State 0'
+		'State 1'
+		,
+		218
+		'State 0'
+		,
+		219
+		'State 0'
+		'State 1'
+		,
+		220
+		'State 0'
+		'State 1'
+		,
+		221
+		'State 0'
+		'State 1'
+		,
+		222
+		'State 0'
+		'State 1'
+		,
+		223
+		'State 0'
+		'State 1'
+		,
+		224
+		'State 0'
+		,
+		225
+		'State 0'
+		'State 1'
+		,
+		226
+		'State 0'
+		'State 1'
+		,
+		227
+		'State 0'
+		'State 1'
+		,
+		228
+		'State 0'
+		'State 1'
+		,
+		229
+		'State 0'
+		'State 1'
+		,
+		230
+		'State 0'
+		'State 1'
+		,
+		231
+		'State 0'
+		'State 1'
+		,
+		232
+		'State 0'
+		'State 1'
+		,
+		233
+		'State 0'
+		'State 1'
+		,
+		234
+		'State 0'
+		'State 1'
+		
+	;
+
+	MATRIX
+	'Omeisaurus'		                             1000000000000000000001?0000100000?00?000000?0?00000?????010???0????000000?00000001??0000051001000??01??020000??0?000?02??00?00?000???000010000000?000100?00000000000000000?00000??000000?00000???0010?00?1000000000000000?01000?0000010000
+	'Camarasaurus'		                           10100000000000100010000100110010000100000111000000000010000000010010010001000000010000010110001010001001100000000000010000000010100000000100000000101100000010100000001100000000??000000010000000201100000001110001001000?0000000011000000
+	'Limaysaurus tessonei'		                   ?????????????1?00001110000101??1??21?200011?0001001?000?120111?0???1????????011?1????1110?10010?0??000?100000??0?010?????01?000000??002???0?11?120010100001001000011111100000001?110010000101011?2122101?1111?00?00101100?0111000?1?1010??
+	'Amphicoelias'		                           ????????????????????????????????????????????????????????????????????????????????1?????????????????????????????????????????????????????????0?0011???001000110000?????1??????????????????????????????????????????????????????10100??????????
+	'Dicraeosaurus hansemanni'		               0121111??10??1?00100001002??0????1?????1111010001101101212101002?01??111??1101011111??010110010131011100011110000000010??00000000111002001100112001100?0111110000111111111100000?010110000110011?101000??0111???010010001011010010111100??
+	'Amargasaurus'		                           ?????????????1?00110000000?00??????????111101010110110121210100?00??????????????????????0010010131?111?10111100??00???0??00000000001002??3100112?01000?0?111?0000?1?11???01??00??01?010?0?110?????0100???1110???0??????????1010??0111?????
+	'Suuwassea emilieae'		                     ?12111???????????0??0?01?0??0?????100?11110010000101?0?????0102101???111???????111?110010?1001102100010110100100100011?0000???????1111200?010??1?1???????????????????????1110?0?????????0?010?00?101000??011?????????????????????0???101??
+	'Apatosaurus'		                            002111111111110110100001?11101?11010011010000000000?0100110000110101?1001?121111111010010310011131101101000001000100100000000010001011211300001100100110011010000101011101010000011111100011001111000010?001010001001000100101000111110111
+	'Supersaurus vivianae'		                   ????????????????????????????????????????????????????????????????????????????????????????0?10011?3????1?03???0???01?0??????0?????1?1?0?100?0?0??1?1100111111000100?0001110101000??11011100?1??0???0010?0?????????0100100010???????1????????
+	'Dinheirosaurus lourinhanensis'		          ????????????????????????????????????????????????????????????????????????????????????????0?1001100??????1????00?01?00??1??100010010???11???0001?1?100011111101?0?????0?????01??????????????????????????????????????????????????????????????
+	'Tornieria africana'		                     002111?????????01?00010??1??????????????1110???0000001??1?0?101211?????????????111??1??10?11001?????????30000?????10?????????????????1?????????????????????????00?00011101111?0001111110101000????01000010011???0??010001?01011001111?01??
+	'Diplodocus'		                             00211111112111011010000100110111111001101101001000000101120000211001110010121101111010010311001031001011200001011100002000011111011011200301001111111100111011000001011101011110011111111010001111010000?0011?0001001000100101101111110111
+	'Barosaurus lentus'		                      ????????????????????????????????????????????????????????????????????????????????????????041101112??01?1120000101110111100001111111101120?4010011101001000110100001010111011111000111111110100111?1010000??01??0001?0100010010??001???1??1?
+	'Kaatedocus siberi'		                      0021111??10111001?0?010111??0???1210101011011100010100011100001010???100??01?????1?01?????10011121001011100001111100111111010101011111100?????????????????????????????????????????????????????????????????????????????????????????????????
+	;
+ENDBLOCK;
+
+BEGIN NOTES;
+
+	[Character comments]
+	TEXT CHARACTER=1 TEXT='Ma1, Upchurch 1995, 1998 (modified); Wilson & Sereno 1998';
+	TEXT CHARACTER=2 TEXT='Wilson 2002; Sereno et al. 2007';
+	TEXT CHARACTER=3 TEXT='Whitlock 2011, wording modified';
+	TEXT CHARACTER=4 TEXT='Upchurch 1999';
+	TEXT CHARACTER=5 TEXT='Upchurch 1998';
+	TEXT CHARACTER=6 TEXT='Upchurch 1995; Wilson & Sereno 1998; wording modified';
+	TEXT CHARACTER=7 TEXT='Wilson 2002';
+	TEXT CHARACTER=8 TEXT='Whitlock 2011, wording modified';
+	TEXT CHARACTER=9 TEXT='Upchurch 1995';
+	TEXT CHARACTER=11 TEXT='Whitlock 2011, modified';
+	TEXT CHARACTER=12 TEXT='Wilson 2002; Whitlock (2011) defined a modified quantitative state boundary';
+	TEXT CHARACTER=13 TEXT='Whitlock 2011';
+	TEXT CHARACTER=14 TEXT='McIntosh 1990a; Upchurch 1995; modified by Whitlock (2011)';
+	TEXT CHARACTER=15 TEXT='Upchurch 1995; state definitions modified by Wilson & Sereno (1998)';
+	TEXT CHARACTER=16 TEXT='Wilson 2002';
+	TEXT CHARACTER=17 TEXT='Wilson 2002';
+	TEXT CHARACTER=18 TEXT='Salgado & Calvo 1992; Upchurch 1995';
+	TEXT CHARACTER=19 TEXT='Whitlock 2011, modified';
+	TEXT CHARACTER=20 TEXT='Whitlock 2011';
+	TEXT CHARACTER=21 TEXT='Whitlock 2011';
+	TEXT CHARACTER=22 TEXT='Whitlock 2011, modified by Mannion et al. (2011)';
+	TEXT CHARACTER=23 TEXT='check for plesiomorphic';
+	TEXT CHARACTER=24 TEXT='Wilson & Sereno 1998';
+	TEXT CHARACTER=27 TEXT='Whitlock 2011, modified from Gauthier 1986; Upchurch 1995';
+	TEXT CHARACTER=28 TEXT='Wilson & Sereno 1998';
+	TEXT CHARACTER=29 TEXT='Wilson 2002';
+	TEXT CHARACTER=30 TEXT='modified from Berman & McIntosh 1978 and Upchurch 1995; Whitlock (2011) added quantitative state boundary definition';
+	TEXT CHARACTER=31 TEXT='Upchurch 1995';
+	TEXT CHARACTER=32 TEXT='Whitlock 2011';
+	TEXT CHARACTER=33 TEXT='Gauthier 1986; Upchurch 1995';
+	TEXT CHARACTER=35 TEXT='Whitlock 2011';
+	TEXT CHARACTER=36 TEXT='Upchurch 1998';
+	TEXT CHARACTER=38 TEXT='Whitlock 2011';
+	TEXT CHARACTER=39 TEXT='Upchurch 1995';
+	TEXT CHARACTER=40 TEXT='Whitlock 2011';
+	TEXT CHARACTER=41 TEXT='Wilson 2002';
+	TEXT CHARACTER=42 TEXT='Wilson 2002, modified by Mannion et al. (2011)';
+	TEXT CHARACTER=45 TEXT='Upchurch 1995';
+	TEXT CHARACTER=47 TEXT='modified from Upchurch 1995';
+	TEXT CHARACTER=48 TEXT='Wilson 2002, modified by Mannion et al. (2011)';
+	TEXT CHARACTER=49 TEXT='Wilson 2002, modified by Mannion et al. (2011)';
+	TEXT CHARACTER=50 TEXT='Whitlock 2011';
+	TEXT CHARACTER=51 TEXT='Wilson 2002, modified by Mannion et al. (2011)';
+	TEXT CHARACTER=53 TEXT='Salgado & Calvo 1992; Upchurch 1995';
+	TEXT CHARACTER=55 TEXT='Upchurch 1995, modified';
+	TEXT CHARACTER=56 TEXT='Upchurch 1995, 1998, modified';
+	TEXT CHARACTER=57 TEXT='McIntosh 1990a, modified by Mannion et al. (2011)';
+	TEXT CHARACTER=58 TEXT='Harris 2006c';
+	TEXT CHARACTER=59 TEXT='Upchurch 1995, 1998';
+	TEXT CHARACTER=60 TEXT='Wilson 2002, modified by Mannion et al. (2011)';
+	TEXT CHARACTER=61 TEXT='Wilson 2002';
+	TEXT CHARACTER=62 TEXT='Whitlock 2011';
+	TEXT CHARACTER=63 TEXT='Whitlock 2011, modified';
+	TEXT CHARACTER=67 TEXT='Wilson & Sereno 1998; Wilson 2002';
+	TEXT CHARACTER=68 TEXT='Upchurch 1995';
+	TEXT CHARACTER=69 TEXT='Wilson 2002';
+	TEXT CHARACTER=70 TEXT='Upchurch 1998';
+	TEXT CHARACTER=71 TEXT='Whitlock 2011';
+	TEXT CHARACTER=72 TEXT='Whitlock 2011';
+	TEXT CHARACTER=73 TEXT='Whitlock 2011';
+	TEXT CHARACTER=74 TEXT='Wilson 2002';
+	TEXT CHARACTER=75 TEXT='Upchurch 1998, modified by Whitlock 2011';
+	TEXT CHARACTER=76 TEXT='Upchurch 1995';
+	TEXT CHARACTER=77 TEXT='Wilson & Sereno 1998; polarity reversed by Whitlock 2011';
+	TEXT CHARACTER=78 TEXT='Wilson & Sereno 1998, modified by Mannion et al. (2011)';
+	TEXT CHARACTER=79 TEXT='Wilson & Sereno 1998, modified by Mannion et al. (2011)';
+	TEXT CHARACTER=80 TEXT='Wilson & Sereno 1998; polarity reversed by Whitlock 2011';
+	TEXT CHARACTER=81 TEXT='Wilson & Sereno 1998';
+	TEXT CHARACTER=82 TEXT='Wilson & Sereno 1998';
+	TEXT CHARACTER=83 TEXT='Wilson 2002';
+	TEXT CHARACTER=84 TEXT='Whitlock & Harris 2010';
+	TEXT CHARACTER=85 TEXT='Upchurch 1998';
+	TEXT CHARACTER=86 TEXT='Wilson 2002';
+	TEXT CHARACTER=87 TEXT='Whitlock 2011';
+	TEXT CHARACTER=88 TEXT='McIntosh 1990a';
+	TEXT CHARACTER=89 TEXT='Upchurch 1998; Wilson & Sereno 1998';
+	TEXT CHARACTER=90 TEXT='McIntosh 1990a';
+	TEXT CHARACTER=91 TEXT='McIntosh 1990a; Upchurch 1995';
+	TEXT CHARACTER=92 TEXT='Whitlock 2011';
+	TEXT CHARACTER=93 TEXT='Sereno et al. 2007; Wilson & Upchurch 2009';
+	TEXT CHARACTER=94 TEXT='Upchurch 1995';
+	TEXT CHARACTER=95 TEXT='Upchurch 1995, 1998';
+	TEXT CHARACTER=97 TEXT='Harris 2006, modified';
+	TEXT CHARACTER=98 TEXT='Wilson 2002';
+	TEXT CHARACTER=99 TEXT='Whitlock 2011';
+	TEXT CHARACTER=100 TEXT='Wilson 2002, modified by Mannion et al. (2011)';
+	TEXT CHARACTER=101 TEXT='Upchurch 1998, modified by Whitlock 2011';
+	TEXT CHARACTER=102 TEXT='Whitlock 2011';
+	TEXT CHARACTER=104 TEXT='Upchurch 1995, 1998; Wilson 2002, modified';
+	TEXT CHARACTER=105 TEXT='Upchurch 1994, 1995, modified';
+	TEXT CHARACTER=106 TEXT='Rauhut et al. 2005';
+	TEXT CHARACTER=107 TEXT='Rauhut et al. 2005';
+	TEXT CHARACTER=108 TEXT='Rauhut et al. 2005, modified by Whitlock 2011';
+	TEXT CHARACTER=109 TEXT='Whitlock 2011, modified';
+	TEXT CHARACTER=110 TEXT='Wilson & Upchurch 2009';
+	TEXT CHARACTER=111 TEXT='Sereno et al. 1999; Remes 2007; modified';
+	TEXT CHARACTER=112 TEXT='Upchurch 1995, 1998';
+	TEXT CHARACTER=114 TEXT='Upchurch 1995';
+	TEXT CHARACTER=115 TEXT='Upchurch 1998, modified by Whitlock 2011';
+	TEXT CHARACTER=116 TEXT='Upchurch et al. 2004b, modified';
+	TEXT CHARACTER=119 TEXT='Mannion et al. (in review), modified';
+	TEXT CHARACTER=122 TEXT='Mannion et al. 2011';
+	TEXT CHARACTER=123 TEXT='Gallina & Apesteguía 2005';
+	TEXT CHARACTER=125 TEXT='Whitlock 2011';
+	TEXT CHARACTER=126 TEXT='Mannion etal. 2011';
+	TEXT CHARACTER=129 TEXT='Upchurch et al. 2004b, modified';
+	TEXT CHARACTER=130 TEXT='Rauhut et al. 2005';
+	TEXT CHARACTER=131 TEXT='McIntosh 1990a; Upchurch 1995';
+	TEXT CHARACTER=132 TEXT='Rauhut et al. 2005';
+	TEXT CHARACTER=133 TEXT='Whitlock 2011';
+	TEXT CHARACTER=134 TEXT='Upchurch et al. 2004b, modified';
+	TEXT CHARACTER=135 TEXT='Whitlock 2011, modified';
+	TEXT CHARACTER=136 TEXT='Wilson 2002';
+	TEXT CHARACTER=137 TEXT='Whitlock 2011';
+	TEXT CHARACTER=138 TEXT='McIntosh 1990a; Upchurch 1998; Wilson & Sereno 1998';
+	TEXT CHARACTER=139 TEXT='Gauthier 1986; McIntosh 1990a; Upchurch 1995';
+	TEXT CHARACTER=140 TEXT='Mannion et al. 2011';
+	TEXT CHARACTER=141 TEXT='Sereno et al. 2007';
+	TEXT CHARACTER=142 TEXT='Calvo & Salgado 1995; Upchurch 1998';
+	TEXT CHARACTER=143 TEXT='Upchurch 1995, modified by Whitlock 2011';
+	TEXT CHARACTER=144 TEXT='Mannion et al. 2011, modified';
+	TEXT CHARACTER=145 TEXT='Upchurch et al. 2004b, modified';
+	TEXT CHARACTER=146 TEXT='Mannion et al. 2011';
+	TEXT CHARACTER=147 TEXT='Whitlock 2011';
+	TEXT CHARACTER=148 TEXT='Gallina & Apesteguía 2005, modified by Whitlock 2011';
+	TEXT CHARACTER=149 TEXT='Upchurch 1995, 1998';
+	TEXT CHARACTER=150 TEXT='Gauthier 1986; McIntosh 1990a; Upchurch 1995, modified by Whitlock 2011';
+	TEXT CHARACTER=151 TEXT='Mannion et al. 2011';
+	TEXT CHARACTER=152 TEXT='Mannion et al. 2011';
+	TEXT CHARACTER=153 TEXT='Wilson 2002';
+	TEXT CHARACTER=154 TEXT='Upchurch 1998';
+	TEXT CHARACTER=155 TEXT='Whitlock 2011';
+	TEXT CHARACTER=156 TEXT='Wilson 2002';
+	TEXT CHARACTER=157 TEXT='Mannion et al. 2011';
+	TEXT CHARACTER=158 TEXT='Wilson 2002';
+	TEXT CHARACTER=159 TEXT='Wilson & Sereno 1998';
+	TEXT CHARACTER=160 TEXT='Sereno et al. 2007';
+	TEXT CHARACTER=161 TEXT='Sereno et al. 2007';
+	TEXT CHARACTER=162 TEXT='Wilson 2002, modified by Mannion et al. 2011';
+	TEXT CHARACTER=163 TEXT='Whitlock 2011';
+	TEXT CHARACTER=164 TEXT='Upchurch & Mannion 2009';
+	TEXT CHARACTER=165 TEXT='Calvo & Salgado 1995; Upchurch 1998';
+	TEXT CHARACTER=166 TEXT='Upchurch 1998, modified by Mannion et al. 2011';
+	TEXT CHARACTER=167 TEXT='Upchurch 1995';
+	TEXT CHARACTER=168 TEXT='Upchurch 1995';
+	TEXT CHARACTER=169 TEXT='Whitlock 2011';
+	TEXT CHARACTER=170 TEXT='McIntosh 1990a; Upchurch 1995';
+	TEXT CHARACTER=171 TEXT='Whitlock 2011';
+	TEXT CHARACTER=172 TEXT='McIntosh 1990a, Upchurch 1995, modified';
+	TEXT CHARACTER=174 TEXT='Upchurch 1998';
+	TEXT CHARACTER=175 TEXT='Wilson 2002';
+	TEXT CHARACTER=176 TEXT='Mannion et al. 2011';
+	TEXT CHARACTER=177 TEXT='Mannion et al. 2011';
+	TEXT CHARACTER=178 TEXT='Wilson 2002';
+	TEXT CHARACTER=179 TEXT='Wilson 2002, modified by Mannion et al. 2011';
+	TEXT CHARACTER=180 TEXT='Whitlock 2011';
+	TEXT CHARACTER=181 TEXT='Whitlock 2011';
+	TEXT CHARACTER=182 TEXT='McIntosh 1990a, Upchurch 1995';
+	TEXT CHARACTER=183 TEXT='Wilson 2002';
+	TEXT CHARACTER=184 TEXT='Wilson 2002; Whitlock 2011';
+	TEXT CHARACTER=185 TEXT='McIntosh 1990a, Upchurch 1995';
+	TEXT CHARACTER=186 TEXT='Whitlock 2011';
+	TEXT CHARACTER=187 TEXT='Upchurch & Martin 2003';
+	TEXT CHARACTER=188 TEXT='Upchurch & Martin 2002';
+	TEXT CHARACTER=189 TEXT='Wilson 2002; Gallina & Apesteguía 2005';
+	TEXT CHARACTER=190 TEXT='McIntosh 1990b; Salgado et al. 1997';
+	TEXT CHARACTER=191 TEXT='Wilson et al. 1999';
+	TEXT CHARACTER=192 TEXT='Upchurch 1998, modified by Mannion et al. 2011';
+	TEXT CHARACTER=193 TEXT='Wilson 2002';
+	TEXT CHARACTER=194 TEXT='Whitlock 2011';
+	TEXT CHARACTER=195 TEXT='Wilson 2002, modified by Whitlock 2011';
+	TEXT CHARACTER=196 TEXT='Gallina & Apesteguía 2005, modified';
+	TEXT CHARACTER=197 TEXT='Wilson 2002';
+	TEXT CHARACTER=198 TEXT='Whitlock 2011';
+	TEXT CHARACTER=199 TEXT='Wilson & Sereno 1998';
+	TEXT CHARACTER=200 TEXT='Calvo & Salgado 1995';
+	TEXT CHARACTER=201 TEXT='Upchurch 1995, 1998';
+	TEXT CHARACTER=202 TEXT='Wilson 2002, modified by Mannion et al. 2011';
+	TEXT CHARACTER=203 TEXT='Upchurch 1998';
+	TEXT CHARACTER=204 TEXT='Curry Rogers 2005';
+	TEXT CHARACTER=205 TEXT='Wilson 2002';
+	TEXT CHARACTER=206 TEXT='McIntosh 1990a, Upchurch 1998';
+	TEXT CHARACTER=207 TEXT='Wilson & Sereno 1998, modified by Mannion et al. 2011';
+	TEXT CHARACTER=208 TEXT='Wilson & Sereno 1998, Wilson 2002';
+	TEXT CHARACTER=209 TEXT='Salgado et al. 1997';
+	TEXT CHARACTER=210 TEXT='McIntosh 1990a, Upcchurch 1998';
+	TEXT CHARACTER=211 TEXT='Salgado et al. 1997, modified by Mannion et al. 2011';
+	TEXT CHARACTER=212 TEXT='Mannion et al. 2011';
+	TEXT CHARACTER=213 TEXT='Wilson 2002';
+	TEXT CHARACTER=214 TEXT='Upchurch 1998; Wilson & Sereno 1998';
+	TEXT CHARACTER=215 TEXT='Sereno et al. 2007';
+	TEXT CHARACTER=216 TEXT='Sereno et al. 2007';
+	TEXT CHARACTER=217 TEXT='Whitlock 2011';
+	TEXT CHARACTER=218 TEXT='Lovelace et al. 2007';
+	TEXT CHARACTER=219 TEXT='Wilson 2002';
+	TEXT CHARACTER=220 TEXT='Gallina & Apesteguía 2005, modified by Whitlock 2011';
+	TEXT CHARACTER=221 TEXT='Mannion et al. 2011';
+	TEXT CHARACTER=222 TEXT='Whitlock 2011';
+	TEXT CHARACTER=223 TEXT='Wilson & Carrano 1999; Wilson 2002';
+	TEXT CHARACTER=224 TEXT='Sereno et al. 2007';
+	TEXT CHARACTER=225 TEXT='Wilson 2002';
+	TEXT CHARACTER=226 TEXT='Whitlock 2011';
+	TEXT CHARACTER=227 TEXT='Upchurch 1995, 1998';
+	TEXT CHARACTER=228 TEXT='Wilson & Sereno 1998, Wilson 2002, modified by Mannion et al. 2011';
+	TEXT CHARACTER=229 TEXT='Whitlock 2011';
+	TEXT CHARACTER=230 TEXT='Berman & McIntosh 1978';
+	TEXT CHARACTER=231 TEXT='Wilson 2002';
+	TEXT CHARACTER=232 TEXT='Upchurch 1995';
+	TEXT CHARACTER=233 TEXT='McIntosh et al. 1992';
+	TEXT CHARACTER=234 TEXT='McIntosh et al. 1992';
+
+	[Attribute comments]
+	TEXT TAXON=5 CHARACTER=58 TEXT='6.9';
+	TEXT TAXON=14 CHARACTER=90 TEXT='3, 4 or 5';
+	TEXT TAXON=5 CHARACTER=97 TEXT='starts on c3';
+	TEXT TAXON=13 CHARACTER=97 TEXT='starts in c9';
+	TEXT TAXON=14 CHARACTER=97 TEXT='starts in C8';
+	TEXT TAXON=1 CHARACTER=105 TEXT='2 or 3?';
+	TEXT TAXON=11 CHARACTER=105 TEXT='5.4';
+	TEXT TAXON=7 CHARACTER=120 TEXT='present in mid-cervicals';
+	TEXT TAXON=14 CHARACTER=121 TEXT='starting at least in Cv7';
+	TEXT TAXON=11 CHARACTER=162 TEXT='no first caudal preserved';
+	TEXT TAXON=11 CHARACTER=165 TEXT='neither rectangular nor petal shaped, usually...';
+	TEXT TAXON=11 CHARACTER=170 TEXT='dd475, 117, 746, 349, 350, MB.R. 2957 procoelous, dd474 amphicoelous (not amphiplatyan!)';
+	TEXT TAXON=7 CHARACTER=194 TEXT='0 or 1';
+	TEXT TAXON=11 CHARACTER=202 TEXT='2672: 1.46; 2673: 1.15';
+	TEXT TAXON=11 CHARACTER=205 TEXT='21/24.8';
+ENDBLOCK;
+BEGIN ASSUMPTIONS;
+TYPESET * UNTITLED = unord: 1 - 234;
+ENDBLOCK;
+BEGIN MESQUITE;
+MESQUITESCRIPTVERSION 2 ; TITLE AUTO ; tell ProjectCoordinator ; timeSaved 1348224522146 ; getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa ; tell It ; setID 0 5692732062048093697 ; tell It ; setDefaultOrder 1 2 3 12 4 13 34 44 33 46 40 43 45 0 ; attachments ; endTell ; endTell ; getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters ; tell It ; setID 0 2475700153732991113 ; tell It ; setDefaultOrder 49 50 51 52 53 54 55 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 296 72 222 224 73 74 75 76 77 78 79 300 80 81 301 83 84 85 86 87 244 229 88 295 90 91 92 93 94 232 95 221 96 201 97 98 202 99 100 101 102 297 298 233 103 104 199 106 108 109 110 200 112 113 114 115 203 116 117 118 119 225 120 121 122 123 124 204 125 40 126 127 128 39 47 132 133 135 136 137 182 130 138 139 140 141 129 134 36 206 33 142 143 230 41 29 205 223 293 207 144 145 146 208 227 226 228 147 148 149 150 11 254 255 256 48 151 209 152 153 155 166 18 210 156 157 158 159 211 212 160 161 162 163 213 164 167 170 171 172 173 174 175 176 177 178 179 180 181 214 231 183 184 215 249 185 186 187 188 189 190 191 192 196 193 194 250 195 197 198 253 257 258 251 259 260 261 262 216 263 264 265 266 269 267 268 270 271 272 217 273 274 275 276 277 299 278 280 218 281 282 283 284 285 286 287 288 289 290 219 291 220 ; attachments ; endTell ; mqVersion 274 ; checksumv 0 2 490369133 null getNumChars 234 numChars 234 getNumTaxa 14 numTaxa 14 short true bits 63 states 63 sumSquaresStatesOnly 7363.0 sumSquares 7363.0 NumFiles 1 NumMatrices 1 ; mqVersion ; endTell ; getWindow ; tell It ; suppress ; setResourcesState false false 32 ; setPopoutState 400 ; setExplanationSize 0 ; setAnnotationSize 0 ; setFontIncAnnot 0 ; setFontIncExp 0 ; setSize 1680 932 ; setLocation -8 0 ; setFont SanSerif ; setFontSize 10 ; getToolPalette ; tell It ; endTell ; desuppress ; endTell ; getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa ; tell It ; showTaxa #5692732062048093697 #mesquite.lists.TaxonList.TaxonList ; tell It ; setTaxa #5692732062048093697 ; getWindow ; tell It ; newAssistant #mesquite.lists.DefaultTaxaOrder.DefaultTaxaOrder ; newAssistant #mesquite.lists.TaxonListCurrPartition.TaxonListCurrPartition ; getTable ; tell It ; rowNamesWidth 204 ; endTell ; setExplanationSize 30 ; setAnnotationSize 20 ; setFontIncAnnot 0 ; setFontIncExp 0 ; setSize 1648 865 ; setLocation -8 0 ; setFont SanSerif ; setFontSize 10 ; getToolPalette ; tell It ; setTool mesquite.lists.TaxonList.TaxonListWindow.ibeam ; endTell ; endTell ; showWindow ; getEmployee #mesquite.lists.ColorTaxon.ColorTaxon ; tell It ; setColor Red ; removeColor off ; endTell ; getEmployee #mesquite.lists.TaxonListAnnotPanel.TaxonListAnnotPanel ; tell It ; togglePanel off ; endTell ; endTell ; endTell ; getEmployee #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord ; tell It ; showDataWindow #2475700153732991113 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker ; tell It ; getWindow ; tell It ; setExplanationSize 70 ; setAnnotationSize 20 ; setFontIncAnnot 0 ; setFontIncExp 0 ; setSize 1648 825 ; setLocation -8 0 ; setFont SanSerif ; setFontSize 10 ; getToolPalette ; tell It ; setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam ; endTell ; setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam ; colorCells #mesquite.charMatrices.ColorCells.ColorCells ; tell It ; setColor Dark Gray ; removeColor on ; endTell ; colorRowNames #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor ; colorColumnNames #mesquite.charMatrices.CharGroupColor.CharGroupColor ; colorText #mesquite.charMatrices.NoColor.NoColor ; setBackground White ; toggleShowNames on ; toggleShowTaxonNames on ; toggleTight off ; toggleThinRows off ; toggleShowChanges on ; toggleSeparateLines off ; toggleShowStates on ; toggleAutoWCharNames on ; toggleAutoTaxonNames off ; toggleShowDefaultCharNames off ; toggleConstrainCW on ; toggleBirdsEye off ; toggleShowPaleGrid off ; toggleShowPaleCellColors off ; togglePaleInapplicable on ; toggleShowBoldCellText off ; toggleAllowAutosize on ; toggleColorsPanel off ; toggleDiagonal on ; setDiagonalHeight 80 ; toggleLinkedScrolling on ; toggleScrollLinkedTables off ; endTell ; showWindow ; getWindow ; tell It ; forceAutosize ; endTell ; getEmployee #mesquite.charMatrices.ColorByState.ColorByState ; tell It ; setStateLimit 9 ; toggleUniformMaximum on ; endTell ; getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip ; tell It ; showStrip off ; endTell ; getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel ; tell It ; togglePanel off ; endTell ; getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip ; tell It ; showStrip off ; endTell ; getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector ; tell It ; autotabOff ; endTell ; getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip ; tell It ; showStrip off ; endTell ; getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor ; tell It ; panelOpen true ; endTell ; endTell ; endTell ; getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters ; tell It ; showCharacters #2475700153732991113 #mesquite.lists.CharacterList.CharacterList ; tell It ; setData 0 ; getWindow ; tell It ; newAssistant #mesquite.lists.DefaultCharOrder.DefaultCharOrder ; newAssistant #mesquite.lists.CharListInclusion.CharListInclusion ; newAssistant #mesquite.lists.CharListPartition.CharListPartition ; newAssistant #mesquite.stochchar.CharListProbModels.CharListProbModels ; getTable ; tell It ; rowNamesWidth 1457 ; endTell ; setExplanationSize 70 ; setAnnotationSize 40 ; setFontIncAnnot 0 ; setFontIncExp 0 ; setSize 1648 805 ; setLocation -8 0 ; setFont SanSerif ; setFontSize 10 ; getToolPalette ; tell It ; setTool mesquite.lists.CharacterList.CharacterListWindow.ibeam ; endTell ; setActive ; endTell ; showWindow ; getEmployee #mesquite.lists.CharListAnnotPanel.CharListAnnotPanel ; tell It ; togglePanel off ; endTell ; endTell ; endTell ; endTell ;
+ENDBLOCK;
+BEGIN MESQUITECHARMODELS;
+ProbModelSet * UNTITLED = Mk1 (est.) : 1 - 234 ;
+ENDBLOCK;

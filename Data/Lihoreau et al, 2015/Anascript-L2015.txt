@@ -1,0 +1,24 @@
+log start f Ana-L2015.txt
+import tnt L2015.tnt
+characters properties set
+<3 4>
+<165 26>
+<51 52>
+<166 53>
+<167 64>
+<168 67>
+<169 68>
+<170 83>
+<88 89>
+<171 105>
+<172 107 112>
+<110 !1 111>
+<173 116>
+<126 127>
+<174 130>
+<175 159>
+<176 150 151 152 153 154 155 156 157 158>;
+trees search mult * 50 h10
+trees select best
+trees show write a e tnt T r f Anatrees-L2015.txt
+script execute stop

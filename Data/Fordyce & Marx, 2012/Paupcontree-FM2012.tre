@@ -1,0 +1,38 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Wed May 13 16:24:17 2020]
+[!
+>Consensus of 6 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 174 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        7 characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 167
+>    Gaps are treated as "missing"
+>    Multistate taxa interpreted as uncertainty
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 75
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 10
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>  'Maxtrees' setting = 5000 (will not be increased)
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 854442
+>  Score of best tree(s) found = 430
+>  Number of trees retained = 6
+>  Time used = 0.48 sec (CPU time = 0.47 sec)
+]
+	tree Strict = [&U] (Zygorhiza_kochii,Physeter_catodon,(Aetiocetus_cotylalveus,((((((Balaena_mysticetus,Balaenula_astensis),Eubalaena_spp.),Balaenella_brachyrhynus),Morenocetus_parvus),((((((Balaenoptera_bonaerensis,Megaptera_novaeangliae),Plesiobalaenoptera_quarantellii),Eschrichtius_robustus,Megaptera_miocaena),Pelocetus_calvertensis),Diorocetus_hiatus),((((Caperea_marginata,(Herpetocetus_bramblei,Herpetocetus_transatlanticus,Nannocetus_eremus)),Piscobalaena_nana),Metopocetus_durinasus),Cetotherium_rathkii))),Eomysticetus_whitmorei)));
+end;

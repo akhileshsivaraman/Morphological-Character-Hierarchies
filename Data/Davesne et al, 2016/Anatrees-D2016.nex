@@ -1,0 +1,39 @@
+#NEXUS
+[written Tue May 19 14:43:37 BST 2020 by Mesquite  version 3.40 (build 877) at Akhileshs-MacBook-Air.local/127.0.0.1]
+BEGIN TREES[!trees_from_anagallis];
+	Title Imported_trees;
+	ID 01722d2cda9613;
+	LINK Taxa = Taxa;
+	TRANSLATE
+[0] 		1 Synodus,
+[1] 		2 Gymnoscopelus,
+[2] 		3 Ctenothrissa,
+[3] 		4 Pycnosteroides,
+[4] 		5 Aipichthys,
+[5] 		6 Aipichthyoides,
+[6] 		7 Omosomopsis,
+[7] 		8 Sphenocephalus,
+[8] 		9 Stichocentrus,
+[9] 		10 Velifer,
+[10] 		11 Lampris,
+[11] 		12 Regalecus,
+[12] 		13 Stylephorus,
+[13] 		14 Polymixia,
+[14] 		15 Aphredoderus,
+[15] 		16 Percopsis,
+[16] 		17 Bregmaceros,
+[17] 		18 Merluccius,
+[18] 		19 Halobatrachus,
+[19] 		20 Brotula,
+[20] 		21 Cyttus,
+[21] 		22 Zeus,
+[22] 		23 Hoplostethus,
+[23] 		24 Sargocentron,
+[24] 		25 Dicentrarchus,
+[25] 		26 Lates;
+	TREE Imported_tree_1 = ((((13,(22,21)),(18,17)),(15,16)),(8,(7,(14,(4,(((3,(2,1)),(5,(6,(10,(12,11))))),((23,9),(24,(25,(26,(19,20)))))))))));
+
+END;
+
+
+

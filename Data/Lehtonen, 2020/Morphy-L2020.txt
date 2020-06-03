@@ -1,0 +1,14 @@
+branchswap=tbr
+open
+Lehtonen2020.nex
+branchswap=tbr
+addseq=random
+gap=inapp
+hold=10
+ratchet=yes
+nreps=50
+heur
+nreps=75
+heur
+save
+Morphytrees-L2020.tre

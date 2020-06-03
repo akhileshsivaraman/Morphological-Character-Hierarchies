@@ -1,0 +1,38 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Mon May 25 18:41:16 2020]
+[!
+>Consensus of 2 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 176 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        1 character is parsimony-uninformative
+>        Number of parsimony-informative characters = 175
+>    Gaps are treated as "missing"
+>    Multistate taxa interpreted as uncertainty
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 100
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 50
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 76947517
+>  Score of best tree(s) found = 991
+>  Number of trees retained = 2
+>  Time used = 51.69 sec (CPU time = 42.36 sec)
+]
+	tree Strict = [&U] (Dichobune_leporina,((((((Cebochoerus_campichii,((Palaeochoerus,Perchoerus),Kenyasus)),(Siamotherium_krabiense,((Anthracokeryx_tenuis,((Anthracokeryx_thailandicus,Microbunodon_minimum),((Bothriogenys_orientalis,(Lokone,(Morotochoerus_ugandanensis,(Kenyapotamus_coryndonae,(Archaeopotamus_harvardi,Hexaprotodon_garyam))))),(((((Bothriogenys_fraasi,(Bothriogenys_andrewsi,(Brachyodus_aequatorialis,Brachyodus_onoideus,Brachyodus_depereti))),Bothriogenys_gorringei),(Bothriodon_velaunus,Aepinacodon)),(Elomeryx_crispus,Elomeryx_borbonicus)),(Afromeryx_zelteni,(Sivameryx_paleindicus,(Merycopotamus_nanus,(Merycopotamus_dissimilis,(Libycosaurus_anisae,Libycosaurus_bahri))))))))),((H_occidentalis,(Anthracotherium_chaimanei,Anthracotherium_magnum)),Myaingtherium_kenyapotamoides)))),((Cebochoerus_depereti,(((((((Amphimeryx_murinus,(Lophiomeryx_chalanati,Archeomeryx)),Paroxacron_valdense),Xiphodon_castrense),Diplobune_minor),Dacrytherium_ovinum),Merycoidon),Mixtotherium)),(Gobiohyus,(Amphiragha,Hallebune)))),(Khirtaria,Indohyus)),Entelodon),(Gujaratia,B_lysitensis)),Homacodon);
+end;

@@ -1,0 +1,170 @@
+
+[ File output by Morphobank v3.0 (http://www.morphobank.org); 2020-05-11 11.53.14 ]
+
+Phenotypic characters (numbered in Nexus format)
+
+Array characters
+  1. number of lower incisors [[1 in Lihoreau and Ducrocq 2007]] three (0); two (1); one (2).
+  2. lower incisor morphology [[3 in Lihoreau and Ducrocq 2007]] not caniniform (0); at least one caniniform lower incisor (1).
+  3. relative dimensions of lower incisors [[modified from 4 in Lihoreau and Ducrocq 2007]] all of equal size (0); one or two more developped (1).
+  4. most developped incisor [[]] I/2 (0); I/3 (1); I/1 (2).
+  5. transverse section of lower incisors crowns [[3 in Orliac et al. 2010 8 in Boisserie et al. 2010]] strongly irregular (0); about rounded (1).
+  6. lower incisor cervix morphology [[4 in Orliac et al. 2010]] no deep indentation (0); indented cervix, indentation as long as the root diameter on the cervix (1); deep identation longer than the root diameter at cervix (2).
+  7. crown of lower I1 [[]] straight (0); spatulate (with convex mesial and distal border) (1).
+  8. presence of a median lingual pillar (lingual rib) on lower i1 [[]] yes (0); no (1).
+  9. Lower canine cross setcion at cervix [[]] subcircular (0); elliptical (1).
+  10. cristids on lower canine enamel caps [[]] none (0); one distal (1); two, one mesial and one distal (2); one mesial (3).
+  11. wear on lower canine [[5 in Lihoreau and Ducrocq 2007]] distal wear facet contact with canine (0); mesial wear facet contact with I3 (1).
+  12. groove on labial side of lower canine [[car 14 in Boisserie et al. 2010]] no (0); yes (1).
+  13. groove on lingual side of lower canine [[]] no (0); yes (1).
+  14. lower canine in male [[]] fang-like (0); premolariform (1); incisiform (2).
+  15. crown of lower canine in male [[7 in Lihoreau and Ducrocq 2007]] small near premolar size (0); at least twice the premolar size (1); prolonged growth to ever-growing (2).
+  16. p/1 roots [[13 in Lihoreau and Ducrocq 2007]] one (0); two (1).
+  17. paraconid on lower premolars [[]] no (0); yes (1).
+  18. elongated p/3 [[]] no (shorter or equal than M/1 lenght) (0); yes (longer than M/1 lenght) (1).
+  19. three lobed P/3 [[]] no (0); yes (1).
+  20. accessory cusp on the preprotocristid of lower premolars [[9 in Lihoreau and Ducrocq 2007]] none (0); one or more (1).
+  21. lingual contour at cervix of  P/4 in occlusal view [[modified from Orliac 2010, car 52]] convex to straight (0); concave (1).
+  22. labial wall on P/3 or P/4 [[]] convex (0); concave (1).
+  23. Orientation of postprotocristid on P/3 [[]] distal (0); distolingual (1); distolabial (2).
+  24. high cingulid on labial face of P/3 [[]] no (0); yes (1).
+  25. preprotocristid mesiolingualy curved on P/3 [[]] no (0); yes (1).
+  26. mesial accessory cusp on preprotocristid on P/3 [[]] no (0); Shoulder like structure on lateral view of preprotocristid of lower premolars (1); complete accessory cusp (2).
+  27. Change in the orientation of the preprotocristid mesialy to the junction of accessory mesiolingual crest on lower premolars [[]] no (0); yes (1).
+  28. Orientation of the endoprotocristid on P/4 [[]] absent (0); separated from postprotocristid at the protoconid apex and then strait and distolingual (1); fused with postprotocristid in part and then curved mesiolingually (2).
+  29. entoconid on P/3 [[51 in orliac et al. 2010]] never (0); at least on some specimen (1).
+  30. P/3 hypoconid [[]] no (0); yes (1).
+  31. distolingual cingulid on P/4 in lingual view [[]] forming a continuous wall lingually until the distostylid (0); reaching the level of the distal basin and keeping be shallow until the distostylid (1); reaching the level of distal basin and then being high when joigning the distostylid (distolingual notch of cingulid) (2).
+  32. presence of a preentocristid on P/3 and/or on P/4 [[]] no (0); yes (1).
+  33. mesiolingual secondary cristid  on P/4 (cristid connecting lingual margin and preprotocristid) [[]] no (0); yes (1).
+  34. labial cingulid form a V (indentated) on P/4 before to reach the distal cingulid [[]] no (0); yes (1).
+  35. marked postprotofossid on P/4 [[59 in Boisserie et al. 2010]] absent (0); present (1).
+  36. postectoprotocristid on P/4 [[]] no (0); yes (1).
+  37. hypoconid on P/4 [[]] no (0); yes (even incipient) (1).
+  38. ectoprotofossid on p/4 [[54 in Orliac et al. 2010]] absent (0); frequent (1).
+  39. premetacristid on lower molars [[69 Boisserie et al. 2010]] strong (0); reduced or missing (1).
+  40. paraconid on lower molars, almost on unworn specimens [[]] yes (0); no (1).
+  41. lower molar trigonid [[]] equal in height with talonid (0); higher than talonid (1).
+  42. connection between premetacristid and preprotocristid on lower molars [[]] yes (0); no (1).
+  43. postectoprotocristid  on lower molars [[modified from 67 in Boisserie et al. 2010]] absent (0); reduced in the valley to fully developped at least on M/1 (1).
+  44. postprotofossid on lower molars at least on m/3 [[]] no (0); yes (1).
+  45. postmetacristid on M1-2 [[72 in boisserie et al. 2010]] curving toward postprotocristid forming a transverse bridge with it (0); orientated toward the centre of the tooth (1); forming a rounded postmetaconulid not preferentiallyorientated (2); joins prehypocristid (3).
+  46. ectoprotofossid on lower molars [[66 in Boisserie et al. 2010]] absent (0); present (1).
+  47. Ectometafossid  on lower molars [[]] yes (0); no (1).
+  48. endometacristid  on lower molars [[]] no or slightly expressed much more like an enamel fold (0); present (1).
+  49. postectometacristid on lower molars [[71 in Boisserie et al. 2010]] lightly marked to absent (0); always present and well marked (1).
+  50. premetafossid on lower molars [[70 in Orliac et al. 2010]] present (0); absent (1).
+  51. preentocristid [[]] absent (0); present (1).
+  52. preentocristid connects [[]] endohypocristid (0); prehypocristid  toward the cuspid apex (1); prehypocristid toward its mesial extremity (2).
+  53. postectoentocristid  on lower molars [[modified from 77 in Boisserie et al. 2010]] absent (0); present but more like a keel on cusp (1); present and well individualized from the cusp (2).
+  54. ectoentocristid [[]] present (0); absent (1).
+  55. postentocristid  on lower molars [[modified from 78 in Boisserie et al. 2010]] absent (0); present (1).
+  56. prehypocristid dividing in two mesial  arms on lower molars [[]] yes (0); no (1).
+  57. prehypocristid inflated (not sallient when unworn) ) in transverse valley  of lower molars [[]] no (0); yes (even to form a conulid) (1).
+  58. prehypocristid reaches [[]] median part of transverse valley (eventually labial) (0); lingual part of transverse valley (1); labial part of the transverse valley (2).
+  59. main arm of prehypocristid connects [[]] trigonid distal walls (junction between cristids from metaconid and protoconid) (0); postmetafossid (1); lingual margin of transverse valley (2); postmetacristid (3).
+  60. posthypocristid joins [[]] nothing or distostyle (0); postentocristid (1); postectoentocristid (2).
+  61. endohypocristid on lower molars [[75 in Orliac et al. 2010]] absent (0); present (1).
+  62. posthypofossid on lower molars [[77 in Orliac et al. 2010]] absent (0); present (1).
+  63. entostylid  on lower molars that could sometimes be linked to an entocristylid [[seulement sur M/3 de A chaimanee]] never (0); frequently present (1).
+  64. ectostylid  on lower molars [[]] no cingulid (0); a shallow and constant cingulid in front of the transverse valley (1); frequently developped cingulid in a /some stylid at least on m1 (2).
+  65. ectocrystilid  on lower molars [[]] no (0); yes even if variable (1).
+  66. cingulid surrounding m/3 hypoconulid [[79 in Boisserie et al. 2010]] no specimen exhibiting such extension (0); occasionally bordering the labial wall (1).
+  67. ectohypocristulid on M/3 [[80 in Boisserie et al. 2010]] absent (0); not complete (1); present joigning the summit of hypoconulid (2).
+  68. distostylid  on M/1-M/2 [[]] median (0); lingual (1); none (2).
+  69. mesial part of Loop-like hypoconulid [[29 in Lihoreau and Ducrocq]] open (0); pinched (1).
+  70. entoconulid [[]] no (0); yes (1).
+  71. Number of upper incisors [[]] 3 (0); 2 (1).
+  72. central upper incisor [[]] morphologically similar to I2/I3 (0); peg-like, morphologically different from others (1); caniniform (2).
+  73. I3/ reduced in size compared to I1/ [[]] no (0); yes (1).
+  74. upper canine morphology [[6 in Lihoreau and ducrocq 2007]] strong with circular or elliptic cross section (0); strong and laterally compressed  (blade-like) (1); premolariform (2).
+  75. canine size root [[]] equivalent to slightly longer than the crown (0); at least twice the size of the crown (1); prolonged to continous growth of root (2); prolonged and continuous growth of crown (3).
+  76. dimorphic upper canine [[]] no (0); yes (1).
+  77. diastem C-P1/ [[]] yes (0); no (1).
+  78. diastem P1/-P2/ [[]] no (0); yes (1).
+  79. number of upper premolar [[10 modified from Lihoreau and Ducrocq 2007]] 4 (0); 5 (1); 3 (2).
+  80. distolabial crests of upper premolars [[11 from Lihoreau and Ducrocq 2007]] simple (0); with a maximum of two accessory cusps (1); with more than two accessory cusps at least on one premolar (2).
+  81. number of mesial crests on P1-3 [[14 from Lihoreau and Ducrocq]] one (0); two (1).
+  82. disto-lingual basin in P2 [[12? in Orliac et al. 2010]] yes (0); no (1).
+  83. accessory cusp on disto-lingual cingulum of P3/ [[16 in Lihoreau and Ducrocq 2007]] none (0); one cingular style (1); protocone (surrounded by a cingulum) (2).
+  84. Metacone on P3/ [[]] no (0); yes (1).
+  85. P3 root pattern [[X in Orliac 2010]] one mesial root, two distal root not fused (0); one mesial root and fused distal ones (1).
+  86. P4 paracone [[a réecrire form Orliac et al. in prep 22]] simple with crest (0); complex with fossa (1); very complex with more fossae (2).
+  87. orientation of preparacrista on P4/ [[20 in Orliac et al. 2010]] mesial (0); labial (1).
+  88. postprotocrista on P4/ [[]] absent (0); present (1).
+  89. Postprotocrista on P4/ joins [[]] base of paracone (0); distostyle (1); metastyle (2).
+  90. preprotocrista on P4/ joins¤ [[]] mesiostyle (0); base of the paracone then mesiostyle (1); parastyle (2).
+  91. postectoprotocrista on P4/ [[]] absent (0); present (1).
+  92. P4 protocone [[from orliac in prep 23]] rounded (0); crescentic (1).
+  93. in lingual view protocone of P4/ is [[]] displaced mesially (0); median (1).
+  94. P4/ mesial margin [[]] concave (0); convexe (1).
+  95. strong development of distostyle on P4/ [[]] no (0); yes (1).
+  96. mesial accessory cusp on P4/ that can be linked to mesiostyle [[]] no (0); yes (1).
+  97. P4 metacone [[X in Orliac et al. 2010]] absence (0); presence (1).
+  98. P4 paracone higher than the protocone [[Orliac 2012 32]] slightly higher than protocone (0); much higher than protocone (1).
+  99. P4 endoparacrista [[Orliac et Ducrocq 2012 31]] absence (0); presence (1).
+  100. distal accessory cusp on postprotocrista of P4/ that can be linked to distostyle [[]] no (0); yes (1).
+  101. height of lingual cingulum compared to unworn protocone height  on upper molars [[]] one third (0); half (1); no cingulum (2).
+  102. mesio-distal ribs development of labial cusps of upper molars [[]] almost half the molar lenght (0); pinched (inferior to one third  of molar lenght) (1); enlarged (superior to half the molar lenght) (2).
+  103. postectoprotocrista [[]] absent (0); présent (1).
+  104. postprotocrista [[]] present (0); absent (1).
+  105. Protocone and metaconule junction on upper molars [[]] none (0); premetaconule-postectoprotocrista (1); premetaconule-postprotocrista (2); postprotocrista and lingual part of metaconule (3).
+  106. Premetacristule divided in two mesial arms [[]] no (0); yes (1).
+  107. ectometacristule on upper molars [[Modified from 48 in Boisserie et al. 2010]] absent (0); present at least on M1 (1); not frequent and only on M2 or M3 (2).
+  108. postmetafossule [[]] absent (0); present (1).
+  109. secondary cristule labial to metaconule eventually an endometacristule or enamel knob [[]] no (0); yes (1).
+  110. Distostyle on upper molar [[]] yes (0); no (1).
+  111. distostyle position on upper molars levels [[]] metaconule (0); metacone (1).
+  112. secondary ectometafossule lingual to ectometacristule [[modified from 47 in Boisserie et al. 2010]] absent or very light (0); present mesially at least on M1 linked to ectometacristule (1).
+  113. paraconule on upper molars [[]] present (0); absent (1).
+  114. M2/ paraconule when present [[]] similar in size with protocone (0); smaller than protocone (1).
+  115. postparacristule extend to connect [[]] none (0); base of the paracone (1); transverse valley (2).
+  116. preparacrista connects the parastyle [[]] no, separated by a groove (0); yes lingually (1); yes labially (2).
+  117. endoparacrista on upper molars [[21 in Orliac 2012]] absence (0); presence (1).
+  118. ectoparafossa on upper molars [[36 in orliac in prep]] no (0); yes (1).
+  119. Ectocristyle [[]] frequently present (0); absent (1).
+  120. premetacrista and postparacrista connect [[]] no connection or via an intercaled ectocristyle (0); yes (can form a centrocrista, a V-shaped mesostyle or a loop-like mesostyle) (1).
+  121. endometacrista and endometacristule forming a transverse crest [[]] absence (0); presence (1).
+  122. parastyle development [[]] enamel knob (0); smaller or equal than mesostyle (1); larger than mesostyle (2).
+  123. premetacristule invade labial part of the transverse valley [[]] no (0); yes (1).
+  124. position of metaconule on upper molar [[27 in orliac 2012]] labial side of the protocone (0); distal side of the protocone (1).
+  125. M2/ metaconule [[]] similar in size with protocone (0); smaller than protocone (1).
+  126. mesostyle on upper molars [[31 in orliac in prep]] no (0); yes (1).
+  127. mesostyle [[]] enamel knob (0); half to the size of labial cusp (1); larger than labial cusp (2).
+  128. metastyle [[]] reduced to enamel knob or absent (0); fully developped (1).
+  129. root fusion on upper molars [[]] four roots with occasional fusion close to cervix the apices always remaining free (0); fully fused lingual roots (1); three roots (2).
+  130. lingual cingulum on upper molars [[34 in orliac in prep]] no (0); yes (1); developped in entostyle (2).
+  131. hypocone on upper molars (at least M2/ [[]] yes (0); no (1).
+  132. shape of M1/ [[]] triangular (0); quadrate (1).
+  133. shape of M3/ [[]] triangular (0); quadrate (1).
+  134. M3/ size [[]] Larger than M2/ (0); equal in size with M2/ (1); reduced (less than 60%) (2).
+  135. Mesiolingual style on upper molar mesial cingulum [[19 in Lihoreau and Ducrocq 2007]] no (0); yes (1).
+  136. symphysis morphology in sagittal section [[38 in Lihoreau and Ducrocq 2007]] elliptic (0); dorsally concave (1); ventrally concave (2).
+  137. diastem C-P/1 [[34 in Lihoreau and Ducrocq 2007]] absent (0); présent (1).
+  138. bone fusion at symphysis in adult specimens [[modified from 37 in Lihoreau and Ducocq 2007]] no (0); yes (1).
+  139. maximal thickness of the symphysis in sagittal section [[39 in Lihoreau and Ducrocq 2007]] in the middle part (0); in the rostral part (1); in the nucal part (2).
+  140. symphysis extension [[]] extends nuchally between C and P/1 (0); extend nuchally between P/1 and P/3 (1); extends nuchally to P/3 (2).
+  141. number and position of main external foramen [[40 in lihoreau and ducrocq 2007]] numerous (0); only one below the anterior part of of the premolar row (1); two, one below the anterior part and the other below the posterior (2).
+  142. transverse constriction of mandible at C-p/1 diastema [[33 in Lihoreau and Ducrocq 2007]] no (0); yes (1).
+  143. P/1-P/2 diastema [[35 in Lihoreau and Ducrocq]] absent (0); present (1).
+  144. P/2-P/3 diastema [[6 in Boisserie et al. 2010]] yes (0); no (1).
+  145. Opening of internal choanes [[51 in Lihoreau and Ducrocq 2007]] at M3/ (0); nucal to M3/ (1).
+  146. enamel ornementation [[from orliac in prep 26]] no (0); yes (1).
+  147. Schmelzmuster composed of [[1 in Alloing séguier et al. soumis]] two layers (0); three layers (1); one layer (2).
+  148. inner radial enamel [[2 in Alloing séguier et al. soumis]] absent (0); present (1).
+  149. HSB percent of Schmelzmuster [[3 in Alloing séguier et al. soumis]] absent (0); less than 75% (1); more than 76% (2).
+  150. Outer radial enamel [[4 in Alloing séguier et al. soumis]] less or equal to 20% (0); more than 20% (1).
+  151. Hsb zone [[5  in Alloing séguier et al. soumis]] thin with bands always less than 100µm (0); large (equal or more than 100µm) (1).
+  152. regular aspect (constant width) [[6  in Alloing séguier et al. soumis]] yes (0); no (1).
+  153. HSB varaible (SD>20) [[7  in Alloing séguier et al. soumis]] no (0); yes (1).
+  154. HSB angle with EDJ [[8  in Alloing séguier et al. soumis]] >70° (0); <70 ¨° (1).
+  155. orientation of HSB [[9  in Alloing séguier et al. soumis]] straight (0); bent (1).
+  156. HSB definition (decussation angle and size of transition zone) [[10  in Alloing séguier et al. soumis]] clear (0); blurry (1).
+  157. division of HSB [[11  in Alloing séguier et al. soumis]] anastomosis (0); bifurcation (1); no division (2).
+  158. HSB configuration [[12  in Alloing séguier et al. soumis]] curved (0); transverse (1).
+  159. synchronous prism undulation on horizontal section [[13  in Alloing séguier et al. soumis]] no (0); yes but few (1); yes but more or equal to 4 (2).
+  160. IPM in inner portion [[14  in Alloing séguier et al. soumis]] closed sheath (0); Inter row sheets (1).
+  161. IPM in middle portion [[15  in Alloing séguier et al. soumis]] closed sheath (0); Inter row sheets (1); no IPM (2).
+  162. IPM in outer portion [[16  in Alloing séguier et al. soumis]] closed sheath (0); no IPM (1).
+  163. prism angle with EDJ [[17  in Alloing séguier et al. soumis]] equal or more than 60° (0); less than 60 ° (1); tend to diminish in the inner part (2).
+  164. prism diameter [[18  in Alloing séguier et al. soumis]] mean between 3 and 3.9 µm (0); small diameter mean below 3 µm (1); large diameter mean above or equal to 4 (2).

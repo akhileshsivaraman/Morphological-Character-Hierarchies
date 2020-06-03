@@ -1,0 +1,392 @@
+# logfile from anagallis - 2020-5-4 8:4:44
+>-< import tnt> importing from TNT file 'Claeson2013.tnt'
+xread> reading data...
+xread> 30 terminals and 53 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 Rostral_cartilage_Shape_(BD2004,_char1) stout filamentous absent subtriangular:_a_tapered_rostrum_that_fails_to_reach_the_anterior_margin_of_the_snout>
+>skipping unsupported (or wrong) TNT command  <{1 Rostral_cartilage_(MA2004,_char24) complete fails_to_reach_tip_of_the_snout absent>
+>skipping unsupported (or wrong) TNT command  <{2 Rostral_appendix_(MA2004,_char25) absent present>
+>skipping unsupported (or wrong) TNT command  <{3 Precerebral_fossa_(BD2004,_char11) present_as_a_circular_ovoid_concavity extending_anteriorly_and_roofed_to_form_a_tube>
+>skipping unsupported (or wrong) TNT command  <{4 Antorbital_cartilage_(BD2004,_char2) absent present>
+>skipping unsupported (or wrong) TNT command  <{5 Antorbital_cartilage_shape unbranched_and_narrow,_tapering_distally long_and_branched plate-like>
+>skipping unsupported (or wrong) TNT command  <{6 Antorbital_cartilage_projection_direction postero-laterally anteriorly>
+>skipping unsupported (or wrong) TNT command  <{7 'Antorbital-propterygium connection (BD2004, char4>
+>skipping unsupported (or wrong) TNT command  <MA2004, char7)' free directly_jointing>
+>skipping unsupported (or wrong) TNT command  <{8 Nasal_capsules_(BD2004,_char5) with_a_straight_and_or_blunt_anterior_margin witha_horn-like_anterior_process>
+>skipping unsupported (or wrong) TNT command  <{9 Nasal_capsule_(MA2004,_char27) laterally_expanded ventrolaterally_expanded>
+>skipping unsupported (or wrong) TNT command  <{10 'Supraorbital crest (BD2004, char6>
+>skipping unsupported (or wrong) TNT command  <MA2004, char30)' present absent>
+>skipping unsupported (or wrong) TNT command  <{11 'Postorbital process (BD2004, char7>
+>skipping unsupported (or wrong) TNT command  <MA2004, char32)' present absent>
+>skipping unsupported (or wrong) TNT command  <{12 Location_of_postorbital_process_(MA2004,_char32) narrow_and_in_otic_region absent broad_and_shelflike_and_in_otic_region broad_and_shelf_like_in_orbital_region>
+>skipping unsupported (or wrong) TNT command  <{13 Jugal_arch_(MA2004,_char35) absent present>
+>skipping unsupported (or wrong) TNT command  <{14 'Basal angle of neurocranium (BS1996, char 12>
+>skipping unsupported (or wrong) TNT command  <MA2004, char28)' present absent>
+>skipping unsupported (or wrong) TNT command  <{15 'Relation between palatoquadrate and neurocranium (BD2004, char8>
+>skipping unsupported (or wrong) TNT command  <MA2004, char2)' articulated loss_of_orbital_articulation>
+>skipping unsupported (or wrong) TNT command  <{16 Labial_cartilages_(MA2004,_char38) present absent>
+>skipping unsupported (or wrong) TNT command  <{17 Jaw_shape straight with_sigmoidal_curvature>
+>skipping unsupported (or wrong) TNT command  <{18 Osteodentine_in_tooth_root_(MA2004,_char17) absent present_in_roots_of_large_teeth_only widespread_occurence_in_tooth_roots>
+>skipping unsupported (or wrong) TNT command  <{19 Pulp_cavity_of_tooth_root_(MA2004,_char16) large roots_with_large_pulp_cavities tooth_roots_with_small_pulp_cavities roots_that_lack_pulp_cavities>
+>skipping unsupported (or wrong) TNT command  <{20 Lingual_uvula_on_teeth absent incipient_or_poorly_developed well_developed>
+>skipping unsupported (or wrong) TNT command  <{21 Differentiated_lateral_uvulae_on_teeth absent incipient well_developed>
+>skipping unsupported (or wrong) TNT command  <{22 Tooth_root_main_vascularisation multiple,_irreular_(anaulacorhizous) single_paired_opening_(hemiaulacorhizous) open_or_secondarily_roofed_(holoaulacorhizous) fused_teeth_that_are_polyaulacorhizous>
+>skipping unsupported (or wrong) TNT command  <{23 Lingual_projection_of_root_lob_median_to_paired_lingual_foramina paired_foramina_absent lingual_projection_present lingual_projection_absent>
+>skipping unsupported (or wrong) TNT command  <{24 Dorsal_groundmass_dentcles_(Deynat_2005) ribbed smooth,_arrowhead_shaped smooth,_oval absent>
+>skipping unsupported (or wrong) TNT command  <{25 Medial_part_of_hyomandibular_(MA2004,_char39) narrow expanded>
+>skipping unsupported (or wrong) TNT command  <{26 Basihyal_and_first_hypobranchial_(MA2004,_char43) both_present_and_unsegmented basihyal_is_segmented basihyal_is_absent basihyal_and_first_hypobranchial_cartilages_are_absent>
+>skipping unsupported (or wrong) TNT command  <{27 Ceratohyal_(MA2004,_char44) fully_developed reduced_or_absent>
+>skipping unsupported (or wrong) TNT command  <{28 'Distal tip of last ceratobranchial (BD2004, char9>
+>skipping unsupported (or wrong) TNT command  <MA2004 char4)' independent_of_scapulocoracoid articulating_with_scapulocoracoid>
+>skipping unsupported (or wrong) TNT command  <{29 'Pseudohyoid bar (BD2004, char10>
+>skipping unsupported (or wrong) TNT command  <MA2004, char3)' absent present>
+>skipping unsupported (or wrong) TNT command  <{30 'Paired fins (BD2004, char13 and char19>
+>skipping unsupported (or wrong) TNT command  <MA2004, char60)' aplesodic plesodic>
+>skipping unsupported (or wrong) TNT command  <{31 Form_of_pectoral_fin_(BD2004,_char14) not_elongated_anteriorly anteriorly_elongated>
+>skipping unsupported (or wrong) TNT command  <{32 'Pectoral propterygium (BD2004, char15>
+>skipping unsupported (or wrong) TNT command  <MA2004, char55)' not_reaching_the_nasal_capsules extending_as_far_as_the_nasal_capsules extending_far_beyond_the_nasal_capsules>
+>skipping unsupported (or wrong) TNT command  <{33 Pectoral_radials_(BD2004,_char16) not_reaching_the_nasal_capsules extending_as_far_as_the_nasal_capsules extending_far_beyond_the_nasal_capsules>
+>skipping unsupported (or wrong) TNT command  <{34 Posterior_corner_of_the_pectoral_fin_(BD2004,_char17) not_reaching_the_pelvic_fin extending_to_the_pelvic_fin_origin>
+>skipping unsupported (or wrong) TNT command  <{35 Electric_ampullae_on_the_pectoral_fins_(BD2004,_char18) absent present>
+>skipping unsupported (or wrong) TNT command  <{36 Postpelvic_process_(BD2004,_char20) absent present>
+>skipping unsupported (or wrong) TNT command  <{37 'Synarcual (BD2004, char23>
+>skipping unsupported (or wrong) TNT command  <' absent present>
+>skipping unsupported (or wrong) TNT command  <{38 Extent_of_Synarcual_Lip_(new) short long>
+>skipping unsupported (or wrong) TNT command  <{39 'Suprascapulae (BD2004, char24+25>
+>skipping unsupported (or wrong) TNT command  <MA2004, char6>
+>skipping unsupported (or wrong) TNT command  <new observations)' free_of_vertebral_column articulated_with_vertebral_column Fused_to_vertebral_column_(new)>
+>skipping unsupported (or wrong) TNT command  <{40 'Scapular process (BD2004, char26>
+>skipping unsupported (or wrong) TNT command  <MA2004, char49)' long short>
+>skipping unsupported (or wrong) TNT command  <{41 Ball_and_socket_articulation_(MA2004,_char46) absent present>
+>skipping unsupported (or wrong) TNT command  <{42 Mesocondyle_(MDM1996,_char48) equidistant Scapulocoracoid_is_elongated_between_mesocondyle_and_metacondyle Scapulocoracoid_is_elongated__between_procondyle_and_mesocondyle replaced_with_a_ridge>
+>skipping unsupported (or wrong) TNT command  <{43 Posterior_section_of_propterygium_(MA2004,_char56) does_not_extend_posterior_to_procondyle extends_behind_procondyle>
+>skipping unsupported (or wrong) TNT command  <{44 Mesoptergium_(MA2004,_char58) present_and_single fragmented_or_absent>
+>skipping unsupported (or wrong) TNT command  <{45 Shape_of_puboischadic_bar_(MA2004,_char62) platelike narrow_and_strongly_arched_without_distinct_prepelvic_processes narrow,_strongly_arched_with_a_triangular_medial_prepelvic_process narrow,_moderately_arched_with_barlike_medial_prepelvic_process>
+>skipping unsupported (or wrong) TNT command  <{46 'Pectoral radials (BD2004, char28>
+>skipping unsupported (or wrong) TNT command  <MA2004, char57)' all_articulating_with_the_propterygium,_mesopterygium,_and_metapterygium some_articulating_directly_withteh_scapulocoracoid,_between_the_meso_and_the_metapterygium many_articulating_iwth_the_scapulocoracoid_due_to_the_lack_of_mesopterygium>
+>skipping unsupported (or wrong) TNT command  <{47 Alar_thorns_(BD2004,_char21,_MD1998) absent present>
+>skipping unsupported (or wrong) TNT command  <{48 Parallel_rows_of_enlarged_thorns_over_the_posterior_part_of_the_disc_and_tail_(BD2004,_char22) absent present>
+>skipping unsupported (or wrong) TNT command  <{49 Serrated_tail_spine_(MA2004,_char13) absent present>
+>skipping unsupported (or wrong) TNT command  <{50 Placoid_scales_(MA2004,_char14) uniformly_present sparsly_to_densly_covered_with_placoid_scales_on_the_dorsal_surface_only free_of_denticles>
+>skipping unsupported (or wrong) TNT command  <{51 Large_placoid_scales_or_thorns_(MA2004,_char15) absent present>
+>skipping unsupported (or wrong) TNT command  <{52 Clasper_length_(MA2004,_char64) short long>
+>skipping unsupported (or wrong) TNT command  <proc />
+>skipping unsupported (or wrong) TNT command  <comments 0>
+import tnt> closing TNT file 'Claeson2013.tnt'
+
+current dataset has 53 characters and 30 terminals
+>-< characters properties set>-< characters properties set> state distribution error in main root character 2 of hierarchy: more than one state in addition to absence (coded as '2'): '1' and '0'
+characters properties set>-< ==> no character codes have been changed
+characters properties set
+  [-/1 1.53;
+>-< characters properties set>-< characters properties set> state distribution error in terminal 27 between subordinate character 6 and root character 5: a feature that is not known in the root character (missing) is described in the subordinate character
+characters properties set> state distribution error in terminal 27 between subordinate character 7 and root character 5: a feature that is not known in the root character (missing) is described in the subordinate character
+characters properties set> state distribution error in terminal 27 between subordinate character 8 and root character 5: a feature that is not known in the root character (missing) is described in the subordinate character
+characters properties set>-< ==> no character codes have been changed
+characters properties set
+  [-/1 1.53;
+>-< characters properties set>-< characters properties set>-< characters properties set
+  [-/1 1.53;
+characters properties set
+  <38 39>;
+>-< import tnt> importing from TNT file 'Claeson2013.tnt'
+xread> reading data...
+xread> current data matrix and tree buffer are cleared
+xread> new matrix has 30 terminals and 54 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 Rostral_cartilage_Shape_(BD2004,_char1) stout filamentous absent subtriangular:_a_tapered_rostrum_that_fails_to_reach_the_anterior_margin_of_the_snout>
+>skipping unsupported (or wrong) TNT command  <{1 Rostral_cartilage_(MA2004,_char24) complete fails_to_reach_tip_of_the_snout absent>
+>skipping unsupported (or wrong) TNT command  <{2 Rostral_appendix_(MA2004,_char25) absent present>
+>skipping unsupported (or wrong) TNT command  <{3 Precerebral_fossa_(BD2004,_char11) present_as_a_circular_ovoid_concavity extending_anteriorly_and_roofed_to_form_a_tube>
+>skipping unsupported (or wrong) TNT command  <{4 Antorbital_cartilage_(BD2004,_char2) absent present>
+>skipping unsupported (or wrong) TNT command  <{5 Antorbital_cartilage_shape unbranched_and_narrow,_tapering_distally long_and_branched plate-like>
+>skipping unsupported (or wrong) TNT command  <{6 Antorbital_cartilage_projection_direction postero-laterally anteriorly>
+>skipping unsupported (or wrong) TNT command  <{7 'Antorbital-propterygium connection (BD2004, char4>
+>skipping unsupported (or wrong) TNT command  <MA2004, char7)' free directly_jointing>
+>skipping unsupported (or wrong) TNT command  <{8 Nasal_capsules_(BD2004,_char5) with_a_straight_and_or_blunt_anterior_margin witha_horn-like_anterior_process>
+>skipping unsupported (or wrong) TNT command  <{9 Nasal_capsule_(MA2004,_char27) laterally_expanded ventrolaterally_expanded>
+>skipping unsupported (or wrong) TNT command  <{10 'Supraorbital crest (BD2004, char6>
+>skipping unsupported (or wrong) TNT command  <MA2004, char30)' present absent>
+>skipping unsupported (or wrong) TNT command  <{11 'Postorbital process (BD2004, char7>
+>skipping unsupported (or wrong) TNT command  <MA2004, char32)' present absent>
+>skipping unsupported (or wrong) TNT command  <{12 Location_of_postorbital_process_(MA2004,_char32) narrow_and_in_otic_region absent broad_and_shelflike_and_in_otic_region broad_and_shelf_like_in_orbital_region>
+>skipping unsupported (or wrong) TNT command  <{13 Jugal_arch_(MA2004,_char35) absent present>
+>skipping unsupported (or wrong) TNT command  <{14 'Basal angle of neurocranium (BS1996, char 12>
+>skipping unsupported (or wrong) TNT command  <MA2004, char28)' present absent>
+>skipping unsupported (or wrong) TNT command  <{15 'Relation between palatoquadrate and neurocranium (BD2004, char8>
+>skipping unsupported (or wrong) TNT command  <MA2004, char2)' articulated loss_of_orbital_articulation>
+>skipping unsupported (or wrong) TNT command  <{16 Labial_cartilages_(MA2004,_char38) present absent>
+>skipping unsupported (or wrong) TNT command  <{17 Jaw_shape straight with_sigmoidal_curvature>
+>skipping unsupported (or wrong) TNT command  <{18 Osteodentine_in_tooth_root_(MA2004,_char17) absent present_in_roots_of_large_teeth_only widespread_occurence_in_tooth_roots>
+>skipping unsupported (or wrong) TNT command  <{19 Pulp_cavity_of_tooth_root_(MA2004,_char16) large roots_with_large_pulp_cavities tooth_roots_with_small_pulp_cavities roots_that_lack_pulp_cavities>
+>skipping unsupported (or wrong) TNT command  <{20 Lingual_uvula_on_teeth absent incipient_or_poorly_developed well_developed>
+>skipping unsupported (or wrong) TNT command  <{21 Differentiated_lateral_uvulae_on_teeth absent incipient well_developed>
+>skipping unsupported (or wrong) TNT command  <{22 Tooth_root_main_vascularisation multiple,_irreular_(anaulacorhizous) single_paired_opening_(hemiaulacorhizous) open_or_secondarily_roofed_(holoaulacorhizous) fused_teeth_that_are_polyaulacorhizous>
+>skipping unsupported (or wrong) TNT command  <{23 Lingual_projection_of_root_lob_median_to_paired_lingual_foramina paired_foramina_absent lingual_projection_present lingual_projection_absent>
+>skipping unsupported (or wrong) TNT command  <{24 Dorsal_groundmass_dentcles_(Deynat_2005) ribbed smooth,_arrowhead_shaped smooth,_oval absent>
+>skipping unsupported (or wrong) TNT command  <{25 Medial_part_of_hyomandibular_(MA2004,_char39) narrow expanded>
+>skipping unsupported (or wrong) TNT command  <{26 Basihyal_and_first_hypobranchial_(MA2004,_char43) both_present_and_unsegmented basihyal_is_segmented basihyal_is_absent basihyal_and_first_hypobranchial_cartilages_are_absent>
+>skipping unsupported (or wrong) TNT command  <{27 Ceratohyal_(MA2004,_char44) fully_developed reduced_or_absent>
+>skipping unsupported (or wrong) TNT command  <{28 'Distal tip of last ceratobranchial (BD2004, char9>
+>skipping unsupported (or wrong) TNT command  <MA2004 char4)' independent_of_scapulocoracoid articulating_with_scapulocoracoid>
+>skipping unsupported (or wrong) TNT command  <{29 'Pseudohyoid bar (BD2004, char10>
+>skipping unsupported (or wrong) TNT command  <MA2004, char3)' absent present>
+>skipping unsupported (or wrong) TNT command  <{30 'Paired fins (BD2004, char13 and char19>
+>skipping unsupported (or wrong) TNT command  <MA2004, char60)' aplesodic plesodic>
+>skipping unsupported (or wrong) TNT command  <{31 Form_of_pectoral_fin_(BD2004,_char14) not_elongated_anteriorly anteriorly_elongated>
+>skipping unsupported (or wrong) TNT command  <{32 'Pectoral propterygium (BD2004, char15>
+>skipping unsupported (or wrong) TNT command  <MA2004, char55)' not_reaching_the_nasal_capsules extending_as_far_as_the_nasal_capsules extending_far_beyond_the_nasal_capsules>
+>skipping unsupported (or wrong) TNT command  <{33 Pectoral_radials_(BD2004,_char16) not_reaching_the_nasal_capsules extending_as_far_as_the_nasal_capsules extending_far_beyond_the_nasal_capsules>
+>skipping unsupported (or wrong) TNT command  <{34 Posterior_corner_of_the_pectoral_fin_(BD2004,_char17) not_reaching_the_pelvic_fin extending_to_the_pelvic_fin_origin>
+>skipping unsupported (or wrong) TNT command  <{35 Electric_ampullae_on_the_pectoral_fins_(BD2004,_char18) absent present>
+>skipping unsupported (or wrong) TNT command  <{36 Postpelvic_process_(BD2004,_char20) absent present>
+>skipping unsupported (or wrong) TNT command  <{37 'Synarcual (BD2004, char23>
+>skipping unsupported (or wrong) TNT command  <' absent present>
+>skipping unsupported (or wrong) TNT command  <{38 Extent_of_Synarcual_Lip_(new) short long>
+>skipping unsupported (or wrong) TNT command  <{39 'Suprascapulae (BD2004, char24+25>
+>skipping unsupported (or wrong) TNT command  <MA2004, char6>
+>skipping unsupported (or wrong) TNT command  <new observations)' free_of_vertebral_column articulated_with_vertebral_column Fused_to_vertebral_column_(new)>
+>skipping unsupported (or wrong) TNT command  <{40 'Scapular process (BD2004, char26>
+>skipping unsupported (or wrong) TNT command  <MA2004, char49)' long short>
+>skipping unsupported (or wrong) TNT command  <{41 Ball_and_socket_articulation_(MA2004,_char46) absent present>
+>skipping unsupported (or wrong) TNT command  <{42 Mesocondyle_(MDM1996,_char48) equidistant Scapulocoracoid_is_elongated_between_mesocondyle_and_metacondyle Scapulocoracoid_is_elongated__between_procondyle_and_mesocondyle replaced_with_a_ridge>
+>skipping unsupported (or wrong) TNT command  <{43 Posterior_section_of_propterygium_(MA2004,_char56) does_not_extend_posterior_to_procondyle extends_behind_procondyle>
+>skipping unsupported (or wrong) TNT command  <{44 Mesoptergium_(MA2004,_char58) present_and_single fragmented_or_absent>
+>skipping unsupported (or wrong) TNT command  <{45 Shape_of_puboischadic_bar_(MA2004,_char62) platelike narrow_and_strongly_arched_without_distinct_prepelvic_processes narrow,_strongly_arched_with_a_triangular_medial_prepelvic_process narrow,_moderately_arched_with_barlike_medial_prepelvic_process>
+>skipping unsupported (or wrong) TNT command  <{46 'Pectoral radials (BD2004, char28>
+>skipping unsupported (or wrong) TNT command  <MA2004, char57)' all_articulating_with_the_propterygium,_mesopterygium,_and_metapterygium some_articulating_directly_withteh_scapulocoracoid,_between_the_meso_and_the_metapterygium many_articulating_iwth_the_scapulocoracoid_due_to_the_lack_of_mesopterygium>
+>skipping unsupported (or wrong) TNT command  <{47 Alar_thorns_(BD2004,_char21,_MD1998) absent present>
+>skipping unsupported (or wrong) TNT command  <{48 Parallel_rows_of_enlarged_thorns_over_the_posterior_part_of_the_disc_and_tail_(BD2004,_char22) absent present>
+>skipping unsupported (or wrong) TNT command  <{49 Serrated_tail_spine_(MA2004,_char13) absent present>
+>skipping unsupported (or wrong) TNT command  <{50 Placoid_scales_(MA2004,_char14) uniformly_present sparsly_to_densly_covered_with_placoid_scales_on_the_dorsal_surface_only free_of_denticles>
+>skipping unsupported (or wrong) TNT command  <{51 Large_placoid_scales_or_thorns_(MA2004,_char15) absent present>
+>skipping unsupported (or wrong) TNT command  <{52 Clasper_length_(MA2004,_char64) short long>
+>skipping unsupported (or wrong) TNT command  <{53 Rostral_cartilage absent present>
+>skipping unsupported (or wrong) TNT command  <proc />
+>skipping unsupported (or wrong) TNT command  <comments 0>
+import tnt> closing TNT file 'Claeson2013.tnt'
+
+current dataset has 54 characters and 30 terminals
+>-< characters properties set>-< characters properties set> state distribution error in terminal 1 between subordinate character 1 and root character 54: a feature that is not known in the root character (missing) is described in the subordinate character
+characters properties set> state distribution error in terminal 1 between subordinate character 2 and root character 54: a feature that is not known in the root character (missing) is described in the subordinate character
+characters properties set>-< ==> no character codes have been changed
+characters properties set
+  [-/1 1.54;
+>-< import tnt> importing from TNT file 'Claeson2013.tnt'
+xread> reading data...
+xread> current data matrix and tree buffer are cleared
+xread> new matrix has 30 terminals and 54 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 Rostral_cartilage_Shape_(BD2004,_char1) stout filamentous absent subtriangular:_a_tapered_rostrum_that_fails_to_reach_the_anterior_margin_of_the_snout>
+>skipping unsupported (or wrong) TNT command  <{1 Rostral_cartilage_(MA2004,_char24) complete fails_to_reach_tip_of_the_snout absent>
+>skipping unsupported (or wrong) TNT command  <{2 Rostral_appendix_(MA2004,_char25) absent present>
+>skipping unsupported (or wrong) TNT command  <{3 Precerebral_fossa_(BD2004,_char11) present_as_a_circular_ovoid_concavity extending_anteriorly_and_roofed_to_form_a_tube>
+>skipping unsupported (or wrong) TNT command  <{4 Antorbital_cartilage_(BD2004,_char2) absent present>
+>skipping unsupported (or wrong) TNT command  <{5 Antorbital_cartilage_shape unbranched_and_narrow,_tapering_distally long_and_branched plate-like>
+>skipping unsupported (or wrong) TNT command  <{6 Antorbital_cartilage_projection_direction postero-laterally anteriorly>
+>skipping unsupported (or wrong) TNT command  <{7 'Antorbital-propterygium connection (BD2004, char4>
+>skipping unsupported (or wrong) TNT command  <MA2004, char7)' free directly_jointing>
+>skipping unsupported (or wrong) TNT command  <{8 Nasal_capsules_(BD2004,_char5) with_a_straight_and_or_blunt_anterior_margin witha_horn-like_anterior_process>
+>skipping unsupported (or wrong) TNT command  <{9 Nasal_capsule_(MA2004,_char27) laterally_expanded ventrolaterally_expanded>
+>skipping unsupported (or wrong) TNT command  <{10 'Supraorbital crest (BD2004, char6>
+>skipping unsupported (or wrong) TNT command  <MA2004, char30)' present absent>
+>skipping unsupported (or wrong) TNT command  <{11 'Postorbital process (BD2004, char7>
+>skipping unsupported (or wrong) TNT command  <MA2004, char32)' present absent>
+>skipping unsupported (or wrong) TNT command  <{12 Location_of_postorbital_process_(MA2004,_char32) narrow_and_in_otic_region absent broad_and_shelflike_and_in_otic_region broad_and_shelf_like_in_orbital_region>
+>skipping unsupported (or wrong) TNT command  <{13 Jugal_arch_(MA2004,_char35) absent present>
+>skipping unsupported (or wrong) TNT command  <{14 'Basal angle of neurocranium (BS1996, char 12>
+>skipping unsupported (or wrong) TNT command  <MA2004, char28)' present absent>
+>skipping unsupported (or wrong) TNT command  <{15 'Relation between palatoquadrate and neurocranium (BD2004, char8>
+>skipping unsupported (or wrong) TNT command  <MA2004, char2)' articulated loss_of_orbital_articulation>
+>skipping unsupported (or wrong) TNT command  <{16 Labial_cartilages_(MA2004,_char38) present absent>
+>skipping unsupported (or wrong) TNT command  <{17 Jaw_shape straight with_sigmoidal_curvature>
+>skipping unsupported (or wrong) TNT command  <{18 Osteodentine_in_tooth_root_(MA2004,_char17) absent present_in_roots_of_large_teeth_only widespread_occurence_in_tooth_roots>
+>skipping unsupported (or wrong) TNT command  <{19 Pulp_cavity_of_tooth_root_(MA2004,_char16) large roots_with_large_pulp_cavities tooth_roots_with_small_pulp_cavities roots_that_lack_pulp_cavities>
+>skipping unsupported (or wrong) TNT command  <{20 Lingual_uvula_on_teeth absent incipient_or_poorly_developed well_developed>
+>skipping unsupported (or wrong) TNT command  <{21 Differentiated_lateral_uvulae_on_teeth absent incipient well_developed>
+>skipping unsupported (or wrong) TNT command  <{22 Tooth_root_main_vascularisation multiple,_irreular_(anaulacorhizous) single_paired_opening_(hemiaulacorhizous) open_or_secondarily_roofed_(holoaulacorhizous) fused_teeth_that_are_polyaulacorhizous>
+>skipping unsupported (or wrong) TNT command  <{23 Lingual_projection_of_root_lob_median_to_paired_lingual_foramina paired_foramina_absent lingual_projection_present lingual_projection_absent>
+>skipping unsupported (or wrong) TNT command  <{24 Dorsal_groundmass_dentcles_(Deynat_2005) ribbed smooth,_arrowhead_shaped smooth,_oval absent>
+>skipping unsupported (or wrong) TNT command  <{25 Medial_part_of_hyomandibular_(MA2004,_char39) narrow expanded>
+>skipping unsupported (or wrong) TNT command  <{26 Basihyal_and_first_hypobranchial_(MA2004,_char43) both_present_and_unsegmented basihyal_is_segmented basihyal_is_absent basihyal_and_first_hypobranchial_cartilages_are_absent>
+>skipping unsupported (or wrong) TNT command  <{27 Ceratohyal_(MA2004,_char44) fully_developed reduced_or_absent>
+>skipping unsupported (or wrong) TNT command  <{28 'Distal tip of last ceratobranchial (BD2004, char9>
+>skipping unsupported (or wrong) TNT command  <MA2004 char4)' independent_of_scapulocoracoid articulating_with_scapulocoracoid>
+>skipping unsupported (or wrong) TNT command  <{29 'Pseudohyoid bar (BD2004, char10>
+>skipping unsupported (or wrong) TNT command  <MA2004, char3)' absent present>
+>skipping unsupported (or wrong) TNT command  <{30 'Paired fins (BD2004, char13 and char19>
+>skipping unsupported (or wrong) TNT command  <MA2004, char60)' aplesodic plesodic>
+>skipping unsupported (or wrong) TNT command  <{31 Form_of_pectoral_fin_(BD2004,_char14) not_elongated_anteriorly anteriorly_elongated>
+>skipping unsupported (or wrong) TNT command  <{32 'Pectoral propterygium (BD2004, char15>
+>skipping unsupported (or wrong) TNT command  <MA2004, char55)' not_reaching_the_nasal_capsules extending_as_far_as_the_nasal_capsules extending_far_beyond_the_nasal_capsules>
+>skipping unsupported (or wrong) TNT command  <{33 Pectoral_radials_(BD2004,_char16) not_reaching_the_nasal_capsules extending_as_far_as_the_nasal_capsules extending_far_beyond_the_nasal_capsules>
+>skipping unsupported (or wrong) TNT command  <{34 Posterior_corner_of_the_pectoral_fin_(BD2004,_char17) not_reaching_the_pelvic_fin extending_to_the_pelvic_fin_origin>
+>skipping unsupported (or wrong) TNT command  <{35 Electric_ampullae_on_the_pectoral_fins_(BD2004,_char18) absent present>
+>skipping unsupported (or wrong) TNT command  <{36 Postpelvic_process_(BD2004,_char20) absent present>
+>skipping unsupported (or wrong) TNT command  <{37 'Synarcual (BD2004, char23>
+>skipping unsupported (or wrong) TNT command  <' absent present>
+>skipping unsupported (or wrong) TNT command  <{38 Extent_of_Synarcual_Lip_(new) short long>
+>skipping unsupported (or wrong) TNT command  <{39 'Suprascapulae (BD2004, char24+25>
+>skipping unsupported (or wrong) TNT command  <MA2004, char6>
+>skipping unsupported (or wrong) TNT command  <new observations)' free_of_vertebral_column articulated_with_vertebral_column Fused_to_vertebral_column_(new)>
+>skipping unsupported (or wrong) TNT command  <{40 'Scapular process (BD2004, char26>
+>skipping unsupported (or wrong) TNT command  <MA2004, char49)' long short>
+>skipping unsupported (or wrong) TNT command  <{41 Ball_and_socket_articulation_(MA2004,_char46) absent present>
+>skipping unsupported (or wrong) TNT command  <{42 Mesocondyle_(MDM1996,_char48) equidistant Scapulocoracoid_is_elongated_between_mesocondyle_and_metacondyle Scapulocoracoid_is_elongated__between_procondyle_and_mesocondyle replaced_with_a_ridge>
+>skipping unsupported (or wrong) TNT command  <{43 Posterior_section_of_propterygium_(MA2004,_char56) does_not_extend_posterior_to_procondyle extends_behind_procondyle>
+>skipping unsupported (or wrong) TNT command  <{44 Mesoptergium_(MA2004,_char58) present_and_single fragmented_or_absent>
+>skipping unsupported (or wrong) TNT command  <{45 Shape_of_puboischadic_bar_(MA2004,_char62) platelike narrow_and_strongly_arched_without_distinct_prepelvic_processes narrow,_strongly_arched_with_a_triangular_medial_prepelvic_process narrow,_moderately_arched_with_barlike_medial_prepelvic_process>
+>skipping unsupported (or wrong) TNT command  <{46 'Pectoral radials (BD2004, char28>
+>skipping unsupported (or wrong) TNT command  <MA2004, char57)' all_articulating_with_the_propterygium,_mesopterygium,_and_metapterygium some_articulating_directly_withteh_scapulocoracoid,_between_the_meso_and_the_metapterygium many_articulating_iwth_the_scapulocoracoid_due_to_the_lack_of_mesopterygium>
+>skipping unsupported (or wrong) TNT command  <{47 Alar_thorns_(BD2004,_char21,_MD1998) absent present>
+>skipping unsupported (or wrong) TNT command  <{48 Parallel_rows_of_enlarged_thorns_over_the_posterior_part_of_the_disc_and_tail_(BD2004,_char22) absent present>
+>skipping unsupported (or wrong) TNT command  <{49 Serrated_tail_spine_(MA2004,_char13) absent present>
+>skipping unsupported (or wrong) TNT command  <{50 Placoid_scales_(MA2004,_char14) uniformly_present sparsly_to_densly_covered_with_placoid_scales_on_the_dorsal_surface_only free_of_denticles>
+>skipping unsupported (or wrong) TNT command  <{51 Large_placoid_scales_or_thorns_(MA2004,_char15) absent present>
+>skipping unsupported (or wrong) TNT command  <{52 Clasper_length_(MA2004,_char64) short long>
+>skipping unsupported (or wrong) TNT command  <{53 Rostral_cartilage absent present>
+>skipping unsupported (or wrong) TNT command  <proc />
+>skipping unsupported (or wrong) TNT command  <comments 0>
+import tnt> closing TNT file 'Claeson2013.tnt'
+
+current dataset has 54 characters and 30 terminals
+>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set
+  [-/1 1.54;
+characters properties set
+  <5 6 7 8>
+  <38 39>
+  <54 1 2>;
+>-< trees search mult> doing 50 replicates with tbr swapping
+rep 1    score 154   (random addition sequence, seed 0)                      [6 trees, best score 154, 1 rep hit 154]
+rep 2    score 154   (random addition sequence, seed 158379552)              [78 trees, best score 154, 2 reps hit 154]
+rep 3    score 154   (random addition sequence, seed 1984204620)             [78 trees, best score 154, 3 reps hit 154]
+rep 4    score 154   (random addition sequence, seed 535908464)              [82 trees, best score 154, 4 reps hit 154]
+rep 5    score 154   (random addition sequence, seed 2132203805)             [82 trees, best score 154, 5 reps hit 154]
+rep 6    score 154   (random addition sequence, seed 21087999)               [82 trees, best score 154, 6 reps hit 154]
+rep 7    score 154   (random addition sequence, seed 1980568599)             [82 trees, best score 154, 7 reps hit 154]
+rep 8    score 154   (random addition sequence, seed 658245574)              [82 trees, best score 154, 8 reps hit 154]
+rep 9    score 154   (random addition sequence, seed 285049978)              [82 trees, best score 154, 9 reps hit 154]
+rep 10   score 154   (random addition sequence, seed 902411671)              [82 trees, best score 154, 10 reps hit 154]
+rep 11   score 155   (random addition sequence, seed 1126489223)             [82 trees, best score 154, 10 reps hit 154]
+rep 12   score 154   (random addition sequence, seed 911322900)              [82 trees, best score 154, 11 reps hit 154]
+rep 13   score 154   (random addition sequence, seed 745911108)              [82 trees, best score 154, 12 reps hit 154]
+rep 14   score 154   (random addition sequence, seed 1150800147)             [92 trees, best score 154, 13 reps hit 154]
+rep 15   score 154   (random addition sequence, seed 1347136677)             [92 trees, best score 154, 14 reps hit 154]
+rep 16   score 154   (random addition sequence, seed 560883552)              [92 trees, best score 154, 15 reps hit 154]
+rep 17   score 154   (random addition sequence, seed 754841418)              [92 trees, best score 154, 16 reps hit 154]
+rep 18   score 155   (random addition sequence, seed 1518373240)             [92 trees, best score 154, 16 reps hit 154]
+rep 19   score 157   (random addition sequence, seed 1848759410)             [92 trees, best score 154, 16 reps hit 154]
+rep 20   score 154   (random addition sequence, seed 646113231)              [92 trees, best score 154, 17 reps hit 154]
+rep 21   score 154   (random addition sequence, seed 350538974)              [92 trees, best score 154, 18 reps hit 154]
+rep 22   score 154   (random addition sequence, seed 1318975379)             [92 trees, best score 154, 19 reps hit 154]
+rep 23   score 154   (random addition sequence, seed 1142951922)             [92 trees, best score 154, 20 reps hit 154]
+rep 24   score 154   (random addition sequence, seed 559080890)              [92 trees, best score 154, 21 reps hit 154]
+rep 25   score 154   (random addition sequence, seed 891600460)              [92 trees, best score 154, 22 reps hit 154]
+rep 26   score 155   (random addition sequence, seed 1837582545)             [92 trees, best score 154, 22 reps hit 154]
+rep 27   score 156   (random addition sequence, seed 749166649)              [92 trees, best score 154, 22 reps hit 154]
+rep 28   score 154   (random addition sequence, seed 2139660106)             [92 trees, best score 154, 23 reps hit 154]
+rep 29   score 154   (random addition sequence, seed 421525001)              [92 trees, best score 154, 24 reps hit 154]
+rep 30   score 154   (random addition sequence, seed 68095362)               [92 trees, best score 154, 25 reps hit 154]
+rep 31   score 154   (random addition sequence, seed 509385842)              [92 trees, best score 154, 26 reps hit 154]
+rep 32   score 154   (random addition sequence, seed 1448435751)             [92 trees, best score 154, 27 reps hit 154]
+rep 33   score 154   (random addition sequence, seed 1181595320)             [92 trees, best score 154, 28 reps hit 154]
+rep 34   score 154   (random addition sequence, seed 935089246)              [92 trees, best score 154, 29 reps hit 154]
+rep 35   score 154   (random addition sequence, seed 1020304788)             [92 trees, best score 154, 30 reps hit 154]
+rep 36   score 154   (random addition sequence, seed 1929695961)             [92 trees, best score 154, 31 reps hit 154]
+rep 37   score 154   (random addition sequence, seed 2067435230)             [92 trees, best score 154, 32 reps hit 154]
+rep 38   score 154   (random addition sequence, seed 212674104)              [92 trees, best score 154, 33 reps hit 154]
+rep 39   score 154   (random addition sequence, seed 1548832745)             [92 trees, best score 154, 34 reps hit 154]
+rep 40   score 154   (random addition sequence, seed 1398017322)             [92 trees, best score 154, 35 reps hit 154]
+rep 41   score 156   (random addition sequence, seed 2013974066)             [92 trees, best score 154, 35 reps hit 154]
+rep 42   score 154   (random addition sequence, seed 1564658567)             [92 trees, best score 154, 36 reps hit 154]
+rep 43   score 154   (random addition sequence, seed 1632660997)             [92 trees, best score 154, 37 reps hit 154]
+rep 44   score 154   (random addition sequence, seed 858923015)              [92 trees, best score 154, 38 reps hit 154]
+rep 45   score 154   (random addition sequence, seed 394250012)              [92 trees, best score 154, 39 reps hit 154]
+rep 46   score 154   (random addition sequence, seed 891065683)              [92 trees, best score 154, 40 reps hit 154]
+rep 47   score 156   (random addition sequence, seed 1815390568)             [92 trees, best score 154, 40 reps hit 154]
+rep 48   score 154   (random addition sequence, seed 498189926)              [92 trees, best score 154, 41 reps hit 154]
+rep 49   score 154   (random addition sequence, seed 384052087)              [92 trees, best score 154, 42 reps hit 154]
+rep 50   score 154   (random addition sequence, seed 312031865)              [92 trees, best score 154, 43 reps hit 154]
+>-< tread
+'trees from anagallis'
+(Hexanchidae Pristiophorus((((('Rhinobatos'_maronita(((Tethybatis((Tingitanius_tenuimandibulus Platyrhinoidis)Platyrhina))Britobatos_primarmatus((((('Rhinobatos'_hakelensis(((((Narcine Narke)Torpedo)(Urolophus Myliobatis))Zanobatos)'Rhinobatos'_whitfieldi))Raja Rhombopterygia((Aptychotrema Iansan)Zapteryx Trygonorrhina))Rhinobatos)'Rhinobatos'_latus)'Rhinobatos'_intermedius))'Rhinobatos'_tenuirostris))Rhynchobatus)Pristis)Spathobatis)Sclerorhychus))*
+(Hexanchidae Pristiophorus(((((((((((((Iansan Aptychotrema)Zapteryx Trygonorrhina)(('Rhinobatos'_whitfieldi((((Narcine Narke)Torpedo)(Urolophus Myliobatis))Zanobatos))Rhombopterygia)'Rhinobatos'_hakelensis Raja)Rhinobatos)'Rhinobatos'_latus)'Rhinobatos'_intermedius)(Tethybatis((Tingitanius_tenuimandibulus Platyrhinoidis)Platyrhina))Britobatos_primarmatus)'Rhinobatos'_tenuirostris)'Rhinobatos'_maronita)Rhynchobatus)Pristis)Spathobatis)Sclerorhychus))*
+(Hexanchidae Pristiophorus(((((((((('Rhinobatos'_hakelensis((((Urolophus Myliobatis)((Narcine Narke)Torpedo))Zanobatos)'Rhinobatos'_whitfieldi))Raja Rhombopterygia((Iansan Aptychotrema)Zapteryx Trygonorrhina))Rhinobatos)'Rhinobatos'_latus)Britobatos_primarmatus(Tethybatis((Tingitanius_tenuimandibulus Platyrhinoidis)Platyrhina))'Rhinobatos'_intermedius)'Rhinobatos'_maronita 'Rhinobatos'_tenuirostris)Rhynchobatus)Pristis)Spathobatis)Sclerorhychus))*
+(Hexanchidae Pristiophorus(Sclerorhychus(Spathobatis((('Rhinobatos'_maronita 'Rhinobatos'_tenuirostris('Rhinobatos'_intermedius((Rhinobatos(Rhombopterygia('Rhinobatos'_hakelensis('Rhinobatos'_whitfieldi(((Urolophus Myliobatis)(Torpedo(Narcine Narke)))Zanobatos)))Raja(Zapteryx Trygonorrhina(Iansan Aptychotrema))))'Rhinobatos'_latus)((Tethybatis(Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus)))Britobatos_primarmatus)))Rhynchobatus)Pristis))))*
+(Hexanchidae Pristiophorus((((((((('Rhinobatos'_hakelensis Raja((Iansan Aptychotrema)Zapteryx Trygonorrhina)(((((Urolophus Myliobatis)((Narcine Narke)Torpedo))Zanobatos)'Rhinobatos'_whitfieldi)Rhombopterygia))Rhinobatos)'Rhinobatos'_latus)Britobatos_primarmatus(Tethybatis((Tingitanius_tenuimandibulus Platyrhinoidis)Platyrhina))'Rhinobatos'_intermedius)'Rhinobatos'_maronita 'Rhinobatos'_tenuirostris)Rhynchobatus)Pristis)Spathobatis)Sclerorhychus))*
+(Hexanchidae Pristiophorus(Sclerorhychus(Spathobatis((('Rhinobatos'_maronita 'Rhinobatos'_tenuirostris('Rhinobatos'_intermedius((Rhinobatos(Raja 'Rhinobatos'_hakelensis(Rhombopterygia('Rhinobatos'_whitfieldi(((Urolophus Myliobatis)(Torpedo(Narcine Narke)))Zanobatos)))(Zapteryx Trygonorrhina(Iansan Aptychotrema))))'Rhinobatos'_latus)((Tethybatis(Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus)))Britobatos_primarmatus)))Rhynchobatus)Pristis))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((((Narcine Narke)Torpedo)((Rhynchobatus 'Rhinobatos'_maronita 'Rhinobatos'_tenuirostris)Iansan(Aptychotrema((((('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)))Rhombopterygia Raja)Zapteryx Trygonorrhina))))Sclerorhychus))))*
+(Hexanchidae Pristiophorus((((((Narcine Narke)Torpedo)(((Iansan(((((('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)))Rhombopterygia Raja)Zapteryx Trygonorrhina)Aptychotrema))'Rhinobatos'_tenuirostris)Rhynchobatus 'Rhinobatos'_maronita))Sclerorhychus)Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus((((((Narcine Narke)Torpedo)(Iansan('Rhinobatos'_tenuirostris Rhynchobatus 'Rhinobatos'_maronita)(((Rhombopterygia Raja('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi))(('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos))Trygonorrhina Zapteryx)Aptychotrema)))Sclerorhychus)Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus((((((Narcine Narke)Torpedo)(Iansan('Rhinobatos'_tenuirostris Rhynchobatus 'Rhinobatos'_maronita)(((((('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)((((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)Rhombopterygia)'Rhinobatos'_hakelensis)Raja)Zapteryx Trygonorrhina)Aptychotrema)))Sclerorhychus)Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus((((((Narcine Narke)Torpedo)(Iansan('Rhinobatos'_tenuirostris Rhynchobatus 'Rhinobatos'_maronita)(((((('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)Rhombopterygia('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)))Raja)Zapteryx Trygonorrhina)Aptychotrema)))Sclerorhychus)Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((((Narcine Narke)Torpedo)((Aptychotrema(((('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi))(('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)Raja Rhombopterygia)Zapteryx)Trygonorrhina))(Rhynchobatus 'Rhinobatos'_maronita 'Rhinobatos'_tenuirostris)Iansan))Sclerorhychus))))*
+(Hexanchidae Pristiophorus(((((Narcine Narke)Torpedo)Sclerorhychus('Rhinobatos'_maronita Rhynchobatus(((((((('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)))Rhombopterygia Raja)Zapteryx Trygonorrhina)Aptychotrema)Iansan)'Rhinobatos'_tenuirostris)))Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus((((((Narcine Narke)Torpedo)(Rhynchobatus('Rhinobatos'_tenuirostris((((Rhombopterygia Raja('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi))(('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos))Trygonorrhina Zapteryx)Aptychotrema)Iansan))'Rhinobatos'_maronita))Sclerorhychus)Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus((((((Narcine Narke)Torpedo)(Rhynchobatus('Rhinobatos'_tenuirostris((((((('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)((((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)Rhombopterygia)'Rhinobatos'_hakelensis)Raja)Zapteryx Trygonorrhina)Aptychotrema)Iansan))'Rhinobatos'_maronita))Sclerorhychus)Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus((((((Narcine Narke)Torpedo)(Rhynchobatus('Rhinobatos'_tenuirostris((((((('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)Rhombopterygia('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)))Raja)Zapteryx Trygonorrhina)Aptychotrema)Iansan))'Rhinobatos'_maronita))Sclerorhychus)Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((((Narcine Narke)Torpedo)(((Iansan((((('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi))(('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)Raja Rhombopterygia)Zapteryx)Trygonorrhina)Aptychotrema))'Rhinobatos'_tenuirostris)'Rhinobatos'_maronita Rhynchobatus))Sclerorhychus))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Rhynchobatus('Rhinobatos'_maronita((Iansan(Aptychotrema((Rhombopterygia((Rhinobatos(('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus))(((Zanobatos(Myliobatis Urolophus))'Rhinobatos'_whitfieldi)'Rhinobatos'_hakelensis))Raja)Zapteryx Trygonorrhina)))'Rhinobatos'_tenuirostris)))(Torpedo(Narcine Narke))Sclerorhychus))))*
+(Hexanchidae Pristiophorus((((((Narcine Narke)Torpedo)(Iansan('Rhinobatos'_tenuirostris Rhynchobatus 'Rhinobatos'_maronita)((((Rhinobatos('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius)))Raja((((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)Rhombopterygia)'Rhinobatos'_hakelensis)Trygonorrhina Zapteryx)Aptychotrema)))Sclerorhychus)Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus((((((Narcine Narke)Torpedo)(Iansan('Rhinobatos'_tenuirostris Rhynchobatus 'Rhinobatos'_maronita)(((('Rhinobatos'_hakelensis(Rhombopterygia(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi))Raja(((((((Platyrhinoidis Tingitanius_tenuimandibulus)Platyrhina)Tethybatis)Britobatos_primarmatus)'Rhinobatos'_intermedius)'Rhinobatos'_latus)Rhinobatos))Zapteryx)Trygonorrhina)Aptychotrema)))Sclerorhychus)Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus((((((Narcine Narke)Torpedo)(Iansan('Rhinobatos'_tenuirostris Rhynchobatus 'Rhinobatos'_maronita)(((Raja 'Rhinobatos'_hakelensis((Rhombopterygia(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi))(('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)))Zapteryx Trygonorrhina)Aptychotrema)))Sclerorhychus)Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus(((((Narcine Narke)Torpedo)Sclerorhychus((((((Rhombopterygia Raja('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi))(('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos))Trygonorrhina Zapteryx)Aptychotrema)Iansan)'Rhinobatos'_tenuirostris)Rhynchobatus 'Rhinobatos'_maronita))Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus(((((Narcine Narke)Torpedo)Sclerorhychus((((((((('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)((((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)Rhombopterygia)'Rhinobatos'_hakelensis)Raja)Zapteryx Trygonorrhina)Aptychotrema)Iansan)'Rhinobatos'_tenuirostris)Rhynchobatus 'Rhinobatos'_maronita))Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus(((((Narcine Narke)Torpedo)Sclerorhychus((((((((('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)Rhombopterygia('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)))Raja)Zapteryx Trygonorrhina)Aptychotrema)Iansan)'Rhinobatos'_tenuirostris)Rhynchobatus 'Rhinobatos'_maronita))Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus((Spathobatis((((('Rhinobatos'_tenuirostris((((((((((((Platyrhinoidis Tingitanius_tenuimandibulus)Platyrhina)Tethybatis)Britobatos_primarmatus)'Rhinobatos'_intermedius)'Rhinobatos'_latus)Rhinobatos)('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)))Rhombopterygia Raja)Zapteryx Trygonorrhina)Aptychotrema)Iansan))'Rhinobatos'_maronita)Rhynchobatus)Sclerorhychus)Pristis))((Narcine Narke)Torpedo)))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis(((Narcine Narke)Torpedo)Sclerorhychus('Rhinobatos'_maronita Rhynchobatus((Iansan((((('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi))(('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)Raja Rhombopterygia)Zapteryx)Trygonorrhina)Aptychotrema))'Rhinobatos'_tenuirostris))))))*
+(Hexanchidae Pristiophorus((((((Narcine Narke)Torpedo)(Rhynchobatus('Rhinobatos'_tenuirostris(((((Rhinobatos('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius)))Raja((((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)Rhombopterygia)'Rhinobatos'_hakelensis)Trygonorrhina Zapteryx)Aptychotrema)Iansan))'Rhinobatos'_maronita))Sclerorhychus)Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus((((((Narcine Narke)Torpedo)(Rhynchobatus('Rhinobatos'_tenuirostris((((('Rhinobatos'_hakelensis(Rhombopterygia(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi))Raja(((((((Platyrhinoidis Tingitanius_tenuimandibulus)Platyrhina)Tethybatis)Britobatos_primarmatus)'Rhinobatos'_intermedius)'Rhinobatos'_latus)Rhinobatos))Zapteryx)Trygonorrhina)Aptychotrema)Iansan))'Rhinobatos'_maronita))Sclerorhychus)Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Rhynchobatus('Rhinobatos'_maronita((Iansan(Aptychotrema((Rhombopterygia(((Zanobatos(Myliobatis Urolophus))'Rhinobatos'_whitfieldi)'Rhinobatos'_hakelensis)(Rhinobatos(('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus))Raja)Trygonorrhina Zapteryx)))'Rhinobatos'_tenuirostris)))(Torpedo(Narcine Narke))Sclerorhychus))))*
+(Hexanchidae Pristiophorus((((((Narcine Narke)Torpedo)(Rhynchobatus('Rhinobatos'_tenuirostris((((Raja 'Rhinobatos'_hakelensis((Rhombopterygia(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi))(('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)))Zapteryx Trygonorrhina)Aptychotrema)Iansan))'Rhinobatos'_maronita))Sclerorhychus)Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Rhynchobatus('Rhinobatos'_maronita((Iansan(Aptychotrema((Raja('Rhinobatos'_hakelensis(Rhinobatos(('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus))(((Zanobatos(Myliobatis Urolophus))'Rhinobatos'_whitfieldi)Rhombopterygia)))Zapteryx Trygonorrhina)))'Rhinobatos'_tenuirostris)))(Torpedo(Narcine Narke))Sclerorhychus))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Rhynchobatus('Rhinobatos'_maronita((Iansan(Aptychotrema((Raja(((('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus)Rhinobatos)(((Zanobatos(Myliobatis Urolophus))'Rhinobatos'_whitfieldi)'Rhinobatos'_hakelensis)Rhombopterygia))Zapteryx Trygonorrhina)))'Rhinobatos'_tenuirostris)))(Torpedo(Narcine Narke))Sclerorhychus))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Rhynchobatus('Rhinobatos'_maronita((Iansan(Aptychotrema((((((Zanobatos(Myliobatis Urolophus))'Rhinobatos'_whitfieldi)'Rhinobatos'_hakelensis)((('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus)Rhinobatos)Rhombopterygia Raja)Zapteryx)Trygonorrhina)))'Rhinobatos'_tenuirostris)))(Torpedo(Narcine Narke))Sclerorhychus))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Sclerorhychus(('Rhinobatos'_maronita('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Rhombopterygia((Rhinobatos('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius)))((Zanobatos 'Rhinobatos'_whitfieldi)'Rhinobatos'_hakelensis))Raja)Zapteryx Trygonorrhina)))))Rhynchobatus))((Torpedo(Narcine Narke))(Myliobatis Urolophus))))))*
+(Hexanchidae Pristiophorus(((((Narcine Narke)Torpedo)Sclerorhychus(((((((Rhinobatos('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius)))Raja((((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)Rhombopterygia)'Rhinobatos'_hakelensis)Trygonorrhina Zapteryx)Aptychotrema)Iansan)'Rhinobatos'_tenuirostris)Rhynchobatus 'Rhinobatos'_maronita))Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus(((((Narcine Narke)Torpedo)Sclerorhychus((((((('Rhinobatos'_hakelensis(Rhombopterygia(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi))Raja(((((((Platyrhinoidis Tingitanius_tenuimandibulus)Platyrhina)Tethybatis)Britobatos_primarmatus)'Rhinobatos'_intermedius)'Rhinobatos'_latus)Rhinobatos))Zapteryx)Trygonorrhina)Aptychotrema)Iansan)'Rhinobatos'_tenuirostris)Rhynchobatus 'Rhinobatos'_maronita))Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus((Spathobatis((((('Rhinobatos'_tenuirostris(((((((((((Platyrhinoidis Tingitanius_tenuimandibulus)Platyrhina)Tethybatis)Britobatos_primarmatus)'Rhinobatos'_intermedius)'Rhinobatos'_latus)Rhinobatos)Rhombopterygia Raja('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)))Trygonorrhina Zapteryx)Aptychotrema)Iansan))'Rhinobatos'_maronita)Rhynchobatus)Sclerorhychus)Pristis))((Narcine Narke)Torpedo)))*
+(Hexanchidae Pristiophorus(((((Narcine Narke)Torpedo)Sclerorhychus((((((Raja 'Rhinobatos'_hakelensis((Rhombopterygia(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi))(('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)))Zapteryx Trygonorrhina)Aptychotrema)Iansan)'Rhinobatos'_tenuirostris)Rhynchobatus 'Rhinobatos'_maronita))Pristis)Spathobatis))*
+(Hexanchidae Pristiophorus((Spathobatis((((('Rhinobatos'_tenuirostris((((((((((((Platyrhinoidis Tingitanius_tenuimandibulus)Platyrhina)Tethybatis)Britobatos_primarmatus)'Rhinobatos'_intermedius)'Rhinobatos'_latus)Rhinobatos)'Rhinobatos'_hakelensis(Rhombopterygia(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)))Raja)Zapteryx Trygonorrhina)Aptychotrema)Iansan))'Rhinobatos'_maronita)Rhynchobatus)Sclerorhychus)Pristis))((Narcine Narke)Torpedo)))*
+(Hexanchidae Pristiophorus((Spathobatis((((('Rhinobatos'_tenuirostris(((((Rhombopterygia(Rhinobatos((((((Platyrhinoidis Tingitanius_tenuimandibulus)Platyrhina)Tethybatis)Britobatos_primarmatus)'Rhinobatos'_intermedius)'Rhinobatos'_latus))('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)))Raja)Zapteryx Trygonorrhina)Aptychotrema)Iansan))'Rhinobatos'_maronita)Rhynchobatus)Sclerorhychus)Pristis))((Narcine Narke)Torpedo)))*
+(Hexanchidae Pristiophorus(((Narcine Narke)Torpedo)((Pristis((Rhynchobatus(((Iansan((((('Rhinobatos'_hakelensis(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi))(('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)Raja Rhombopterygia)Zapteryx)Trygonorrhina)Aptychotrema))'Rhinobatos'_tenuirostris)'Rhinobatos'_maronita))Sclerorhychus))Spathobatis)))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Rhynchobatus('Rhinobatos'_maronita((Iansan(Aptychotrema((Raja(Rhinobatos(('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus))(((Zanobatos(Myliobatis Urolophus))'Rhinobatos'_whitfieldi)Rhombopterygia)'Rhinobatos'_hakelensis)Trygonorrhina Zapteryx)))'Rhinobatos'_tenuirostris)))(Torpedo(Narcine Narke))Sclerorhychus))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Rhynchobatus('Rhinobatos'_maronita((Iansan(Aptychotrema(((Raja(((Zanobatos(Myliobatis Urolophus))'Rhinobatos'_whitfieldi)Rhombopterygia)'Rhinobatos'_hakelensis(Rhinobatos(('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus)))Zapteryx)Trygonorrhina)))'Rhinobatos'_tenuirostris)))(Torpedo(Narcine Narke))Sclerorhychus))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Sclerorhychus(('Rhinobatos'_maronita('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Rhombopterygia((Zanobatos 'Rhinobatos'_whitfieldi)'Rhinobatos'_hakelensis)(Rhinobatos('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius)))Raja)Trygonorrhina Zapteryx)))))Rhynchobatus))((Torpedo(Narcine Narke))(Myliobatis Urolophus))))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Rhynchobatus('Rhinobatos'_maronita((Iansan(Aptychotrema(('Rhinobatos'_hakelensis Raja(((('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus)Rhinobatos)(((Zanobatos(Myliobatis Urolophus))'Rhinobatos'_whitfieldi)Rhombopterygia)))Zapteryx Trygonorrhina)))'Rhinobatos'_tenuirostris)))(Torpedo(Narcine Narke))Sclerorhychus))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Sclerorhychus(('Rhinobatos'_maronita('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Raja('Rhinobatos'_hakelensis(Rhinobatos('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius)))((Zanobatos 'Rhinobatos'_whitfieldi)Rhombopterygia)))Zapteryx Trygonorrhina)))))Rhynchobatus))((Torpedo(Narcine Narke))(Myliobatis Urolophus))))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Sclerorhychus(('Rhinobatos'_maronita('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Raja((('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)((Zanobatos 'Rhinobatos'_whitfieldi)'Rhinobatos'_hakelensis)Rhombopterygia))Zapteryx Trygonorrhina)))))Rhynchobatus))((Torpedo(Narcine Narke))(Myliobatis Urolophus))))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Sclerorhychus(('Rhinobatos'_maronita('Rhinobatos'_tenuirostris(Iansan(Aptychotrema(((((Zanobatos 'Rhinobatos'_whitfieldi)'Rhinobatos'_hakelensis)(('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)Rhombopterygia Raja)Zapteryx)Trygonorrhina)))))Rhynchobatus))((Torpedo(Narcine Narke))(Myliobatis Urolophus))))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis(Sclerorhychus(((Torpedo(Narcine Narke))(Myliobatis Urolophus))('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Rhombopterygia((Rhinobatos(('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus))('Rhinobatos'_hakelensis('Rhinobatos'_whitfieldi Zanobatos)))Raja)Zapteryx Trygonorrhina)))))))))))*
+(Hexanchidae Pristiophorus((Spathobatis((((('Rhinobatos'_tenuirostris(((((((((((Platyrhinoidis Tingitanius_tenuimandibulus)Platyrhina)Tethybatis)Britobatos_primarmatus)'Rhinobatos'_intermedius)'Rhinobatos'_latus)Rhinobatos)Raja 'Rhinobatos'_hakelensis(Rhombopterygia(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi)))Trygonorrhina Zapteryx)Aptychotrema)Iansan))'Rhinobatos'_maronita)Rhynchobatus)Sclerorhychus)Pristis))((Narcine Narke)Torpedo)))*
+(Hexanchidae Pristiophorus((Spathobatis((((('Rhinobatos'_tenuirostris((((((Rhinobatos((((((Platyrhinoidis Tingitanius_tenuimandibulus)Platyrhina)Tethybatis)Britobatos_primarmatus)'Rhinobatos'_intermedius)'Rhinobatos'_latus))(Rhombopterygia(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi))Raja 'Rhinobatos'_hakelensis)Zapteryx)Trygonorrhina)Aptychotrema)Iansan))'Rhinobatos'_maronita)Rhynchobatus)Sclerorhychus)Pristis))((Narcine Narke)Torpedo)))*
+(Hexanchidae Pristiophorus((Spathobatis((((('Rhinobatos'_tenuirostris((((Raja 'Rhinobatos'_hakelensis((((((((Platyrhinoidis Tingitanius_tenuimandibulus)Platyrhina)Tethybatis)Britobatos_primarmatus)'Rhinobatos'_intermedius)'Rhinobatos'_latus)Rhinobatos)(Rhombopterygia(((Myliobatis Urolophus)Zanobatos)'Rhinobatos'_whitfieldi))))Zapteryx Trygonorrhina)Aptychotrema)Iansan))'Rhinobatos'_maronita)Rhynchobatus)Sclerorhychus)Pristis))((Narcine Narke)Torpedo)))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Sclerorhychus(('Rhinobatos'_maronita('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Raja(Rhinobatos('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius)))((Zanobatos 'Rhinobatos'_whitfieldi)Rhombopterygia)'Rhinobatos'_hakelensis)Trygonorrhina Zapteryx)))))Rhynchobatus))((Torpedo(Narcine Narke))(Myliobatis Urolophus))))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Sclerorhychus(('Rhinobatos'_maronita('Rhinobatos'_tenuirostris(Iansan(Aptychotrema(((Raja((Zanobatos 'Rhinobatos'_whitfieldi)Rhombopterygia)'Rhinobatos'_hakelensis(Rhinobatos('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))))Zapteryx)Trygonorrhina)))))Rhynchobatus))((Torpedo(Narcine Narke))(Myliobatis Urolophus))))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis(Sclerorhychus(((Torpedo(Narcine Narke))(Myliobatis Urolophus))('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Rhombopterygia('Rhinobatos'_hakelensis('Rhinobatos'_whitfieldi Zanobatos))(Rhinobatos(('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus))Raja)Trygonorrhina Zapteryx)))))))))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis((Sclerorhychus(('Rhinobatos'_maronita('Rhinobatos'_tenuirostris(Iansan(Aptychotrema(('Rhinobatos'_hakelensis Raja((('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)((Zanobatos 'Rhinobatos'_whitfieldi)Rhombopterygia)))Zapteryx Trygonorrhina)))))Rhynchobatus))((Torpedo(Narcine Narke))(Myliobatis Urolophus))))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis(Sclerorhychus(((Torpedo(Narcine Narke))(Myliobatis Urolophus))('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Raja('Rhinobatos'_hakelensis(Rhinobatos(('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus))(Rhombopterygia('Rhinobatos'_whitfieldi Zanobatos))))Zapteryx Trygonorrhina)))))))))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis(Sclerorhychus(((Torpedo(Narcine Narke))(Myliobatis Urolophus))('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Raja(((('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus)Rhinobatos)('Rhinobatos'_hakelensis('Rhinobatos'_whitfieldi Zanobatos))Rhombopterygia))Zapteryx Trygonorrhina)))))))))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis(Sclerorhychus(((Torpedo(Narcine Narke))(Myliobatis Urolophus))('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema(((('Rhinobatos'_hakelensis('Rhinobatos'_whitfieldi Zanobatos))((('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus)Rhinobatos)Rhombopterygia Raja)Zapteryx)Trygonorrhina)))))))))))*
+(Hexanchidae Pristiophorus((Spathobatis(Pristis(('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Rhombopterygia((Rhinobatos(('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus))('Rhinobatos'_hakelensis('Rhinobatos'_whitfieldi Zanobatos)))Raja)Zapteryx Trygonorrhina))))))((Torpedo(Narcine Narke))(Myliobatis Urolophus)))))Sclerorhychus))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis(Sclerorhychus(((Torpedo(Narcine Narke))(Myliobatis Urolophus))('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Raja(Rhinobatos(('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus))(Rhombopterygia('Rhinobatos'_whitfieldi Zanobatos))'Rhinobatos'_hakelensis)Trygonorrhina Zapteryx)))))))))))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis(Sclerorhychus(((Torpedo(Narcine Narke))(Myliobatis Urolophus))('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema(((Raja(Rhombopterygia('Rhinobatos'_whitfieldi Zanobatos))'Rhinobatos'_hakelensis(Rhinobatos(('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus)))Zapteryx)Trygonorrhina)))))))))))*
+(Hexanchidae Pristiophorus((Spathobatis(Pristis(('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Rhombopterygia('Rhinobatos'_hakelensis('Rhinobatos'_whitfieldi Zanobatos))(Rhinobatos(('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus))Raja)Trygonorrhina Zapteryx))))))((Torpedo(Narcine Narke))(Myliobatis Urolophus)))))Sclerorhychus))*
+(Hexanchidae Pristiophorus(Spathobatis(Pristis(Sclerorhychus(((Torpedo(Narcine Narke))(Myliobatis Urolophus))('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema(('Rhinobatos'_hakelensis Raja(((('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus)Rhinobatos)(Rhombopterygia('Rhinobatos'_whitfieldi Zanobatos))))Zapteryx Trygonorrhina)))))))))))*
+(Hexanchidae Pristiophorus((Spathobatis(Pristis(('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Raja('Rhinobatos'_hakelensis(Rhinobatos(('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus))(Rhombopterygia('Rhinobatos'_whitfieldi Zanobatos))))Zapteryx Trygonorrhina))))))((Torpedo(Narcine Narke))(Myliobatis Urolophus)))))Sclerorhychus))*
+(Hexanchidae Pristiophorus((Spathobatis(Pristis(('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Raja(((('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus)Rhinobatos)('Rhinobatos'_hakelensis('Rhinobatos'_whitfieldi Zanobatos))Rhombopterygia))Zapteryx Trygonorrhina))))))((Torpedo(Narcine Narke))(Myliobatis Urolophus)))))Sclerorhychus))*
+(Hexanchidae Pristiophorus((Spathobatis(Pristis(('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema(((('Rhinobatos'_hakelensis('Rhinobatos'_whitfieldi Zanobatos))((('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus)Rhinobatos)Rhombopterygia Raja)Zapteryx)Trygonorrhina))))))((Torpedo(Narcine Narke))(Myliobatis Urolophus)))))Sclerorhychus))*
+(Hexanchidae Pristiophorus(Sclerorhychus(Spathobatis(((Torpedo(Narcine Narke))((Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Rhombopterygia((Rhinobatos('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius)))('Rhinobatos'_hakelensis('Rhinobatos'_whitfieldi(Zanobatos(Myliobatis Urolophus)))))Raja)Zapteryx Trygonorrhina)))))'Rhinobatos'_maronita))Pristis))))*
+(Hexanchidae Pristiophorus((Spathobatis(Pristis(('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Raja(Rhinobatos(('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus))(Rhombopterygia('Rhinobatos'_whitfieldi Zanobatos))'Rhinobatos'_hakelensis)Trygonorrhina Zapteryx))))))((Torpedo(Narcine Narke))(Myliobatis Urolophus)))))Sclerorhychus))*
+(Hexanchidae Pristiophorus((Spathobatis(Pristis(('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema(((Raja(Rhombopterygia('Rhinobatos'_whitfieldi Zanobatos))'Rhinobatos'_hakelensis(Rhinobatos(('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus)))Zapteryx)Trygonorrhina))))))((Torpedo(Narcine Narke))(Myliobatis Urolophus)))))Sclerorhychus))*
+(Hexanchidae Pristiophorus(Sclerorhychus(Spathobatis(((Torpedo(Narcine Narke))((Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Rhombopterygia('Rhinobatos'_hakelensis('Rhinobatos'_whitfieldi(Zanobatos(Myliobatis Urolophus))))(Rhinobatos('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius)))Raja)Trygonorrhina Zapteryx)))))'Rhinobatos'_maronita))Pristis))))*
+(Hexanchidae Pristiophorus((Spathobatis(Pristis(('Rhinobatos'_maronita(Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema(('Rhinobatos'_hakelensis Raja(((('Rhinobatos'_intermedius(Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)))'Rhinobatos'_latus)Rhinobatos)(Rhombopterygia('Rhinobatos'_whitfieldi Zanobatos))))Zapteryx Trygonorrhina))))))((Torpedo(Narcine Narke))(Myliobatis Urolophus)))))Sclerorhychus))*
+(Hexanchidae Pristiophorus(Sclerorhychus(Spathobatis(((Torpedo(Narcine Narke))((Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Raja('Rhinobatos'_hakelensis(Rhinobatos('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius)))(Rhombopterygia('Rhinobatos'_whitfieldi(Zanobatos(Myliobatis Urolophus))))))Zapteryx Trygonorrhina)))))'Rhinobatos'_maronita))Pristis))))*
+(Hexanchidae Pristiophorus(Sclerorhychus(Spathobatis(((Torpedo(Narcine Narke))((Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Raja((('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)('Rhinobatos'_hakelensis('Rhinobatos'_whitfieldi(Zanobatos(Myliobatis Urolophus))))Rhombopterygia))Zapteryx Trygonorrhina)))))'Rhinobatos'_maronita))Pristis))))*
+(Hexanchidae Pristiophorus(Sclerorhychus(Spathobatis(((Torpedo(Narcine Narke))((Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema(((('Rhinobatos'_hakelensis('Rhinobatos'_whitfieldi(Zanobatos(Myliobatis Urolophus))))(('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)Rhombopterygia Raja)Zapteryx)Trygonorrhina)))))'Rhinobatos'_maronita))Pristis))))*
+(Hexanchidae Pristiophorus(Sclerorhychus(Spathobatis(((Torpedo(Narcine Narke))((Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema((Raja(Rhinobatos('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius)))(Rhombopterygia('Rhinobatos'_whitfieldi(Zanobatos(Myliobatis Urolophus))))'Rhinobatos'_hakelensis)Trygonorrhina Zapteryx)))))'Rhinobatos'_maronita))Pristis))))*
+(Hexanchidae Pristiophorus(Sclerorhychus(Spathobatis(((Torpedo(Narcine Narke))((Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema(((Raja(Rhombopterygia('Rhinobatos'_whitfieldi(Zanobatos(Myliobatis Urolophus))))'Rhinobatos'_hakelensis(Rhinobatos('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))))Zapteryx)Trygonorrhina)))))'Rhinobatos'_maronita))Pristis))))*
+(Hexanchidae Pristiophorus(Sclerorhychus(Spathobatis(((Torpedo(Narcine Narke))((Rhynchobatus('Rhinobatos'_tenuirostris(Iansan(Aptychotrema(('Rhinobatos'_hakelensis Raja((('Rhinobatos'_latus((Britobatos_primarmatus((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis))'Rhinobatos'_intermedius))Rhinobatos)(Rhombopterygia('Rhinobatos'_whitfieldi(Zanobatos(Myliobatis Urolophus))))))Zapteryx Trygonorrhina)))))'Rhinobatos'_maronita))Pristis))))*
+(Hexanchidae Pristiophorus(Sclerorhychus((Pristis((Torpedo(Narcine Narke))((('Rhinobatos'_intermedius 'Rhinobatos'_latus(((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)Britobatos_primarmatus))(Rhynchobatus 'Rhinobatos'_maronita 'Rhinobatos'_tenuirostris))(Iansan(Aptychotrema(Rhinobatos(Raja(Zapteryx Trygonorrhina)(('Rhinobatos'_whitfieldi(Zanobatos(Myliobatis Urolophus)))'Rhinobatos'_hakelensis)Rhombopterygia)))))))Spathobatis)))*
+(Hexanchidae Pristiophorus((Pristis(((Torpedo(Narcine Narke))((('Rhinobatos'_intermedius 'Rhinobatos'_latus(((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)Britobatos_primarmatus))(Rhynchobatus 'Rhinobatos'_maronita 'Rhinobatos'_tenuirostris))(Aptychotrema(Rhinobatos(Raja(Zapteryx Trygonorrhina)(('Rhinobatos'_whitfieldi(Zanobatos(Myliobatis Urolophus)))'Rhinobatos'_hakelensis)Rhombopterygia)))Iansan))Sclerorhychus))Spathobatis))*
+(((((((Narcine Narke)Torpedo)((('Rhinobatos'_intermedius 'Rhinobatos'_latus(((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)Britobatos_primarmatus))('Rhinobatos'_tenuirostris Rhynchobatus 'Rhinobatos'_maronita))((((Raja(('Rhinobatos'_whitfieldi(Zanobatos(Myliobatis Urolophus)))Rhombopterygia)'Rhinobatos'_hakelensis(Zapteryx Trygonorrhina))Rhinobatos)Aptychotrema)Iansan)))Pristis)Spathobatis)Sclerorhychus)Hexanchidae Pristiophorus)*
+(((((((Narcine Narke)Torpedo)((('Rhinobatos'_intermedius 'Rhinobatos'_latus(((Platyrhina(Platyrhinoidis Tingitanius_tenuimandibulus))Tethybatis)Britobatos_primarmatus))('Rhinobatos'_tenuirostris Rhynchobatus 'Rhinobatos'_maronita))Iansan(((Raja(('Rhinobatos'_whitfieldi(Zanobatos(Myliobatis Urolophus)))Rhombopterygia)'Rhinobatos'_hakelensis(Zapteryx Trygonorrhina))Rhinobatos)Aptychotrema)))Sclerorhychus)Pristis)Spathobatis)Hexanchidae Pristiophorus)*
+(Hexanchidae Pristiophorus((((((((Tethybatis(Platyrhina(Tingitanius_tenuimandibulus Platyrhinoidis)))Britobatos_primarmatus('Rhinobatos'_intermedius(((((Trygonorrhina((((((Myliobatis Urolophus)((Narcine Narke)Torpedo))Zanobatos)'Rhinobatos'_whitfieldi)Rhombopterygia)Raja 'Rhinobatos'_hakelensis))Zapteryx)(Iansan Aptychotrema))Rhinobatos)'Rhinobatos'_latus)))'Rhinobatos'_tenuirostris)'Rhinobatos'_maronita)Rhynchobatus)Pristis)Spathobatis)Sclerorhychus))*
+(Hexanchidae Pristiophorus((((((((Tethybatis(Platyrhina(Tingitanius_tenuimandibulus Platyr

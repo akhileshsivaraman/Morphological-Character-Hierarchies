@@ -1,0 +1,372 @@
+#NEXUS
+[written Tue May 19 14:21:27 BST 2020 by Mesquite  version 3.40 (build 877) at Akhileshs-MacBook-Air.local/127.0.0.1]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=30;
+	TAXLABELS
+		Hexanchidae Pristiophorus Sclerorhychus Spathobatis Pristis Torpedo Narcine Narke Iansan Rhynchobatus '''Rhinobatos'' tenuirostris' '''Rhinobatos'' maronita' Aptychotrema Zapteryx Trygonorrhina '''Rhinobatos'' hakelensis' Raja Rhombopterygia '''Rhinobatos'' whitfieldi' Zanobatos Myliobatis Urolophus Rhinobatos '''Rhinobatos'' latus' '''Rhinobatos'' intermedius' Britobatos_primarmatus Tethybatis Platyrhina Platyrhinoidis Tingitanius_tenuimandibulus 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  'Matrix in file "Claeson2013.nex"';
+	DIMENSIONS  NCHAR=54;
+	FORMAT DATATYPE = STANDARD GAP = - MISSING = ? SYMBOLS = "  0 1 2 3 4";
+	CHARSTATELABELS 
+		1 'Rostral cartilage Shape (BD2004, char1)' /  stout filamentous absent 'subtriangular: a tapered rostrum that fails to reach the anterior margin of the snout',
+		2 'Rostral cartilage (MA2004, char24)' /  complete fails_to_reach_tip_of_the_snout absent,
+		3 'Rostral appendix (MA2004, char25)' /  absent present,
+		4 'Precerebral fossa (BD2004, char11)' /  present_as_a_circular_ovoid_concavity extending_anteriorly_and_roofed_to_form_a_tube,
+		5 'Antorbital cartilage (BD2004, char2)' /  absent present,
+		6 Antorbital_cartilage_shape /  'unbranched and narrow, tapering distally' long_and_branched 'plate-like',
+		7 Antorbital_cartilage_projection_direction /  'postero-laterally' anteriorly,
+		8 'Antorbital-propterygium connection (BD2004, char4; MA2004, char7)' /  free directly_jointing,
+		9 'Nasal capsules (BD2004, char5)' /  with_a_straight_and_or_blunt_anterior_margin 'witha horn-like anterior process',
+		10 'Nasal capsule (MA2004, char27)' /  laterally_expanded ventrolaterally_expanded,
+		11 'Supraorbital crest (BD2004, char6; MA2004, char30)' /  present absent,
+		12 'Postorbital process (BD2004, char7; MA2004, char32)' /  present absent,
+		13 'Location of postorbital process (MA2004, char32)' /  narrow_and_in_otic_region absent broad_and_shelflike_and_in_otic_region broad_and_shelf_like_in_orbital_region,
+		14 'Jugal arch (MA2004, char35)' /  absent present,
+		15 'Basal angle of neurocranium (BS1996, char 12; MA2004, char28)' /  present absent,
+		16 'Relation between palatoquadrate and neurocranium (BD2004, char8; MA2004, char2)' /  articulated loss_of_orbital_articulation,
+		17 'Labial cartilages (MA2004, char38)' /  present absent,
+		18 Jaw_shape /  straight with_sigmoidal_curvature,
+		19 'Osteodentine in tooth root (MA2004, char17)' /  absent present_in_roots_of_large_teeth_only widespread_occurence_in_tooth_roots,
+		20 'Pulp cavity of tooth root (MA2004, char16)' /  large roots_with_large_pulp_cavities tooth_roots_with_small_pulp_cavities roots_that_lack_pulp_cavities,
+		21 Lingual_uvula_on_teeth /  absent incipient_or_poorly_developed well_developed,
+		22 Differentiated_lateral_uvulae_on_teeth /  absent incipient well_developed,
+		23 Tooth_root_main_vascularisation /  'multiple, irreular (anaulacorhizous)' 'single paired opening (hemiaulacorhizous)' 'open or secondarily roofed (holoaulacorhizous)' fused_teeth_that_are_polyaulacorhizous,
+		24 Lingual_projection_of_root_lob_median_to_paired_lingual_foramina /  paired_foramina_absent lingual_projection_present lingual_projection_absent,
+		25 'Dorsal groundmass dentcles (Deynat 2005)' /  ribbed 'smooth, arrowhead shaped' 'smooth, oval' absent,
+		26 'Medial part of hyomandibular (MA2004, char39)' /  narrow expanded,
+		27 'Basihyal and first hypobranchial (MA2004, char43)' /  both_present_and_unsegmented basihyal_is_segmented basihyal_is_absent basihyal_and_first_hypobranchial_cartilages_are_absent,
+		28 'Ceratohyal (MA2004, char44)' /  fully_developed reduced_or_absent,
+		29 'Distal tip of last ceratobranchial (BD2004, char9; MA2004 char4)' /  independent_of_scapulocoracoid articulating_with_scapulocoracoid,
+		30 'Pseudohyoid bar (BD2004, char10; MA2004, char3)' /  absent present,
+		31 'Paired fins (BD2004, char13 and char19; MA2004, char60)' /  aplesodic plesodic,
+		32 'Form of pectoral fin (BD2004, char14)' /  not_elongated_anteriorly anteriorly_elongated,
+		33 'Pectoral propterygium (BD2004, char15; MA2004, char55)' /  not_reaching_the_nasal_capsules extending_as_far_as_the_nasal_capsules extending_far_beyond_the_nasal_capsules,
+		34 'Pectoral radials (BD2004, char16)' /  not_reaching_the_nasal_capsules extending_as_far_as_the_nasal_capsules extending_far_beyond_the_nasal_capsules,
+		35 'Posterior corner of the pectoral fin (BD2004, char17)' /  not_reaching_the_pelvic_fin extending_to_the_pelvic_fin_origin,
+		36 'Electric ampullae on the pectoral fins (BD2004, char18)' /  absent present,
+		37 'Postpelvic process (BD2004, char20)' /  absent present,
+		38 'Synarcual (BD2004, char23;' /  absent present,
+		39 'Extent of Synarcual Lip (new)' /  short long,
+		40 'Suprascapulae (BD2004, char24+25; MA2004, char6; new observations)' /  free_of_vertebral_column articulated_with_vertebral_column 'Fused to vertebral column (new)',
+		41 'Scapular process (BD2004, char26;MA2004, char49)' /  long short,
+		42 'Ball and socket articulation (MA2004, char46)' /  absent present,
+		43 'Mesocondyle (MDM1996, char48)' /  equidistant Scapulocoracoid_is_elongated_between_mesocondyle_and_metacondyle Scapulocoracoid_is_elongated__between_procondyle_and_mesocondyle replaced_with_a_ridge,
+		44 'Posterior section of propterygium (MA2004, char56)' /  does_not_extend_posterior_to_procondyle extends_behind_procondyle,
+		45 'Mesoptergium (MA2004, char58)' /  present_and_single fragmented_or_absent,
+		46 'Shape of puboischadic bar (MA2004, char62)' /  platelike narrow_and_strongly_arched_without_distinct_prepelvic_processes 'narrow, strongly arched with a triangular medial prepelvic process' 'narrow, moderately arched with barlike medial prepelvic process',
+		47 'Pectoral radials (BD2004, char28; MA2004, char57)' /  'all articulating with the propterygium, mesopterygium, and metapterygium' 'some articulating directly withteh scapulocoracoid, between the meso and the metapterygium' many_articulating_iwth_the_scapulocoracoid_due_to_the_lack_of_mesopterygium,
+		48 'Alar thorns (BD2004, char21, MD1998)' /  absent present,
+		49 'Parallel rows of enlarged thorns over the posterior part of the disc and tail (BD2004, char22)' /  absent present,
+		50 'Serrated tail spine (MA2004, char13)' /  absent present,
+		51 'Placoid scales (MA2004, char14)' /  uniformly_present sparsly_to_densly_covered_with_placoid_scales_on_the_dorsal_surface_only free_of_denticles,
+		52 'Large placoid scales or thorns (MA2004, char15)' /  absent present,
+		53 'Clasper length (MA2004, char64)' /  short long,
+		54 Rostral_cartilage /  absent present ; 
+	MATRIX
+	Hexanchidae                  00000---00000000000?000000000000000000-000000000000001
+	Pristiophorus                0001101000000000100?1010000?0000000000-000000000000001
+	Sclerorhychus                0001100000000??1100?102100??1?110000?11000000?000000?1
+	Spathobatis                  000?100000???0?1100?20210(0 1)?010010000010000000010000111
+	Pristis                      000110000000010110022121000111010000010100000000000011
+	Torpedo                      000011100011-01110000022312111110111110010000000002001
+	Narcine                      000011100111-01100000022302111110111011010000000002001
+	Narke                        000011100111-01100000022302011110111011010000?00002001
+	Iansan                       00?0100000000111100?22210001111101100111002000000001?1
+	Rhynchobatus                 001110001000011101002021000111110000011100000100000111
+	'''Rhinobatos'' tenuirostris'001010001?000??1?0??222100??111100?001?100????000?01?1
+	'''Rhinobatos'' maronita'    0010100010000??1?0??1021?0??111100000101000100000001?1
+	Aptychotrema                 001010000001-1111001212100?111110110?11100100?100001?1
+	Zapteryx                     001010010000011110022121000111111210011100100010000111
+	Trygonorrhina                0010100100000111?0002121000111111210011100100010000111
+	'''Rhinobatos'' hakelensis'  00101001000001?1?00?1021?0??111112100111001100100001?1
+	Raja                         101010010000011110101021300111111210011200100011001111
+	Rhombopterygia               0010100100000?11?00?1021?0??1111121001?1001001100001?1
+	'''Rhinobatos'' whitfieldi'  00101001000001?1?00?1021?0??111112100111000111100001?1
+	Zanobatos                    --00100100000111?0021022000111112210111100011120000100
+	Myliobatis                   --0010010100301110230032302111112200010201311220012000
+	Urolophus                    --0010010100201110010022300111112200010201211100012000
+	Rhinobatos                   001010010000011101021021000111110110011100100010000111
+	'''Rhinobatos'' latus'       0010100110000??1?0??102100??111111100101000000100001?1
+	'''Rhinobatos'' intermedius' 001010011?000??1?0??202100??1111111001?1000000000001?1
+	Britobatos_primarmatus       00101001100000?1000?222100??11111210?101001100001001?1
+	Tethybatis                   31??????00?00?11?0-------0????1122100101?0??0000000111
+	Platyrhina                   31001201100001110002222120011111221011?100010000100111
+	Platyrhinoidis               310012011000011110022121200111112210110100010000100101
+	Tingitanius_tenuimandibulus  3?00120?10000111100?212110--1--1---0110100110000100111
+
+;
+
+END;
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1 -  54;
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Mk1 (est.)':  1 -  54;
+END;
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1589894487889;
+		linkFile 'Anatrees-C2013.txt.nex';
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 6694385402991054776;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 4323530912753291921;
+			mqVersion 340;
+			checksumv 0 3 4030676880 null  getNumChars 54 numChars 54 getNumTaxa 30 numTaxa 30   short true   bits 15   states 15   sumSquaresStatesOnly 5460.0 sumSquares 5460.0 longCompressibleToShort false usingShortMatrix true   NumFiles 2 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 101;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1432 728;
+			setLocation 8 24;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #6694385402991054776  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				suppressEPCResponse;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlockInt 0;
+					setTreeBlockID 01722cd8cdd79;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 1560.1589890578880.6813865264163643185;
+				getTreeWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1331 656;
+					setLocation 8 24;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					setActive;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareLineTree.SquareLineTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							branchLengthsToggle off;
+							toggleScale on;
+							toggleBroadScale off;
+							toggleCenter on;
+							toggleEven on;
+							setFixedTaxonDistance 0;
+						endTell;
+						setEdgeWidth 4;
+						showEdgeLines on;
+						orientUp;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					showBranchColors on;
+					labelBranchLengths off;
+					centerBrLenLabels on;
+					showBrLensUnspecified on;
+					showBrLenLabelsOnTerminals on;
+					setBrLenLabelColor 0 0 255;
+					setNumBrLenDecimals 6;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						toggleColorPartition off;
+						toggleColorAssigned on;
+						toggleShadePartition off;
+						toggleShowFootnotes on;
+						toggleNodeLabels on;
+						toggleCenterNodeNames off;
+						toggleShowNames on;
+						namesAngle ?;
+					endTell;
+				endTell;
+					setTreeNumber 1;
+					setDrawingSizeMode 0;
+					toggleLegendFloat on;
+					scale 0;
+					toggleTextOnTree off;
+					togglePrintName on;
+					showWindow;
+				endTell;
+				desuppressEPCResponse;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocDoubles.DrawTreeAssocDoubles;
+				tell It;
+					setOn on;
+					toggleShow consensusFrequency;
+					toggleShow bootstrapFrequency;
+					toggleShow posteriorProbability;
+					toggleShow consensusFrequency;
+					toggleShow posteriorProbability;
+					toggleShow bootstrapFrequency;
+					setDigits 4;
+					setThreshold ?;
+					writeAsPercentage off;
+					toggleCentred off;
+					toggleHorizontal on;
+					toggleWhiteEdges on;
+					toggleShowOnTerminals on;
+					setFontSize 10;
+					setOffset 0  0;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocStrings.DrawTreeAssocStrings;
+				tell It;
+					setOn on;
+					toggleCentred on;
+					toggleHorizontal on;
+					setFontSize 10;
+					setOffset 0  0;
+					toggleShowOnTerminals on;
+				endTell;
+				getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #4323530912753291921 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1331 656;
+					setLocation 8 24;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					endTell;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					colorCells  #mesquite.charMatrices.NoColor.NoColor;
+					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges on;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleAutoWCharNames on;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					toggleShowPaleExcluded off;
+					togglePaleInapplicable on;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize on;
+					toggleColorsPanel off;
+					toggleDiagonal on;
+					setDiagonalHeight 80;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.AlterData.AlterData;
+				tell It;
+					toggleBySubmenus off;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor;
+				tell It;
+					panelOpen true;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

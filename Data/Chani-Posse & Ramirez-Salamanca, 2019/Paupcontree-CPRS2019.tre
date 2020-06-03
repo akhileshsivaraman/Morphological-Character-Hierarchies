@@ -1,0 +1,39 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Fri May 22 10:12:41 2020]
+[!
+>Consensus of 3216 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 138 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        18 characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 120
+>    Gaps are treated as "missing"
+>    Multistate taxa interpreted as uncertainty
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 50
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 10
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 2.1886e+10
+>  Score of best tree(s) found = 635
+>  Number of trees retained = 3216
+>  Note: Effectiveness of search may have been diminished due to tree-buffer overflow.
+>  Time used = 00:44:55 (CPU time = 00:43:41.2)
+]
+	tree Strict = [&U] (Arrowinus_minutus,(Amblyopinus_emarginatus,Holisus_prolixus),(Cyrtoquedius_frenatus_group,(Creophilus_maxillosus,Platydracus_chrysotrichopterus,((Misantlius_gebieni,(Philothalpus_bilobus,Philothalpus_falini)),((Xenopygus_analis,Nordus_elytisi),(((Actinus_imperialis,Hesperus_baltimorensis),Laetulonthus_laetulus),((Agacerus_pectinatus,Trapeziderus_diversus),((((((Belonuchus_atticida,(Hesperus_argentinus,Hesperus_bruchi,Hesperus_tremolerasi),Hesperus_ferrugineus,Hesperus_zitschkai),(((Belonuchus_barbicornis,Ophionthus_serpentinus),(Belonuchus_cephalotes,Belonuchus_gracilis),(Belonuchus_albovariegatus,Paederomimus_nigrinus),Belonuchus_subaeneus,Linoderus_gracilipes,Neopescolinus_nevermanni,(Paederomimus_nobilis,Paederomimus_salvini),Pescolinus_palmatus),(Hesperus_novo-teutonicus,Paederomimus_angusticollis,Paederomimus_cf_contractus,Paederomimus_difformiceps),Hesperus_ornaticornis,Odontolinus_fasciatus,Paederomimus_aeneiceps,(Paederomimus_capitalis_group,Paederomimus_pectoralis),Paederomimus_gentilis,Paederomimus_lustrator_group),(((Belonuchus_cognatus,Belonuchus_haemorrhoidalis),Belonuchus_mordens),(Belonuchus_pollens,Belonuchus_rufipennis)),Chroaptomus_flagrans,(((Delgadobius_amazonensis,(Philonthus_callosipennis,Philonthus_diamantinus)),Phileciton_badariottii),(Philonthus_fulgipennides,Philonthus_laetipennis)),(Ecitophytes_coniceps,Paederallus_sp_undescribed),Proxenobius_borgmeieri),Leptopeltoides_columbiensis,Leptopeltus_flavipennis),(Bisnius_sordidus,Gabrius_picipennis)),Flohria_subcoerulea),(((((Cafius_seminitens,Cafius_xantholoma),(((Philonthus_bicoloristylus,Philonthus_lynchi),Philonthus_bonariensis),Philonthus_flavolimbatus)),Philonthus_rectangulus),((Philonthus_figulus,Philonthus_longicornis),Philonthus_sericans)),((Philonthus_caeruleipennis,Philonthus_cyanipennis),(Philonthus_nitidus,Philonthus_splendens)))))))))));
+end;

@@ -1,0 +1,13 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Mon May 11 06:20:41 2020]
+[!
+>Consensus of 93 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Tree(s) input to PAUP* as user-defined tree(s)
+>
+>93 trees read from TREES block; time used = 0.01 sec (CPU time = 0.01 sec)
+]
+	tree Strict = [&U] (Alytes_obstetricans,Discoglossus_pictus,Xenopus_laevis,(Bombina_variegata,(Spea_bombifrons,Pelodytes_punctatus,(Cratia_gracilis,Heleophryne_natalensis,(Limnodynastes_dorsalis,Heleioporus_eyeri,Telmatobius_scrocchii,Eurycephalella_alcinae,Arariphrynus_placidoi,Uberabatrachus_carvalhoi,Cyclorana_australis,(Thaumastosaurus_sulcatus,(Hemiphractus,((Ceratophrys_ornata,(Lepidobatrachus_laevis,Beelzebufo_ampinga)),(Baurubatrachus_pricei,Chacophrys_pierottii,Wawelia_gerholdi)),Calyptocephalella_gayi,Osteopilus,Triprion_petasatus)),Melanophryniscus_stelzneri,(Dermatonotus_muelleri,Phrynomantis_bifasciatus),Nannophryne_variegatus,Allophryne_ruthveni,Batrachophrynus,Rhinoderma_darwinii,(Bufo_granulosus,Bufo_viridis),Physalaemus_biligonigerus,Odontophrynus_americanus,Pseudis_paradoxa,Pristimantis_huicundo,Opisthohylax_immaculatus,Leptopelis_christyi,Arthroleptis_adolphifriederic,Chiromantis_rufescens,Guibemantis_liber,Hylarana_albolabris,Phrynobatrachus_acutirostris,Conraua_crassipes,Ptychadena_mascareniensis,Rana_temporaria,Afrana_angolensis,Amnirana_albolabris,(Ceratobatrachus_guentheri,(Aubria_subsigillata,Pyxicephalus_adspersus)),Astylosternus_diadematus,Hoplobatrachus_occipitalis,(Afrixalus_fulvovittatus,Kassina_senegalensis),Callulops_kopsteini,Dyscophus,(Cardioglossa_cyaneospila,Hymenochirus_boettgeri,Schoutedenella_sylvatica),Hyperolius_kivuensis,Phlyctimantis_verrucosus,Gastrotheca_gracilis,Dendrosophus_nanus,Flectonotus_fitzgeraldi,Isthmohyla_rivularis,(Phyllomedusa_sauvagii,(Hypsiboas_andinus,(Leptodactylus_ocellatus,(Pleurodema_thaul,Thoropa_miliaris)),Litoria_lesueurii,Scinax_jolyi)),(Mixophyes_schevilli,Platyplectrum_ornatum)),(Telmatobufo_venustus,(Megophrys_nasuta,Sooglossus_sechellensis))),(Pelobates_cultripes,Scaphiopus_couchii))));
+end;

@@ -1,0 +1,93 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Wed May 27 08:26:08 2020]
+[!
+>Data file = Rose2014.nex
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 245 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        6 characters are constant (proportion = 0.0244898)
+>        12 variable characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 227
+>    Gaps are treated as "missing"
+>    Multistate taxa interpreted as uncertainty
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 100
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 10
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 50670625
+>  Score of best tree(s) found = 1203
+>  Number of trees retained = 2
+>  Time used = 10.82 sec (CPU time = 10.79 sec)
+]
+	Translate
+		1 Eotitanops,
+		2 Palaeosyops,
+		3 Orohippus,
+		4 Epihippus,
+		5 Mesohippus,
+		6 Eohippus,
+		7 Protorohippus,
+		8 Xenicohippus,
+		9 Sifrippus,
+		10 Pliolophus,
+		11 Hyracotherium,
+		12 Palaeotherium,
+		13 Plagiolophus,
+		14 Leptolophus,
+		15 Hallensia,
+		16 Propachynolophus,
+		17 Propalaeotherium,
+		18 Lambdotherium,
+		19 Homogalax,
+		20 Cardiolophus,
+		21 Eomoropus,
+		22 Litolophus,
+		23 Moropus,
+		24 Lophiodon,
+		25 Isectolophus,
+		26 Heptodon,
+		27 Helaletes,
+		28 Lophialetes,
+		29 Schlosseria,
+		30 Deperetella,
+		31 Teleolophus,
+		32 Hyrachyus,
+		33 Phenacodus,
+		34 Ectocion,
+		35 Tetraclaenodon,
+		36 Meniscotherium,
+		37 Cambaytherium,
+		38 Nakusia,
+		39 Anthracobune1,
+		40 Anthracobune,
+		41 Pilgrimella,
+		42 Radinskya,
+		43 Phenacolophus,
+		44 Eritherium,
+		45 Phosphatherium,
+		46 Moeritherium,
+		47 Numidotherium,
+		48 Dimaitherium,
+		49 Microhyrax,
+		50 Saghatherium,
+		51 Diacodexis,
+		52 Asioryctes,
+		53 Didelphis
+		;
+tree 'PAUP_1' = [&U] (1,2,((((((((((((3,(4,5)),(12,(13,14))),17),16),11),(((6,7),8),10)),9),15),((((33,((34,(36,(43,((44,((45,(46,47)),(48,(49,50)))),(51,(52,53)))))),35)),(37,38)),42),((39,40),41))),(19,20)),((((21,23),22),24),(25,(26,(27,(((28,29),(30,31)),32)))))),18));
+tree 'PAUP_2' = [&U] (1,2,((((((((((((3,(4,5)),(12,(13,14))),17),16),11),(((6,7),8),10)),9),15),((((33,(((34,36),((43,((44,(48,(49,50))),(45,(46,47)))),(51,(52,53)))),35)),(37,38)),42),((39,40),41))),(19,20)),((((21,23),22),24),(25,(26,(27,(((28,29),(30,31)),32)))))),18));
+End;

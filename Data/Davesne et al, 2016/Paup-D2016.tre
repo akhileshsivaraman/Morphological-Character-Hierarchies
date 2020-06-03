@@ -1,0 +1,64 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Wed May 13 15:13:57 2020]
+[!
+>Data file = Davesne2016.nex
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 67 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        1 character is parsimony-uninformative
+>        Number of parsimony-informative characters = 66
+>    Gaps are treated as "missing"
+>    Multistate taxa interpreted as uncertainty
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 100
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 10
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 1000
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 2388836
+>  Score of best tree(s) found = 194
+>  Number of trees retained = 1
+>  Time used = 0.82 sec (CPU time = 0.81 sec)
+]
+	Translate
+		1 Synodus,
+		2 Gymnoscopelus,
+		3 Ctenothrissa,
+		4 Pycnosteroides,
+		5 Aipichthys,
+		6 Aipichthyoides,
+		7 Omosomopsis,
+		8 Sphenocephalus,
+		9 Stichocentrus,
+		10 Velifer,
+		11 Lampris,
+		12 Regalecus,
+		13 Stylephorus,
+		14 Polymixia,
+		15 Aphredoderus,
+		16 Percopsis,
+		17 Bregmaceros,
+		18 Merluccius,
+		19 Halobatrachus,
+		20 Brotula,
+		21 Cyttus,
+		22 Zeus,
+		23 Hoplostethus,
+		24 Sargocentron,
+		25 Dicentrarchus,
+		26 Lates
+		;
+tree 'PAUP_1' = [&R] (1:3,(2:5,(3:1,(((4:2,((7:3,(8:3,(((13:7,(21:2,22:3):7):6,(17:3,18:1):4):12,(15:0,16:4):3):4):6):5,14:2):4):3,((9:1,23:1):2,((((19:5,20:6):5,26:0):1,25:0):9,24:1):5):9):5,(5:0,(6:1,(10:3,(11:0,12:7):7):9):6):4):5):8):0):0;
+End;

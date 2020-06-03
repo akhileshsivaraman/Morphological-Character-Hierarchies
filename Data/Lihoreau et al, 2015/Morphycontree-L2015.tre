@@ -1,0 +1,13 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Tue May 26 11:47:14 2020]
+[!
+>Consensus of 4 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Tree(s) input to PAUP* as user-defined tree(s)
+>
+>4 trees read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+]
+	tree Strict = [&U] (Dichobune_leporina,Homacodon,(Gobiohyus,(((Cebochoerus_campichii,(Kenyasus,(Palaeochoerus,Perchoerus))),(Cebochoerus_depereti,(Siamotherium_krabiense,((Anthracokeryx_tenuis,((Anthracokeryx_thailandicus,Microbunodon_minimum),((Bothriogenys_orientalis,(Lokone,(Morotochoerus_ugandanensis,(Kenyapotamus_coryndonae,(Archaeopotamus_harvardi,Hexaprotodon_garyam))))),((((Bothriogenys_gorringei,(Bothriogenys_fraasi,(Bothriogenys_andrewsi,(Brachyodus_aequatorialis,(Brachyodus_onoideus,Brachyodus_depereti))))),(Bothriodon_velaunus,Aepinacodon)),(Elomeryx_crispus,Elomeryx_borbonicus)),(Afromeryx_zelteni,(Sivameryx_paleindicus,(Merycopotamus_nanus,Merycopotamus_dissimilis,(Libycosaurus_anisae,Libycosaurus_bahri)))))))),(Myaingtherium_kenyapotamoides,(H_occidentalis,(Anthracotherium_chaimanei,Anthracotherium_magnum))))))),((Mixtotherium,(((Amphimeryx_murinus,Paroxacron_valdense),(Xiphodon_castrense,(Diplobune_minor,Dacrytherium_ovinum))),(Merycoidon,(Lophiomeryx_chalanati,Archeomeryx)))),(Amphiragha,Hallebune)))),(Entelodon,(Khirtaria,Indohyus),Gujaratia,B_lysitensis));
+end;

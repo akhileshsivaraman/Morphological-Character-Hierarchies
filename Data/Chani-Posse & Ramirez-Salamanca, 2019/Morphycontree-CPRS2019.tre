@@ -1,0 +1,13 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Sun May 31 09:33:11 2020]
+[!
+>Consensus of 1056 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Tree(s) input to PAUP* as user-defined tree(s)
+>
+>1056 trees read from TREES block; time used = 19.88 sec (CPU time = 0.09 sec)
+]
+	tree Strict = [&U] (Arrowinus_minutus,(Amblyopinus_emarginatus,Holisus_prolixus),(Cyrtoquedius_frenatus_group,(Creophilus_maxillosus,Platydracus_chrysotrichopterus,((Misantlius_gebieni,(Philothalpus_bilobus,Philothalpus_falini)),((Xenopygus_analis,Nordus_elytisi),((Laetulonthus_laetulus,(Actinus_imperialis,Hesperus_baltimorensis)),(Agacerus_pectinatus,Flohria_subcoerulea,Philonthus_rectangulus,Philonthus_flavolimbatus,Philonthus_bonariensis,Philonthus_lynchi,Delgadobius_amazonensis,(((Leptopeltoides_columbiensis,(Leptopeltus_flavipennis,(((Proxenobius_borgmeieri,(Belonuchus_atticida,Hesperus_zitschkai,Hesperus_ferrugineus,(Hesperus_bruchi,Hesperus_argentinus,Hesperus_tremolerasi))),(Ecitophytes_coniceps,Paederallus_sp_undescribed)),((Paederomimus_gentilis,(Paederomimus_aeneiceps,(((Hesperus_ornaticornis,(((Belonuchus_subaeneus,((Belonuchus_barbicornis,Ophionthus_serpentinus),(Paederomimus_nobilis,Paederomimus_salvini),(Neopescolinus_nevermanni,(Linoderus_gracilipes,Pescolinus_palmatus)))),(Belonuchus_albovariegatus,Paederomimus_nigrinus)),(Belonuchus_cephalotes,Belonuchus_gracilis))),(Odontolinus_fasciatus,(Paederomimus_capitalis_group,Paederomimus_pectoralis))),(Paederomimus_lustrator_group,(Hesperus_novo-teutonicus,Paederomimus_angusticollis,(Paederomimus_cf_contractus,Paederomimus_difformiceps)))))),((Chroaptomus_flagrans,((Belonuchus_mordens,(Belonuchus_cognatus,Belonuchus_haemorrhoidalis)),(Belonuchus_pollens,Belonuchus_rufipennis))),(Phileciton_badariottii,(Philonthus_fulgipennides,Philonthus_laetipennis))))))),(Bisnius_sordidus,Gabrius_picipennis)),(Philonthus_callosipennis,Philonthus_diamantinus)),Philonthus_bicoloristylus,((Trapeziderus_diversus,(Cafius_seminitens,Cafius_xantholoma)),(Philonthus_nitidus,Philonthus_splendens),(Philonthus_longicornis,Philonthus_figulus,Philonthus_sericans)),(Philonthus_caeruleipennis,Philonthus_cyanipennis))))))));
+end;

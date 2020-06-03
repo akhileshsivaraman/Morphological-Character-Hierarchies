@@ -1,0 +1,14 @@
+branchswap
+branchswap = TBR
+gap = inapplicable
+ratchet = yes
+addseq = random
+nreps = 125
+hold = 10
+hsearch
+heurstic
+heuristic
+save
+Morphy-A&H2006.tre
+log stop
+log

@@ -1,0 +1,11 @@
+addseq=random
+hold=10
+branchswap=tbr
+gap=inapp
+ratchet=yes
+nreps=50
+heur
+ratchet=no
+heur
+nreps=100
+heur

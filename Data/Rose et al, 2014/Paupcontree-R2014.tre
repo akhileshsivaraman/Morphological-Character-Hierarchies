@@ -1,0 +1,39 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Wed May 27 08:26:18 2020]
+[!
+>Consensus of 2 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 245 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        6 characters are constant (proportion = 0.0244898)
+>        12 variable characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 227
+>    Gaps are treated as "missing"
+>    Multistate taxa interpreted as uncertainty
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 100
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 10
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 50670625
+>  Score of best tree(s) found = 1203
+>  Number of trees retained = 2
+>  Time used = 10.82 sec (CPU time = 10.79 sec)
+]
+	tree Strict = [&U] (Eotitanops,Palaeosyops,((((((((((((Orohippus,(Epihippus,Mesohippus)),(Palaeotherium,(Plagiolophus,Leptolophus))),Propalaeotherium),Propachynolophus),Hyracotherium),(((Eohippus,Protorohippus),Xenicohippus),Pliolophus)),Sifrippus),Hallensia),((((Phenacodus,((Ectocion,Meniscotherium,(Phenacolophus,(Eritherium,(Phosphatherium,(Moeritherium,Numidotherium)),(Dimaitherium,(Microhyrax,Saghatherium))),(Diacodexis,(Asioryctes,Didelphis)))),Tetraclaenodon)),(Cambaytherium,Nakusia)),Radinskya),((Anthracobune1,Anthracobune),Pilgrimella))),(Homogalax,Cardiolophus)),((((Eomoropus,Moropus),Litolophus),Lophiodon),(Isectolophus,(Heptodon,(Helaletes,(((Lophialetes,Schlosseria),(Deperetella,Teleolophus)),Hyrachyus)))))),Lambdotherium));
+end;

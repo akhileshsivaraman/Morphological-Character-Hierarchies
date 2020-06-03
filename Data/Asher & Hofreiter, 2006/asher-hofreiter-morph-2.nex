@@ -1,0 +1,344 @@
+#NEXUS
+[written Tue May 19 13:11:06 BST 2020 by Mesquite  version 3.40 (build 877) at Akhileshs-MacBook-Air.local/192.168.0.26]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=23;
+	TAXLABELS
+		Didelphis Blarina Canis Chrysochloris Crocidura Echinops Elephantulus Erinaceus Erythrozootes Geogale Hemicentetes Limnogale Microgale Micropotamogale Orycteropus Oryzorictes Parageogale Potamogale Procavia Protenrec Setifer Sorex Tenrec 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  Character_Matrix;
+	DIMENSIONS  NCHAR=128;
+	FORMAT DATATYPE = STANDARD GAP = - MISSING = ? SYMBOLS = "  0 1 2 3 4";
+	CHARSTATELABELS 
+		1 post_stap_ramus /  0_present 1_reduced,
+		2 sup_stap_ramus /  0_present 1_reduced,
+		3 inf_stap_ramus /  0_present 1_reduced,
+		4 opthart /  0_IC 1_SS 2_IS 3_EC,
+		5 inf_alveolar /  0_inf_stapedial 1_ext_carotid,
+		6 promontory_art /  0_medial_cochlea 1_lateral_cochlea,
+		7 staped_bifurc /  0_within_midear 1_within_brcase,
+		8 infraorb_in_cavepi /  0_no 1_yes,
+		9 prox_ext_crtd /  0_med_constrictor 1_lat_constrictor,
+		10 VNO_duct /  0_into_NP_duct 1_into_nasal_fossa,
+		11 outer_bar /  0_lat_closed 1_lat_open,
+		12 nasopal_duct /  0_paired 1_single,
+		13 'NPduct cart-PRS' /  0_absent 1_present,
+		14 'NPduct cart-CNX' /  0_isolated 1_cnx_parasept,
+		15 'nasolac duct-PRS' /  0_present 1_reduced,
+		16 'nasolac duct-SHLD' /  0_unshielded 1_shielded,
+		17 papillary_cart /  0_present 1_reduced,
+		18 VNO_vessels /  0_large_superolat 1_inconspic,
+		19 Inf_nasal_sept /  0_inf_parallel 1_inf_rounded,
+		20 zona_annularis /  0_complete 1_reduced,
+		21 tymp_proc_basisphenoid /  0_reduced 1_present,
+		22 piriform_fenestra /  0_absent 1_present,
+		23 caudal_tymp_proc_petrosal /  0_reduced 1_shields_post_bulla,
+		24 rostral_tymp_proc_petrosal /  0_present 1_nonapical,
+		25 anterior_tympanic_roof /  0_neither 1_squamosal 2_alisphenoid,
+		26 epitympanic_recess /  0_contin_w.midear 1_enlarged,
+		27 tubal_canal /  0_not_closed_by_sph 1_closed_by_sph,
+		28 'ectotymp-PHAN' /  0_aphaneric 1_semiphan 2_phaneric,
+		29 'ectotymp-EXPND' /  0_simple 1_expanded,
+		30 entotympanic /  0_absent 1_small 2_contrib_bulla,
+		31 infstap_for_alisph /  0_absent 1_present,
+		32 'alisph canal-pres?' /  0_absent 1_present,
+		33 'alisph canal-pos' /  0_lat_V 1_contin_V,
+		34 basisphenoid_pit /  0_absent 1_present,
+		35 fenestrate_basioccip /  0_no 1_yes,
+		36 suboptic_foramen /  0_absent 1_present,
+		37 'mtuber-PM' /  0_reduced 1_present 2_hyper,
+		38 'mtuber-SQ' /  0_reduced 1_present,
+		39 'SQtuber-jaw dist' /  0_short 1_elongate,
+		40 dual_ectopterygoid /  0_no 1_yes,
+		41 maxilla_on_pteryg /  0_no 1_yes,
+		42 postpal_spine /  0_reduced 1_present,
+		43 petmast_position /  0_expsd_posteriorly 1_expsd_laterally 2_not_expsd,
+		44 'optic for-PRS' /  0_present 1_absent,
+		45 'optic for-SIZE' /  0_caliber_as_V 1_smaller_V,
+		46 ethmoid_for /  0_anterior_SF 1_within_SF,
+		47 'sincan-PRS' /  0_present 1_absent,
+		48 'sincan-OPN' /  0_confl_w_SF '1_inbt_SF-EF' 2_confl_w_EF,
+		49 dorsal_palatine_for. /  0_confl_w_sphpal 1_separate,
+		50 'entoglen-PRS' /  0_abs 1_pres,
+		51 'entoglen-JA' /  0_no_jaw_artic 1_jaw_artic,
+		52 'entoglen-COMP' /  0_all_squam 1_half_alisph 2_all_alisph,
+		53 'lac formn-PRS' /  0_reduced 1_present,
+		54 'lac formn-OPN' /  0_open_post 1_open_lat,
+		55 orbital_wing_maxilla /  0_no 1_partial 2_yes,
+		56 'zygarch-PRS' /  0_complete 1_incomplete,
+		57 'zygarch-build' /  0_robust 1_slender,
+		58 origin_max_zygoma /  0_M1_or_ant 1_M2 2_M3,
+		59 size_max_zygoma /  0_posterolat_proj 1_reduced,
+		60 length_of_infraorb_canal /  0_long 1_short,
+		61 Frontal_proportions /  0_elongate 1_even_w_parietal 2_reduced,
+		62 nasal_shape /  0_broad 1_narrow,
+		63 nasal_length /  0_ant_or_at_antorb 1_post_to_antorb,
+		64 lacrimal_flange /  0_reduced 1_prominent 2_into_orbit,
+		65 crista_galli /  0_median_ridge 1_flat,
+		66 upper_ant_dent /  0_ant_I_enlarged 1_Is_equal,
+		67 premaxillary_dentition /  0_none 1_1ui 2_2ui 3_3ui 4_5ui,
+		68 'up.antmol (excl Is)' /  0_5am 1_4am 2_3am '3_<_3am',
+		69 upper_Canine /  0_premolariform 1_bulbous 2_trenchant,
+		70 'molariform P3/' /  0_no 1_yes,
+		71 'molariform P4/' /  0_no 1_yes,
+		72 carnassial_P4 /  0_no 1_yes,
+		73 metacone /  0_present 1_connate_w_paracone 2_absent,
+		74 protocone /  0_present 1_reduced,
+		75 hypocone /  0_present 1_reduced,
+		76 M1_parastyle /  0_flush_wcing 1_ant_proj,
+		77 'M2/CBC' /  0_abs 1_pres,
+		78 'upper M3-PRS' /  0_pres 1_abs,
+		79 'upper M3-styshelf' /  0_short 1_long,
+		80 'upper M3-mstyle' /  0_lingual_meta 1_buccal_meta,
+		81 lower_ant_dent /  0_ant_I_enlarged 1_is_equal 2_i2_enlarged,
+		82 lower_antemolars /  0_8antemolars 1_7am 2_6am 3_5am 4_3am 5_²_2am,
+		83 'molariform p/3' /  0_no_meta 1_yes,
+		84 'molariform p/4' /  0_no_meta 1_yes,
+		85 talonid_basin /  0_present 1_reduced,
+		86 'm1-2 hypocnld' /  0_reduced 1_present,
+		87 'hypoflxd-pc occl' /  0_absent 1_present,
+		88 2dary_hypoflxd_basin /  0_closed 1_open,
+		89 'lower m3-PRS' /  0_present 1_absent,
+		90 'lower m3-LEN' /  0_m3_long '1_as_m1-2' 2_m3_short,
+		91 mental_foramnia /  0_p4 1_p3 2_multiple 3_m1,
+		92 'mandib cond-LEN' /  0_narrow 1_elongate,
+		93 'mandib cond-NUM' /  0_single 1_dual,
+		94 condyle_height /  0_at_toothrow 1_above_toothrow,
+		95 int_coronoid_fossa /  0__flat 1_pocketed,
+		96 ventral_crest_on_C2 /  0_present 1_absent,
+		97 sacral_vertebrae /  '0__2-4_verts' '1_>_4_verts',
+		98 'verts in sacro-iliac art' /  0_s1_alone '1_s1-2' '2_s1-3',
+		99 sacral_neural_spines /  0_weak_or_not_fused 1_fused 2_abs_neural_spines,
+		100 clavicles /  0_present 1_shortened 2_absent,
+		101 scapula /  0_triangular 1_elongate,
+		102 'metacromion-PRS' /  0_present 1_absent,
+		103 'metacromion-shape' /  0_blunt 1_elongate,
+		104 'acromion-PRS' /  0_present 1_absent,
+		105 'acromion-shape' /  0_blunt 1_elongate,
+		106 'scapspine-len' /  0_short 1_elongate,
+		107 entepicondylar_for /  0_present 1_absent,
+		108 medial_epicondyle /  0_abs 1_pres,
+		109 'medepicond-shape' /  0_promin 1_hypertr,
+		110 olecranon_fenestra /  0_absent 1_thin_or_present,
+		111 distal_ulna /  0_present 1_reduced,
+		112 ulnocarpal_art /  0_broad 1_styloid_only,
+		113 forearm_longbones /  0_two 1_three,
+		114 iliac_blades /  0_sag_or_rounded 1_coronal,
+		115 proximal_ilia /  '0_cranial_s-i_joint' '1_even_s-i_joint',
+		116 'iliopec tuber-PRS' /  0_weak 1_prominent,
+		117 'iliopec tuber-shape' /  0_extends_medially 1_extends_inferiorly,
+		118 internal_acetab_pelv_shape /  0_smooth 1_concave,
+		119 pubic_symphysis /  0_extensive 1_reduced,
+		120 pubis_length /  0_as_isch_or_shorter 1_longer_than_isch,
+		121 angle_of_pubic_ramus /  '0__>_15_angle' 1_parallel,
+		122 3rd_trochanter /  0_proximal 1_distal,
+		123 'fusion of distal tibia-fib' /  0_no 1_yes,
+		124 distal_fibula /  0_lateral_astrag 1_socket_for_calc 2_ball_for_astrag,
+		125 calcaneal_tubercle /  0_blunt 1_elongate 2_sep_fibular_facet,
+		126 'interinc-gap' /  0_narrow 1_wide,
+		127 anterior_dentition /  absent present,
+		128 two_stapedial_rami /  absent present ; 
+	MATRIX
+	Didelphis        111010-010000-00(0 1)0000001200200-0-00001000001-01-110210000000101011412000001110111000010-0121010101000000000100010000-0000000(0 1)010
+	Blarina          00010100100011011010011100020000-000011000101000111011?1-110?11010??0010000000100400000-02301?1000101010100100000001011110101011
+	Canis            111(0 3)10-01010110011100001200211-1100101000100001-10--10000000011011302011000001--1000000-02210000010-01-00010-1010001100000000010
+	Chrysochloris    100-01001(0 1)000-011110101021021110-00000000001-101010?11201001?10010310110211010112111100-021000010(1 2)100000010110001010-01110111011
+	Crocidura        00010100100010011111011100020000-000011000101(0 1)0(0 2)11101101-011?110(0 1)03300100000(0 1)0100400000-02301?1001100010100100000001011110101011
+	Echinops         0001000100010-001010100120020010-10001001010110001111121-001011010212110211101--221110111-2001010100000000010(0 1)010010-01000001011
+	Elephantulus     100111111000100000100010201212110001000101100001110110000101110111300110000001--1001000-02200101010000100000-11-0001110000100011
+	Erinaceus        100(0 2)000010(0 1)0110110101000200200(0 1)101001001010010011101102000001111103100100000000-03-1000-02210101020000000010-1000000-01101100111
+	Erythrozootes    ?????????????????????????????????????????????0??0???11???100?????021011020110010???1101100???????????????????????????????????010
+	Geogale          0001001100101000001011102002001110(0 1)101001010100001101121-11011101021001021111010030110110020000001000000001101010000-011000??111
+	Hemicentetes     001110-11010110010101(0 1)01200200-1100001001000110001111121-201(0 1)1001131(0 2)000211110111100100-0120010101000000000100010110-01100001010
+	Limnogale        ????????????????????1110000200?1101100001010100101100-21-10121101031011021111010210110110011000001000000000100010000-01100101010
+	Microgale        000(0 1)000100101000101011102002001110(0 1)100001010100(0 1)01101121-10111101031(0 2)01021111010210110110011000101000000100100010000-01100101011
+	Micropotamogale  000100011010101-1110101010110001101101001010100101100-21-1012110103101102011101021(0 1)1101101310000010-01-1-01100010001101110101011
+	Orycteropus      101011-??00011001?000001210200-0-00001000000000101011000010010000-------------------------20010111000000000100000001110001001-00
+	Oryzorictes      ????????????????????1110200200?1100000001010100001101(0 1)21-10111001131201021111010110110110011000101000000000100010000-01100101010
+	Parageogale      ?????????????????????????????????????????0?????????????1-110?????022?01021111010????1????????????????????????????????????????110
+	Potamogale       010000-11010101-1110101010110001101(0 1)01001010101-01100-01-1012100(0 1)031011010111010210100100(0 1)210000010-01-1-010-0000001101101101010
+	Procavia         111010-1?000110?11100101000211-110000011(0 1)120001-0111100000001002001101100000000-2211000-01210100111-01-1-010-1000100-00000000010
+	Protenrec        ????????????????????????????????????????????????????10?1-100???0?????01020111010??011011003???0???????????????????????????????10
+	Setifer          00000001001111001110100120020011110001001010110001111121-(0 1)010110102121102110001112111011022001010100000000010(0 1)010010-01100001(0 1)11
+	Sorex            100?0?0??00011011010011100020000-000001000101000111?11?1-110???010310010000000100400000-0230101000101010100100000001011110101011
+	Tenrec           101(0 3)10-10010110010101(0 1)0(0 1)200200-1110001001000110001111121-101110011(2 3)12110211000111(1 2)1110110(0 1)20010101000000000101010110-01100001010
+
+;
+
+END;
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1 -  128;
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Mk1 (est.)':  1 -  128;
+END;
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1589890266524;
+		linkFile 'Anatrees-A&H2006.txt.nex';
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 656365430678383209;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 2265386583162151925;
+			mqVersion 340;
+			checksumv 0 3 4090962499 null  getNumChars 128 numChars 128 getNumTaxa 23 numTaxa 23   short true   bits 31   states 31   sumSquaresStatesOnly 9840.0 sumSquares 9840.0 longCompressibleToShort false usingShortMatrix true   NumFiles 2 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 100;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1251 764;
+			setLocation 0 23;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #2265386583162151925 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1151 692;
+					setLocation 0 23;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					endTell;
+					setActive;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					colorCells  #mesquite.charMatrices.NoColor.NoColor;
+					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges on;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleAutoWCharNames on;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					toggleShowPaleExcluded off;
+					togglePaleInapplicable on;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize on;
+					toggleColorsPanel off;
+					toggleDiagonal on;
+					setDiagonalHeight 80;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.AlterData.AlterData;
+				tell It;
+					toggleBySubmenus off;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesEditor.StateNamesEditor;
+				tell It;
+					makeWindow;
+					tell It;
+						getTable;
+						tell It;
+							rowNamesWidth 137;
+						endTell;
+						setExplanationSize 30;
+						setAnnotationSize 20;
+						setFontIncAnnot 0;
+						setFontIncExp 0;
+						setSize 1151 692;
+						setLocation 0 23;
+						setFont SanSerif;
+						setFontSize 10;
+						getToolPalette;
+						tell It;
+							setTool mesquite.categ.StateNamesEditor.StateNamesWindow.ibeam;
+						endTell;
+						rowsAreCharacters on;
+						toggleConstrainChar on;
+						toggleConstrainCharNum 3;
+						togglePanel off;
+						toggleSummaryPanel off;
+					endTell;
+					showWindow;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor;
+				tell It;
+					panelOpen true;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

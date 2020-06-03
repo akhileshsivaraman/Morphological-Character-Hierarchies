@@ -1,0 +1,13 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Mon May 11 12:01:55 2020]
+[!
+>Consensus of 3 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Tree(s) input to PAUP* as user-defined tree(s)
+>
+>3 trees read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+]
+	tree Strict = [&U] (Zygorhiza_kochii,Physeter_catodon,(Aetiocetus_cotylalveus,(Eomysticetus_whitmorei,((Morenocetus_parvus,(Balaenella_brachyrhynus,(Eubalaena_spp.,(Balaena_mysticetus,Balaenula_astensis)))),((Diorocetus_hiatus,(Pelocetus_calvertensis,((Plesiobalaenoptera_quarantellii,(Balaenoptera_bonaerensis,Megaptera_novaeangliae)),(Eschrichtius_robustus,Megaptera_miocaena)))),(Cetotherium_rathkii,(Metopocetus_durinasus,(Piscobalaena_nana,(Caperea_marginata,(Nannocetus_eremus,Herpetocetus_bramblei,Herpetocetus_transatlanticus))))))))));
+end;

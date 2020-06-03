@@ -1,0 +1,282 @@
+#NEXUS
+[written Tue May 19 14:43:41 BST 2020 by Mesquite  version 3.40 (build 877) at Akhileshs-MacBook-Air.local/127.0.0.1]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=26;
+	TAXLABELS
+		Synodus Gymnoscopelus Ctenothrissa Pycnosteroides Aipichthys Aipichthyoides Omosomopsis Sphenocephalus Stichocentrus Velifer Lampris Regalecus Stylephorus Polymixia Aphredoderus Percopsis Bregmaceros Merluccius Halobatrachus Brotula Cyttus Zeus Hoplostethus Sargocentron Dicentrarchus Lates 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  'Matrix in file "Davesne2016.nex"';
+	DIMENSIONS  NCHAR=67;
+	FORMAT DATATYPE = STANDARD GAP = - MISSING = ? SYMBOLS = "  0 1 2 3 4 5";
+	CHARSTATELABELS 
+		1 Ascending_process_of_the_premaxilla /  shorter_than_the_alveolar_process equal_to_or_longer_than_the_alveolar_process,
+		2 Premaxilla_postmaxillary_process /  absent present,
+		3 Posterior_margin_of_the_premaxilla_postmaxillary_process /  straight notched,
+		4 Anterior_supramaxilla /  present absent,
+		5 Posterior_supramaxilla /  present absent,
+		6 Supraorbital /  present absent,
+		7 Antorbital /  present absent,
+		8 Lateral_ethmoid /  not_in_contact_with_the_vomer in_direct_contact_with_the_vomer,
+		9 Mesethmoid /  anterior_to_the_lateral_ethmoid median_or_posterior_to_the_lateral_ethmoid,
+		10 Orbitosphenoid /  present absent,
+		11 Basisphenoid /  present absent,
+		12 Intercalar /  small_and_not_containing_the_foramen_for_cranial_nerve_IX large_and_containing_the_foramen_for_cranial_nerve_IX,
+		13 Epioccipital /  not_firmly_bound_to_the_dorsal_limb_of_the_posttemporal firmly_bound_to_the_dorsal_limb_of_the_posttemporal epioccipital_and_posttemporal_fused,
+		14 Frontal /  not_forming_part_of_the_sagittal_crest forming_part_of_the_sagittal_crest,
+		15 Frontal_vault_or_cradle /  absent present,
+		16 Spina_occipitalis /  absent present,
+		17 'Cranio-hyomandibular articulation' /  'two-headed' 'single-headed',
+		18 Metapterygoid /  'in contact (or close approximation) with the quadrate' small_and_not_in_contact_with_the_quadrate,
+		19 Anterior_palatine_process /  'present, palatine articulates with the maxilla' 'absent, no palate-maxillary connexion' 'absent, no palatine-maxillary connexion',
+		20 Palatine_teeth /  present absent,
+		21 Posterior_and_anterior_ceratohyals /  separated_with_cartilage sutured,
+		22 Articulation_between_the_anterior_ceratohyal_and_the_ventral_hypohyal /  straight condylar,
+		23 Anterior_branchiostegals /  subequal_in_length_to_the_posterior_ones smaller_than_the_posterior_ones,
+		24 Median_fusion_of_neural_spines /  at_least_one_paired_neural_spine 'all neural spines fused medially, unpaired',
+		25 'Proximal insertion of Baudelot"s ligament' /  on_abdominal_vertebrae on_basioccipital on_exoccipitals split_between_the_first_abdominal_vertebra_and_the_exoccipitals,
+		26 Insertion_of_epineurals /  all_on_neural_arches_or_spines at_least_partly_below_neural_arches at_least_partly_on_ribs,
+		27 Epipleurals /  present absent,
+		28 First_vertebral_centrum /  no_facets facets_articulating_with_exoccipital_condyles,
+		29 First_neural_spine /  separated_from_the_neurocranium closely_associated_or_sutured_with_the_neurocranium,
+		30 Second_vertebral_centrum /  subequal_in_length_to_the_others abbreviated_in_length,
+		31 Number_of_ossified_supraneurals /  three_or_more two one none,
+		32 Position_of_supraneurals /  at_least_one_posterior_to_the_first_neural_spine all_anterior_to_the_first_neural_spine,
+		33 Insertion_of_the_first_dorsal_pterygiophore /  posterior_to_the_neural_spine_4 between_the_neural_spines_2_and_4 between_the_neural_spines_1_and_2 anterior_to_the_first_neural_spine,
+		34 Distal_end_of_the_first_dorsal_pterygiophore /  oriented_posteriorly oriented_anteriorly,
+		35 Dorsal_fin_spines /  absent present,
+		36 '"Chain-link" articulation of dorsal fin spines' /  absent present no_distal_radials,
+		37 Spinous_first_dorsal_fin /  continuous_dorsal_fin absent 'dorsal fin subdivised - or deeply notched - with an anterior part entirely spinous' present dorsal_fin_subdivided_with_an_anterior_part_composed_of_soft_rays,
+		38 Elongated_and_unbranched_first_soft_ray_of_the_dorsal_fin /  absent present,
+		39 Adipose_fin /  present absent,
+		40 Anal_fin_spines /  absent present,
+		41 Soft_rays_of_the_unpaired_fins /  at_least_some_branched_distally all_unbranched,
+		42 Second_ural_vertebral_centrum_and_upper_hypurals /  autogenous fused,
+		43 Second_ural_vertebral_centrum_and_first_ural_centrum /  autogenous fused,
+		44 Neural_spine_of_the_second_preural_vertebra /  'short and leaf-shaped' 'long and spine-like',
+		45 First_uroneural /  autogenous fused_to_the_terminal_centrum,
+		46 Number_of_epurals /  three two one none,
+		47 Y_bone /  absent present,
+		48 Parhypural /  articulated_or_fused_to_the_first_preural_centrum truncated_proximally_by_the_loss_of_the_haemal_arch_and_separated_from_the_first_preural_centrum,
+		49 Number_of_discrete_hypurals /  six less_than_six,
+		50 Overlap_of_the_caudal_skeleton_by_the_caudal_fin_rays /  little_to_no_overlap extensive_overlap_or_hypurostegy,
+		51 Number_of_principal_caudal_fin_rays /  19_or_more 18 17_or_less,
+		52 Scapular_foramen /  in_scapula between_scapula_and_coracoid,
+		53 Postcleithra /  two_or_more_separated_bones only_one_bone,
+		54 Insertion_of_the_pectoral_fin /  vertical_or_oblique horizontal,
+		55 Number_of_autogenous_pectoral_radials /  four three,
+		56 Pectoral_fin_soft_rays /  at_least_some_branched_distally all_unbranched,
+		57 Anterior_tip_of_the_pelvic_girdle /  posterior_to_the_distal_postcleithrum anterior_to_the_distal_postcleithrum,
+		58 Contact_between_pectoral_and_pelvic_girdles /  'no contact, with pelvic girdle posterior to the pectoral girdle' contact_at_the_level_of_the_cleithrum contact_at_the_level_of_the_coracoid pelvic_girdle_anterior_to_the_pectoral_girdle,
+		59 'Antero-median pelvic process' /  absent present,
+		60 External_dorsal_pelvic_wing /  shorter_than_the_external_ventral_wing equal_in_size_to_the_external_ventral_wing,
+		61 Internal_wings_of_the_pelvic_bone /  separated joined_medially,
+		62 Median_processes_of_the_pelvic_bones /  'non-overlapping' overlapping_medially,
+		63 Autogenous_pelvic_radials /  present absent,
+		64 Number_of_soft_rays_of_the_pelvic_fin /  six_or_more five_or_less,
+		65 Pelvic_fin_spine /  absent present,
+		66 Base_of_the_pelvic_fin_spine /  symmetrical asymmetrical,
+		67 Ossified_supraneurals /  absent present ; 
+	MATRIX
+	Synodus         00-00000000000000000000000000000000-00000000010010000000000000000-1
+	Gymnoscopelus   00-10100010000000000000100000000000-00000110?00001000000000000000-1
+	Ctenothrissa    00-000000000?00010000001??0?0000100-0010000000000000000012?????00-1
+	Pycnosteroides  0??0011?000??00?10?0?001?10?0?10(2 3)01?0011000100000110000012?????01?1
+	Aipichthys      00-1011?0000100?1000?001?00?0?01201?0111000000000100000012???0?00-1
+	Aipichthyoides  00-0011?100?110?10???001??0?0?01201?0111000001001100000012?????00-1
+	Omosomopsis     0101011??01?100?10?0??11?10?0?0010100011000101101010000010?????00-1
+	Sphenocephalus  0111010?????100110?00001???10020(0 1)01?00010001010000100000100001?0101
+	Stichocentrus   01?0010?000?000?00?0?001????0?10201?00110000(0 1)000?000000011?????01?1
+	Velifer         10-11111100011101011010130110011301?01110100000001001000120010000-1
+	Lampris         10-11111100011101011010102110021300-01100100010011001110120010100-1
+	Regalecus       10-11111100-1-1010110101???101--310-011-110--3001-2-1110120?10110-0
+	Stylephorus     10-1111?111-1-0111-10001???-11--010-0110110--3011-201101110???110-0
+	Polymixia       01000101000010010000001101010000001000110001000000100000100001000-1
+	Aphredoderus    00-11110011110010000100102110020001000110101010100101000100001000-1
+	Percopsis       00-11100011110010000100102110020001000010101010000101000000001000-1
+	Bregmaceros     011111110111100110?10001????11--(1 2)10-0110010111111021101011?0???00-0
+	Merluccius      011111110111100110011001021111--100-00100101111110211000110?00?00-0
+	Halobatrachus   11011111-110100100001001121110--101?10100101-10010201000111-0011110
+	Brotula         011101110100100100001001121101--100-00100101-1011020000013?---11110
+	Cyttus          1111111001002001110100010?1?112?20101011111111011020100111001010101
+	Zeus            111111100110200111010001221111--20101011111112111020100111001010100
+	Hoplostethus    0110010100001001000000011?11001010110011000000000000000011101100111
+	Sargocentron    0100010100001001000000011211000020111011011010001000000011101000111
+	Dicentrarchus   0101011101001001000010011211000010111011011000001020000011111011111
+	Lates           0101011101001001000010011??1000010111011011001001020000011111011111
+
+;
+
+END;
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1 -  67;
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Mk1 (est.)':  1 -  67;
+END;
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1589895821132;
+		linkFile 'Anatrees-D2016.txt.nex';
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 3819752549022134892;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 9220598875533353414;
+			mqVersion 340;
+			checksumv 0 3 915142090 null  getNumChars 67 numChars 67 getNumTaxa 26 numTaxa 26   short true   bits 15   states 15   sumSquaresStatesOnly 4609.0 sumSquares 4609.0 longCompressibleToShort false usingShortMatrix true   NumFiles 2 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 6;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1440 765;
+			setLocation 0 23;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #9220598875533353414 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1434 693;
+					setLocation 0 23;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					endTell;
+					setActive;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					colorCells  #mesquite.charMatrices.NoColor.NoColor;
+					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges on;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleAutoWCharNames on;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					toggleShowPaleExcluded off;
+					togglePaleInapplicable on;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize on;
+					toggleColorsPanel off;
+					toggleDiagonal on;
+					setDiagonalHeight 80;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.AlterData.AlterData;
+				tell It;
+					toggleBySubmenus off;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesEditor.StateNamesEditor;
+				tell It;
+					makeWindow;
+					tell It;
+						setExplanationSize 30;
+						setAnnotationSize 20;
+						setFontIncAnnot 0;
+						setFontIncExp 0;
+						setSize 1434 693;
+						setLocation 0 23;
+						setFont SanSerif;
+						setFontSize 10;
+						getToolPalette;
+						tell It;
+							setTool mesquite.categ.StateNamesEditor.StateNamesWindow.ibeam;
+						endTell;
+						rowsAreCharacters on;
+						toggleConstrainChar on;
+						toggleConstrainCharNum 3;
+						togglePanel off;
+						toggleSummaryPanel off;
+					endTell;
+					showWindow;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor;
+				tell It;
+					panelOpen true;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

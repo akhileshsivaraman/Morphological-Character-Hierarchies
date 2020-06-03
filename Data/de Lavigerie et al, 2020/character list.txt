@@ -1,0 +1,284 @@
+
+[ File output by Morphobank v3.0 (http://www.morphobank.org); 2020-04-30 04.20.32 ]
+
+Phenotypic characters (numbered in Nexus format)
+
+Array characters
+  1. Length of rostral portion of maxilla anterior to antorbital notch [[]] less than bizygomatic width (0); equal to or greater than bizygomatic width (1); more than one and a half times the bizygomatic width (2).
+  2. Portion of rostrum anterior to nasals in lateral view [[]] below the level of the supraoccipital (0); raised to or above the supraoccipital (1).
+  3. Maxilla in cross section [[]] robust (0); markedly flattened (1).
+  4. Lateral border of maxilla anterior to antorbital notch or homologous point on rostrum in dorsal view [[]] concave (0); straight or slightly convex (1); broadly convex (2).
+  5. Transverse width of maxilla at midpoint [[]] distinctly less than that of the premaxilla (0); roughly equal to or up to twice the width of the premaxilla (1); more than twice the width of the premaxilla (2).
+  6. Premaxilla in dorsal view [[]] widens at anterior end (0); portion anterior to nasal opening narrows or remains the same width anteriorly (1).
+  7. Premaxilla adjacent to and anterior to narial fossa [[]] elevated above the maxilla and forming a distinct lateral face (0); continuous or nearly continuous with the maxilla (1).
+  8. Premaxilla adjacent to and at posterior edge of nasal opening [[]] does not clearly overhang maxilla (0); premaxilla overhangs maxilla (1).
+  9. Anterior portions of premaxillae [[]] firmly contact each other (0); premaxillae are separated or only loosely contact along their entire length (1).
+  10. Suture between maxilla and premaxilla on rostrum [[]] firmly articulated (0); open (1).
+  11. Antorbital process [[]] absent (0); present as steep face on the maxilla posteriorly bordering the antorbital notch (1); present as a distinct anterior projection lateral to antorbital notch (2).
+  12. Anterior border of supraorbital process lateral to ascending process of the maxilla [[]] bordered by lacrimal only (0); bordered by lacrimal and maxilla (1).
+  13. Distinct pocket between the ascending process of the maxilla dorsally and the supraorbital process ventrally [[]] absent (0); present (1).
+  14. Lateral process of maxilla underlapping lacrimal [[]] absent (0); present (1).
+  15. Palatal keel formed by vomer and medial edges of maxillae [[]] absent (0); present (1).
+  16. Exposure of premaxilla on palate [[]] exposed along at least one third of the medial border of the maxilla (0); limited in extent to less than one third of the medial border of the maxilla (1).
+  17. Palatal window exposing vomer [[]] present (0); narrow and variable exposure of vomer along most or all of the midline of the rostrum (1); vomer broadly exposed along the midline of the rostrum (2).
+  18. Palatal nutrient foramina and sulci [[]] absent (0); present (1).
+  19. Outline of suture between maxillae and palatines [[]] roughly straight transversely or bowed anteriorly (0); forms a posteriorly pointing V shape (1); anterior margins of palatines form two separate and posteriorly pointing U shapes (2).
+  20. Anteriormost point of palatine [[]] located in line with or posterior to the level of the antorbital notch or equivalent point on rostrum (0); located anterior to the level of the antorbital notch (1).
+  21. Anteromedial portion of palatine [[]] flattened or meeting at a relatively blunt angle in cross section (0); transversely pinched and forming a well-developed medial crest (1).
+  22. Anterior edge of narial fossa [[]] located in posterior three quarters of rostrum (0); located in anterior quarter of rostrum (1).
+  23. Facial portion of rostrum in lateral view [[]] step-like (0); straight (1); concave (2).
+  24. Rostrum shape [[]] width at antorbital notches or equivalent point on rostrum less than 80% the length of the rostrum as measured from its tip to the antorbital notches (0); width at antorbital notches or equivalent point more than 80% the length of the rostrum (1).
+  25. Teeth in adult individuals [[]] present (0); absent or vestigial (1).
+  26. Upper dentition [[]] comprises 10 teeth including M2 (0); includes 11 teeth including M3 or is polydont (1).
+  27. Diastemata between posterior upper cheek teeth [[]] absent (0); present (1).
+  28. Enamel ornaments on postcanines [[]] vertical enamel ridges present on lingual surface only (0); enamel ridges present on both lingual and labial surfaces (1).
+  29. Shape of molars in lingual or labial view [[]] crown base distinctly wider than crown height (0); crown base is shorter than or roughly equal to crown height (1).
+  30. Shape of posterior premolars in lingual or labial view [[]] crown base is shorter than or roughly equal to crown height (0); crown base is longer than crown height (1).
+  31. Ectocingulum on P3 and P4 [[]] present (0); absent (1).
+  32. Entocingulum on P3 and P4 [[]] present (0); absent (1).
+  33. Posterior premolar and molar roots [[]] separate along their entire length (0); fused proximally but separate distally (1); fused or closely apposed along their entire length (2).
+  34. Posteriormost upper tooth [[]] situated below anterior portion of orbit (including preorbital process) (0); situated anterior to anterior border of orbit (1).
+  35. Heavy occlusal wear resulting in loss of most or all of tooth crown [[]] absent (0); present (1).
+  36. Heterodonty [[]] present with clear distinctions between anterior teeth, premolars and molars (0); present but reduced with molars and premolars being of comparable size and shape (1); absent or greatly reduced with accessory denticles on postcanines absent or tiny compared to main cusp (2).
+  37. Skull length about one third of total body length [[]] absent (0); present (1).
+  38. Facial asymmetry [[]] absent (0); present (1).
+  39. Diameter of orbit as measured between the distalmost points of the preorbital and postorbital processes [[]] less than 25% of bizygomatic width (0); 25% or more (1).
+  40. Anterior edge of supraorbital process lateral to ascending process of maxilla [[]] pointing posteriorly (0); oriented transversely or pointing anteriorly (1); linguiform and tapering to a point (2).
+  41. Outline of anterior edge of supraorbital process in dorsal view [[]] roughly straight or concave (0); distinctly sinusoidal (1).
+  42. Posterior border of supraorbital process in dorsal view [[]] concave (0); straight (1).
+  43. Supraorbital process of frontal in anterior view [[]] horizontal or nearly horizontal (0); gradually slopes away lateroventrally from the skull vertex (1); abruptly depressed to a level noticeably below the vertex with the lateral skull wall above the supraorbital formed by both parietal and frontal (2).
+  44. Anterior and posterior borders of supraorbital process in dorsal view [[]] roughly parallel or converging medially (0); converging laterally (1).
+  45. Width of supraorbital process as measured in a straight line from the lateralmost point of the postorbital process to the intertemporal constriction [[]] equal to or shorter than the diameter above the orbit (0); up to twice the length above the orbit (1); more than twice the length above the orbit (2).
+  46. Postorbital process in dorsal view [[]] oriented posteriorly (0); oriented posterolaterally (1); oriented laterally (2); short and not markedly projecting in any direction (3).
+  47. Postorbital process in lateral view [[]] pointed or rounded (0); forms and anteroposteriorly elongate triangle with a flattened posterior face (1).
+  48. Orbital rim of supraorbital process of frontal in lateral view [[]] dorsoventrally thin (0); thickened with a flat lateral surface (1); thickened with a rounded lateral surface (2).
+  49. Position of anteriormost point of supraorbital process in dorsal view [[]] in line with the posterior extremity of the nasals or passing through the nasals (0); at the same level as the anterior extremity of the nasals (1); anterior to the anterior extremity of the nasals (2).
+  50. Dorsalmost point of orbit relative to lateral edge of rostrum in lateral view, with skull resting on a horizontal surface [[]] elevated above or roughly in line with the lateral edge of the rostrum (0); located well below the lateral edge of the rostrum (1).
+  51. Lacrimal in dorsal view [[]] situated entirely lateral to the ascending process of the maxilla (0); lacrimal incised into the lateral border of the maxilla (1); lacrimal enlarged and partially covering the supraorbital process of the frontal (2).
+  52. Contact of jugal with zygomatic process of squamosal [[]] sutured (0); little or no overlap (1).
+  53. Anteriormost portion of jugal broadly underlapped by maxilla [[]] absent (0); present (1).
+  54. Optic canal in ventral view [[]] ventrally open (0); medial portion is enclosed by anterior and/or posterior bony laminae (1).
+  55. Medial portion of postorbital ridge [[]] absent or anteroposteriorly thin, with the optic canal running adjacent to the posterior border of the supraorbital process (0); well developed and thickened, thus resulting in the displacement of the optic canal away from the posterior border of the supraorbital process (1).
+  56. Maxillary infraorbital plate [[]] absent or small (0); present (1).
+  57. Maxillary window originating from posterior border of infraorbital plate [[]] absent (0); present (1).
+  58. Anteromedial corner of supraorbital process extending to a point medial to antorbital notch [[]] absent (0); present (1).
+  59. Preorbital process of frontal in lateral view [[]] thickened compared to more central portions of the orbit (0); dorsoventrally flat (1).
+  60. Primary dorsal infraorbital foramen on ascending process of maxilla, opening into a posterodorsally directed sulcus [[]] absent (0); present (1).
+  61. Premaxillary sac fossa [[]] absent (0); present (1).
+  62. Premaxillary foramen [[]] absent (0); present (1).
+  63. Suture between maxilla and frontal [[]] contact between the bones is straight or maxilla overrides anteromedial corner of the frontal (0); maxilla overrides half or more of the frontal (1).
+  64. Shape of ascending process of maxilla [[]] triangular and tapering posteriorly (0); approximately parallel-sided (1); posteriorly divergent and squared (2).
+  65. Lateral flange at base of ascending process of maxilla [[]] absent (0); present (1).
+  66. Triangular wedge of frontal separating ascending process of maxilla from nasal or premaxilla [[]] absent (0); present (1).
+  67. Posterior ends of ascending processes of maxillae in dorsal view [[]] separated by both nasals and premaxillae (0); separated by nasals only (1); effectively contact each other medially with nasal being compressed into a thin sheet (2).
+  68. Relative position of posteriormost edge of ascending process of maxilla in dorsal view [[]] approximately in transverse line with or posterior to posterior edge of nasal (0); anterior to posterior edge of nasal (1).
+  69. Length of nasal relative to bizygomatic width [[]] less than 50% of bizygomatic width (0); more than 50% of bizygomatic width (1).
+  70. Shape of nasal [[]] medial and lateral margins parallel (0); medial and lateral margins posteriorly convergent (1).
+  71. Anterior margins of nasals [[]] roughly straight or U shaped (0); form a distinct, posteriorly pointing W shape (1); with point on midline and a gap on each side between premaxilla and nasal (2); form an anteriorly pointing W shape (3).
+  72. Dorsal surface of nasals [[]] flattened (0); developed into a sagittal keel (1); medial portion raised into a nasal scoop (2).
+  73. Separation of posterior portions of nasals along sagittal plane by narial process of frontal [[]] present (0); absent (1).
+  74. Zygomatic process of squamosal and exoccipital in dorsal view [[]] clearly separated by an angle (0); posterior border of zygomatic process and lateral edge of exoccipital are confluent forming a continuous or nearly continuous lateral skull border (1).
+  75. Orbitotemporal crest [[]] positioned along posterior border of supraorbital process with the origin of the temporal muscle facing posteriorly or posteroventrally (0); absent or positioned on the dorsal surface of the supraorbital process with the origin of the temporal muscle facing posterodorsally or dorsally (1).
+  76. Area enclosed by orbitotemporal crest on supraorbital process of frontal [[]] forms less than half of the dorsal surface of the supraorbital process (0); covers half or more of the dorsal surface of the supraorbital process (1).
+  77. Outline and orientation of orbitotemporal crest [[]] subparallel to posterior border of supraorbital process (0); distal half oriented distinctly posterolaterally and approaching the posterolateral corner of the supraorbital process (1); as state 1 but with the crest terminating halfway along the posterior border of the supraorbital process (2); as state 1 but with the crest being distinctly U-shaped (3).
+  78. Shape of temporal fossa [[]] longer anteroposteriorly than wide transversely or as wide as long (0); wider than long (1).
+  79. Intertemporal constriction [[]] longer anteroposteriorly than wide transversely (0); wider than long (1).
+  80. Exposure of frontal on skull vertex [[]] broadly exposed (0); anteroposteriorly compressed or absent (1).
+  81. Parietal and interparietal [[]] anteriormost point located no further forward than postorbital process (0); anteriormost point in line with supraorbital process (1).
+  82. Sagittal trough on anterior portion of parietal on vertex [[]] absent (0); present (1).
+  83. Fronto-parietal suture developed as a sharp crest [[]] absent (0); present (1).
+  84. Outline of fronto-parietal suture [[]] straight or lobate (0); frontals project posteriorly along the sagittal plane and partly separate the left and right parietals (1); highly irregular (2).
+  85. Parasagittal crest on parietal [[]] absent (0); present (1).
+  86. Parietal in lateral view [[]] as long as high, or longer (0); higher than long (1).
+  87. Spreading of anterolateral portion of parietal on to posteromedial corner of supraorbital process of frontal [[]] absent (0); present (1).
+  88. Anteriormost point of parietal and interparietal [[]] more posterior than the posterior border of the ascending process of the maxilla (0); more anterior than or in line with the posterior border of the ascending process of the maxilla (1); as state 1 but the the parietal being dorsoventrally concave and undercutting the maxilla and associated frontal (2).
+  89. Anteriormost point of supraoccipital shield in dorsal view [[]] located posterior to or in line with the anterior border of the squamosal fossa (0); in line with temporal fossa, but posterior to the apex of the zygomatic process of the squamosal (1); in line with or located anterior to the level of the apex of the zygomatic process of the squamosal (2); in line with the anterior half or anterior edge of the supraorbital process (3).
+  90. Anteroposterior position of posterior apex of nuchal crest [[]] posterior to the occipital condyle (0); anterior to or in line with the posteriormost point of the occipital condyle (1).
+  91. Transverse position of posterior apex of nuchal crest [[]] aligned with proximal two thirds of the temporal fossa (0); aligned with the distal one third of the temporal fossa (1).
+  92. Distinct nuchal tubercle at junction of parieto-squamosal suture and supraoccipital [[]] absent (0); present (1).
+  93. Exposure of alisphenoid in or at ventral border of temporal fossa [[]] exposed on temporal wall of skull and contributing to orbital fissure (0); alisphenoid separated from orbital fissure or not exposed on temporal skull wall (1).
+  94. Large opening located at junction of parietal and squamosal [[]] absent (0); present (1).
+  95. Zygomatic process of squamosal extremely well developed and robust in dorsal view [[]] absent (0); present (1).
+  96. Zygomatic process of squamosal dorsoventrally expanded in lateral view [[]] present (0); absent (1).
+  97. Orientation of zygomatic process of squamosal in dorsal view [[]] directed anteromedially (0); directed anteriorly or slightly anterolaterally (1); directed anterolaterally (2).
+  98. Zygomatic process of squamosal in lateral or ventral view [[]] tapering anteriorly (0); expanded anteriorly, thus forming a central constriction (1).
+  99. Twisting of zygomatic process of squamosal [[]] partially twisted anticlockwise on the left and clockwise on the right (0); absent (1); partially twisted clockwise on the left and anticlockwise on the right (2); as state 1 but with the process twisted almost 90 degrees (3).
+  100. Apex of zygomatic process of squamosal deflected anteroventrally [[]] absent (0); present (1).
+  101. Supramastoid crest of zygomatic process of squamosal [[]] present (0); present on posterior portion of zygomatic process only (1); absent (2).
+  102. Size of squamosal including zygomatic and postglenoid processes [[]] as long as high, or longer (0); distinctly higher than long (1).
+  103. Parieto-squamosal suture shaped like a crest or ridge [[]] absent or low (0); present and distinctly elevated (1).
+  104. Squamosal prominence [[]] present as a projection on the crest delimiting the lateral or posterolateral edge of the squamosal fossa (0); absent (1).
+  105. Transverse width of squamosal lateral to exoccipital [[]] width equal to or greater than 15% of the distance between the sagittal plane and the lateral edge of the exoccipital (0); exposed portion of squamosal is less than 15% of that distance (1).
+  106. Length of squamosal fossa relative to maximum transverse width of temporal fossa as measured in a straight line from the posteriormost point of the temporal fossa to the posteriormost point of the nuchal crest [[]] length of squamosal fossa is three quarters the width of the temporal fossa or longer (0); length of squamosal fossa is less than three quarters the width of the temporal fossa (1).
+  107. Squamosal cleft [[]] absent (0); present (1).
+  108. Squamosal crease [[]] absent (0); present (1).
+  109. Paired tubercles on supraoccipital [[]] absent (0); limited to low ridges forming the lateral edges of a medial fossa (1); present (2).
+  110. Lateral edge of supraoccipital in dorsal view [[]] convex (0); straight (1); concave (2); sigmoidal (3).
+  111. Anterior border of supraoccipital shield [[]] rounded or pointed (0); squared (1).
+  112. Overall outline of supraoccipital in dorsal view [[]] rounded (0); triangular (1).
+  113. Anterior half of dorsal surface of supraoccipital [[]] concave (0); flat or convex (1).
+  114. External occipital crest [[]] absent or faint (0); restricted to anterior half of supraoccipital shield (1); running all the way along the supraoccipital shield (2).
+  115. Tip of postglenoid process in lateral view [[]] curving anteriorly (0); pointing ventrally (1); pointing posteriorly (2).
+  116. Ventral edge of postglenoid process in lateral view [[]] approximately in line with or dorsal to ventral edge of exoccipital (0); extending well ventral to ventral edge of exoccipital (1).
+  117. Orientation of postglenoid process in posterior view [[]] ventrolateral (0); ventral (1); ventromedial (2).
+  118. Outline of postglenoid process in anterior or posterior view [[]] parabolic (0); as state 0 but with lateral and medial edges parallel or concave (1); as state 1 but distinctly wider transversely than high dorsoventrally (2); triangular (3); trapezoidal with a ventrally directed medial border (4).
+  119. Twisting of postglenoid process in ventral view [[]] absent (0); twisted clockwise on the left side and anticlockwise on the right side so that the glenoid cavity faces anteromedially (1).
+  120. Position of base of postglenoid process in ventral or posterior view [[]] in line with the lateral edge of the skull (0); shifted away medially from the lateral edge of the skull (1).
+  121. Medial border of postglenoid process in ventral view [[]] confluent with more medial portion of squamosal (0); offset from remainder of squamosal by a distinct ridge (1).
+  122. Choanal margin of palatine in ventral view [[]] absent (0); straight or convex (1); concave (2); forms a longitudinal notch (3).
+  123. Pterygoid in ventral view [[]] partially or entirely exposed (0); palatine almost completely covers pterygoid and extends on to the hamular process (1).
+  124. Anteriormost point of pterygoid sinus fossa [[]] located anterior to foramen pseudovale (or path of mandibular branch of trigeminal nerve) (0); approximately in line with anterior edge of foramen pseudovale (1); located posterior to anterior edge of foramen pseudovale (2).
+  125. Lateral lamina of pterygoid [[]] located entirely anterior to the anterior process of the periotic (0); extending on to the anterior process of the periotic (1).
+  126. Shape of pterygoid hamulus [[]] finger-like (0); expanded into a dorsoventrally flattened plate flooring the pterygoid sinus fossa (1); triangular and wing-like (2); reduced in size or almost absent (3).
+  127. Position of pterygoid hamuli in ventral view [[]] located adjacent to the sagittal plane and almost contacting each other (0); well separated from each other (1).
+  128. Position of  foramen pseudovale (or path of mandibular branch of trigeminal nerve) [[]] located within squamosal or between squamosal and pterygoid (0); as state 0 but with foramen opening posteriorly (1); foramen lies within pterygoid (2).
+  129. Foramen pseudovale (or path of mandibular branch of trigeminal nerve) raised ventrally above more lateral portions of squamosal [[]] absent (0); present (1).
+  130. Fossa on squamosal for reception of sigmoid process of tympanic bulla [[]] present (0); absent or poorly defined (1).
+  131. Base of postglenoid process in ventral view [[]] in transverse line with or posterior to the posterior half of the tympanic bulla (0); in transverse line with the centre of the tympanic bulla (1); in transverse line with or anterior to the anterior half of the tympanic bulla (2).
+  132. Ventral border of sagittal part of vomer (nasal septum) in ventral view [[]] posteriormost portion projects beyond the posterior border of the palatines and is visible in ventral view (0); completely covered by palatines (1).
+  133. Basioccipital crest [[]] narrow transversely (0); wide and bulbous (1).
+  134. Lateral border of basioccipital crest in ventral view [[]] straight (0); concave (1).
+  135. Ventromedial corner of paroccipital process in posterior view [[]] located more ventrally than the basioccipital crest (0); level with or more dorsal than the basioccipital crest (1).
+  136. Posteriormost point of paroccipital process [[]] located more anteriorly than posterior edge of occipital condyle (0); level with or posterior to posterior edge of condyle (1).
+  137. Outline of stylohyal in cross section [[]] cylindrical (0); flattened into a plate (1).
+  138. Orientation of thyrohyal in dorsal or ventral view [[]] oriented posterolaterally (0); oriented laterally (1).
+  139. Shape of thyrohyal [[]] cylindrical (0); flattened and wing-like (1); plate-like (2).
+  140. Distal end of thyrohyal expanded relative to shaft [[]] absent (0); present (1).
+  141. Posterior projections on basihyal for attachment of sternohyoid muscle [[]] absent (0); present (1).
+  142. Ankylosed basihyal and thyrohyals [[]] absent (0); present (1).
+  143. Tympanohyal [[]] indistinct (0); clearly differentiated trumpet-shaped element fused to crista parotica (1).
+  144. Cranial elongation of pars cochlearis towards cranial cavity [[]] absent (0); present (1); as state 1, but with only the anterior side of the pars cochlearis being elongated (2).
+  145. Attachment of anterior process to pars cochlearis [[]] absent (0); present (1).
+  146. Anterior process of periotic in lateral view [[]] squared off or rounded (0); triangular (1); anterior border of process is two-bladed and L-shaped (2).
+  147. Shape of anteroventral angle of anterior process of periotic in medial or lateral view [[]] rounded or forms a relatively blunt angle (0); slender and tapering to a point (1).
+  148. Ventral edge of anterior process of periotic in medial view [[]] at the same level or dorsal to ventral edge of pars cochlearis (0); ventral to ventral profile of pars cochlearis (1).
+  149. Anterior process transversely compressed and blade-like [[]] absent (0); present (1).
+  150. Length of anterior process of periotic [[]] shorter than the anteroposterior length of the pars cochlearis, as measured from the anterior border of the pars cochlearis to the medial border of the fenestra cochleae (0); same length or longer (1).
+  151. Anteroexternal sulcus [[]] forms an oblique or vertical groove on lateral side of anterior process, immediately anterior to lateral tuberosity (0); absent (1).
+  152. Pyramidal process [[]] absent (0); present (1).
+  153. Articulation of anterior process of periotic and tympanic bulla [[]] accessory ossicle of tympanic bulla contacts fovea epitubaria on the anterior process of the periotic (0); accessory ossicle fused to periotic but still clearly defined anteriorly (1); accessory ossicle or homologous region fused to periotic (2).
+  154. Anterior bullar facet [[]] well-defined and transversely concave (0); flattened and not clearly distinguishable from fovea epitubaria (1); absent (2).
+  155. Shape of lateral tuberosity [[]] absent or poorly developed (0); well-defined tubercle (1); broadly triangular and longer than wide (2); hypertrophied (3); forms a distinct shelf (4).
+  156. Blade-like flange of lateral tuberosity [[]] absent (0); present (1).
+  157. Position of lateral tuberosity [[]] situated posterolateral to anterior pedicle of tympanic bulla or fovea epitubaria (0); situated lateral or anterolateral to anterior pedicle of tympanic bulla or fovea epitubaria (1).
+  158. Body of periotic lateral to pars cochlearis hypertrophied [[]] absent (0); present laterally and ventrally (1); present laterally only (2).
+  159. Mallear fossa [[]] well excavated with a clearly defined rim (0); present only as a depression with diffuse edges (1).
+  160. Distinct ridge delimiting insertion surface of tensor tympani on medial side of anterior process [[]] absent (0); absent, but insertion surface distinctly excavated (1); present (2).
+  161. Dorsal extension of attachment area for tensor tympani on medial side of anterior process [[]] absent or indistinct (0); present as a deeply excavated canal (1).
+  162. Anteromedial corner of pars cochlearis in ventral view [[]] developed as a rounded, anteroposterior ridge (0); angular and projecting medially (1); smooth and rounded (2).
+  163. Promontorial groove on medial side of pars cochlearis [[]] present, but relatively shallow (0); present and deeply excavated (1); present and forming a distinct constriction, separating a smooth and rounded ventral portion of the pars cochlearis from a flattened and striated dorsal one (2); absent (3).
+  164. Posterior cochlear crest in posteromedial view [[]] well separated from crista parotica (0); narrow separation or contact (1).
+  165. Posteromedial corner of pars cochlearis medial to fenestra cochleae [[]] rounded and level with fenestra cochleae (0); inflated and projecting posteriorly so that the fenestra cochleae appears recessed into the posterior face of pars cochlearis (1).
+  166. Morphology of posterior cochlear crest [[]] developed as a posteriorly extending triangular shelf (0); as state 0, but with the crest appearing sigmoidal in ventral view (1); as state 0, but with the ventral border bulging ventrally (2); as state 0, but pointing posterodorsally (3); developed as a robust, ventrally directed projection (4); absent or poorly developed (5).
+  167. Elongate lobe and fossa extending posteromedially from fenestra vestibuli in ventral view [[]] absent (0); present (1).
+  168. Anteroposterior alignment of proximal opening of facial canal, dorsal vestibular area and aperture for cochlear aqueduct [[]] present (0); absent (1).
+  169. Anteroposterior alignment of aperture for cochlear aqueduct and aperture for vestibular aqueduct [[]] absent (0); present (1).
+  170. Prominent septum dividing foramen singulare from spiral cribriform tract [[]] present (0); absent (1).
+  171. Sharp cranial rim surrounding proximal opening of facial canal [[]] absent (0); present (1).
+  172. Shape of aperture for cochlear aqueduct [[]] round with sharply defined dorsal margins (0); slit-like (1).
+  173. Size of aperture for cochlear aqueduct [[]] smaller than aperture for vestibular aqueduct (0); approximately the same size (1).
+  174. Aperture for cochlear aqueduct and fenestra cochleae [[]] separate (0); confluent (1).
+  175. Superior process [[]] present as a distinct crest forming the lateral wall of the suprameatal fossa (0); present but low, especially along its central portion (1); absent (2).
+  176. Suprameatal area hypertrophied [[]] absent (0); present (1).
+  177. Development of transverse crest [[]] depressed well below the rim of the internal acoustic meatus (0); well developed and reaching the cerebral surface of the pars cochlearis (1).
+  178. Morphology of transverse crest [[]] developed as a septum of varying thickness (0); proximal opening of facial canal is widely separated from internal acoustic meatus and connected to the latter via a distinct sulcus (1).
+  179. Hiatus Fallopii [[]] absent or small opening located anterior or anteroventral to proximal opening of facial canal (0); as state 0, but with the hiatus Fallopii being well developed and large (1); anterior border of proximal opening of facial canal is continuous with the hiatus Fallopii and shaped like a fissure (2).
+  180. Size of proximal opening of facial canal [[]] no more than half the size of the internal acoustic meatus (0); more than half the size of the internal acoustic meatus (1).
+  181. Tympanal recess of scala tympani [[]] absent (0); present (1).
+  182. Squamosal flange located posterior to lateral tuberosity [[]] absent (0); present (1).
+  183. Articulation surfaces on posterior processes of tympanic bulla and periotic [[]] unfused (0); fused in adults to form compound posterior process (1).
+  184. Facial sulcus on compound posterior process [[]] ventrally open (0); partially or entirely floored by a posteroventral flange (1); as state 1, but with the posteroventral flange being markedly enlarged (2).
+  185. Position of facial sulcus on compound posterior process in ventral view [[]] facial sulcus is posteriorly open and runs close to or along the posterior border of the compound posterior process (0); facial sulcus located centrally on the ventral surface of the compound posterior process and posteriorly bounded by a distinct ridge (1).
+  186. Orientation of compound posterior process in ventral view, with periotic in situ [[]] oriented posterolaterally with respect to the longitudinal axis of the anterior process of the periotic (0); oriented at a right angle to the axis of the anterior process (1).
+  187. Shape of compound posterior process [[]] cylindrical or slightly conical (0); short and stocky (1); flattened anteroposteriorly (2); forms a distinct plug (3).
+  188. Exposure of compound posterior process on lateral skull wall [[]] external surface of compound posterior process is absent or poorly defined (0); external surface is present but distinct from lateral skull wall (1); external surface is expanded and firmly integrated into the lateral skull wall (2); as state 2, but with the external surface of the posterior process being oriented at a 90 degree angle relative to its ventral surface (3).
+  189. Bony texture of ventral surface of compound posterior process [[]] massive (0); fibrous (1).
+  190. Neck of compound posterior process markedly constricted [[]] absent (0); present (1).
+  191. Anterior border of bulla in dorsal or ventral view [[]] obliquely truncated (0); squared (1); rounded (2); pointed (3).
+  192. Anterior portion of bulla transversely wider than posterior portion in ventral view [[]] absent (0); present (1).
+  193. In situ orientation of main axes of tympanic bullae in ventral view [[]] diverging posteriorly (0); parallel (1); diverging anteriorly (2).
+  194. Position of dorsal origin of lateral furrow [[]] located along posterior two thirds of the anteroposterior length of the bulla (0); located at roughly one third of the anteroposterior length of the bulla (1).
+  195. Orientation of lateral furrow in lateral view [[]] ventral (0); distinctly anteroventral (1).
+  196. Orientation of ventral keel of outer posterior prominence [[]] faces ventrally (0); faces ventromedially or medially (1).
+  197. Anteroposterior outline of main ridge [[]] concave (0); straight or convex (1).
+  198. Position of involucral ridge relative to medial margin of bulla [[]] coincident with medial margin (0); retracted laterally (1).
+  199. Position of involucral ridge relative to posterior margin of bulla [[]] coincident with posterior margin (0); retracted anteriorly (1).
+  200. Sigmoid process deflected laterally in anterior or posterior view [[]] absent (0); present (1); as state 1, but with the sigmoid process being nearly horizontal (2).
+  201. Dorsomedial corner of sigmoid process in anterior view [[]] separated from anterior process of the malleus (0); confluent with anterior process of the malleus (1).
+  202. Ventral margin of sigmoid process in lateral view [[]] present (0); absent, with the lateral margin of the sigmoid process turning smoothly into a sulcus on the lateral side of the bulla (1).
+  203. Shape of conical process in lateral view [[]] well developed and dorsally convex (0); reduced to a low ridge or absent (1).
+  204. Elliptical foramen [[]] present (0); absent (1).
+  205. Inner posterior prominence [[]] present as distinct lobe and transversely wider than its lateral counterpart (0); present but subequal in width to outer posterior prominence or smaller (1); absent or indistinct (2).
+  206. Interprominential ridge [[]] present (0); absent (1).
+  207. Transverse creases on dorsal surface of involucrum [[]] poorly developed or absent (0); well defined and deep (1).
+  208. Ridge on inside of bulla [[]] extends laterally from involucrum across the floor of the tympanic cavity (0); absent (1).
+  209. Development of tympanic sulcus [[]] faint line or low ridge (0); distinct crest or sulcus (1).
+  210. Outline and position of tympanic sulcus [[]] forms a semicircular and ventrally curved line well separated from the intersection of the conical and sigmoid processes (0); forms a roughly horizontal line at or close to the level of the intersection of the conical and sigmoid processes (1).
+  211. Anteromedial portion of ventral surface of tympanic bulla [[]] transversely convex (0); distinctly flattened or slightly concave (1).
+  212. Anterolateral corner of bulla [[]] rounded or flattened (0); inflated and forming a distinct lobe (1).
+  213. Anterolateral ridge or shelf [[]] absent (0); present (1).
+  214. Position of posterior pedicle in dorsal view [[]] situated at or near the posterior border of the bulla (0); located far anterior to the posterior end of the bulla (1).
+  215. Posterior mandibular cheek teeth [[]] oriented vertically or anteriorly (0); reclined posteriorly (1).
+  216. Medial surface of central part of mandible [[]] similar to lateral surface (0); distinctly flattened relative to lateral surface (1).
+  217. Dorsomedial surface of posterior portion of mandibular body [[]] flat or convex (0); distinctly excavated (1).
+  218. Mandibular symphysis [[]] sutured or fused (0); unsutured (1).
+  219. Outline of posterior portion of mandible in dorsal or ventral view [[]] follows a straight line or simple curve (0); sigmoidal owing to a laterally reflexed neck and condyle (1).
+  220. Mandibular body in dorsal view [[]] bowed medially (0); straight (1); bowed laterally, but with curvature mainly confined to anterior portion of mandible (2); evenly bowed laterally (3).
+  221. Anterior extremity of mandible [[]] vertical or slightly twisted, with the ventral edge shifted medially (0); apex of mandible shifted to an almost horizontal position (1).
+  222. Mandibular body in medial or lateral view [[]] height remains roughly constant throughout (0); arched dorsally (1); increases in height posteriorly (2); dorsoventrally constricted near the centre (3); increasing in height anteriorly (4).
+  223. Height of mandibular foramen [[]] height approximately that of the mandibular body, thus forming a mandibular fossa (0); height about half that of the mandibular body or less (1).
+  224. Anterior border of mandibular foramen [[]] rounded (0); sharply triangular (1).
+  225. Dorsal border of mandibular foramen projected medially and developed into a roof [[]] absent (0); present (1).
+  226. Satellite process [[]] absent or limited to a low rugosity (0); present (1).
+  227. Ridge on posteromedial portion of coronoid process running close and parallel to its posterior border [[]] absent (0); present (1).
+  228. Relative position of anterior border of mandibular foramen [[]] in line with coronoid process (0); posterior to coronoid process (1).
+  229. Subcondylar furrow [[]] absent or extremely shallow (0); present as a well-defined groove medially only (1); as state 1, but with the dorsal border of the furrow being accentuated by a medially well-developed condyle (2); extends across the posterior surface of the condyle, separating it from the angular process both posteriorly and laterally (3).
+  230. Coronoid process in lateral or medial view [[]] forms a broad plate (0); distinctly triangular (1); shaped like a finger and pointing posteriorly (2).
+  231. Shape of coronoid process (if triangular) in lateral or medial view [[]] sharply triangular and about as high dorsoventrally as long anteroposteriorly (0); bluntly triangular and considerably longer than high (1).
+  232. Anterior outline of coronoid process [[]] vertical (0); bent laterally (1).
+  233. Postcoronoid elevation [[]] absent (0); present (1).
+  234. Development of angular process in medial view [[]] hollowed out (0); robust (1).
+  235. Position of angular process relative to mandibular condyle [[]] located anterior to mandibular condyle (0); located approximately below the condyle (1); projects posteriorly beyond the condyle (2).
+  236. Height of mandibular condyle relative to angular process [[]] lower than angular process (0); as high or higher (1).
+  237. Angular process deflected ventrally [[]] absent (0); present (1).
+  238. Fossa on medial side of angular process [[]] absent (0); present (1).
+  239. Orientation of articular surface of mandibular condyle [[]] posterior (0); posterodorsal (1); dorsal, with the condyle being confluent with a dorsoventrally expanded angular process (2); dorsal, with the condyle being larger than and clearly offset from the angular process (3).
+  240. Dorsal surface of mandibular condyle [[]] approximately at the same level as the mandibular neck (0); elevated above and notably offset from the dorsal edge of the mandibular neck (1).
+  241. Posterodorsal corner of mandibular fossa forms a medially facing platform [[]] absent (0); present (1).
+  242. Mylohoid sulcus [[]] absent (0); present (1).
+  243. Vertebrarterial foramen in axis [[]] absent (0); present (1).
+  244. Development of parapophysis and diapophysis on axis in anterior or posterior view [[]] parapophysis considerably more robust than diapophysis (0); parapophysis and diapophysis are similar in size (1).
+  245. Cervical vertebrae [[]] separate (0); partially fused starting from the axis (1); completely fused (2).
+  246. Parapophysis on seventh cervical vertebra [[]] present (0); absent (1).
+  247. Centra of cervical vertebrae in anterior or posterior view [[]] rounded (0); squared (1).
+  248. Orientation of transverse processes of anterior lumbar vertebrae in anterior or posterior view [[]] oriented distinctly ventrolaterally (0); oriented slightly ventrolaterally or subhorizontally (1); oriented laterally and horizontally (2).
+  249. Pachyostosis of transverse processes of lumbar vertebrae [[]] absent (0); present (1).
+  250. Apices of neural spines of posterior thoracic and anterior lumbar vertebrae anteroposteriorly expanded and squared off [[]] absent (0); present (1).
+  251. Number of lumbar vertebrae [[]] more than 12 (0); 10 to 12 (1); fewer than 10 (2).
+  252. Metapophyses on posterior thoracic and anterior lumbar vertebrae in lateral view [[]] oriented dorsally (0); oriented anterodorsally or anteriorly (1).
+  253. Sternum [[]] composed of several bones (0); composed of one bone (1).
+  254. Manubrium of sternum [[]] massive (0); cordiform or plate-like (1); cruciform (2).
+  255. Posterior ribs transversely expanded [[]] absent (0); present (1).
+  256. Proportions of scapula [[]] length of scapula is less than 150 percent its maximum dorsoventral height (0); length equals 150 percent of height or more (1).
+  257. Coracoid process of scapula [[]] present (0); absent (1).
+  258. Acromion process of scapula [[]] present (0); absent (1).
+  259. Supraspinous fossa of scapula [[]] present (0); absent or nearly absent, with acromion process located near anterior edge of scapula (1).
+  260. Deltoid crest of humerus [[]] present as a distinct crest (0); absent or reduced to a variably developed rugosity (1).
+  261. Relative length of humerus [[]] longer than or roughly the same length as radius and ulna (0); distinctly shorter than radius and ulna (1).
+  262. Orientation of humeral head in medial or lateral view [[]] angled (0); vertical (1).
+  263. Posterior notch on distal portion of humeral shaft in medial or lateral view [[]] present (0); absent (1).
+  264. Articulation facet for radius on humerus in medial or lateral view [[]] radial and ulnar facets are subequal in size (0); radial facet is distinctly larger than ulnar facet, excluding the olecranon (1).
+  265. Shaft of radius in medial or lateral view [[]] roughly as wide as that of the ulna (0); markedly more robust and up to twice as wide as that of the ulna (1); twice the width of that of the ulna or wider (2).
+  266. Radial crest [[]] present as a distinct tubercle or crest (0); absent or reduced to a low angle (1).
+  267. Proximal epihysis of radius in medial or lateral view [[]] narrower than radial shaft or approximately equal in width (0); proximal epiphysis is slightly flared (1).
+  268. Olecranon process [[]] present as a distinct process (0); absent (1).
+  269. Manus [[]] pentadactyl (0); tetradactyl (1).
+  270. Femur [[]] present as a relatively well-developed bone (0); absent or reduced to a barely recognisable lump (1).
+  271. Tibia [[]] present (0); absent (1).
+  272. Ventral throat grooves [[]] absent (0); present and terminate well anterior to umbilicus (1); present and extend to umbilicus (2).
+  273. Ventral throat pouch [[]] absent (0); present (1).
+  274. Tongue [[]] muscular (0); reduced and predominantly connective tissue (1).
+  275. Temporomandibular joint [[]] synovial (0); fibrocartilagenous mass originates in the glenoid fossa and envelopes the mandibular condyle (1).
+  276. Longitudinal ridges on rostrum [[]] absent or indistinct (0); single median ridge (1); three longitudinal ridges (2).
+  277. Dorsal fin [[]] present as fin or dorsal hump (0); absent (1).
+  278. Chromosome number [[]] 42 (0); 44 (1).

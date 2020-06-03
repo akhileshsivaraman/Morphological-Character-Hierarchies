@@ -1,0 +1,12 @@
+open
+morph/asher-hofreiter-morph-2.nex
+outgroup
+outgroup=Didelphis
+outGroup
+addseq=random
+nreps=2000
+ratchet=yes
+heuristic
+report
+save
+Morphy A&H.tre

@@ -1,0 +1,535 @@
+# logfile from anagallis - 2020-5-6 15:20:33
+>-< import tnt> importing from TNT file 'Evans2014.tnt'
+xread> reading data...
+xread> 83 terminals and 75 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 Nasals,_medial_contact smooth slightly_grooved heavily_ornamented_with_deep_pits_and_grooves>
+>skipping unsupported (or wrong) TNT command  <{1 Skull,_cranial_exostosis absent present>
+>skipping unsupported (or wrong) TNT command  <{2 Skull,_shape_of_skull_roof_in_orbital_region_(i.e._Fr-Par) parallel-sided wider_anteriorly wider_posteriorly>
+>skipping unsupported (or wrong) TNT command  <{3 Skull,_minimum_width_of_the_skull_roof_in_the_orbital_region_relative_to_the_orbital_width less_than_1/4 between_1/4_and_1/3 more_than_1/3>
+>skipping unsupported (or wrong) TNT command  <{4 Frontoparietal,_nature_of_midline_contact no_medial_contact_ sutured_or_partially_fused_ fused_along_entire_length_>
+>skipping unsupported (or wrong) TNT command  <{5 Frontoparietal_fenestra,_sphenethmoid_contribution completely_surrounded_anteriorly_by_sphenethmoid_ not_completely_surrounded_anteriorly_by_sphenethmoid_>
+>skipping unsupported (or wrong) TNT command  <{6 Sphenethmoid,_dorsal_exposure absent present>
+>skipping unsupported (or wrong) TNT command  <{7 Sphenethmoid,_ventral_configuration single divided>
+>skipping unsupported (or wrong) TNT command  <{8 Parieto-squamosal_arch absent present>
+>skipping unsupported (or wrong) TNT command  <{9 Squamosal,_development_of_otic_ramus absent_or_rudimentary_ overlapping_crista_parotica_ overlapping_crista_parotica_and_otoccipital_>
+>skipping unsupported (or wrong) TNT command  <{10 Squamosal,_development_of_zygomatic_ramus reduced_ moderately_developed_ending_free_ well_developed,_articulated_with_maxilla_>
+>skipping unsupported (or wrong) TNT command  <{11 Premaxillary_and_maxillary_teeth absent present>
+>skipping unsupported (or wrong) TNT command  <{12 Tooth,_cusp_shape bicuspid monocuspid>
+>skipping unsupported (or wrong) TNT command  <{13 Quadratojugal absent present>
+>skipping unsupported (or wrong) TNT command  <{14 Contact_of_quadratojugal_and_maxilla absent present>
+>skipping unsupported (or wrong) TNT command  <{15 Premaxilla,_palatine_shelf present absent>
+>skipping unsupported (or wrong) TNT command  <{16 Premaxilla,_lingual_process absent present>
+>skipping unsupported (or wrong) TNT command  <{17 Vomer,_teeth present absent>
+>skipping unsupported (or wrong) TNT command  <{18 Vomer,_anterior_process reaching_the_maxillary_arch not_reaching_the_maxillary_arch_>
+>skipping unsupported (or wrong) TNT command  <{19 Palatine_as_a_separate_element_(neopalatine_of_Trueb_1993) absent present>
+>skipping unsupported (or wrong) TNT command  <{20 Pterygoid,_length_of_anterior_ramus long,_reaching_antorbital_planum_ short>
+>skipping unsupported (or wrong) TNT command  <{21 Pterygoid_and_parasphenoid,_contact absent present>
+>skipping unsupported (or wrong) TNT command  <{22 Parasphenoid,_shape_of_anterior_end_of_cultriform_process serrated_or_rounded_ acuminate_ notched_>
+>skipping unsupported (or wrong) TNT command  <{23 Parasphenoid,_anterior_extent_of_cultriform_process well_posterior_to_the_level_of_the_antorbital_plane_ at_the_level_of_the_antorbital_plane_or_slightly_posteriorly_ or_anterior_to_level_of_antorbital_plane>
+>skipping unsupported (or wrong) TNT command  <{24 Odontoids_on_lower_jaw absent present>
+>skipping unsupported (or wrong) TNT command  <{25 Hyalia,_general_configuration complete_ distally_incomplete proximally_incomplete_>
+>skipping unsupported (or wrong) TNT command  <{26 Hyale,_anterior_processes absent present>
+>skipping unsupported (or wrong) TNT command  <{27 Hyoid_plate,_anterolateral_process absent present>
+>skipping unsupported (or wrong) TNT command  <{28 Hyoid_plate,_shape_of_anterolateral_process pointed_ dilated_distally_ expanded_>
+>skipping unsupported (or wrong) TNT command  <{29 Hyoid_plate,_posterolateral_process absent present>
+>skipping unsupported (or wrong) TNT command  <{30 Hyoid_ossification,_posteromedial_process present_on_a_cartilaginous_stalk_ abuts_directly_on_the_hyoid invades_the_hyoid_>
+>skipping unsupported (or wrong) TNT command  <{31 Parahyoid absent present>
+>skipping unsupported (or wrong) TNT command  <{32 Hyoid_plate,_calcifications absent present>
+>skipping unsupported (or wrong) TNT command  <{33 Presacral_vertebrae,_number eight_ seven_ or_seven_(with_8th_fused_to_sacrum)_>
+>skipping unsupported (or wrong) TNT command  <{34 Cervical_vertebrae,_cotyle_arrangement fully_confluent_(Lynch_type_3) narrowly_separated_but_distinct_(Lynch's_type_2)_ widely_separated_(Lynch's_type_1)_>
+>skipping unsupported (or wrong) TNT command  <{35 Presacral_vertebrae,_posterior-most_centrum_morphology opisthocoelous_ procoelous_ biconcave_>
+>skipping unsupported (or wrong) TNT command  <{36 Presacral_vertebrae,_imbrication_of_posterior-most_four_neural_arches imbricate_ non-imbricate_>
+>skipping unsupported (or wrong) TNT command  <{37 Presacral_vertebrae,_height_of_neural_spines_in_anterior_presacrals low high>
+>skipping unsupported (or wrong) TNT command  <{38 Presacral_vertebrae,_orientation_of_transverse_processes_of_6th_presacral nearly_perpendicular_to_axial_axis_ moderately_forward_ markedly_forward_ posteriorly_inclined_>
+>skipping unsupported (or wrong) TNT command  <{39 Presacral_vertebrae,_length_of_transverse_processes_of_the_posterior_presacrals_relative_to_the_sacral_diapophyses clearly_shorter_ equal_to_subequal_>
+>skipping unsupported (or wrong) TNT command  <{40 Presacral_vertebrae,_uncinate_processes_on_transverse_process_of_third_vertebra present_ absent>
+>skipping unsupported (or wrong) TNT command  <{41 Sacral_vertebrae,_expansion_of_diapophyses widely_expanded_(length_of_distal_end_of_sacral_rib_equal_or_greater_than_total_width_of_sacrum) moderately_dilated_(anterior_and_posterior_margins_of_sacral_rib_clearly_divergent,_distal_end_of_rib_flared_by_comparison_with_proximal_end,_but_less_than_total_sacral_width) cylindrical_(anterior_and_posterior_margins_of_sacral_rib_more_or_less_parallel,_distal_end_narrow_and_similar_in_diameter_to_proximal_end)_>
+>skipping unsupported (or wrong) TNT command  <{42 Sacrum_and_urostyle,_nature_of_articulation bicondylar_ monocondylar_ fused_>
+>skipping unsupported (or wrong) TNT command  <{43 Urostyle,_transverse_processes present absent>
+>skipping unsupported (or wrong) TNT command  <{44 Urostyle,_length_relative_to_presacral_column nearly_as_long_ longer_ much_shorter_>
+>skipping unsupported (or wrong) TNT command  <{45 Free_ribs absent present>
+>skipping unsupported (or wrong) TNT command  <{46 Free_intervertebral_discs_in_subadults absent present>
+>skipping unsupported (or wrong) TNT command  <{47 Dorsal_shield absent present>
+>skipping unsupported (or wrong) TNT command  <{48 Omosternum absent present>
+>skipping unsupported (or wrong) TNT command  <{49 Omosternum,_degree_of_ossification completely_cartilaginous_ with_ossified_style_>
+>skipping unsupported (or wrong) TNT command  <{50 Omosternum,_shape_of_ossified_style proximally_forked_ proximally_unforked_>
+>skipping unsupported (or wrong) TNT command  <{51 Sternum,_degree_of_ossification completely_cartilaginous_ with_ossified_style_>
+>skipping unsupported (or wrong) TNT command  <{52 Sternum,_expansion_of_the_coracoid_relative_to_its_length less_than_one_half_ more_than_one_half_>
+>skipping unsupported (or wrong) TNT command  <{53 Shape_of_clavicle curved_ straight_>
+>skipping unsupported (or wrong) TNT command  <{54 Clavicle_orientation directed_anteriorly_ perpendicular_to_sagittal_plane_>
+>skipping unsupported (or wrong) TNT command  <{55 Epicoracoid_cartilages_in_the_coracoideal_region overlapping_ not_overlapping_(usally_extremely_reduced)_>
+>skipping unsupported (or wrong) TNT command  <{56 Scapula,_maximum_diameter_of_glenoid_fossa_relative_to_the_scapular_shaft more_than_one_ between_one_and_one_half_ less_than_one_half_>
+>skipping unsupported (or wrong) TNT command  <{57 Scapula,_anterior_lamina absent_ present>
+>skipping unsupported (or wrong) TNT command  <{58 Clavicle-scapular_relation overlapping_anteriorly_ abutting_medially_ fused_>
+>skipping unsupported (or wrong) TNT command  <{59 Intercalary_elements absent_ present>
+>skipping unsupported (or wrong) TNT command  <{60 Postaxial_carpals_(ulnare_and_distals_5_and_4) all_free_ ulnare_free,_5+4_fused_ ulnare_free,_3+4+5_fused_>
+>skipping unsupported (or wrong) TNT command  <{61 Prepollex one_spherical_proximal_element_ two_elements,_the_distal_one_elongated_ three_or_more_elements_ two_elements,_the_distal_one_hypermorphic_>
+>skipping unsupported (or wrong) TNT command  <{62 Finger_4,_shape_of_terminal_phalanx straight_ curved>
+>skipping unsupported (or wrong) TNT command  <{63 Finger_4,_distal_tip_of_terminal_phalanx simple_(slightly_knobbed_or_rounded)_ notched_ T-shaped Y_"-"_shaped_ clearly_knobbed_>
+>skipping unsupported (or wrong) TNT command  <{64 Carpal_torsion absent_ present>
+>skipping unsupported (or wrong) TNT command  <{65 Ilium,_well-developed_dorsal_crest_on_iliac_shaft absent present>
+>skipping unsupported (or wrong) TNT command  <{66 Epipubis absent present>
+>skipping unsupported (or wrong) TNT command  <{67 Femoral_crest absent present>
+>skipping unsupported (or wrong) TNT command  <{68 Os_sesamoides_tarsale absent present>
+>skipping unsupported (or wrong) TNT command  <{69 Distal_tarsals_3_and_2 free fused>
+>skipping unsupported (or wrong) TNT command  <{70 Discrete_distal_tarsal_1 absent present>
+>skipping unsupported (or wrong) TNT command  <{71 Prehallux one_spherical_proximal_element_ two_elements,_the_distal_one_enlongate_ three_or_more_elements three_or_more_elements>
+>skipping unsupported (or wrong) TNT command  <{72 Shape_of_terminal_phalanx_of_toe straight curved>
+>skipping unsupported (or wrong) TNT command  <{73 Distal_tip_of_terminal_phalanx_of_toe simple_(slightly_knobbed_or_rounded)_ notched_ T-shaped Y-shaped_ clearly_knobbed_>
+>skipping unsupported (or wrong) TNT command  <{74 Pupil_shape vertical_ triangular_ horizontal_>
+>skipping unsupported (or wrong) TNT command  <proc />
+>skipping unsupported (or wrong) TNT command  <comments 0>
+import tnt> closing TNT file 'Evans2014.tnt'
+
+current dataset has 75 characters and 83 terminals
+>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set
+  [-/1 1.75;
+characters properties set
+  <12 13>
+  <14 15>
+  <28 29>
+  <49 <50 51>>;
+>-< trees search mult> doing 50 replicates with tbr swapping
+(1-) cg 50 pass 1 failed assertion: nindels != nor + nzr - l_nsubc: 7 != 8 (7 + 3 - 2)
+trees search mult>-< internal error 999 -  - please notify jan.de.laet@anagallis.be
+internal error in calculation of tree score# logfile from anagallis - 2020-5-6 15:22:59
+>-< import tnt> importing from TNT file 'Evans2014.tnt'
+xread> reading data...
+xread> 83 terminals and 75 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 Nasals,_medial_contact smooth slightly_grooved heavily_ornamented_with_deep_pits_and_grooves>
+>skipping unsupported (or wrong) TNT command  <{1 Skull,_cranial_exostosis absent present>
+>skipping unsupported (or wrong) TNT command  <{2 Skull,_shape_of_skull_roof_in_orbital_region_(i.e._Fr-Par) parallel-sided wider_anteriorly wider_posteriorly>
+>skipping unsupported (or wrong) TNT command  <{3 Skull,_minimum_width_of_the_skull_roof_in_the_orbital_region_relative_to_the_orbital_width less_than_1/4 between_1/4_and_1/3 more_than_1/3>
+>skipping unsupported (or wrong) TNT command  <{4 Frontoparietal,_nature_of_midline_contact no_medial_contact_ sutured_or_partially_fused_ fused_along_entire_length_>
+>skipping unsupported (or wrong) TNT command  <{5 Frontoparietal_fenestra,_sphenethmoid_contribution completely_surrounded_anteriorly_by_sphenethmoid_ not_completely_surrounded_anteriorly_by_sphenethmoid_>
+>skipping unsupported (or wrong) TNT command  <{6 Sphenethmoid,_dorsal_exposure absent present>
+>skipping unsupported (or wrong) TNT command  <{7 Sphenethmoid,_ventral_configuration single divided>
+>skipping unsupported (or wrong) TNT command  <{8 Parieto-squamosal_arch absent present>
+>skipping unsupported (or wrong) TNT command  <{9 Squamosal,_development_of_otic_ramus absent_or_rudimentary_ overlapping_crista_parotica_ overlapping_crista_parotica_and_otoccipital_>
+>skipping unsupported (or wrong) TNT command  <{10 Squamosal,_development_of_zygomatic_ramus reduced_ moderately_developed_ending_free_ well_developed,_articulated_with_maxilla_>
+>skipping unsupported (or wrong) TNT command  <{11 Premaxillary_and_maxillary_teeth absent present>
+>skipping unsupported (or wrong) TNT command  <{12 Tooth,_cusp_shape bicuspid monocuspid>
+>skipping unsupported (or wrong) TNT command  <{13 Quadratojugal absent present>
+>skipping unsupported (or wrong) TNT command  <{14 Contact_of_quadratojugal_and_maxilla absent present>
+>skipping unsupported (or wrong) TNT command  <{15 Premaxilla,_palatine_shelf present absent>
+>skipping unsupported (or wrong) TNT command  <{16 Premaxilla,_lingual_process absent present>
+>skipping unsupported (or wrong) TNT command  <{17 Vomer,_teeth present absent>
+>skipping unsupported (or wrong) TNT command  <{18 Vomer,_anterior_process reaching_the_maxillary_arch not_reaching_the_maxillary_arch_>
+>skipping unsupported (or wrong) TNT command  <{19 Palatine_as_a_separate_element_(neopalatine_of_Trueb_1993) absent present>
+>skipping unsupported (or wrong) TNT command  <{20 Pterygoid,_length_of_anterior_ramus long,_reaching_antorbital_planum_ short>
+>skipping unsupported (or wrong) TNT command  <{21 Pterygoid_and_parasphenoid,_contact absent present>
+>skipping unsupported (or wrong) TNT command  <{22 Parasphenoid,_shape_of_anterior_end_of_cultriform_process serrated_or_rounded_ acuminate_ notched_>
+>skipping unsupported (or wrong) TNT command  <{23 Parasphenoid,_anterior_extent_of_cultriform_process well_posterior_to_the_level_of_the_antorbital_plane_ at_the_level_of_the_antorbital_plane_or_slightly_posteriorly_ or_anterior_to_level_of_antorbital_plane>
+>skipping unsupported (or wrong) TNT command  <{24 Odontoids_on_lower_jaw absent present>
+>skipping unsupported (or wrong) TNT command  <{25 Hyalia,_general_configuration complete_ distally_incomplete proximally_incomplete_>
+>skipping unsupported (or wrong) TNT command  <{26 Hyale,_anterior_processes absent present>
+>skipping unsupported (or wrong) TNT command  <{27 Hyoid_plate,_anterolateral_process absent present>
+>skipping unsupported (or wrong) TNT command  <{28 Hyoid_plate,_shape_of_anterolateral_process pointed_ dilated_distally_ expanded_>
+>skipping unsupported (or wrong) TNT command  <{29 Hyoid_plate,_posterolateral_process absent present>
+>skipping unsupported (or wrong) TNT command  <{30 Hyoid_ossification,_posteromedial_process present_on_a_cartilaginous_stalk_ abuts_directly_on_the_hyoid invades_the_hyoid_>
+>skipping unsupported (or wrong) TNT command  <{31 Parahyoid absent present>
+>skipping unsupported (or wrong) TNT command  <{32 Hyoid_plate,_calcifications absent present>
+>skipping unsupported (or wrong) TNT command  <{33 Presacral_vertebrae,_number eight_ seven_ or_seven_(with_8th_fused_to_sacrum)_>
+>skipping unsupported (or wrong) TNT command  <{34 Cervical_vertebrae,_cotyle_arrangement fully_confluent_(Lynch_type_3) narrowly_separated_but_distinct_(Lynch's_type_2)_ widely_separated_(Lynch's_type_1)_>
+>skipping unsupported (or wrong) TNT command  <{35 Presacral_vertebrae,_posterior-most_centrum_morphology opisthocoelous_ procoelous_ biconcave_>
+>skipping unsupported (or wrong) TNT command  <{36 Presacral_vertebrae,_imbrication_of_posterior-most_four_neural_arches imbricate_ non-imbricate_>
+>skipping unsupported (or wrong) TNT command  <{37 Presacral_vertebrae,_height_of_neural_spines_in_anterior_presacrals low high>
+>skipping unsupported (or wrong) TNT command  <{38 Presacral_vertebrae,_orientation_of_transverse_processes_of_6th_presacral nearly_perpendicular_to_axial_axis_ moderately_forward_ markedly_forward_ posteriorly_inclined_>
+>skipping unsupported (or wrong) TNT command  <{39 Presacral_vertebrae,_length_of_transverse_processes_of_the_posterior_presacrals_relative_to_the_sacral_diapophyses clearly_shorter_ equal_to_subequal_>
+>skipping unsupported (or wrong) TNT command  <{40 Presacral_vertebrae,_uncinate_processes_on_transverse_process_of_third_vertebra present_ absent>
+>skipping unsupported (or wrong) TNT command  <{41 Sacral_vertebrae,_expansion_of_diapophyses widely_expanded_(length_of_distal_end_of_sacral_rib_equal_or_greater_than_total_width_of_sacrum) moderately_dilated_(anterior_and_posterior_margins_of_sacral_rib_clearly_divergent,_distal_end_of_rib_flared_by_comparison_with_proximal_end,_but_less_than_total_sacral_width) cylindrical_(anterior_and_posterior_margins_of_sacral_rib_more_or_less_parallel,_distal_end_narrow_and_similar_in_diameter_to_proximal_end)_>
+>skipping unsupported (or wrong) TNT command  <{42 Sacrum_and_urostyle,_nature_of_articulation bicondylar_ monocondylar_ fused_>
+>skipping unsupported (or wrong) TNT command  <{43 Urostyle,_transverse_processes present absent>
+>skipping unsupported (or wrong) TNT command  <{44 Urostyle,_length_relative_to_presacral_column nearly_as_long_ longer_ much_shorter_>
+>skipping unsupported (or wrong) TNT command  <{45 Free_ribs absent present>
+>skipping unsupported (or wrong) TNT command  <{46 Free_intervertebral_discs_in_subadults absent present>
+>skipping unsupported (or wrong) TNT command  <{47 Dorsal_shield absent present>
+>skipping unsupported (or wrong) TNT command  <{48 Omosternum absent present>
+>skipping unsupported (or wrong) TNT command  <{49 Omosternum,_degree_of_ossification completely_cartilaginous_ with_ossified_style_>
+>skipping unsupported (or wrong) TNT command  <{50 Omosternum,_shape_of_ossified_style proximally_forked_ proximally_unforked_>
+>skipping unsupported (or wrong) TNT command  <{51 Sternum,_degree_of_ossification completely_cartilaginous_ with_ossified_style_>
+>skipping unsupported (or wrong) TNT command  <{52 Sternum,_expansion_of_the_coracoid_relative_to_its_length less_than_one_half_ more_than_one_half_>
+>skipping unsupported (or wrong) TNT command  <{53 Shape_of_clavicle curved_ straight_>
+>skipping unsupported (or wrong) TNT command  <{54 Clavicle_orientation directed_anteriorly_ perpendicular_to_sagittal_plane_>
+>skipping unsupported (or wrong) TNT command  <{55 Epicoracoid_cartilages_in_the_coracoideal_region overlapping_ not_overlapping_(usally_extremely_reduced)_>
+>skipping unsupported (or wrong) TNT command  <{56 Scapula,_maximum_diameter_of_glenoid_fossa_relative_to_the_scapular_shaft more_than_one_ between_one_and_one_half_ less_than_one_half_>
+>skipping unsupported (or wrong) TNT command  <{57 Scapula,_anterior_lamina absent_ present>
+>skipping unsupported (or wrong) TNT command  <{58 Clavicle-scapular_relation overlapping_anteriorly_ abutting_medially_ fused_>
+>skipping unsupported (or wrong) TNT command  <{59 Intercalary_elements absent_ present>
+>skipping unsupported (or wrong) TNT command  <{60 Postaxial_carpals_(ulnare_and_distals_5_and_4) all_free_ ulnare_free,_5+4_fused_ ulnare_free,_3+4+5_fused_>
+>skipping unsupported (or wrong) TNT command  <{61 Prepollex one_spherical_proximal_element_ two_elements,_the_distal_one_elongated_ three_or_more_elements_ two_elements,_the_distal_one_hypermorphic_>
+>skipping unsupported (or wrong) TNT command  <{62 Finger_4,_shape_of_terminal_phalanx straight_ curved>
+>skipping unsupported (or wrong) TNT command  <{63 Finger_4,_distal_tip_of_terminal_phalanx simple_(slightly_knobbed_or_rounded)_ notched_ T-shaped Y_"-"_shaped_ clearly_knobbed_>
+>skipping unsupported (or wrong) TNT command  <{64 Carpal_torsion absent_ present>
+>skipping unsupported (or wrong) TNT command  <{65 Ilium,_well-developed_dorsal_crest_on_iliac_shaft absent present>
+>skipping unsupported (or wrong) TNT command  <{66 Epipubis absent present>
+>skipping unsupported (or wrong) TNT command  <{67 Femoral_crest absent present>
+>skipping unsupported (or wrong) TNT command  <{68 Os_sesamoides_tarsale absent present>
+>skipping unsupported (or wrong) TNT command  <{69 Distal_tarsals_3_and_2 free fused>
+>skipping unsupported (or wrong) TNT command  <{70 Discrete_distal_tarsal_1 absent present>
+>skipping unsupported (or wrong) TNT command  <{71 Prehallux one_spherical_proximal_element_ two_elements,_the_distal_one_enlongate_ three_or_more_elements three_or_more_elements>
+>skipping unsupported (or wrong) TNT command  <{72 Shape_of_terminal_phalanx_of_toe straight curved>
+>skipping unsupported (or wrong) TNT command  <{73 Distal_tip_of_terminal_phalanx_of_toe simple_(slightly_knobbed_or_rounded)_ notched_ T-shaped Y-shaped_ clearly_knobbed_>
+>skipping unsupported (or wrong) TNT command  <{74 Pupil_shape vertical_ triangular_ horizontal_>
+>skipping unsupported (or wrong) TNT command  <proc />
+>skipping unsupported (or wrong) TNT command  <comments 0>
+import tnt> closing TNT file 'Evans2014.tnt'
+
+current dataset has 75 characters and 83 terminals
+>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set
+  [-/1 1.75;
+characters properties set
+  <12 13>
+  <14 15>
+  <28 29>
+  <49 <50 51>>;
+>-< trees search mult> doing 10 replicates with tbr swapping
+(1-) cg 50 pass 1 failed assertion: nindels != nor + nzr - l_nsubc: 7 != 8 (7 + 3 - 2)
+trees search mult>-< internal error 999 -  - please notify jan.de.laet@anagallis.be
+internal error in calculation of tree score# logfile from anagallis - 2020-5-7 8:40:2
+>-< import tnt> importing from TNT file 'Evans2014.tnt'
+xread> reading data...
+xread> 83 terminals and 75 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 Nasals,_medial_contact smooth slightly_grooved heavily_ornamented_with_deep_pits_and_grooves>
+>skipping unsupported (or wrong) TNT command  <{1 Skull,_cranial_exostosis absent present>
+>skipping unsupported (or wrong) TNT command  <{2 Skull,_shape_of_skull_roof_in_orbital_region_(i.e._Fr-Par) parallel-sided wider_anteriorly wider_posteriorly>
+>skipping unsupported (or wrong) TNT command  <{3 Skull,_minimum_width_of_the_skull_roof_in_the_orbital_region_relative_to_the_orbital_width less_than_1/4 between_1/4_and_1/3 more_than_1/3>
+>skipping unsupported (or wrong) TNT command  <{4 Frontoparietal,_nature_of_midline_contact no_medial_contact_ sutured_or_partially_fused_ fused_along_entire_length_>
+>skipping unsupported (or wrong) TNT command  <{5 Frontoparietal_fenestra,_sphenethmoid_contribution completely_surrounded_anteriorly_by_sphenethmoid_ not_completely_surrounded_anteriorly_by_sphenethmoid_>
+>skipping unsupported (or wrong) TNT command  <{6 Sphenethmoid,_dorsal_exposure absent present>
+>skipping unsupported (or wrong) TNT command  <{7 Sphenethmoid,_ventral_configuration single divided>
+>skipping unsupported (or wrong) TNT command  <{8 Parieto-squamosal_arch absent present>
+>skipping unsupported (or wrong) TNT command  <{9 Squamosal,_development_of_otic_ramus absent_or_rudimentary_ overlapping_crista_parotica_ overlapping_crista_parotica_and_otoccipital_>
+>skipping unsupported (or wrong) TNT command  <{10 Squamosal,_development_of_zygomatic_ramus reduced_ moderately_developed_ending_free_ well_developed,_articulated_with_maxilla_>
+>skipping unsupported (or wrong) TNT command  <{11 Premaxillary_and_maxillary_teeth absent present>
+>skipping unsupported (or wrong) TNT command  <{12 Tooth,_cusp_shape bicuspid monocuspid>
+>skipping unsupported (or wrong) TNT command  <{13 Quadratojugal absent present>
+>skipping unsupported (or wrong) TNT command  <{14 Contact_of_quadratojugal_and_maxilla absent present>
+>skipping unsupported (or wrong) TNT command  <{15 Premaxilla,_palatine_shelf present absent>
+>skipping unsupported (or wrong) TNT command  <{16 Premaxilla,_lingual_process absent present>
+>skipping unsupported (or wrong) TNT command  <{17 Vomer,_teeth present absent>
+>skipping unsupported (or wrong) TNT command  <{18 Vomer,_anterior_process reaching_the_maxillary_arch not_reaching_the_maxillary_arch_>
+>skipping unsupported (or wrong) TNT command  <{19 Palatine_as_a_separate_element_(neopalatine_of_Trueb_1993) absent present>
+>skipping unsupported (or wrong) TNT command  <{20 Pterygoid,_length_of_anterior_ramus long,_reaching_antorbital_planum_ short>
+>skipping unsupported (or wrong) TNT command  <{21 Pterygoid_and_parasphenoid,_contact absent present>
+>skipping unsupported (or wrong) TNT command  <{22 Parasphenoid,_shape_of_anterior_end_of_cultriform_process serrated_or_rounded_ acuminate_ notched_>
+>skipping unsupported (or wrong) TNT command  <{23 Parasphenoid,_anterior_extent_of_cultriform_process well_posterior_to_the_level_of_the_antorbital_plane_ at_the_level_of_the_antorbital_plane_or_slightly_posteriorly_ or_anterior_to_level_of_antorbital_plane>
+>skipping unsupported (or wrong) TNT command  <{24 Odontoids_on_lower_jaw absent present>
+>skipping unsupported (or wrong) TNT command  <{25 Hyalia,_general_configuration complete_ distally_incomplete proximally_incomplete_>
+>skipping unsupported (or wrong) TNT command  <{26 Hyale,_anterior_processes absent present>
+>skipping unsupported (or wrong) TNT command  <{27 Hyoid_plate,_anterolateral_process absent present>
+>skipping unsupported (or wrong) TNT command  <{28 Hyoid_plate,_shape_of_anterolateral_process pointed_ dilated_distally_ expanded_>
+>skipping unsupported (or wrong) TNT command  <{29 Hyoid_plate,_posterolateral_process absent present>
+>skipping unsupported (or wrong) TNT command  <{30 Hyoid_ossification,_posteromedial_process present_on_a_cartilaginous_stalk_ abuts_directly_on_the_hyoid invades_the_hyoid_>
+>skipping unsupported (or wrong) TNT command  <{31 Parahyoid absent present>
+>skipping unsupported (or wrong) TNT command  <{32 Hyoid_plate,_calcifications absent present>
+>skipping unsupported (or wrong) TNT command  <{33 Presacral_vertebrae,_number eight_ seven_ or_seven_(with_8th_fused_to_sacrum)_>
+>skipping unsupported (or wrong) TNT command  <{34 Cervical_vertebrae,_cotyle_arrangement fully_confluent_(Lynch_type_3) narrowly_separated_but_distinct_(Lynch's_type_2)_ widely_separated_(Lynch's_type_1)_>
+>skipping unsupported (or wrong) TNT command  <{35 Presacral_vertebrae,_posterior-most_centrum_morphology opisthocoelous_ procoelous_ biconcave_>
+>skipping unsupported (or wrong) TNT command  <{36 Presacral_vertebrae,_imbrication_of_posterior-most_four_neural_arches imbricate_ non-imbricate_>
+>skipping unsupported (or wrong) TNT command  <{37 Presacral_vertebrae,_height_of_neural_spines_in_anterior_presacrals low high>
+>skipping unsupported (or wrong) TNT command  <{38 Presacral_vertebrae,_orientation_of_transverse_processes_of_6th_presacral nearly_perpendicular_to_axial_axis_ moderately_forward_ markedly_forward_ posteriorly_inclined_>
+>skipping unsupported (or wrong) TNT command  <{39 Presacral_vertebrae,_length_of_transverse_processes_of_the_posterior_presacrals_relative_to_the_sacral_diapophyses clearly_shorter_ equal_to_subequal_>
+>skipping unsupported (or wrong) TNT command  <{40 Presacral_vertebrae,_uncinate_processes_on_transverse_process_of_third_vertebra present_ absent>
+>skipping unsupported (or wrong) TNT command  <{41 Sacral_vertebrae,_expansion_of_diapophyses widely_expanded_(length_of_distal_end_of_sacral_rib_equal_or_greater_than_total_width_of_sacrum) moderately_dilated_(anterior_and_posterior_margins_of_sacral_rib_clearly_divergent,_distal_end_of_rib_flared_by_comparison_with_proximal_end,_but_less_than_total_sacral_width) cylindrical_(anterior_and_posterior_margins_of_sacral_rib_more_or_less_parallel,_distal_end_narrow_and_similar_in_diameter_to_proximal_end)_>
+>skipping unsupported (or wrong) TNT command  <{42 Sacrum_and_urostyle,_nature_of_articulation bicondylar_ monocondylar_ fused_>
+>skipping unsupported (or wrong) TNT command  <{43 Urostyle,_transverse_processes present absent>
+>skipping unsupported (or wrong) TNT command  <{44 Urostyle,_length_relative_to_presacral_column nearly_as_long_ longer_ much_shorter_>
+>skipping unsupported (or wrong) TNT command  <{45 Free_ribs absent present>
+>skipping unsupported (or wrong) TNT command  <{46 Free_intervertebral_discs_in_subadults absent present>
+>skipping unsupported (or wrong) TNT command  <{47 Dorsal_shield absent present>
+>skipping unsupported (or wrong) TNT command  <{48 Omosternum absent present>
+>skipping unsupported (or wrong) TNT command  <{49 Omosternum,_degree_of_ossification completely_cartilaginous_ with_ossified_style_>
+>skipping unsupported (or wrong) TNT command  <{50 Omosternum,_shape_of_ossified_style proximally_forked_ proximally_unforked_>
+>skipping unsupported (or wrong) TNT command  <{51 Sternum,_degree_of_ossification completely_cartilaginous_ with_ossified_style_>
+>skipping unsupported (or wrong) TNT command  <{52 Sternum,_expansion_of_the_coracoid_relative_to_its_length less_than_one_half_ more_than_one_half_>
+>skipping unsupported (or wrong) TNT command  <{53 Shape_of_clavicle curved_ straight_>
+>skipping unsupported (or wrong) TNT command  <{54 Clavicle_orientation directed_anteriorly_ perpendicular_to_sagittal_plane_>
+>skipping unsupported (or wrong) TNT command  <{55 Epicoracoid_cartilages_in_the_coracoideal_region overlapping_ not_overlapping_(usally_extremely_reduced)_>
+>skipping unsupported (or wrong) TNT command  <{56 Scapula,_maximum_diameter_of_glenoid_fossa_relative_to_the_scapular_shaft more_than_one_ between_one_and_one_half_ less_than_one_half_>
+>skipping unsupported (or wrong) TNT command  <{57 Scapula,_anterior_lamina absent_ present>
+>skipping unsupported (or wrong) TNT command  <{58 Clavicle-scapular_relation overlapping_anteriorly_ abutting_medially_ fused_>
+>skipping unsupported (or wrong) TNT command  <{59 Intercalary_elements absent_ present>
+>skipping unsupported (or wrong) TNT command  <{60 Postaxial_carpals_(ulnare_and_distals_5_and_4) all_free_ ulnare_free,_5+4_fused_ ulnare_free,_3+4+5_fused_>
+>skipping unsupported (or wrong) TNT command  <{61 Prepollex one_spherical_proximal_element_ two_elements,_the_distal_one_elongated_ three_or_more_elements_ two_elements,_the_distal_one_hypermorphic_>
+>skipping unsupported (or wrong) TNT command  <{62 Finger_4,_shape_of_terminal_phalanx straight_ curved>
+>skipping unsupported (or wrong) TNT command  <{63 Finger_4,_distal_tip_of_terminal_phalanx simple_(slightly_knobbed_or_rounded)_ notched_ T-shaped Y_"-"_shaped_ clearly_knobbed_>
+>skipping unsupported (or wrong) TNT command  <{64 Carpal_torsion absent_ present>
+>skipping unsupported (or wrong) TNT command  <{65 Ilium,_well-developed_dorsal_crest_on_iliac_shaft absent present>
+>skipping unsupported (or wrong) TNT command  <{66 Epipubis absent present>
+>skipping unsupported (or wrong) TNT command  <{67 Femoral_crest absent present>
+>skipping unsupported (or wrong) TNT command  <{68 Os_sesamoides_tarsale absent present>
+>skipping unsupported (or wrong) TNT command  <{69 Distal_tarsals_3_and_2 free fused>
+>skipping unsupported (or wrong) TNT command  <{70 Discrete_distal_tarsal_1 absent present>
+>skipping unsupported (or wrong) TNT command  <{71 Prehallux one_spherical_proximal_element_ two_elements,_the_distal_one_enlongate_ three_or_more_elements three_or_more_elements>
+>skipping unsupported (or wrong) TNT command  <{72 Shape_of_terminal_phalanx_of_toe straight curved>
+>skipping unsupported (or wrong) TNT command  <{73 Distal_tip_of_terminal_phalanx_of_toe simple_(slightly_knobbed_or_rounded)_ notched_ T-shaped Y-shaped_ clearly_knobbed_>
+>skipping unsupported (or wrong) TNT command  <{74 Pupil_shape vertical_ triangular_ horizontal_>
+>skipping unsupported (or wrong) TNT command  <proc />
+>skipping unsupported (or wrong) TNT command  <comments 0>
+import tnt> closing TNT file 'Evans2014.tnt'
+
+current dataset has 75 characters and 83 terminals
+>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set
+  [-/1 1.75;
+characters properties set
+  <12 13>
+  <14 15>
+  <28 29>
+  <49 <50 51>>;
+>-< trees search mult> doing 1 replicate with tbr swapping
+(1-) cg 50 pass 1 failed assertion: nindels != nor + nzr - l_nsubc: 7 != 8 (7 + 3 - 2)
+trees search mult>-< internal error 999 -  - please notify jan.de.laet@anagallis.be
+internal error in calculation of tree score# logfile from anagallis - 2020-5-25 11:10:4
+>-< import tnt> importing from TNT file 'Evans2014.tnt'
+xread> reading data...
+xread> 83 terminals and 75 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 Nasals,_medial_contact smooth slightly_grooved heavily_ornamented_with_deep_pits_and_grooves>
+>skipping unsupported (or wrong) TNT command  <{1 Skull,_cranial_exostosis absent present>
+>skipping unsupported (or wrong) TNT command  <{2 Skull,_shape_of_skull_roof_in_orbital_region_(i.e._Fr-Par) parallel-sided wider_anteriorly wider_posteriorly>
+>skipping unsupported (or wrong) TNT command  <{3 Skull,_minimum_width_of_the_skull_roof_in_the_orbital_region_relative_to_the_orbital_width less_than_1/4 between_1/4_and_1/3 more_than_1/3>
+>skipping unsupported (or wrong) TNT command  <{4 Frontoparietal,_nature_of_midline_contact no_medial_contact_ sutured_or_partially_fused_ fused_along_entire_length_>
+>skipping unsupported (or wrong) TNT command  <{5 Frontoparietal_fenestra,_sphenethmoid_contribution completely_surrounded_anteriorly_by_sphenethmoid_ not_completely_surrounded_anteriorly_by_sphenethmoid_>
+>skipping unsupported (or wrong) TNT command  <{6 Sphenethmoid,_dorsal_exposure absent present>
+>skipping unsupported (or wrong) TNT command  <{7 Sphenethmoid,_ventral_configuration single divided>
+>skipping unsupported (or wrong) TNT command  <{8 Parieto-squamosal_arch absent present>
+>skipping unsupported (or wrong) TNT command  <{9 Squamosal,_development_of_otic_ramus absent_or_rudimentary_ overlapping_crista_parotica_ overlapping_crista_parotica_and_otoccipital_>
+>skipping unsupported (or wrong) TNT command  <{10 Squamosal,_development_of_zygomatic_ramus reduced_ moderately_developed_ending_free_ well_developed,_articulated_with_maxilla_>
+>skipping unsupported (or wrong) TNT command  <{11 Premaxillary_and_maxillary_teeth absent present>
+>skipping unsupported (or wrong) TNT command  <{12 Tooth,_cusp_shape bicuspid monocuspid>
+>skipping unsupported (or wrong) TNT command  <{13 Quadratojugal absent present>
+>skipping unsupported (or wrong) TNT command  <{14 Contact_of_quadratojugal_and_maxilla absent present>
+>skipping unsupported (or wrong) TNT command  <{15 Premaxilla,_palatine_shelf present absent>
+>skipping unsupported (or wrong) TNT command  <{16 Premaxilla,_lingual_process absent present>
+>skipping unsupported (or wrong) TNT command  <{17 Vomer,_teeth present absent>
+>skipping unsupported (or wrong) TNT command  <{18 Vomer,_anterior_process reaching_the_maxillary_arch not_reaching_the_maxillary_arch_>
+>skipping unsupported (or wrong) TNT command  <{19 Palatine_as_a_separate_element_(neopalatine_of_Trueb_1993) absent present>
+>skipping unsupported (or wrong) TNT command  <{20 Pterygoid,_length_of_anterior_ramus long,_reaching_antorbital_planum_ short>
+>skipping unsupported (or wrong) TNT command  <{21 Pterygoid_and_parasphenoid,_contact absent present>
+>skipping unsupported (or wrong) TNT command  <{22 Parasphenoid,_shape_of_anterior_end_of_cultriform_process serrated_or_rounded_ acuminate_ notched_>
+>skipping unsupported (or wrong) TNT command  <{23 Parasphenoid,_anterior_extent_of_cultriform_process well_posterior_to_the_level_of_the_antorbital_plane_ at_the_level_of_the_antorbital_plane_or_slightly_posteriorly_ or_anterior_to_level_of_antorbital_plane>
+>skipping unsupported (or wrong) TNT command  <{24 Odontoids_on_lower_jaw absent present>
+>skipping unsupported (or wrong) TNT command  <{25 Hyalia,_general_configuration complete_ distally_incomplete proximally_incomplete_>
+>skipping unsupported (or wrong) TNT command  <{26 Hyale,_anterior_processes absent present>
+>skipping unsupported (or wrong) TNT command  <{27 Hyoid_plate,_anterolateral_process absent present>
+>skipping unsupported (or wrong) TNT command  <{28 Hyoid_plate,_shape_of_anterolateral_process pointed_ dilated_distally_ expanded_>
+>skipping unsupported (or wrong) TNT command  <{29 Hyoid_plate,_posterolateral_process absent present>
+>skipping unsupported (or wrong) TNT command  <{30 Hyoid_ossification,_posteromedial_process present_on_a_cartilaginous_stalk_ abuts_directly_on_the_hyoid invades_the_hyoid_>
+>skipping unsupported (or wrong) TNT command  <{31 Parahyoid absent present>
+>skipping unsupported (or wrong) TNT command  <{32 Hyoid_plate,_calcifications absent present>
+>skipping unsupported (or wrong) TNT command  <{33 Presacral_vertebrae,_number eight_ seven_ or_seven_(with_8th_fused_to_sacrum)_>
+>skipping unsupported (or wrong) TNT command  <{34 Cervical_vertebrae,_cotyle_arrangement fully_confluent_(Lynch_type_3) narrowly_separated_but_distinct_(Lynch's_type_2)_ widely_separated_(Lynch's_type_1)_>
+>skipping unsupported (or wrong) TNT command  <{35 Presacral_vertebrae,_posterior-most_centrum_morphology opisthocoelous_ procoelous_ biconcave_>
+>skipping unsupported (or wrong) TNT command  <{36 Presacral_vertebrae,_imbrication_of_posterior-most_four_neural_arches imbricate_ non-imbricate_>
+>skipping unsupported (or wrong) TNT command  <{37 Presacral_vertebrae,_height_of_neural_spines_in_anterior_presacrals low high>
+>skipping unsupported (or wrong) TNT command  <{38 Presacral_vertebrae,_orientation_of_transverse_processes_of_6th_presacral nearly_perpendicular_to_axial_axis_ moderately_forward_ markedly_forward_ posteriorly_inclined_>
+>skipping unsupported (or wrong) TNT command  <{39 Presacral_vertebrae,_length_of_transverse_processes_of_the_posterior_presacrals_relative_to_the_sacral_diapophyses clearly_shorter_ equal_to_subequal_>
+>skipping unsupported (or wrong) TNT command  <{40 Presacral_vertebrae,_uncinate_processes_on_transverse_process_of_third_vertebra present_ absent>
+>skipping unsupported (or wrong) TNT command  <{41 Sacral_vertebrae,_expansion_of_diapophyses widely_expanded_(length_of_distal_end_of_sacral_rib_equal_or_greater_than_total_width_of_sacrum) moderately_dilated_(anterior_and_posterior_margins_of_sacral_rib_clearly_divergent,_distal_end_of_rib_flared_by_comparison_with_proximal_end,_but_less_than_total_sacral_width) cylindrical_(anterior_and_posterior_margins_of_sacral_rib_more_or_less_parallel,_distal_end_narrow_and_similar_in_diameter_to_proximal_end)_>
+>skipping unsupported (or wrong) TNT command  <{42 Sacrum_and_urostyle,_nature_of_articulation bicondylar_ monocondylar_ fused_>
+>skipping unsupported (or wrong) TNT command  <{43 Urostyle,_transverse_processes present absent>
+>skipping unsupported (or wrong) TNT command  <{44 Urostyle,_length_relative_to_presacral_column nearly_as_long_ longer_ much_shorter_>
+>skipping unsupported (or wrong) TNT command  <{45 Free_ribs absent present>
+>skipping unsupported (or wrong) TNT command  <{46 Free_intervertebral_discs_in_subadults absent present>
+>skipping unsupported (or wrong) TNT command  <{47 Dorsal_shield absent present>
+>skipping unsupported (or wrong) TNT command  <{48 Omosternum absent present>
+>skipping unsupported (or wrong) TNT command  <{49 Omosternum,_degree_of_ossification completely_cartilaginous_ with_ossified_style_>
+>skipping unsupported (or wrong) TNT command  <{50 Omosternum,_shape_of_ossified_style proximally_forked_ proximally_unforked_>
+>skipping unsupported (or wrong) TNT command  <{51 Sternum,_degree_of_ossification completely_cartilaginous_ with_ossified_style_>
+>skipping unsupported (or wrong) TNT command  <{52 Sternum,_expansion_of_the_coracoid_relative_to_its_length less_than_one_half_ more_than_one_half_>
+>skipping unsupported (or wrong) TNT command  <{53 Shape_of_clavicle curved_ straight_>
+>skipping unsupported (or wrong) TNT command  <{54 Clavicle_orientation directed_anteriorly_ perpendicular_to_sagittal_plane_>
+>skipping unsupported (or wrong) TNT command  <{55 Epicoracoid_cartilages_in_the_coracoideal_region overlapping_ not_overlapping_(usally_extremely_reduced)_>
+>skipping unsupported (or wrong) TNT command  <{56 Scapula,_maximum_diameter_of_glenoid_fossa_relative_to_the_scapular_shaft more_than_one_ between_one_and_one_half_ less_than_one_half_>
+>skipping unsupported (or wrong) TNT command  <{57 Scapula,_anterior_lamina absent_ present>
+>skipping unsupported (or wrong) TNT command  <{58 Clavicle-scapular_relation overlapping_anteriorly_ abutting_medially_ fused_>
+>skipping unsupported (or wrong) TNT command  <{59 Intercalary_elements absent_ present>
+>skipping unsupported (or wrong) TNT command  <{60 Postaxial_carpals_(ulnare_and_distals_5_and_4) all_free_ ulnare_free,_5+4_fused_ ulnare_free,_3+4+5_fused_>
+>skipping unsupported (or wrong) TNT command  <{61 Prepollex one_spherical_proximal_element_ two_elements,_the_distal_one_elongated_ three_or_more_elements_ two_elements,_the_distal_one_hypermorphic_>
+>skipping unsupported (or wrong) TNT command  <{62 Finger_4,_shape_of_terminal_phalanx straight_ curved>
+>skipping unsupported (or wrong) TNT command  <{63 Finger_4,_distal_tip_of_terminal_phalanx simple_(slightly_knobbed_or_rounded)_ notched_ T-shaped Y_"-"_shaped_ clearly_knobbed_>
+>skipping unsupported (or wrong) TNT command  <{64 Carpal_torsion absent_ present>
+>skipping unsupported (or wrong) TNT command  <{65 Ilium,_well-developed_dorsal_crest_on_iliac_shaft absent present>
+>skipping unsupported (or wrong) TNT command  <{66 Epipubis absent present>
+>skipping unsupported (or wrong) TNT command  <{67 Femoral_crest absent present>
+>skipping unsupported (or wrong) TNT command  <{68 Os_sesamoides_tarsale absent present>
+>skipping unsupported (or wrong) TNT command  <{69 Distal_tarsals_3_and_2 free fused>
+>skipping unsupported (or wrong) TNT command  <{70 Discrete_distal_tarsal_1 absent present>
+>skipping unsupported (or wrong) TNT command  <{71 Prehallux one_spherical_proximal_element_ two_elements,_the_distal_one_enlongate_ three_or_more_elements three_or_more_elements>
+>skipping unsupported (or wrong) TNT command  <{72 Shape_of_terminal_phalanx_of_toe straight curved>
+>skipping unsupported (or wrong) TNT command  <{73 Distal_tip_of_terminal_phalanx_of_toe simple_(slightly_knobbed_or_rounded)_ notched_ T-shaped Y-shaped_ clearly_knobbed_>
+>skipping unsupported (or wrong) TNT command  <{74 Pupil_shape vertical_ triangular_ horizontal_>
+>skipping unsupported (or wrong) TNT command  <proc />
+>skipping unsupported (or wrong) TNT command  <comments 0>
+import tnt> closing TNT file 'Evans2014.tnt'
+
+current dataset has 75 characters and 83 terminals
+>-< characters properties set>-< characters properties set>-< characters properties set
+  [-/1 1.75;
+characters properties set
+  <12 13>
+  <14 15>
+  <28 29>
+  <49 <50 51>>;
+>-< trees search mult> doing 50 replicates with tbr swapping
+(1-) cg 50 pass 1 failed assertion: nindels != nor + nzr - l_nsubc: 6 != 8 (5 + 7 - 4)
+trees search mult>-< internal error 999 -  - please notify jan.de.laet@anagallis.be
+internal error in calculation of tree score# logfile from anagallis - 2020-5-27 12:10:36
+>-< import tnt> importing from TNT file 'Evans2014.tnt'
+xread> reading data...
+xread> 83 terminals and 75 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 Nasals,_medial_contact smooth slightly_grooved heavily_ornamented_with_deep_pits_and_grooves>
+>skipping unsupported (or wrong) TNT command  <{1 Skull,_cranial_exostosis absent present>
+>skipping unsupported (or wrong) TNT command  <{2 Skull,_shape_of_skull_roof_in_orbital_region_(i.e._Fr-Par) parallel-sided wider_anteriorly wider_posteriorly>
+>skipping unsupported (or wrong) TNT command  <{3 Skull,_minimum_width_of_the_skull_roof_in_the_orbital_region_relative_to_the_orbital_width less_than_1/4 between_1/4_and_1/3 more_than_1/3>
+>skipping unsupported (or wrong) TNT command  <{4 Frontoparietal,_nature_of_midline_contact no_medial_contact_ sutured_or_partially_fused_ fused_along_entire_length_>
+>skipping unsupported (or wrong) TNT command  <{5 Frontoparietal_fenestra,_sphenethmoid_contribution completely_surrounded_anteriorly_by_sphenethmoid_ not_completely_surrounded_anteriorly_by_sphenethmoid_>
+>skipping unsupported (or wrong) TNT command  <{6 Sphenethmoid,_dorsal_exposure absent present>
+>skipping unsupported (or wrong) TNT command  <{7 Sphenethmoid,_ventral_configuration single divided>
+>skipping unsupported (or wrong) TNT command  <{8 Parieto-squamosal_arch absent present>
+>skipping unsupported (or wrong) TNT command  <{9 Squamosal,_development_of_otic_ramus absent_or_rudimentary_ overlapping_crista_parotica_ overlapping_crista_parotica_and_otoccipital_>
+>skipping unsupported (or wrong) TNT command  <{10 Squamosal,_development_of_zygomatic_ramus reduced_ moderately_developed_ending_free_ well_developed,_articulated_with_maxilla_>
+>skipping unsupported (or wrong) TNT command  <{11 Premaxillary_and_maxillary_teeth absent present>
+>skipping unsupported (or wrong) TNT command  <{12 Tooth,_cusp_shape bicuspid monocuspid>
+>skipping unsupported (or wrong) TNT command  <{13 Quadratojugal absent present>
+>skipping unsupported (or wrong) TNT command  <{14 Contact_of_quadratojugal_and_maxilla absent present>
+>skipping unsupported (or wrong) TNT command  <{15 Premaxilla,_palatine_shelf present absent>
+>skipping unsupported (or wrong) TNT command  <{16 Premaxilla,_lingual_process absent present>
+>skipping unsupported (or wrong) TNT command  <{17 Vomer,_teeth present absent>
+>skipping unsupported (or wrong) TNT command  <{18 Vomer,_anterior_process reaching_the_maxillary_arch not_reaching_the_maxillary_arch_>
+>skipping unsupported (or wrong) TNT command  <{19 Palatine_as_a_separate_element_(neopalatine_of_Trueb_1993) absent present>
+>skipping unsupported (or wrong) TNT command  <{20 Pterygoid,_length_of_anterior_ramus long,_reaching_antorbital_planum_ short>
+>skipping unsupported (or wrong) TNT command  <{21 Pterygoid_and_parasphenoid,_contact absent present>
+>skipping unsupported (or wrong) TNT command  <{22 Parasphenoid,_shape_of_anterior_end_of_cultriform_process serrated_or_rounded_ acuminate_ notched_>
+>skipping unsupported (or wrong) TNT command  <{23 Parasphenoid,_anterior_extent_of_cultriform_process well_posterior_to_the_level_of_the_antorbital_plane_ at_the_level_of_the_antorbital_plane_or_slightly_posteriorly_ or_anterior_to_level_of_antorbital_plane>
+>skipping unsupported (or wrong) TNT command  <{24 Odontoids_on_lower_jaw absent present>
+>skipping unsupported (or wrong) TNT command  <{25 Hyalia,_general_configuration complete_ distally_incomplete proximally_incomplete_>
+>skipping unsupported (or wrong) TNT command  <{26 Hyale,_anterior_processes absent present>
+>skipping unsupported (or wrong) TNT command  <{27 Hyoid_plate,_anterolateral_process absent present>
+>skipping unsupported (or wrong) TNT command  <{28 Hyoid_plate,_shape_of_anterolateral_process pointed_ dilated_distally_ expanded_>
+>skipping unsupported (or wrong) TNT command  <{29 Hyoid_plate,_posterolateral_process absent present>
+>skipping unsupported (or wrong) TNT command  <{30 Hyoid_ossification,_posteromedial_process present_on_a_cartilaginous_stalk_ abuts_directly_on_the_hyoid invades_the_hyoid_>
+>skipping unsupported (or wrong) TNT command  <{31 Parahyoid absent present>
+>skipping unsupported (or wrong) TNT command  <{32 Hyoid_plate,_calcifications absent present>
+>skipping unsupported (or wrong) TNT command  <{33 Presacral_vertebrae,_number eight_ seven_ or_seven_(with_8th_fused_to_sacrum)_>
+>skipping unsupported (or wrong) TNT command  <{34 Cervical_vertebrae,_cotyle_arrangement fully_confluent_(Lynch_type_3) narrowly_separated_but_distinct_(Lynch's_type_2)_ widely_separated_(Lynch's_type_1)_>
+>skipping unsupported (or wrong) TNT command  <{35 Presacral_vertebrae,_posterior-most_centrum_morphology opisthocoelous_ procoelous_ biconcave_>
+>skipping unsupported (or wrong) TNT command  <{36 Presacral_vertebrae,_imbrication_of_posterior-most_four_neural_arches imbricate_ non-imbricate_>
+>skipping unsupported (or wrong) TNT command  <{37 Presacral_vertebrae,_height_of_neural_spines_in_anterior_presacrals low high>
+>skipping unsupported (or wrong) TNT command  <{38 Presacral_vertebrae,_orientation_of_transverse_processes_of_6th_presacral nearly_perpendicular_to_axial_axis_ moderately_forward_ markedly_forward_ posteriorly_inclined_>
+>skipping unsupported (or wrong) TNT command  <{39 Presacral_vertebrae,_length_of_transverse_processes_of_the_posterior_presacrals_relative_to_the_sacral_diapophyses clearly_shorter_ equal_to_subequal_>
+>skipping unsupported (or wrong) TNT command  <{40 Presacral_vertebrae,_uncinate_processes_on_transverse_process_of_third_vertebra present_ absent>
+>skipping unsupported (or wrong) TNT command  <{41 Sacral_vertebrae,_expansion_of_diapophyses widely_expanded_(length_of_distal_end_of_sacral_rib_equal_or_greater_than_total_width_of_sacrum) moderately_dilated_(anterior_and_posterior_margins_of_sacral_rib_clearly_divergent,_distal_end_of_rib_flared_by_comparison_with_proximal_end,_but_less_than_total_sacral_width) cylindrical_(anterior_and_posterior_margins_of_sacral_rib_more_or_less_parallel,_distal_end_narrow_and_similar_in_diameter_to_proximal_end)_>
+>skipping unsupported (or wrong) TNT command  <{42 Sacrum_and_urostyle,_nature_of_articulation bicondylar_ monocondylar_ fused_>
+>skipping unsupported (or wrong) TNT command  <{43 Urostyle,_transverse_processes present absent>
+>skipping unsupported (or wrong) TNT command  <{44 Urostyle,_length_relative_to_presacral_column nearly_as_long_ longer_ much_shorter_>
+>skipping unsupported (or wrong) TNT command  <{45 Free_ribs absent present>
+>skipping unsupported (or wrong) TNT command  <{46 Free_intervertebral_discs_in_subadults absent present>
+>skipping unsupported (or wrong) TNT command  <{47 Dorsal_shield absent present>
+>skipping unsupported (or wrong) TNT command  <{48 Omosternum absent present>
+>skipping unsupported (or wrong) TNT command  <{49 Omosternum,_degree_of_ossification completely_cartilaginous_ with_ossified_style_>
+>skipping unsupported (or wrong) TNT command  <{50 Omosternum,_shape_of_ossified_style proximally_forked_ proximally_unforked_>
+>skipping unsupported (or wrong) TNT command  <{51 Sternum,_degree_of_ossification completely_cartilaginous_ with_ossified_style_>
+>skipping unsupported (or wrong) TNT command  <{52 Sternum,_expansion_of_the_coracoid_relative_to_its_length less_than_one_half_ more_than_one_half_>
+>skipping unsupported (or wrong) TNT command  <{53 Shape_of_clavicle curved_ straight_>
+>skipping unsupported (or wrong) TNT command  <{54 Clavicle_orientation directed_anteriorly_ perpendicular_to_sagittal_plane_>
+>skipping unsupported (or wrong) TNT command  <{55 Epicoracoid_cartilages_in_the_coracoideal_region overlapping_ not_overlapping_(usally_extremely_reduced)_>
+>skipping unsupported (or wrong) TNT command  <{56 Scapula,_maximum_diameter_of_glenoid_fossa_relative_to_the_scapular_shaft more_than_one_ between_one_and_one_half_ less_than_one_half_>
+>skipping unsupported (or wrong) TNT command  <{57 Scapula,_anterior_lamina absent_ present>
+>skipping unsupported (or wrong) TNT command  <{58 Clavicle-scapular_relation overlapping_anteriorly_ abutting_medially_ fused_>
+>skipping unsupported (or wrong) TNT command  <{59 Intercalary_elements absent_ present>
+>skipping unsupported (or wrong) TNT command  <{60 Postaxial_carpals_(ulnare_and_distals_5_and_4) all_free_ ulnare_free,_5+4_fused_ ulnare_free,_3+4+5_fused_>
+>skipping unsupported (or wrong) TNT command  <{61 Prepollex one_spherical_proximal_element_ two_elements,_the_distal_one_elongated_ three_or_more_elements_ two_elements,_the_distal_one_hypermorphic_>
+>skipping unsupported (or wrong) TNT command  <{62 Finger_4,_shape_of_terminal_phalanx straight_ curved>
+>skipping unsupported (or wrong) TNT command  <{63 Finger_4,_distal_tip_of_terminal_phalanx simple_(slightly_knobbed_or_rounded)_ notched_ T-shaped Y_"-"_shaped_ clearly_knobbed_>
+>skipping unsupported (or wrong) TNT command  <{64 Carpal_torsion absent_ present>
+>skipping unsupported (or wrong) TNT command  <{65 Ilium,_well-developed_dorsal_crest_on_iliac_shaft absent present>
+>skipping unsupported (or wrong) TNT command  <{66 Epipubis absent present>
+>skipping unsupported (or wrong) TNT command  <{67 Femoral_crest absent present>
+>skipping unsupported (or wrong) TNT command  <{68 Os_sesamoides_tarsale absent present>
+>skipping unsupported (or wrong) TNT command  <{69 Distal_tarsals_3_and_2 free fused>
+>skipping unsupported (or wrong) TNT command  <{70 Discrete_distal_tarsal_1 absent present>
+>skipping unsupported (or wrong) TNT command  <{71 Prehallux one_spherical_proximal_element_ two_elements,_the_distal_one_enlongate_ three_or_more_elements three_or_more_elements>
+>skipping unsupported (or wrong) TNT command  <{72 Shape_of_terminal_phalanx_of_toe straight curved>
+>skipping unsupported (or wrong) TNT command  <{73 Distal_tip_of_terminal_phalanx_of_toe simple_(slightly_knobbed_or_rounded)_ notched_ T-shaped Y-shaped_ clearly_knobbed_>
+>skipping unsupported (or wrong) TNT command  <{74 Pupil_shape vertical_ triangular_ horizontal_>
+>skipping unsupported (or wrong) TNT command  <proc />
+>skipping unsupported (or wrong) TNT command  <comments 0>
+import tnt> closing TNT file 'Evans2014.tnt'
+
+current dataset has 75 characters and 83 terminals
+>-< characters properties set>-< characters properties set>-< characters properties set
+  [-/1 1.75;
+characters properties set
+  <12 13>
+  <14 15>
+  <28 29>
+  <49 <50 51>>;
+>-< trees search mult> doing 50 replicates with tbr swapping
+trees search mult> holding at most 10 trees per replicate
+rep 1    score 715   (random addition sequence, seed 1)                      [10 trees, min score 715, 1 rep hit 715]
+rep 2    score 827   (random addition sequence, seed 588860917)              [10 trees, min score 715, 1 rep hit 715]
+rep 3    score 711   (random addition sequence, seed 1396138699)             [10 trees, min score 711, 1 rep hit 711]
+rep 4    score 708   (random addition sequence, seed 2061702028)             [10 trees, min score 708, 1 rep hit 708]
+rep 5    score 856   (random addition sequence, seed 1409334626)             [10 trees, min score 708, 1 rep hit 708]
+rep 6    score 716   (random addition sequence, seed 1087464377)             [10 trees, min score 708, 1 rep hit 708]
+rep 7    score 863   (random addition sequence, seed 2007567896)             [10 trees, min score 708, 1 rep hit 708]
+rep 8    score 714   (random addition sequence, seed 1029868805)             [10 trees, min score 708, 1 rep hit 708]
+rep 9    score 718   (random addition sequence, seed 83083954)               [10 trees, min score 708, 1 rep hit 708]
+rep 10   score 857   (random addition sequence, seed 158434876)              [10 trees, min score 708, 1 rep hit 708]
+rep 11   score 717   (random addition sequence, seed 1912542361)             [10 trees, min score 708, 1 rep hit 708]
+rep 12   score 834   (random addition sequence, seed 1195663994)             [10 trees, min score 708, 1 rep hit 708]
+rep 13   score 716   (random addition sequence, seed 464518286)              [10 trees, min score 708, 1 rep hit 708]
+rep 14   score 713   (random addition sequence, seed 1451447393)             [10 trees, min score 708, 1 rep hit 708]
+rep 15   score 715   (random addition sequence, seed 1281394777)             [10 trees, min score 708, 1 rep hit 708]
+rep 16   score 712   (random addition sequence, seed 1756031105)             [10 trees, min score 708, 1 rep hit 708]
+rep 17   score 722   (random addition sequence, seed 1904561857)             [10 trees, min score 708, 1 rep hit 708]
+rep 18   score 712   (random addition sequence, seed 1603879719)             [10 trees, min score 708, 1 rep hit 708]
+rep 19   score 825   (random addition sequence, seed 2059995077)             [10 trees, min score 708, 1 rep hit 708]
+rep 20   score 864   (random addition sequence, seed 2125252230)             [10 trees, min score 708, 1 rep hit 708]
+rep 21   score 817   (random addition sequence, seed 968492186)              [10 trees, min score 708, 1 rep hit 708]
+rep 22   score 725   (random addition sequence, seed 1497668762)             [10 trees, min score 708, 1 rep hit 708]
+rep 23   score 714   (random addition sequence, seed 1392012711)             [10 trees, min score 708, 1 rep hit 708]
+rep 24   score 718   (random addition sequence, seed 1255077560)             [10 trees, min score 708, 1 rep hit 708]
+rep 25   score 881   (random addition sequence, seed 861696085)              [10 trees, min score 708, 1 rep hit 708]
+rep 26   score 820   (random addition sequence, seed 2091816843)             [10 trees, min score 708, 1 rep hit 708]
+rep 27   score 861   (random addition sequence, seed 1181694592)             [10 trees, min score 708, 1 rep hit 708]
+rep 28   score 718   (random addition sequence, seed 438643579)              [10 trees, min score 708, 1 rep hit 708]
+rep 29   score 717   (random addition sequence, seed 975950703)              [10 trees, min score 708, 1 rep hit 708]
+rep 30   score 710   (random addition sequence, seed 1178911788)             [10 trees, min score 708, 1 rep hit 708]
+rep 31   score 718   (random addition sequence, seed 167712434)              [10 trees, min score 708, 1 rep hit 708]
+rep 32   score 722   (random addition sequence, seed 1973458912)             [10 trees, min score 708, 1 rep hit 708]
+rep 33   score 722   (random addition sequence, seed 1968765948)             [10 trees, min score 708, 1 rep hit 708]
+rep 34   score 713   (random addition sequence, seed 1785592127)             [10 trees, min score 708, 1 rep hit 708]
+rep 35   score 885   (random addition sequence, seed 183601477)              [10 trees, min score 708, 1 rep hit 708]
+rep 36   score 713   (random addition sequence, seed 1843369899)             [10 trees, min score 708, 1 rep hit 708]
+rep 37   score 860   (random addition sequence, seed 579883813)              [10 trees, min score 708, 1 rep hit 708]
+rep 38   score 816   (random addition sequence, seed 1668923271)             [10 trees, min score 708, 1 rep hit 708]
+rep 39   score 860   (random addition sequence, seed 1261200166)             [10 trees, min score 708, 1 rep hit 708]
+rep 40   score 835   (random addition sequence, seed 304966375)              [10 trees, min score 708, 1 rep hit 708]
+rep 41   score 850   (random addition sequence, seed 1094456106)             [10 trees, min score 708, 1 rep hit 708]
+rep 42   score 728   (random addition sequence, seed 1333455858)             [10 trees, min score 708, 1 rep hit 708]
+rep 43   score 721   (random addition sequence, seed 990794031)              [10 trees, min score 708, 1 rep hit 708]
+rep 44   score 718   (random addition sequence, seed 786675388)              [10 trees, min score 708, 1 rep hit 708]
+rep 45   score 856   (random addition sequence, seed 315345973)              [10 trees, min score 708, 1 rep hit 708]
+rep 46   score 717   (random addition sequence, seed 399546733)              [10 trees, min score 708, 1 rep hit 708]
+rep 47   score 707   (random addition sequence, seed 671836126)              [10 trees, min score 707, 1 rep hit 707]
+rep 48   score 713   (random addition sequence, seed 1276604487)             [10 trees, min score 707, 1 rep hit 707]
+rep 49   score 837   (random addition sequence, seed 1234313761)             [10 trees, min score 707, 1 rep hit 707]
+rep 50   score 708   (random addition sequence, seed 314569912)              [10 trees, min score 707, 1 rep hit 707]
+  > character hierarchy scores not always guaranteed to be optimal during this tree search
+    use command 'csc.' ('characters score .') to check if this is the case for the trees that are now in memory
+    (if its output does not flag such cases, everything is ok)
+limit of at most 10 trees per replicate was hit 36 times - consider additional swapping
+>-< trees select best> 10 trees in memory, 0 trees removed from tree buffer
+>-< tread
+'trees from anagallis'
+(Limnodynastes_dorsalis((((((((Xenopus_laevis Discoglossus_pictus)Alytes_obstetricans)Bombina_variegata)Pelodytes_punctatus)((Scaphiopus_couchii Pelobates_cultripes)Spea_bombifrons))(Cratia_gracilis(Heleophryne_natalensis((Sooglossus_sechellensis Megophrys_nasuta)Telmatobufo_venustus))))((((Pristimantis_huicundo(((Phlyctimantis_verrucosus((((Kassina_senegalensis Afrixalus_fulvovittatus)(Dyscophus((Phrynomantis_bifasciatus Dermatonotus_muelleri)Callulops_kopsteini)))Opisthohylax_immaculatus)Hyperolius_kivuensis))(Leptopelis_christyi((((Guibemantis_liber Chiromantis_rufescens)(((Afrana_angolensis(Hoplobatrachus_occipitalis((Pyxicephalus_adspersus Aubria_subsigillata)Ceratobatrachus_guentheri)))Amnirana_albolabris)((Phrynobatrachus_acutirostris((Rana_temporaria Ptychadena_mascareniensis)Conraua_crassipes))Hylarana_albolabris)))Arthroleptis_adolphifriederic)(Astylosternus_diadematus((Schoutedenella_sylvatica Hymenochirus_boettgeri)Cardioglossa_cyaneospila)))))((Gastrotheca_gracilis((Isthmohyla_rivularis Flectonotus_fitzgeraldi)Dendrosophus_nanus))(Phyllomedusa_sauvagii((Hypsiboas_andinus(((Thoropa_miliaris Pleurodema_thaul)Leptodactylus_ocellatus)Scinax_jolyi))Litoria_lesueurii)))))Eurycephalella_alcinae)(((Uberabatrachus_carvalhoi Arariphrynus_placidoi)Telmatobius_scrocchii)(Platyplectrum_ornatum Mixophyes_schevilli)))((Nannophryne_variegatus Melanophryniscus_stelzneri)(Rhinoderma_darwinii Allophryne_ruthveni))))(((Odontophrynus_americanus Physalaemus_biligonigerus)((Pseudis_paradoxa(((Triprion_petasatus(Osteopilus((Hemiphractus(((Beelzebufo_ampinga Lepidobatrachus_laevis)Ceratophrys_ornata)((Wawelia_gerholdi Chacophrys_pierottii)Baurubatrachus_pricei)))Calyptocephalella_gayi)))Thaumastosaurus_sulcatus)Cyclorana_australis))(Batrachophrynus(Bufo_viridis Bufo_granulosus))))Heleioporus_eyeri)))*
+(Limnodynastes_dorsalis((((((Bombina_variegata((Alytes_obstetricans Discoglossus_pictus)Xenopus_laevis))Pelodytes_punctatus)((Scaphiopus_couchii Pelobates_cultripes)Spea_bombifrons))(Cratia_gracilis(Heleophryne_natalensis((Sooglossus_sechellensis Megophrys_nasuta)Telmatobufo_venustus))))((((Pristimantis_huicundo(((Phlyctimantis_verrucosus((((Kassina_senegalensis Afrixalus_fulvovittatus)(Dyscophus((Phrynomantis_bifasciatus Dermatonotus_muelleri)Callulops_kopsteini)))Opisthohylax_immaculatus)Hyperolius_kivuensis))(Leptopelis_christyi((((Guibemantis_liber Chiromantis_rufescens)(((Afrana_angolensis(Hoplobatrachus_occipitalis((Pyxicephalus_adspersus Aubria_subsigillata)Ceratobatrachus_guentheri)))Amnirana_albolabris)((Phrynobatrachus_acutirostris((Rana_temporaria Ptychadena_mascareniensis)Conraua_crassipes))Hylarana_albolabris)))Arthroleptis_adolphifriederic)(Astylosternus_diadematus((Schoutedenella_sylvatica Hymenochirus_boettgeri)Cardioglossa_cyaneospila)))))((Gastrotheca_gracilis((Isthmohyla_rivularis Flectonotus_fitzgeraldi)Dendrosophus_nanus))(Phyllomedusa_sauvagii((Hypsiboas_andinus(((Thoropa_miliaris Pleurodema_thaul)Leptodactylus_ocellatus)Scinax_jolyi))Litoria_lesueurii)))))Eurycephalella_alcinae)(((Uberabatrachus_carvalhoi Arariphrynus_placidoi)Telmatobius_scrocchii)(Platyplectrum_ornatum Mixophyes_schevilli)))((Nannophryne_variegatus Melanophryniscus_stelzneri)(Rhinoderma_darwinii Allophryne_ruthveni))))(((Odontophrynus_americanus Physalaemus_biligonigerus)((Pseudis_paradoxa(((Triprion_petasatus(Osteopilus((Hemiphractus(((Beelzebufo_ampinga Lepidobatrachus_laevis)Ceratophrys_ornata)((Wawelia_gerholdi Chacophrys_pierottii)Baurubatrachus_pricei)))Calyptocephalella_gayi)))Thaumastosaurus_sulcatus)Cyclorana_australis))(Batrachophrynus(Bufo_viridis Bufo_granulosus))))Heleioporus_eyeri)))*
+(Limnodynastes_dorsalis(((((Pelodytes_punctatus(Bombina_variegata(Alytes_obstetricans(Discoglossus_pictus Xenopus_laevis))))((Scaphiopus_couchii Pelobates_cultripes)Spea_bombifrons))(Cratia_gracilis(Heleophryne_natalensis((Sooglossus_sechellensis Megophrys_nasuta)Telmatobufo_venustus))))((((Telmatobius_scrocchii(Arariphrynus_placidoi Uberabatrachus_carvalhoi))(Platyplectrum_ornatum Mixophyes_schevilli))(Eurycephalella_alcinae(Pristimantis_huicundo(((Phlyctimantis_verrucosus(Hyperolius_kivuensis(((Kassina_senegalensis Afrixalus_fulvovittatus)(Dyscophus(Callulops_kopsteini(Dermatonotus_muelleri Phrynomantis_bifasciatus))))Opisthohylax_immaculatus)))(Leptopelis_christyi((Astylosternus_diadematus((Schoutedenella_sylvatica Hymenochirus_boettgeri)Cardioglossa_cyaneospila))(Arthroleptis_adolphifriederic((((Afrana_angolensis(Hoplobatrachus_occipitalis((Pyxicephalus_adspersus Aubria_subsigillata)Ceratobatrachus_guentheri)))Amnirana_albolabris)(Hylarana_albolabris(Phrynobatrachus_acutirostris(Conraua_crassipes(Rana_temporaria Ptychadena_mascareniensis)))))(Guibemantis_liber Chiromantis_rufescens))))))((Phyllomedusa_sauvagii(Litoria_lesueurii((Hypsiboas_andinus((Thoropa_miliaris Pleurodema_thaul)Leptodactylus_ocellatus))Scinax_jolyi)))(Gastrotheca_gracilis((Isthmohyla_rivularis Flectonotus_fitzgeraldi)Dendrosophus_nanus)))))))((Nannophryne_variegatus Melanophryniscus_stelzneri)(Rhinoderma_darwinii Allophryne_ruthveni))))(((Odontophrynus_americanus Physalaemus_biligonigerus)((Pseudis_paradoxa(((Triprion_petasatus(Osteopilus((Hemiphractus(((Wawelia_gerholdi Chacophrys_pierottii)Baurubatrachus_pricei)(Ceratophrys_ornata(Beelzebufo_ampinga Lepidobatrachus_laevis))))Calyptocephalella_gayi)))Thaumastosaurus_sulcatus)Cyclorana_australis))(Batrachophrynus(Bufo_viridis Bufo_granulosus))))Heleioporus_eyeri)))*
+(Limnodynastes_dorsalis(((((Pelodytes_punctatus(Bombina_variegata(Alytes_obstetricans(Discoglossus_pictus Xenopus_laevis))))((Scaphiopus_couchii Pelobates_cultripes)Spea_bombifrons))(Cratia_gracilis(Heleophryne_natalensis((Sooglossus_sechellensis Megophrys_nasuta)Telmatobufo_venustus))))((((Telmatobius_scrocchii(Arariphrynus_placidoi Uberabatrachus_carvalhoi))(Platyplectrum_ornatum Mixophyes_schevilli))(Eurycephalella_alcinae(Pristimantis_huicundo(((Phlyctimantis_verrucosus(Hyperolius_kivuensis(((Kassina_senegalensis Afrixalus_fulvovittatus)(Dyscophus(Callulops_kopsteini(Dermatonotus_muelleri Phrynomantis_bifasciatus))))Opisthohylax_immaculatus)))(Leptopelis_christyi((Astylosternus_diadematus((Schoutedenella_sylvatica Hymenochirus_boettgeri)Cardioglossa_cyaneospila))(Arthroleptis_adolphifriederic((((Afrana_angolensis(Hoplobatrachus_occipitalis((Pyxicephalus_adspersus Aubria_subsigillata)Ceratobatrachus_guentheri)))Amnirana_albolabris)(Hylarana_albolabris(Phrynobatrachus_acutirostris(Conraua_crassipes(Rana_temporaria Ptychadena_mascareniensis)))))(Guibemantis_liber Chiromantis_rufescens))))))((Phyllomedusa_sauvagii(Hypsiboas_andinus((Litoria_lesueurii(Leptodactylus_ocellatus(Thoropa_miliaris Pleurodema_thaul)))Scinax_jolyi)))(Gastrotheca_gracilis((Isthmohyla_rivularis Flectonotus_fitzgeraldi)Dendrosophus_nanus)))))))((Nannophryne_variegatus Melanophryniscus_stelzneri)(Rhinoderma_darwinii Allophryne_ruthveni))))(((Odontophrynus_americanus Physalaemus_biligonigerus)((Pseudis_paradoxa(((Triprion_petasatus(Osteopilus((Hemiphractus(((Wawelia_gerholdi Chacophrys_pierottii)Baurubatrachus_pricei)(Ceratophrys_ornata(Lepidobatrachus_laevis Beelzebufo_ampinga))))Calyptocephalella_gayi)))Thaumastosaurus_sulcatus)Cyclorana_australis))(Batrachophrynus(Bufo_viridis Bufo_granulosus))))Heleioporus_eyeri)))*
+(Limnodynastes_dorsalis(((((Spea_bombifrons(Scaphiopus_couchii Pelobates_cultripes))(Pelodytes_punctatus(Bombina_variegata(Alytes_obstetricans(Discoglossus_pictus Xenopus_laevis)))))(Cratia_gracilis(Heleophryne_natalensis(Telmatobufo_venustus(Sooglossus_sechellensis Megophrys_nasuta)))))((((Platyplectrum_ornatum Mixophyes_schevilli)(Telmatobius_scrocchii(Uberabatrachus_carvalhoi Arariphrynus_placidoi)))(Eurycephalella_alcinae(Pristimantis_huicundo((Opisthohylax_immaculatus((Leptopelis_christyi((Arthroleptis_adolphifriederic(((Hylarana_albolabris(Phrynobatrachus_acutirostris(Conraua_crassipes(Rana_temporaria Ptychadena_mascareniensis))))(Amnirana_albolabris(Afrana_angolensis(Hoplobatrachus_occipitalis(Ceratobatrachus_guentheri(Aubria_subsigillata Pyxicephalus_adspersus))))))(Guibemantis_liber Chiromantis_rufescens)))(Astylosternus_diadematus(Cardioglossa_cyaneospila(Hymenochirus_boettgeri Schoutedenella_sylvatica)))))(Phlyctimantis_verrucosus(Hyperolius_kivuensis((Dyscophus(Callulops_kopsteini(Phrynomantis_bifasciatus Dermatonotus_muelleri)))(Kassina_senegalensis Afrixalus_fulvovittatus))))))((Gastrotheca_gracilis(Dendrosophus_nanus(Isthmohyla_rivularis Flectonotus_fitzgeraldi)))((Litoria_lesueurii(Hypsiboas_andinus(Scinax_jolyi(Leptodactylus_ocellatus(Thoropa_miliaris Pleurodema_thaul)))))Phyllomedusa_sauvagii))))))((Nannophryne_variegatus Melanophryniscus_stelzneri)(Allophryne_ruthveni Rhinoderma_darwinii))))(Heleioporus_eyeri(((Pseudis_paradoxa(Cyclorana_australis((Triprion_petasatus(Osteopilus(Calyptocephalella_gayi(Hemiphractus((Baurubatrachus_pricei(Chacophrys_pierottii Wawelia_gerholdi))(Ceratophrys_ornata(Beelzebufo_ampinga Lepidobatrachus_laevis)))))))Thaumastosaurus_sulcatus)))(Batrachophrynus(Bufo_viridis Bufo_granulosus)))(Odontophrynus_americanus Physalaemus_biligonigerus)))))*
+(Limnodynastes_dorsalis(((((Spea_bombifrons(Scaphiopus_couchii Pelobates_cultripes))(Pelodytes_punctatus(Bombina_variegata(Alytes_obstetricans(Discoglossus_pictus Xenopus_laevis)))))(Cratia_gracilis(Heleophryne_natalensis(Telmatobufo_venustus(Sooglossus_sechellensis Megophrys_nasuta)))))((((Platyplectrum_ornatum Mixophyes_schevilli)(Telmatobius_scrocchii(Uberabatrachus_carvalhoi Arariphrynus_placidoi)))(Eurycephalella_alcinae(Pristimantis_huicundo(((Leptopelis_christyi((Arthroleptis_adolphifriederic(((Hylarana_albolabris(Phrynobatrachus_acutirostris(Conraua_crassipes(Rana_temporaria Ptychadena_mascareniensis))))(Amnirana_albolabris(Afrana_angolensis(Hoplobatrachus_occipitalis(Ceratobatrachus_guentheri(Aubria_subsigillata Pyxicephalus_adspersus))))))(Guibemantis_liber Chiromantis_rufescens)))(Astylosternus_diadematus(Cardioglossa_cyaneospila(Hymenochirus_boettgeri Schoutedenella_sylvatica)))))(Phlyctimantis_verrucosus(Hyperolius_kivuensis(Opisthohylax_immaculatus((Dyscophus(Callulops_kopsteini(Phrynomantis_bifasciatus Dermatonotus_muelleri)))(Kassina_senegalensis Afrixalus_fulvovittatus))))))((Gastrotheca_gracilis(Dendrosophus_nanus(Isthmohyla_rivularis Flectonotus_fitzgeraldi)))((Litoria_lesueurii(Hypsiboas_andinus(Scinax_jolyi(Leptodactylus_ocellatus(Thoropa_miliaris Pleurodema_thaul)))))Phyllomedusa_sauvagii))))))((Nannophryne_variegatus Melanophryniscus_stelzneri)(Allophryne_ruthveni Rhinoderma_darwinii))))(Heleioporus_eyeri(((Pseudis_paradoxa(Cyclorana_australis(((Osteopilus Triprion_petasatus)(Calyptocephalella_gayi(Hemiphractus((Baurubatrachus_pricei(Chacophrys_pierottii Wawelia_gerholdi))(Ceratophrys_ornata(Beelzebufo_ampinga Lepidobatrachus_laevis))))))Thaumastosaurus_sulcatus)))(Batrachophrynus(Bufo_viridis Bufo_granulosus)))(Odontophrynus_americanus Physalaemus_biligonigerus)))))*
+(Limnodynastes_dorsalis(((((Spea_bombifrons(Scaphiopus_couchii Pelobates_cultripes))(Pelodytes_punctatus(Bombina_variegata(Alytes_obstetricans(Discoglossus_pictus Xenopus_laevis)))))(Cratia_gracilis(Heleophryne_natalensis(Telmatobufo_venustus(Sooglossus_sechellensis Megophrys_nasuta)))))((((Platyplectrum_ornatum Mixophyes_schevilli)(Telmatobius_scrocchii(Uberabatrachus_carvalhoi Arariphrynus_placidoi)))(Eurycephalella_alcinae(Pristimantis_huicundo(((Leptopelis_christyi((Arthroleptis_adolphifriederic(((Hylarana_albolabris(Phrynobatrachus_acutirostris(Conraua_crassipes(Rana_temporaria Ptychadena_mascareniensis))))(Amnirana_albolabris(Afrana_angolensis(Hoplobatrachus_occipitalis(Ceratobatrachus_guentheri(Aubria_subsigillata Pyxicephalus_adspersus))))))(Guibemantis_liber Chiromantis_rufescens)))(Astylosternus_diadematus(Cardioglossa_cyaneospila(Hymenochirus_boettgeri Schoutedenella_sylvatica)))))(Phlyctimantis_verrucosus(Hyperolius_kivuensis(Opisthohylax_immaculatus((Dyscophus(Callulops_kopsteini(Phrynomantis_bifasciatus Dermatonotus_muelleri)))(Kassina_senegalensis Afrixalus_fulvovittatus))))))((Gastrotheca_gracilis(Dendrosophus_nanus(Isthmohyla_rivularis Flectonotus_fitzgeraldi)))((Litoria_lesueurii(Hypsiboas_andinus(Scinax_jolyi(Leptodactylus_ocellatus(Thoropa_miliaris Pleurodema_thaul)))))Phyllomedusa_sauvagii))))))((Nannophryne_variegatus Melanophryniscus_stelzneri)(Allophryne_ruthveni Rhinoderma_darwinii))))(Heleioporus_eyeri(((Batrachophrynus(Bufo_viridis Bufo_granulosus))(Cyclorana_australis((Triprion_petasatus(Osteopilus(Calyptocephalella_gayi(Hemiphractus((Baurubatrachus_pricei(Chacophrys_pierottii Wawelia_gerholdi))(Ceratophrys_ornata(Beelzebufo_ampinga Lepidobatrachus_laevis)))))))Thaumastosaurus_sulcatus)))((Pseudis_paradoxa Odontophrynus_americanus)Physalaemus_biligonigerus)))))*
+(Limnodynastes_dorsalis(((((Pelodytes_punctatus((Alytes_obstetricans(Xenopus_laevis Discoglossus_pictus))Bombina_variegata))(Spea_bombifrons(Scaphiopus_couchii Pelobates_cultripes)))(Cratia_gracilis(Heleophryne_natalensis(Telmatobufo_venustus(Sooglossus_sechellensis Megophrys_nasuta)))))((((Platyplectrum_ornatum Mixophyes_schevilli)(Telmatobius_scrocchii(Uberabatrachus_carvalhoi Arariphrynus_placidoi)))(Eurycephalella_alcinae(Pristimantis_huicundo(((Leptopelis_christyi((Arthroleptis_adolphifriederic(((Hylarana_albolabris(Phrynobatrachus_acutirostris(Conraua_crassipes(Rana_temporaria Ptychadena_mascareniensis))))(Amnirana_albolabris(Afrana_angolensis(Hoplobatrachus_occipitalis(Ceratobatrachus_guentheri(Pyxicephalus_adspersus Aubria_subsigillata))))))(Guibemantis_liber Chiromantis_rufescens)))(Astylosternus_diadematus(Cardioglossa_cyaneospila(Schoutedenella_sylvatica Hymenochirus_boettgeri)))))(Phlyctimantis_verrucosus(Hyperolius_kivuensis(Opisthohylax_immaculatus((Dyscophus(Callulops_kopsteini(Phrynomantis_bifasciatus Dermatonotus_muelleri)))(Kassina_senegalensis Afrixalus_fulvovittatus))))))((Gastrotheca_gracilis(Dendrosophus_nanus(Isthmohyla_rivularis Flectonotus_fitzgeraldi)))((Litoria_lesueurii(Hypsiboas_andinus(Scinax_jolyi(Leptodactylus_ocellatus(Thoropa_miliaris Pleurodema_thaul)))))Phyllomedusa_sauvagii))))))((Nannophryne_variegatus Melanophryniscus_stelzneri)(Rhinoderma_darwinii Allophryne_ruthveni))))(Heleioporus_eyeri(((Batrachophrynus(Bufo_viridis Bufo_granulosus))(((Wawelia_gerholdi Cyclorana_australis)(Thaumastosaurus_sulcatus(Triprion_petasatus(Osteopilus(Calyptocephalella_gayi(Hemiphractus((Baurubatrachus_pricei Chacophrys_pierottii)(Ceratophrys_ornata(Beelzebufo_ampinga Lepidobatrachus_laevis)))))))))Pseudis_paradoxa))(Odontophrynus_americanus Physalaemus_biligonigerus)))))*
+(Limnodynastes_dorsalis((Heleioporus_eyeri(((Batrachophrynus(Bufo_viridis Bufo_granulosus))(((((Calyptocephalella_gayi(Triprion_petasatus Osteopilus))(((Baurubatrachus_pricei(Wawelia_gerholdi Chacophrys_pierottii))(Ceratophrys_ornata(Beelzebufo_ampinga Lepidobatrachus_laevis)))Hemiphractus))Cyclorana_australis)Thaumastosaurus_sulcatus)Pseudis_paradoxa))(Odontophrynus_americanus Physalaemus_biligonigerus)))((((Pelodytes_punctatus((Alytes_obstetricans(Xenopus_laevis Discoglossus_pictus))Bombina_variegata))(Spea_bombifrons(Scaphiopus_couchii Pelobates_cultripes)))(Cratia_gracilis(Heleophryne_natalensis(Telmatobufo_venustus(Sooglossus_sechellensis Megophrys_nasuta)))))((((Platyplectrum_ornatum Mixophyes_schevilli)(Telmatobius_scrocchii(Uberabatrachus_carvalhoi Arariphrynus_placidoi)))(Eurycephalella_alcinae(Pristimantis_huicundo((((Hyperolius_kivuensis(Opisthohylax_immaculatus((Dyscophus(Callulops_kopsteini(Phrynomantis_bifasciatus Dermatonotus_muelleri)))(Kassina_senegalensis Afrixalus_fulvovittatus))))Phlyctimantis_verrucosus)(((Arthroleptis_adolphifriederic(((Hylarana_albolabris((Conraua_crassipes(Rana_temporaria Ptychadena_mascareniensis))Phrynobatrachus_acutirostris))(Amnirana_albolabris(Afrana_an

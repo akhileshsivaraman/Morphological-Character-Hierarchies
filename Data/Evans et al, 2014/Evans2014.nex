@@ -1,0 +1,446 @@
+#NEXUS
+[written Fri May 29 07:05:13 BST 2020 by Mesquite  version 3.40 (build 877) at Akhileshs-MacBook-Air.local/127.0.0.1]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=83;
+	TAXLABELS
+		Alytes_obstetricans Arariphrynus_placidoi Arthroleptis_adolphifriederic Bombina_variegata Ceratophrys_ornata Chiromantis_rufescens Conraua_crassipes Cratia_gracilis Dermatonotus_muelleri Discoglossus_pictus Eurycephalella_alcinae Gastrotheca_gracilis Guibemantis_liber Heleophryne_natalensis Hylarana_albolabris Hyperolius_kivuensis Hypsiboas_andinus Lepidobatrachus_laevis Leptodactylus_ocellatus Leptopelis_christyi Litoria_lesueurii Megophrys_nasuta Melanophryniscus_stelzneri Mixophyes_schevilli Nannophryne_variegatus Pelobates_cultripes Pelodytes_punctatus Phlyctimantis_verrucosus Phrynobatrachus_acutirostris Phrynomantis_bifasciatus Phyllomedusa_sauvagii Platyplectrum_ornatum Pleurodema_thaul Pristimantis_huicundo Ptychadena_mascareniensis Rana_temporaria Scaphiopus_couchii Scinax_jolyi Sooglossus_sechellensis Telmatobius_scrocchii Telmatobufo_venustus Thoropa_miliaris Beelzebufo_ampinga Uberabatrachus_carvalhoi Afrana_angolensis Afrixalus_fulvovittatus Allophryne_ruthveni Amnirana_albolabris Callulops_kopsteini Astylosternus_diadematus Aubria_subsigillata Batrachophrynus Bufo_granulosus Bufo_viridis Cardioglossa_cyaneospila Calyptocephalella_gayi Ceratobatrachus_guentheri Chacophrys_pierottii Cyclorana_australis Dendrosophus_nanus Dyscophus Flectonotus_fitzgeraldi Heleioporus_eyeri Hemiphractus Hoplobatrachus_occipitalis Hymenochirus_boettgeri Isthmohyla_rivularis Kassina_senegalensis Limnodynastes_dorsalis Odontophrynus_americanus Opisthohylax_immaculatus Osteopilus Physalaemus_biligonigerus Pseudis_paradoxa Pyxicephalus_adspersus Rhinoderma_darwinii Spea_bombifrons Schoutedenella_sylvatica Thaumastosaurus_sulcatus Triprion_petasatus Xenopus_laevis Baurubatrachus_pricei Wawelia_gerholdi 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  'Matrix in file "Evans2014.nex"';
+	DIMENSIONS  NCHAR=75;
+	FORMAT DATATYPE = STANDARD GAP = - MISSING = ? SYMBOLS = "  0 1 2 3 4 5";
+	CHARSTATELABELS 
+		1 'Nasals, medial contact' /  smooth slightly_grooved heavily_ornamented_with_deep_pits_and_grooves,
+		2 'Skull, cranial exostosis' /  absent present,
+		3 'Skull, shape of skull roof in orbital region (i.e. Fr-Par)' /  'parallel-sided' wider_anteriorly wider_posteriorly,
+		4 'Skull, minimum width of the skull roof in the orbital region relative to the orbital width' /  'less than 1/4' 'between 1/4 and 1/3' 'more than 1/3',
+		5 'Frontoparietal, nature of midline contact' /  no_medial_contact_ sutured_or_partially_fused_ fused_along_entire_length_,
+		6 'Frontoparietal fenestra, sphenethmoid contribution' /  completely_surrounded_anteriorly_by_sphenethmoid_ not_completely_surrounded_anteriorly_by_sphenethmoid_,
+		7 'Sphenethmoid, dorsal exposure' /  absent present,
+		8 'Sphenethmoid, ventral configuration' /  single divided,
+		9 'Parieto-squamosal arch' /  absent present,
+		10 'Squamosal, development of otic ramus' /  absent_or_rudimentary_ overlapping_crista_parotica_ overlapping_crista_parotica_and_otoccipital_,
+		11 'Squamosal, development of zygomatic ramus' /  reduced_ moderately_developed_ending_free_ 'well developed, articulated with maxilla ',
+		12 Premaxillary_and_maxillary_teeth /  absent present,
+		13 'Tooth, cusp shape' /  bicuspid monocuspid,
+		14 Quadratojugal /  absent present,
+		15 Contact_of_quadratojugal_and_maxilla /  absent present,
+		16 'Premaxilla, palatine shelf' /  present absent,
+		17 'Premaxilla, lingual process' /  absent present,
+		18 'Vomer, teeth' /  present absent,
+		19 'Vomer, anterior process' /  reaching_the_maxillary_arch not_reaching_the_maxillary_arch_,
+		20 'Palatine as a separate element (neopalatine of Trueb 1993)' /  absent present,
+		21 'Pterygoid, length of anterior ramus' /  'long, reaching antorbital planum ' short,
+		22 'Pterygoid and parasphenoid, contact' /  absent present,
+		23 'Parasphenoid, shape of anterior end of cultriform process' /  serrated_or_rounded_ acuminate_ notched_,
+		24 'Parasphenoid, anterior extent of cultriform process' /  well_posterior_to_the_level_of_the_antorbital_plane_ at_the_level_of_the_antorbital_plane_or_slightly_posteriorly_ or_anterior_to_level_of_antorbital_plane,
+		25 Odontoids_on_lower_jaw /  absent present,
+		26 'Hyalia, general configuration' /  complete_ distally_incomplete proximally_incomplete_,
+		27 'Hyale, anterior processes' /  absent present,
+		28 'Hyoid plate, anterolateral process' /  absent present,
+		29 'Hyoid plate, shape of anterolateral process' /  pointed_ dilated_distally_ expanded_,
+		30 'Hyoid plate, posterolateral process' /  absent present,
+		31 'Hyoid ossification, posteromedial process' /  present_on_a_cartilaginous_stalk_ abuts_directly_on_the_hyoid invades_the_hyoid_,
+		32 Parahyoid /  absent present,
+		33 'Hyoid plate, calcifications' /  absent present,
+		34 'Presacral vertebrae, number' /  eight_ seven_ 'or seven (with 8th fused to sacrum) ',
+		35 'Cervical vertebrae, cotyle arrangement' /  'fully confluent (Lynch type 3)' 'narrowly separated but distinct (Lynch''s type 2) ' 'widely separated (Lynch''s type 1) ',
+		36 'Presacral vertebrae, posterior-most centrum morphology' /  opisthocoelous_ procoelous_ biconcave_,
+		37 'Presacral vertebrae, imbrication of posterior-most four neural arches' /  imbricate_ 'non-imbricate ',
+		38 'Presacral vertebrae, height of neural spines in anterior presacrals' /  low high,
+		39 'Presacral vertebrae, orientation of transverse processes of 6th presacral' /  nearly_perpendicular_to_axial_axis_ moderately_forward_ markedly_forward_ posteriorly_inclined_,
+		40 'Presacral vertebrae, length of transverse processes of the posterior presacrals relative to the sacral diapophyses' /  clearly_shorter_ equal_to_subequal_,
+		41 'Presacral vertebrae, uncinate processes on transverse process of third vertebra' /  present_ absent,
+		42 'Sacral vertebrae, expansion of diapophyses' /  'widely expanded (length of distal end of sacral rib equal or greater than total width of sacrum)' 'moderately dilated (anterior and posterior margins of sacral rib clearly divergent, distal end of rib flared by comparison with proximal end, but less than total sacral width)' 'cylindrical (anterior and posterior margins of sacral rib more or less parallel, distal end narrow and similar in diameter to proximal end) ',
+		43 'Sacrum and urostyle, nature of articulation' /  bicondylar_ monocondylar_ fused_,
+		44 'Urostyle, transverse processes' /  present absent,
+		45 'Urostyle, length relative to presacral column' /  nearly_as_long_ longer_ much_shorter_,
+		46 Free_ribs /  absent present,
+		47 Free_intervertebral_discs_in_subadults /  absent present,
+		48 Dorsal_shield /  absent present,
+		49 Omosternum /  absent present,
+		50 'Omosternum, degree of ossification' /  completely_cartilaginous_ with_ossified_style_,
+		51 'Omosternum, shape of ossified style' /  proximally_forked_ proximally_unforked_,
+		52 'Sternum, degree of ossification' /  completely_cartilaginous_ with_ossified_style_,
+		53 'Sternum, expansion of the coracoid relative to its length' /  less_than_one_half_ more_than_one_half_,
+		54 Shape_of_clavicle /  curved_ straight_,
+		55 Clavicle_orientation /  directed_anteriorly_ perpendicular_to_sagittal_plane_,
+		56 Epicoracoid_cartilages_in_the_coracoideal_region /  overlapping_ 'not overlapping (usally extremely reduced) ',
+		57 'Scapula, maximum diameter of glenoid fossa relative to the scapular shaft' /  more_than_one_ between_one_and_one_half_ less_than_one_half_,
+		58 'Scapula, anterior lamina' /  absent_ present,
+		59 'Clavicle-scapular relation' /  overlapping_anteriorly_ abutting_medially_ fused_,
+		60 Intercalary_elements /  absent_ present,
+		61 'Postaxial carpals (ulnare and distals 5 and 4)' /  all_free_ 'ulnare free, 5+4 fused ' 'ulnare free, 3+4+5 fused ',
+		62 Prepollex /  one_spherical_proximal_element_ 'two elements, the distal one elongated ' three_or_more_elements_ 'two elements, the distal one hypermorphic ',
+		63 'Finger 4, shape of terminal phalanx' /  straight_ curved,
+		64 'Finger 4, distal tip of terminal phalanx' /  'simple (slightly knobbed or rounded) ' notched_ 'T-shaped' 'Y "-" shaped ' clearly_knobbed_,
+		65 Carpal_torsion /  absent_ present,
+		66 'Ilium, well-developed dorsal crest on iliac shaft' /  absent present,
+		67 Epipubis /  absent present,
+		68 Femoral_crest /  absent present,
+		69 Os_sesamoides_tarsale /  absent present,
+		70 Distal_tarsals_3_and_2 /  free fused,
+		71 Discrete_distal_tarsal_1 /  absent present,
+		72 Prehallux /  one_spherical_proximal_element_ 'two elements, the distal one enlongate ' three_or_more_elements three_or_more_elements,
+		73 Shape_of_terminal_phalanx_of_toe /  straight curved,
+		74 Distal_tip_of_terminal_phalanx_of_toe /  'simple (slightly knobbed or rounded) ' notched_ 'T-shaped' 'Y-shaped ' clearly_knobbed_,
+		75 Pupil_shape /  vertical_ triangular_ horizontal_ ; 
+	MATRIX
+	Alytes_obstetricans            0001101000110110001000010001211100101010000001000--000000100010000110011000
+	Arariphrynus_placidoi          ?0111?1????1?1?????101??0????????02?1?111?01?0??????????20?0?????1?0?11?04?
+	Arthroleptis_adolphifriederic  102210010111011001110001001120100021100112010000110011112010210111000110022
+	Bombina_variegata              10011010001101100000000000012121001000200010110010-00000010002000001?012001
+	Ceratophrys_ornata             0120100012211111000101011000-120000111001101000110-01000201022001001?113002
+	Chiromantis_rufescens          10021010011101100011000000111120002210001201000011011111201123031101?102032
+	Conraua_crassipes              102010000111011000110???00111110102210011201000011011111111022021100?112022
+	Cratia_gracilis                1000?01?0111?11?????????0?????????????00?1??1???????00??10?????????????????
+	Dermatonotus_muelleri          002211010000-110011000200001212010221020100110000--011111010210010000111002
+	Discoglossus_pictus            000110000121011000101?0000012111001000100100010010-000000100010001110011001
+	Eurycephalella_alcinae         1?21??10??210110???1??????????????1?????????????????000?2010?20??????11?11?
+	Gastrotheca_gracilis           100100100111?110001100010????????021??0011010000?????000???121101?????????2
+	Guibemantis_liber              100210100111011000110001001110100021100012010000110111112011210310010112032
+	Heleophryne_natalensis         1001001001110110001110000011?120011110001101001010-000001010020210010112020
+	Hylarana_albolabris            100210100111011000110002001111100022100112010000110?11112010210210000112022
+	Hyperolius_kivuensis           1001110101110110011100010011100000221010120110001100011110112111100111111?2
+	Hypsiboas_andinus              00??10100111011000111???00011120002110110101000010-000001011231?10010111102
+	Lepidobatrachus_laevis         0120100012211111100101021100-121101111101101100110-01000201021001001?113100
+	Leptodactylus_ocellatus        00001010011101100001100100012120002110111101000010-000001010220011000112102
+	Leptopelis_christyi            100210100111011000010011001110100022100112010000111011112011211?11011100100
+	Litoria_lesueurii              10111010010101?0001111010????????021101011010000????000?102122101000?11??02
+	Megophrys_nasuta               101210100211?110000011110?10-110001100011010001011?1?0001?1002?010?00112?00
+	Melanophryniscus_stelzneri     002210000100-100011100??0011201000111010010010000--010001010210010010111002
+	Mixophyes_schevilli            00101010011101100011100200110110001110111201001010-?0000201011001101?111000
+	Nannophryne_variegatus         002110100110-0-0011100??0001111000111000110110000--01000201022001001?11?002
+	Pelobates_cultripes            0122201002210110000001010?110120001100201011101010-11000111001001000?003000
+	Pelodytes_punctatus            1001001001110110001000010?111111001110201001101010-100001110110010010011000
+	Phlyctimantis_verrucosus       10211010011101100011000100111000002200001201?000110001112011210?100111110?0
+	Phrynobatrachus_acutirostris   100211100111011001110000001111201022100112010000111111111010210211001112022
+	Phrynomantis_bifasciatus       102201110000-110011000000001212010221020100110000--00--110-1211310000111132
+	Phyllomedusa_sauvagii          1011101001010110001110100010-12010211011112100000--01000201121101001?111100
+	Platyplectrum_ornatum          102010100111011000111?0100111110011110111201001010-00000201011001101?113002
+	Pleurodema_thaul               00201010010100-00011000100011110102110111201000010-100001010220010000112102
+	Pristimantis_huicundo          1001101001110110001110010010-110002110011201000010-00000201021121001?111122
+	Ptychadena_mascareniensis      10201010011101100010001200011110122-111112010000110111111020210011000112102
+	Rana_temporaria                10211010011101100011000100111110002210011201000?11111111101021001100?112002
+	Scaphiopus_couchii             01211000022100-0000001010?110120001100201020101010-00000201002001001?013000
+	Scinax_jolyi                   10??10100111011000111???00111120002110111101000010-000001011220010010112002
+	Sooglossus_sechellensis        000100000111?1101111?1110?11212000211010?010?01010-000001?1001001?0?1111002
+	Telmatobius_scrocchii          10201010000101100011000100?11120001110100201000010-00000112021041000?111042
+	Telmatobufo_venustus           100110100111011000111102001101?0011100000100000010-00000101001001000?111000
+	Thoropa_miliaris               0010101001110110001100??00?11120002110111101000010-0?0??20102?0?10000???022
+	Beelzebufo_ampinga             ?12?1???122111110????1??????????0?11?1???101??0????????????????????????????
+	Uberabatrachus_carvalhoi       10101?1?0?21?11????101???????????011??31?2?1?100?????????????????0?????????
+	Afrana_angolensis              100?1?1011110110001100120001011000220101?201?0?011111110??10210411000112102
+	Afrixalus_fulvovittatus        002?2?1101110110111101120011100000221021?101?00011000111??11111110000111110
+	Allophryne_ruthveni            102220100110-0-1-11010000001111000211000110100000--000102010200210010100022
+	Amnirana_albolabris            10021-100111011000110012001101100021000012???0?0111111102?10210111000112022
+	Callulops_kopsteini            00212?0?0010-110?1110???0000-0100022102?110100000--00--1??-0220311?0?112132
+	Astylosternus_diadematus       000021100111011000111002001111100021100??201?0?0110011112?10210111001113102
+	Aubria_subsigillata            010?2?0002211110000101021001111000220101?201?0?01101???0??10210111000111142
+	Batrachophrynus                000100100000-100010101110??????000110021?200?0?010-0?110??102?0110?0?1??042
+	Bufo_granulosus                01220-001200-111011101100001111000110100110110000--1?1102010220110010112042
+	Bufo_viridis                   1001001?0100-0-011110011000111100011002??101?0000--1???0??10220110010112042
+	Cardioglossa_cyaneospila       (0 1)00?2?1(0 1)0110-11?0011101100112010002(1 2)10?1?201?0?0110011112?10100111001010042
+	Calyptocephalella_gayi         01222-0?122101101001011200?????000111120?10??0?010-0?0002?10210011010110000
+	Ceratobatrachus_guentheri      01220-00002101101001001110111110002201011201000011011111??20210011?00101002
+	Chacophrys_pierottii           01202000122111110?010???1000-12100010020?101?0?010-0?0?02?10210411010113042
+	Cyclorana_australis            0(0 1)001-1101210110100101110??10?2000211000?101?0?010-0?1?02?102?0411?1?1??042
+	Dendrosophus_nanus             00??0?1?01010110??110???000101100021102??101?0?010-0???02?11231010000112102
+	Dyscophus                      00??2?0?00010110??010???00?????00022102??101?0001110???12?-02?041000?112040
+	Flectonotus_fitzgeraldi        1000001?011101000?111111000101100021102??101?0?010-0???0??11211010000111102
+	Heleioporus_eyeri              1001101100010110100101010011111000111?20?10??01010-0???0??1?2??410???1???40
+	Hemiphractus                   0102211?122111101001010210?????00021110??201?0?010-0???02?112?0410???100042
+	Hoplobatrachus_occipitalis     000?2?0012110110001110120001111000221121?201?0?0110111102?10210410001112142
+	Hymenochirus_boettgeri         00??2?0?1010-0-1????1???00????10?110002??02??0000--0???1??20?00401001110042
+	Isthmohyla_rivularis           0001000?011101001?111???00010110002100???101?0?00--0???0??11211010000113102
+	Kassina_senegalensis           002?2?1001110110111100120011000000220021?101?000110001112?11111310001111112
+	Limnodynastes_dorsalis         100010100001011110110101001111100111002??10??01010-000002?10?10010?1?11?002
+	Odontophrynus_americanus       00212-100(0 1)010110100100000011011000110120?10??0?00--0???02?10210410011113042
+	Opisthohylax_immaculatus       10??1?1?01110110??110???001100000022100??201?0001100???12?11111010010111102
+	Osteopilus                     01222-00(0 1)12101101001111000?????00021102?1101?0?010-0???02?112?001001?1??002
+	Physalaemus_biligonigerus      002210100101011011010001001121100021002??101?0?010-100002?10210410000113042
+	Pseudis_paradoxa               00??2?1?01210110??010???0001111001110121?101?00010-0???0??10210410001111042
+	Pyxicephalus_adspersus         011?2-00022111100001010210011110002201211201?0?0110111112?10210411010112042
+	Rhinoderma_darwinii            1002001?0110-100?-100?000001011001111021?201?00010-0???0??10200410000110042
+	Spea_bombifrons                10??0?1?011100-0??000???0?0121100001012??02??00010-0?110??10010410010013040
+	Schoutedenella_sylvatica       002?1?100000-1110?1110120011201000211021?201?0?011001??12?10100311001110012
+	Thaumastosaurus_sulcatus       01??2?1?0121???????10??????????????????????????????????????????????????????
+	Triprion_petasatus             01022-10102101100001101000?????00021002??001?0?010-0???0???1210010?0?1??002
+	Xenopus_laevis                 00002?00021110-0???00???000???1000100120?02-010010-000000??00004001001111?0
+	Baurubatrachus_pricei          01????0??221?11?????01???????????0010000?10??0?0?????00??????????1?????????
+	Wawelia_gerholdi               ?????????????????????????????????0??000??101?0???????????????????1?????????
+
+;
+
+END;
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1 -  75;
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Mk1 (est.)':  1 -  75;
+END;
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1590732313576;
+		linkFile 'Anatrees-E2014.txt.nex';
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 7439228797704072752;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 3995961257671965273;
+			mqVersion 340;
+			checksumv 0 3 2234340557 null  getNumChars 75 numChars 75 getNumTaxa 83 numTaxa 83   short true   bits 31   states 31   sumSquaresStatesOnly 29678.0 sumSquares 29678.0 longCompressibleToShort false usingShortMatrix true   NumFiles 2 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 129;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1432 764;
+			setLocation 8 23;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #7439228797704072752  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				suppressEPCResponse;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlockInt 0;
+					setTreeBlockID 01725f0858f41;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 998.1590732292384.8552295796001959370;
+				getTreeWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1303 692;
+					setLocation 8 23;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					setActive;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareLineTree.SquareLineTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							branchLengthsToggle off;
+							toggleScale on;
+							toggleBroadScale off;
+							toggleCenter on;
+							toggleEven on;
+							setFixedTaxonDistance 0;
+						endTell;
+						setEdgeWidth 4;
+						showEdgeLines on;
+						orientUp;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					showBranchColors on;
+					labelBranchLengths off;
+					centerBrLenLabels on;
+					showBrLensUnspecified on;
+					showBrLenLabelsOnTerminals on;
+					setBrLenLabelColor 0 0 255;
+					setNumBrLenDecimals 6;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						toggleColorPartition off;
+						toggleColorAssigned on;
+						toggleShadePartition off;
+						toggleShowFootnotes on;
+						toggleNodeLabels on;
+						toggleCenterNodeNames off;
+						toggleShowNames on;
+						namesAngle ?;
+					endTell;
+				endTell;
+					setTreeNumber 5;
+					setDrawingSizeMode 0;
+					toggleLegendFloat on;
+					scale 0;
+					toggleTextOnTree off;
+					togglePrintName on;
+					showWindow;
+				endTell;
+				desuppressEPCResponse;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocDoubles.DrawTreeAssocDoubles;
+				tell It;
+					setOn on;
+					toggleShow consensusFrequency;
+					toggleShow bootstrapFrequency;
+					toggleShow posteriorProbability;
+					toggleShow consensusFrequency;
+					toggleShow posteriorProbability;
+					toggleShow bootstrapFrequency;
+					setDigits 4;
+					setThreshold ?;
+					writeAsPercentage off;
+					toggleCentred off;
+					toggleHorizontal on;
+					toggleWhiteEdges on;
+					toggleShowOnTerminals on;
+					setFontSize 10;
+					setOffset 0  0;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocStrings.DrawTreeAssocStrings;
+				tell It;
+					setOn on;
+					toggleCentred on;
+					toggleHorizontal on;
+					setFontSize 10;
+					setOffset 0  0;
+					toggleShowOnTerminals on;
+				endTell;
+				getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #3995961257671965273 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1303 692;
+					setLocation 8 23;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					endTell;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					colorCells  #mesquite.charMatrices.NoColor.NoColor;
+					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges on;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleAutoWCharNames on;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					toggleShowPaleExcluded off;
+					togglePaleInapplicable on;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize on;
+					toggleColorsPanel off;
+					toggleDiagonal on;
+					setDiagonalHeight 80;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.AlterData.AlterData;
+				tell It;
+					toggleBySubmenus off;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor;
+				tell It;
+					panelOpen true;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

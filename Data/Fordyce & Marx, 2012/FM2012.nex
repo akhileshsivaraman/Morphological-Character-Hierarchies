@@ -1,0 +1,882 @@
+#NEXUS
+[written Sat May 30 10:53:33 BST 2020 by Mesquite  version 3.40 (build 877) at Akhileshs-MacBook-Air.local/192.168.0.26]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=23;
+	TAXLABELS
+		Zygorhiza_kochii Physeter_catodon Aetiocetus_cotylalveus Balaena_mysticetus Balaenella_brachyrhynus Balaenoptera_bonaerensis Balaenula_astensis Caperea_marginata Cetotherium_rathkii Diorocetus_hiatus Eomysticetus_whitmorei Eschrichtius_robustus Eubalaena_spp. Herpetocetus_bramblei Herpetocetus_transatlanticus Megaptera_miocaena Megaptera_novaeangliae Metopocetus_durinasus Morenocetus_parvus Nannocetus_eremus Pelocetus_calvertensis Piscobalaena_nana Plesiobalaenoptera_quarantellii 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  'Matrix in file "Fordyce2012.nex"';
+	DIMENSIONS  NCHAR=174;
+	FORMAT DATATYPE = STANDARD GAP = - MISSING = ? SYMBOLS = "  0 1 2 3 4 5";
+	CHARSTATELABELS 
+		1 Length_of_rostral_portion_of_maxilla /  less_than_bizygomatic_width equal_to_or_greater_than_bizygomatic_width,
+		2 Lateral_border_of_maxilla_anterior_to_antorbital_notch_or_homologous_point_on_rostrum_in_dorsal_view /  concave straight broadly_convex,
+		3 Transverse_width_of_maxillae_at_midpoint /  distinctly_less_than_that_of_the_premaxillae roughly_equal_to_or_greater_than_that_of_the_premaxillae,
+		4 Premaxilla_in_dorsal_view /  portion_anterior_to_nasal_opening_narrows_or_remains_the_same_width_anteriorly widens_at_anterior_end,
+		5 Abrupt_increase_in_dorsoventral_height_of_premaxilla_adjacent_to_anterolateral_corner_of_nasal /  absent present,
+		6 Premaxilla_adjacent_to_and_anterior_to_narial_fossa /  elevated_above_the_maxilla_and_forming_a_distinct_lateral_face continuous_or_nearly_continuous_with_the_maxilla,
+		7 Premaxillae_adjacent_to_and_at_posterior_edge_of_nasal_opening /  do_not_clearly_overhang_maxillae premaxillae_overhang_maxillae,
+		8 Medial_contact_of_premaxillae_in_dorsal_view /  contact_anteriorly_along_midline separated_along_the_entire_length_of_the_rostrum,
+		9 Antorbital_process /  absent present_and_defined_by_a_steep_face_clearly_separating_the_posterolateral_corner_of_the_maxilla_from_the_more_clearly_separating_the_posterolateral_corner_of_the_maxilla_from_its_more_anterior_rostral_portion present_as_a_distinct_anterior_projection_lateral_to_antorbital_notch,
+		10 Posterolateral_corner_of_maxilla_and_anterior_border_of_supraorbital_process_of_frontal_in_dorsal_view /  maxilla_closely_approximates_or_underlies_frontal separated_by_a_basin_distinct_from_the_space_for_the_reception_of_the_lacrimal maxilla_overrides_anteriormost_border_of_supraorbital_process_of_frontal,
+		11 Distinct_pocket_between_the_ascending_process_of_the_maxilla_dorsally_and_the_supraorbital_process_ventrally /  absent present,
+		12 Posterior_end_of_ascending_process_of_premaxilla /  no_contact_with_frontal_or_contacts_the_frontal_with_the_posteriormost_tip_only_ forms_a_robust_contact_with_the_frontal_,
+		13 Lateral_borders_of_ascending_process_of_maxilla /  lateral_edges_convergent_with_the_process_tapering_to_a_point lateral_edges_parallel_or_divergent_posteriorly,
+		14 Lateral_process_of_maxilla /  absent present_and_forming_an_antorbital_notch_in_dorsal_view,
+		15 Posterior_portion_of_palatal_surface_of_maxilla /  palate_is_flat_or_slightly_concave sagittal_portion_of_maxilla_forms_a_longitudinal_keel_bordered_laterally_by_shallow_longitudinal_troughs sagittal_portion_forms_a_keel_but_without_adjacent_troughs,
+		16 Palatal_surface_of_anterior_part_of_rostrum /  flat_or_gently_concave bears_pronounced_longitudinal_keel_formed_by_vomer_and_medial_edges_of_maxillae_along_the_midline_of_the_rostrum,
+		17 Exposure_of_premaxilla_on_palate /  present_and_exposed_along_at_least_one_third_of_the_length_of_the_maxilla limited_in_extent_to_less_than_one_third_the_length_of_the_maxilla,
+		18 Palatal_window_exposing_vomer /  absent present narrow_and_variable_exposure_of_vomer_along_most_or_all_the_midline_of_the_rostrum vomer_broadly_exposed_along_most_or_all_of_the_midline_of_the_rostrum,
+		19 Palatal_nutrient_foramina_and_sulci /  absent present,
+		20 Outline_of_suture_between_maxillae_and_palatines /  roughly_straight_transversely_or_bowed_anteriorly forms_a_posteriorly_pointing_V_shape anterior_margins_of_palatines_form_two_separate_and_posteriorly_pointing_U_shapes,
+		21 Outline_of_rostrum_in_lateral_view /  portion_anterior_to_the_nasals_is_abruptly_depressed transition_from_the_anterior_end_of_the_rostrum_to_the_nasals_is_smooth,
+		22 Teeth_in_adult_individuals /  present absent_or_vestigial,
+		23 Anterior_edge_of_supraorbital_process_lateral_to_ascending_process_of_maxilla /  oriented_transversely_or_pointing_anteriorly pointing_posteriorly linguiform_and_tapering_to_a_point,
+		24 Posterior_border_of_supraorbital_process_in_dorsal_view /  concave straight,
+		25 Supraorbital_process_of_frontal /  horizontal gradually_slopes_away_lateroventrally_from_the_skull_vertex abruptly_depressed_to_a_level_noticeably_below_the_vertex_with_the_lateral_skull_wall_above_the_supraorbital_formed_by_both_parietal_and_frontal as_state_2_but_with_the_lateral_skull_wall_above_the_supraorbital_formed_by_parietal_only,
+		26 Width_of_supraorbital_process_as_measured_in_a_straight_line_along_posterior_border /  equal_to_or_shorter_than_the_anteroposterior_length_of_the_supraorbital_process_above_the_orbit up_to_twice_the_length_above_orbit more_than_twice_the_length_above_orbit,
+		27 Position_of_anteriormost_point_of_supraorbital_process /  in_line_with_the_posterior_extremity_of_nasals_or_passing_through_the_nasals on_the_same_level_as_the_anterior_extremity_of_the_nasals anterior_to_the_anterior_extremity_of_the_nasals,
+		28 Dorsal_edge_of_orbit_relative_to_lateral_edge_of_rostrum_with_skull_resting_on_a_horizontal_surface /  elevated_above_or_roughly_in_line_with_the_lateral_edge_of_the_rostrum located_well_below_the_lateral_edge_of_the_rostrum,
+		29 Contact_of_jugal_with_zygomatic_process_of_the_squamosal /  the_two_bones_overlap_dorsoventrally little_or_no_overlap,
+		30 Maxillary_infraorbital_plate /  absent present,
+		31 Maxillary_window_originating_from_posterior_border_of_infraorbital_plate /  absent present,
+		32 Anteromedial_corner_of_supraorbital_process_of_frontal_extending_to_a_point_medial_to_antorbital_notch /  absent present,
+		33 Position_of_posteriormost_edge_of_ascending_process_of_maxilla /  in_transverse_line_with_anterior_half_or_halfway_point_of_supraorbital_process in_line_with_posterior_half_of_supraorbital_process_or_postorbital_process extends_to_a_point_posterior_to_the_postorbital_process,
+		34 Posterior_ends_of_ascending_processes_of_maxillae_in_dorsal_view /  widely_separated_by_either_frontals_or_both_nasals_and_premaxillae posterior_processes_are_converging_towards_the_midline_and_are_either_separated_by_the_nasals_only_or_contact_along_the_midline,
+		35 Relative_position_of_posteriormost_edge_of_ascending_process_of_maxilla_in_dorsal_view /  approximately_in_transverse_line_with_or_posterior_to_posterior_edge_of_nasal anterior_to_posterior_edge_of_nasal,
+		36 Length_of_nasals_relative_to_bizygomatic_width /  between_25_and_50%_of_bizygomatic_width less_than_25%_of_bizygomatic_width more_than_50%_of_bizygomatic_width,
+		37 Posterior_portion_of_nasals /  blocky_or_triangular_with_medially_converging_lateral_borders strongly_compressed_into_a_transversely_thin_and_barely_visible_sheet_of_bone_,
+		38 Anterior_margins_of_nasals /  roughly_straight_or_U_shaped form_a_distinct_and_posteriorly_pointing_W_shape with_point_on_midline_and_a_gap_on_each_side_between_premaxilla_and_nasal,
+		39 Dorsal_surface_of_nasals /  flattened developed_into_a_sagittal_keel,
+		40 Separation_of_posterior_portions_of_nasals_along_sagittal_plane_by_narial_process_of_frontals /  present absent,
+		41 Position_of_posteriormost_edge_of_nasals /  in_transverse_line_with_anterior_half_or_halfway_point_of_supraorbital_process_of_frontal in_line_with_posterior_half_of_supraorbital_process_ located_posterior_to_or_in_line_with_posteriormost_edge_of_postorbital_process,
+		42 Zygomatic_process_of_squamosal_and_exoccipital_in_dorsal_view /  clearly_separated_by_an_angle posterior_border_of_zygomatic_process_and_lateral_edge_of_exocippital_are_confluent_forming_a_continuous_or_nearly_continuous_lateral_skull_border,
+		43 Orbitotemporal_crest /  positioned_along_posterior_border_of_supraorbital_process_with_origin_of_temporal_muscle_facing_posteriorly_or_posteroventrally absent_or_positioned_on_dorsal_surface_of_supraorbital_process_with_origin_of_temporal_muscle_facing_posterodorsally_or_dorsally,
+		44 Area_enclosed_by_orbitotemporal_crest_on_supraorbital_process_of_frontal /  restricted_to_posteromedial_quarter_of_supraorbital_process distinctly_U_shaped_and_extending_almost_to_anterior_border_of_supraorbital_process covering_half_or_more_of_the_dorsal_surface_of_supraorbital_process_and_almost_reaching_its_posterolateral_corner,
+		45 Shape_of_temporal_fossa /  longer_anteroposteriorly_than_wide_transversely_or_as_wide_as_long wider_than_long,
+		46 Intertemporal_constriction /  longer_anteroposteriorly_than_wide_transversely as_state_1_with_the_temporal_fossa_forming_a_large_parasagittal_oval wider_transversely_than_long_anteroposteriorly,
+		47 Parietal_and_interparietal /  anteriormost_point_located_no_further_forward_than_postorbital_process_ anteriormost_point_in_line_with_supraorbital_process,
+		48 Parietals_in_lateral_view /  as_long_or_longer_anteroposteriorly_than_high_dorsoventrally higher_dorsoventrally_than_long_anteroposteriorly,
+		49 Anteriormost_point_of_parietal_and_interparietal /  more_posterior_than_posterior_border_of_the_ascending_process_of_the_maxilla more_anterior_than_or_in_line_with_posterior_border_of_the_ascending_process_of_the_maxilla,
+		50 Anteriormost_point_of_supraoccipital_in_dorsal_view /  located_posterior_to_or_in_line_with_the_level_of_the_anterior_end_of_the_zygomatic_process_of_the_squamosal located_anterior_to_the_level_of_the_anterior_end_of_the_zygomatic_process_of_the_squamosal in_line_with_the_anterior_half_or_anterior_edge_of_the_supraorbital_process,
+		51 Anteroposterior_position_of_posterior_apex_of_nuchal_crest /  posterior_to_the_condyles anterior_to_or_in_line_with_the_posteriormost_point_of_the_occipital_condyles,
+		52 Distinct_nuchal_tubercle_at_junction_of_parietosquamosal_suture_and_supraoccipital /  absent present,
+		53 Exposure_of_alisphenoid_in_temporal_fossa /  exposed_on_temporal_wall_of_skull_and_contributing_to_orbital_fissure as_state_0_but_with_alisphenoid_broadly_exposed_and_forming_the_ventral_border_of_a_large_foramen_also_enclosed_by_the_squamosal_and_parietal exposed_on_temporal_wall_of_skull_but_not_contributing_to_orbital_fissure not_exposed_on_temporal_wall_of_skull,
+		54 Orientation_of_zygomatic_process_of_squamosal /  directed_anteromedially directed_anteriorly directed_anterolaterally,
+		55 Zygomatic_process_of_squamosal_in_lateral_view /  dorsal_and_ventral_borders_parallel_or_convergent_anteriorly process_is_expanded_dorsoventrally_both_anteriorly_and_posteriorly_thus_forming_a_medial_constriction_,
+		56 Anterior_tip_of_zygomatic_process_of_squamosal /  situated_entirely_posterior_to_the_postorbital_process closely_apposed_to_the_postorbital_process_or_situated_ventral_to_the_latter,
+		57 Supramastoid_crest_of_zygomatic_process_of_squamosal /  present absent,
+		58 Size_of_squamosal_including_zygomatic_and_postglenoid_processes /  longer_anteroposteriorly_than_high_dorsoventrally_or_about_as_high_as_long distinctly_higher_than_long,
+		59 Parietosquamosal_suture_shaped_like_a_crest_or_ridge /  absent present,
+		60 Squamosal_prominence /  forms_a_projection_on_the_crest_delimiting_the_lateral_or_posterolateral_edge_of_the_squamosal_fossa_ absent,
+		61 Transverse_width_of_squamosal_lateral_to_exoccipital /  width_equal_to_or_greater_than_15%_of_the_distance_between_the_sagittal_plane_and_the_lateral_edge_of_the_exoccipital exposed_portion_of_squamosal_is_less_than_15%_of_that_distance,
+		62 Length_of_squamosal_fossa_relative_to_maximum_transverse_width_of_temporal_fossa_measured_in_a_straight_line_from_the_posteriormost_point_of_the_subtemporal_crest_to_the_posteriormost_point_of_the_nuchal_crest /  length_of_squamosal_fossa_is_equal_to_or_exceeds_the_width_of_the_temporal_fossa length_of_squamosal_fossa_is_three_quarters_the_width_of_the_temporal_fossa_or_longer length_squamosal_fossa_is_less_than_three_quarters_the_width_of_the_temporal_fossa,
+		63 Postglenoid_process_in_lateral_view /  ventral_tip_is_curving_anteriorly anterior_and_posterior_sides_nearly_parallel_with_the_tip_of_the_process_pointing_ventrally_ as_state_1_but_with_the_tip_of_the_process_pointing_posteriorly process_is_triangular_in_outline_with_the_tip_pointing_posteriorly_or_ventrally process_is_triangular_with_the_anterior_border_descending_posteroventrally_and_the_posterior_border_descending_anteroventrally,
+		64 Ventral_extension_of_postglenoid_process_in_lateral_view /  ventral_edge_of_postglenoid_process_approximately_in_line_with_or_dorsal_to_ventral_edge_of_exoccipital extending_well_ventral_to_the_ventral_edge_of_the_exoccipital,
+		65 Orientation_of_postglenoid_process_in_posterior_view /  ventrally_oriented ventrolaterally_oriented ventromedially_oriented,
+		66 Outline_of_postglenoid_process_in_anterior_or_posterior_view /  parabolic as_state_0_but_with_lateral_and_medial_edges_parallel_or_concave triangular trapezoidal_with_a_ventrally_directed_medial_border,
+		67 Twisting_of_postglenoid_process_in_ventral_view /  not_twisted_and_roughly_transverse_to_the_sagittal_axis_of_the_skull twisted_clockwise_on_the_left_side_and_anticlockwise_on_the_right_side,
+		68 Squamosal_cleft /  absent present,
+		69 Lateral_edges_of_supraoccipital_in_dorsal_view /  convex straight_or_concave,
+		70 Sagittal_crest_on_occipital_shield /  absent_or_indistinct restricted_to_anterior_half_of_supraoccipital_shield restricted_to_a_depression_in_the_centre_of_the_supraoccipital_shield present_and_running_all_the_way_along_the_supraoccipital_shield,
+		71 Pterygoids_in_ventral_view /  pterygoids_partially_or_entirely_exposed palatines_almost_completely_cover_pterygoids_and_extend_on_to_the_hamular_process,
+		72 Pterygoid_sinus_fossa /  extended_anterior_to_foramen_ovale_or_pseudovale anterior_edge_approximately_in_line_with_or_posterior_to_anterior_edge_of_foramen_ovale_or_pseudovale,
+		73 Superior_lamina_of_pterygoid /  absent_or_forming_less_than_half_of_the_roof_of_the_pterygoid_fossa present_and_covering_most_of_the_ventral_exposure_of_the_alisphenoid,
+		74 Shape_of_pterygoid_hamuli /  shaped_like_a_finger expanded_into_a_dorsoventrally_flattened_plate_partially_flooring_the_pterygoid_sinus_fossa reduced_in_size_or_almost_absent,
+		75 Position_of_foramen_pseudovale /  foramen_located_within_squamosal_or_between_squamosal_and_pterygoid_and_opening_anterolaterally_or_laterally as_state_0_but_with_foramen_opening_posteriorly foramen_lies_within_pterygoid,
+		76 Fossa_on_squamosal_for_reception_of_sigmoid_process_tympanic_bulla /  present absent,
+		77 Base_of_postglenoid_process_in_ventral_view /  in_line_with_the_centre_of_the_tympanic_bulla in_line_with_the_anterior_half_of_the_tympanic_bulla_or_anterior_to_the_latter posterior_to_the_anteroposterior_centre_of_the_tympanic_bulla,
+		78 Ventral_border_of_sagittal_part_of_vomer_in_ventral_view /  posteriormost_portion_projects_beyond_the_posterior_border_of_the_palatines_and_is_visible_in_ventral_view completely_covered_by_palatines,
+		79 Basioccipital_crest /  narrow_transversely wide_and_bulbous,
+		80 Angle_formed_by_the_basioccipital_crests_in_ventral_view /  diverging_posteriorly parallel_or_subparallel_with_no_angle_formed,
+		81 Posteriormost_point_of_exoccipital_in_dorsal_or_ventral_view /  extends_anterior_to_the_posterior_edge_of_occipital_condyle level_with_or_posterior_to_posterior_edge_of_condyle,
+		82 Outline_of_stylohyal_in_cross_section /  cylindrical flattened,
+		83 Ankylosed_basihyal_and_thyrohyals /  absent present,
+		84 Dorsal_and_medial_elongation_of_pars_cochlearis_towards_cranial_cavity /  absent present present_but_with_only_the_anterior_side_of_the_pars_cochlearis_being_elongated,
+		85 Anterior_process_in_lateral_view /  squared_off rounded pointed_and_tapering anterior_border_of_process_is_strongly_concave_and_shaped_like_an_L,
+		86 Ventral_edge_of_anterior_process_in_medial_view /  at_same_level_or_dorsal_to_ventral_edge_of_pars_cochlearis ventral_to_ventral_profile_of_the_pars_cochlearis,
+		87 Length_of_anterior_process_as_measured_from_the_anterior_border_of_the_pars_cochlearis /  shorter_than_the_anteroposterior_length_of_the_pars_cochlearis approximately_same_length_or_longer_than_the_pars_cochlearis,
+		88 Attachment_of_anterior_process_to_pars_cochlearis_in_taxa_with_a_cranially_elongated_pars_cochlearis /  absent present,
+		89 Anteroexternal_sulcus /  forms_an_oblique_or_vertical_groove_on_lateral_side_of_anterior_process_immediately_anterior_to_lateral_tuberosity absent,
+		90 Dorsal_junction_between_pars_cochlearis_and_suprameatal_area_extended_dorsally_as_a_robust_pyramidal_process /  absent present,
+		91 Articulation_of_anterior_process_of_periotic_and_tympanic_bulla /  no_contact_or_contact_with_accessory_ossicle_via_fovea_epitubaria_on_the_anterior_process_of_the_periotic accessory_ossicle_or_homologous_region_on_periotic_fused_to_bulla,
+		92 Lateral_tuberosity_of_anterior_process /  absent_or_blunt_and_bulbous_projection hypertrophied developed_as_a_broad_and_anterolaterally_pointing_shelf_articulating_with_the_squamosal,
+		93 Distinct_ridge_delimiting_insertion_surface_of_tensor_tympani_on_medial_side_of_anterior_process /  absent absent_but_insertion_surface_distinctly_excavated present,
+		94 Anteromedial_corner_of_pars_cochlearis_in_ventral_view /  angular_and_projecting_medially_resulting_in_a_flattened_ventral_surface_of_the_pars_cochlearis smooth_and_rounded,
+		95 Promontorial_groove_on_medial_side_of_pars_cochlearis /  present present_and_deeply_excavated absent,
+		96 Caudal_tympanic_process_of_periotic_in_posteromedial_view /  well_separated_from_crista_parotica narrow_separation_or_contact,
+		97 Posteromedial_corner_of_pars_cochlearis_medial_to_fenestra_rotunda /  rounded_and_level_with_fenestra_rotunda inflated_and_projecting_posteriorly_beyond_fenestra_rotunda,
+		98 Caudal_tympanic_process /  developed_as_a_posteriorly_extending_triangular_shelf as_state_0_but_pointing_posteroventrally as_state_0_but_pointing_posterodorsally_ developed_as_a_robust_and_ventrally_directed_projection absent_or_poorly_developed,
+		99 'Anteroposterior alignment of proximal opening of facial canal, internal acoustic meatus and aperture for cochlear aqueduct' /  present absent,
+		100 Anteroposterior_alignment_of_aperture_for_cochlear_aqueduct_and_aperture_for_vestibular_aqueduct /  absent present,
+		101 Prominent_septum_dividing_foramina_for_vestibular_and_cochlear_nerves_within_internal_acoustic_meatus_ /  present absent,
+		102 Size_of_aperture_for_cochlear_aqueduct /  smaller_than_aperture_for_vestibular_aqueduct approximately_the_same_size,
+		103 Superior_process /  present_as_a_distinct_crest_forming_the_lateral_wall_of_the_suprameatal_fossa the_lateral_border_of_the_suprameatal_fossa_is_low_and_rounded_or_not_clearly_defined,
+		104 Development_of_crista_transversa /  depressed_well_below_the_rim_of_the_meatus well_developed_and_reaching_the_cerebral_surface_of_the_pars_cochlearis,
+		105 Morphology_of_proximal_opening_of_facial_canal /  roughly_circular anterior_border_is_continuous_with_hiatus_Fallopii_and_shaped_like_a_fissure,
+		106 Size_of_proximal_opening_of_facial_canal /  no_more_than_half_the_size_of_the_internal_acoustic_meatus more_than_half_the_size_of_the_internal_acoustic_meatus,
+		107 Articulation_surfaces_on_posterior_processes_of_tympanic_bulla_and_periotic /  unfused fused_in_adults,
+		108 Morphology_of_facial_sulcus_on_distal_half_of_compound_posterior_process /  absent_or_relatively_shallow_sulcus_with_equally_defined_anterior_and_posterior_borders marked_groove_with_an_elevated_anterior_border deeply_incised_and_partially_floored_tubular_canal,
+		109 Orientation_of_compound_posterior_process_in_ventral_view_with_periotic_being_in_situ /  oriented_posterolaterally_with_respect_to_the_longitudinal_axis_of_the_anterior_process_of_the_periotic oriented_at_a_right_angle_to_the_axis_of_the_anterior_process,
+		110 Shape_of_compound_posterior_process /  cylindrical_or_slightly_conical flattened forms_a_distinct_plug,
+		111 Exposure_of_compound_posterior_process_on_lateral_skull_wall /  external_surface_of_posterior_process_is_small_or_not_clearly_defined process_terminates_in_a_distinct_distal_surface_forming_part_of_the_lateral_wall_of_the_skull,
+		112 Anterior_border_of_bulla_in_dorsal_or_ventral_view /  squared pointed_or_rounded,
+		113 Position_of_dorsal_origin_of_lateral_furrow /  located_along_the_posterior_two_thirds_of_the_anteroposterior_length_of_the_bulla located_at_roughly_one_third_of_the_anteroposterior_length_of_the_bulla,
+		114 Orietation_of_lateral_furrow /  oriented_ventrally distinctly_pointing_anteroventrally,
+		115 Orientation_of_ventral_keel__or_main_ridge_of_lateral_lobe_of_bulla /  faces_ventrally faces_ventromedially_or_medially,
+		116 Outline_of_lateral_lobe_or_main_ridge_of_bulla /  concave straight_or_convex,
+		117 Involucral_ridge_in_dorsal_view /  involucral_ridge_coincident_with_medial_edge_irrespective_of_the_degree_of_rotation_of_the_bulla involucral_ridge_laterally_retracted,
+		118 Dorsomedial_corner_of_sigmoid_process_in_anterior_view /  separated_from_the_pedicle_of_the_malleus_ confluent_with_the_pedicle_of_the_malleus,
+		119 Ventral_margin_of_sigmoid_process_in_lateral_view /  present_as_a_distinct_margin absent_with_the_lateral_margin_of_the_sigmoid_process_turning_smoothly_into_a_sulcus_on_the_lateral_side_of_the_bulla,
+		120 Shape_of_conical_process_in_lateral_view /  well_developed_and_dorsally_convex reduced_to_a_low_ridge_or_absent,
+		121 Elliptical_foramen /  present absent,
+		122 Relative_position_of_lateral_and_medial_lobes_or_lateral_lobe_and_involucral_ridge /  equally_project_posteriorly lateral_lobe_projects_farther_posteriorly,
+		123 Medial_lobe_of_tympanic_bulla /  present_as_distinct_lobe_or_prominence_on_the_involucrum absent_or_indistinct,
+		124 Crest_connecting_medial_and_lateral_lobes_of_tympanic_bulla_in_posterior_view /  present absent,
+		125 Orientation_of_crest_connecting_medial_and_lateral_lobes_of_tympanic_bulla_in_posterior_view /  roughly_parallel_to_the_plane_connecting_the_ventral_surfaces_of_the_medial_and_lateral_lobes oriented_at_an_angle_to_the_plane_connecting_the_ventral_surfaces_of_the_medial_and_lateral_lobes,
+		126 Lateral_lobe_of_bulla_in_posterior_view /  distinctly_narrower_than_medial_lobe medial_and_lateral_lobes_are_subequal_in_size_or_medial_lobe_is_smaller,
+		127 Anteriormost_point_of_involucral_ridge /  extends_anteriorly_to_form_the_anteriormost_point_of_the_bulla in_line_with_or_posterior_to_the_anterior_border_of_the_bulla,
+		128 Dorsolateral_surface_of_involucrum /  divided_into_a_low_anterior_and_an_elevated_posterior_part_separated_by_a_clearly_defined_step forms_a_continuous_rim,
+		129 Transverse_creases_on_dorsal_surface_of_involucrum /  poorly_developed_or_absent well_defined_and_deep,
+		130 Development_of_tympanic_sulcus /  developed_as_a_faint_line forms_a_distinct_crest_or_sulcus,
+		131 Outline_and_position_of_tympanic_sulcus /  forms_a_semicircular_and_ventrally_curved_line_well_separated_from_the_intersection_of_the_conical_and_sigmoid_processes forms_a_roughly_horizontal_line_at_or_close_to_the_level_of_the_intersection_of_the_conical_and_sigmoid_processes,
+		132 Anteroventral_side_of_tympanic_bulla /  transversely_convex distinctly_flattened_or_slightly_concave,
+		133 Transversely_concave_depression_anteromedial_to_Eustachian_outlet /  present absent_with_the_surface_medial_to_the_Eustachian_outlet_being_flat_or_convex absent_with_the_medial_border_of_the_Eustachian_outlet_reduced_to_a_thin_wall,
+		134 Anterolateral_ridge_or_shelf /  absent present,
+		135 Medial_surface_of_central_part_of_mandible /  similar_to_lateral_surface distinctly_flattened_relative_to_lateral_surface,
+		136 Mandibular_symphysis /  sutured_or_fused not_sutured,
+		137 Outline_of_posterior_part_of_mandible_in_dorsal_or_ventral_view /  follows_a_straight_line_or_simple_curve sigmoidal_owing_to_a_laterally_reflexed_neck_and_condyle,
+		138 Horizontal_ramus_of_mandible_in_dorsal_or_ventral_view /  bowed_medially straight bowed_laterally,
+		139 Anterior_extremity_of_mandible /  vertical_or_slightly_twisted_with_the_ventral_edge_shifted_medially apex_of_mandible_shifted_to_an_almost_horizontal_position,
+		140 Horizontal_ramus_of_mandible_in_lateral_view /  height_of_ramus_remains_roughly_constant_throughout arched_dorsally increases_in_height_anteroposteriorly dorsoventrally_constricted_near_the_centre,
+		141 Mandibular_foramen /  dorsoventral_height_approximately_that_of_the_horizontal_ramus_thus_forming_a_mandibular_fossa dorsoventral_height_about_half_that_of_the_horizontal_ramus_or_less,
+		142 Anterior_border_of_mandibular_foramen /  round triangular sigmoidal_with_the_dorsal_border_of_the_foramen_developed_into_a_roof,
+		143 Relative_position_of_anterior_border_of_mandibular_foramen /  in_line_with_coronoid_process posterior_to_coronoid_process,
+		144 Subcondylar_furrow /  absent present_medially_only deep_groove_on_the_posterior_surface_separating_the_condyle_and_angular_process_medially_and_laterally,
+		145 Coronoid_process_in_lateral_or_medial_view /  forms_a_broad_plate_with_a_convex_anterior_border sharply_triangular_and_about_as_high_as_long bluntly_triangular_and_much_longer_than_high shaped_like_a_finger_and_pointing_posteriorly,
+		146 Postcoronoid_elevation /  absent present,
+		147 Angular_process /  located_below_the_condyle_or_slightly_anterior projects_posteriorly_to_a_level_posterior_to_the_condyle,
+		148 Orientation_of_articular_surface_of_mandibular_condyle /  posterior posterodorsal dorsal_with_the_condyle_being_confluent_with_a_dorsoventrally_expanded_angular_process dorsal_with_the_condyle_being_larger_than_and_clearly_offset_from_the_angular_process,
+		149 Sulcus_for_attachment_of_mylohyoid_muscle_on_ventromedial_surface_of_mandible /  absent present,
+		150 Height_of_transverse_process_of_atlas_at_base /  more_than_half_the_height_of_the_articular_surface equal_to_half_the_height_of_the_articular_surface_or_less,
+		151 Foramen_transversarium_in_axis /  absent present,
+		152 Cervical_vertebrae /  separate_or_partially_separate fused,
+		153 Lower_transverse_process_on_seventh_cervical_vertebra /  present absent,
+		154 Orientation_of_transverse_processes_of_lumbar_vertebrae /  oriented_ventrolaterally oriented_laterally_and_horizontally,
+		155 Shape_of_transverse_processes_of_lumbar_vertebrae /  slender_and_distinctly_wider_transversely_than_long_anteroposteriorly shaped_like_a_broad_plate_and_roughly_as_wide_transversely_as_long_anteroposteriorly wider_than_long_with_a_distinct_projection_on_their_anterior_borders,
+		156 Sternum /  composed_of_several_bones composed_of_one_bone,
+		157 Proportions_of_scapula /  anteroposterior_length_approximately_equals_or_is_less_than_its_maximum_dorsoventral_height maximum_anteroposterior_length_clearly_exceeds_its_maximum_dorsoventral_height,
+		158 Coracoid_process_of_scapula /  present absent,
+		159 Acromion_process_of_scapula /  present absent,
+		160 Supraspinous_fossa_of_scapula /  present absent_or_nearly_absent_with_acromion_process_located_near_anterior_edge_of_scapula,
+		161 Deltoid_crest_of_humerus /  present_as_a_distinct_crest absent_or_reduced_to_a_variably_developed_rugosity,
+		162 Humerus /  longer_than_or_roughly_same_length_as_radius_and_ulna shorter_than_radius_and_ulna,
+		163 Orientation_of_humeral_head_in_lateral_or_medial_view /  angled vertical,
+		164 Distal_portion_of_humerus_in_lateral_view /  distal_epiphysis_narrower_than_shaft distal_epiphysis_flared_compared_to_shaft,
+		165 Olecranon_process /  present_as_a_distinct_process absent,
+		166 Manus /  pentadactyl tetradactyl,
+		167 Antorbital_process /  absent present,
+		168 Palatal_window_exposing_vomer /  absent present,
+		169 Orbitotemporal_crest /  absent present,
+		170 Sagittal_crest_on_supraoccipital_shield /  absent present,
+		171 Dorsal_and_medial_elongation_of_pars_cochlearis /  absent present,
+		172 Promontorial_groove_on_medial_side_of_pars_cochlearis /  absent present,
+		173 Caudal_tympanic_process /  absent present,
+		174 Subcondylar_process /  absent present ; 
+	MATRIX
+	Zygorhiza_kochii                 00000000-00000000-000000000000-000000000000-0000000000000000000000000-000?00??00000-000-0000000?000000000000000000000?00000000000??0000000?0000-000000000000000000?00000000110
+	Physeter_catodon                 1211---1200110200302-000102000-020000---210-1201101002010101?220--100-0000-?1100000-200-1000?1-10-10011000020001000000010001-1100??120000000010-00000000-100000100010011000000
+	Aetiocetus_cotylalveus           011110101001011001100000000001000010000100100200001000110010110000000101000?20110??????????????????????????0?0000000??0??00000?????0?0????????????????00?120??????????1111????
+	Balaena_mysticetus               11000001110101111211110012-11110--00-100-1101211-21002-11110022121100-0111??1110001-111-01112100011011-00111000011111011101---111101101102101011210310111101000011010011100111
+	Balaenella_brachyrhynus          1110000?11010111?211111012-1?110--0?-??0-1101211-21102???100022101000-11?11???100??-111-??1121000?????????101000??111???111---110??110????????????????????????????????111001??
+	Balaenoptera_bonaerensis         1110010111111111131111112110110100010001001212101110210100000211130111001001211111112111001001-11010101101100101001111101001-10100001111120012121100011011?1100111110111111011
+	Balaenula_astensis               ???00001110101?????1111012-1?1??--00-100-1101211-210?2011100022121000-?01?11??100????10??0?1??????????0???11101001111??1111---111101101??2?01??1??031?????????????????1?10???1
+	Caperea_marginata                11100101110111111311111031-01100--01-211-1101210-20121-100111041211113011221111110123110?012?0000-(0 1)01011001(0 1)021010110011101---00111(0 1)101102111(1 2)1121011111-111100111110111111101
+	Cetotherium_rathkii              ????0???1100111????011001120?11011011?0-100212000010?10100100131011?1101100100101??-?11-?012010000????1???1100100011??10??0??1?????0?0????????????????????????????????1?11011?
+	Diorocetus_hiatus                1111010111010111131011001100?10000000??1001?12100010?10100000131120011011?0100111??-011-0010010?0011101001101001001100101000110000?000110200000111110?10110?1001????0?11110111
+	Eomysticetus_whitmorei           111?1?0????10???????11?00?000???1012000?101001000010?11010000110000011????00??110??-001-0000010?000000010000000000000000000001001??000110200000?00?10?00000?10??00100???11011?
+	Eschrichtius_robustus            1110010112010111131011102100110000100011111112100010210110(0 1)0013100011-011001001111112110001001-013111110001(0 1)000100111010111---1(0 1)1100101112111212210211100101000111010111101011
+	Eubalaena_spp.                   1100000111010111121111(0 1)012-11110--01-10(0 1)-1101211-210020111(0 1)0022121000-1111111110101-111-01112100010010-00010100001111010101---111101001102101011210310111101010110011011100111
+	Herpetocetus_bramblei            ????????1????1????1??10??1?0?1?0?????????1??12????101101000100412110???01?01??111??-311-1012200?0-1010111112021???????????????????????11?200????????0?????????????????1???010?
+	Herpetocetus_transatlanticus     ????????????1???????????1???????21??1???21??1200101?110100?100412110???01?011?111??-311-011220000-001011111202101011001110001100111010????????????????????????????????????010?
+	Megaptera_miocaena               ??1?0???11?1011???1?110021-0?100--01-00?-0121210-210310110000231130112?01?01??111??22110001011-?001111100011000?00110???1001-1100??010????????????????????????????????1?11101?
+	Megaptera_novaeangliae           1111010111111111131011112120110100010210001212101110320100110211130111011001201111113111001001-11011101100100101001111101001-1100100111112001212110011101101111111011111111011
+	Metopocetus_durinasus            ????0??????00???????????????????2100100120???2?01010?????01?0??1??011?????01????1??-011-1010010?020010111112021???????????????????????????????????????????????????????????011?
+	Morenocetus_parvus               ???????????10?????????1011-????0-00?-??1-110121102100????100122101001-?01?11??100??-110-?011210001????000010000?????????????????????????????????????????????????????????10011?
+	Nannocetus_eremus                ????????????1?????????001????????1??1????11012????1??10100?100412110???01?011?110??-?1?-00?2?0??0?0010111112021010110?11100??1??0??0?0??????????????????????????????????1?0???
+	Pelocetus_calvertensis           12110101110101?112101100110011000001000?00121210000021010000013112001-0110010011111-011-0012210000????????100??1001110101101-1000100101?02?00?1211000100110?10101101??11100111
+	Piscobalaena_nana                1111010111001111131211001120?1002100121-20101200101001010011003100101301100101111?1-011-0010010002001111101(1 2)02101011001010001100111010110200121121110110111?100111110?11110111
+	Plesiobalaenoptera_quarantellii  ?1110101110?11??????110?2??0?1?1?0????????????1?1???????????????????1-?????????????1210000101110101110010111010100111110101---110??0111112001212110001?0?101??????????1??01111
+
+;
+
+END;
+BEGIN NOTES;
+
+	TEXT   CHARACTER = 1 TEXT = 'Fitzgerald (2006) 2; Fitzgerald (2010) 2; Geisler and Sanders (2003) 3; Kimura and Ozawa (2002) 9; Kimura and Hasegawa (2010) 26; Marx (2011) 1;^n^n';
+
+	TEXT   CHARACTER = 2 TEXT = 'Bisconti (2008) 107; Marx (2011) 5;';
+
+	TEXT   CHARACTER = 3 TEXT = 'Churchill et al. (2011) 2; Demere and Berta (2008) 1; Demere et al. (2008) 2; Kimura and Hasegawa (2010) 4;^n';
+
+	TEXT   CHARACTER = 4 TEXT = 'Bisconti (2008) 106; Fitzgerald (2006) 8; Fitzgerald (2010) 6; Geisler and Sanders (2003) 8; Kimura and Hasegawa (2010) 9; Marx (2011) 7;^n';
+	TEXT   TAXON = 5 CHARACTER = 4 TEXT = 'Although the anteriormost part of the premaxilla has been lost, the preserved portions of the premaxillae and maxillae suggest a morphology similar to that of extant balaenids.';
+
+	TEXT   CHARACTER = 5 TEXT = 'Bouetel and Muizon (2006) 2; Kimura and Hasegawa (2010) 7; Marx (2011) 8; Steeman (2007) 14;^n';
+	TEXT   TAXON = 16 CHARACTER = 5 TEXT = 'Although not preserved, the shape of this portion of the premaxilla can be inferred based on the sutural and contact surfaces visible on the maxilla.';
+
+	TEXT   CHARACTER = 7 TEXT = 'Bisconti (2008) 128; Fitzgerald (2006) 100; Fitzgerald (2010) 49; Geisler and Sanders (2003) 110; Kimura and Ozawa (2002) 17; Kimura and Hasegawa (2010) 8; Marx (2011) 9;^n';
+
+	TEXT   CHARACTER = 8 TEXT = 'Fitzgerald (2006) 5,10; Fitzgerald (2010) 7; Geisler and Sanders (2003) 5,9; Kimura and Hasegawa (2010) 6;^n';
+
+	TEXT   CHARACTER = 9 TEXT = 'Bisconti (2008) 7; Bouetel and Muizon (2006) 9; Demere and Berta (2008) 39; Fitzgerald (2006) 14; Fitzgerald (2010) 10; Geisler and Sanders (2003) 13; Kimura and Hasegawa (2010) 16; Marx (2010) 11;^n';
+
+	TEXT   CHARACTER = 10 TEXT = 'Marx (2011) 12;^n';
+
+	TEXT   CHARACTER = 11 TEXT = 'Churchill et al. (2011) 15; Demere et al. (2008) 17; Kimura and Hasegawa (2010) 23; Marx (2011) 13;^n';
+
+	TEXT   CHARACTER = 12 TEXT = 'Demere and Berta (2008) 46; Demere et al. (2008) 13; Kimura and Ozawa (2002) 15; Marx (2011) 14;^n';
+
+	TEXT   CHARACTER = 13 TEXT = 'Bouetel and Muizon (2006) 12; Churchill et al. (2011) 8; Demere et al. (2008) 18; Fitzgerald (2006) 15; Fitzgerald (2010) 43; Geisler and Sanders (2003) 14; Kimura and Hasegawa (2010) 20; Marx (2011) 15; Steeman (2007) 6;^n';
+	TEXT   TAXON = 8 CHARACTER = 13 TEXT = 'Though virtually lost in adults owing to the forwards projection of the supraoccipital, the ascending process of the maxilla is distinctly developed in juveniles, based on which the shape of the process was coded. ';
+	TEXT   TAXON = 20 CHARACTER = 13 TEXT = The_outline_of_the_ascending_process_of_the_maxilla_is_indicated_by_a_long_and_narrow_sutural_surface_on_the_frontal.;
+
+	TEXT   CHARACTER = 14 TEXT = 'Bisconti (2008) 80; Bouetel and Muizon (2006) 8; Fitzgerald (2006) 16; Fitzgerald (2010) 11; Geisler and Sanders (2003) 15; Kimura and Ozawa (2002) 11; Kimura and Hasegawa (2010) 15; Marx (2010) 16; Steeman (2007) 16;^n';
+
+	TEXT   CHARACTER = 16 TEXT = 'Bisconti (2008) 25; Bouetel and Muizon (2006) 5; Churchill et al. (2011) 5; Demere and Berta (2008) 41; Demere et al. (2008) 36; Fitzgerald (2006) 17; Fitzgerald (2010) 12; Geisler and Sanders (2003) 16; Kimura and Hasegawa (2010) 3; Marx (2011) 18; Steeman (2007) 23;^n';
+
+	TEXT   CHARACTER = 17 TEXT = 'Fitzgerald (2010) 13;^n';
+
+	TEXT   CHARACTER = 18 TEXT = 'Demere and Berta (2008) 13; Demere et al. (2008) 96; Fitzgerald (2010) 15; Marx (2011) 19;^n';
+
+	TEXT   CHARACTER = 19 TEXT = 'Bouetel and Muizon (2006) 4; Demere and Berta (2008) 16; Demere et al. (2008) 38; Fitzgerald (2006) 18; Fitzgerald (2010) 14; Geisler and Sanders (2003) 17; Kimura and Hasegawa (2010) 11; Marx (2010) 20; Steeman (2007) 2;';
+
+	TEXT   CHARACTER = 20 TEXT = 'Churchill et al. (2011) 29; Demere et al. (2008) 40; Fitzgerald (2006) 21; Geisler and Sanders (2003) 20; Kimura and Hasegawa (2010) 32; Marx (2011) 21;^n';
+	TEXT   TAXON = 10 CHARACTER = 20 TEXT = 'The anterior margin of the palatine is damaged in this specimen and the cosing was based on Kellogg (1968:pl. 50, fig. 2).';
+
+	TEXT   CHARACTER = 21 TEXT = 'Bouetel and Muizon (2006) 2; Fitzgerald (2010) 47; Kimura and Hasegawa (2010) 2; Marx (2011) 23; Steeman (2007) 14;^n';
+
+	TEXT   CHARACTER = 22 TEXT = 'Bisconti (2008) 15; Churchill et al. (2011) 83; Demere and Berta (2008) 42; Demere et al. (2008) 61; Fitzgerald (2006) 38; Fitzgerald (2010) 25; Geisler and Sanders (2003) 37; Kimura and Hasegawa (2010) 28; Marx (2011) 25; Steeman (2007) 1;^n';
+
+	TEXT   CHARACTER = 23 TEXT = 'Bisconti (2008) 110; Bouetel and Muizon (2006) 25; Churchill et al. (2011) 24; Fitzgerald (2006) 50; Fitzgerald (2010) 33; Geisler and Sanders (2003) 49; Kimura and Ozawa (2002) 13; Kimura and Hasegawa (2010) 24, 47; Marx (2011) 28, 42; Steeman (207) 9;';
+	TEXT   TAXON = 23 CHARACTER = 23 TEXT = 'Although most of the frontal missing, the shape of the lateral process of the maxilla suggest a transverse orientation for the anterior border of the supraorbital process.';
+
+	TEXT   CHARACTER = 24 TEXT = 'Bouetel and Muizon (2006) 29; Fitzgerald (2006) 61; Fitzgerald (2010) 35; Geisler and Sanders (2003) 60; Kimura and Hasegawa (2010) 50, 57; Marx (2011) 30;^n';
+
+	TEXT   CHARACTER = 25 TEXT = 'Bisconti (2008) 24; Bouetel and Muizon (2006) 28; Churchill et al. (2011) 26; Demere and Berta (2008) 31; Demere et al. (2008) 23; Dooley et al. (2004) 29; Fitzgerald (2006) 47; Geisler and Sanders (2003) 46; Kimura and Ozawa (2002) 3; Kimura and Hasegawa (2010) 49; Marx (2011) 31; Steeman (2007) 11;^n';
+
+	TEXT   CHARACTER = 26 TEXT = 'Bouetel and Muizon (2006) 27; Demere and Berta (2008) 2; Demere et al. (2008) 22; Kimura and Ozawa (2002) 6, 7; Kimura and Hasegawa (2010) 48; Marx (2011) 34; Steeman (2007) 10;^n';
+
+	TEXT   CHARACTER = 27 TEXT = 'NA FOR TAXA WITH A SUPRAOCCIPITAL PROJECTED TO THE LEVEL OF THE ANTERIOR HALF OF THE SUPRAORBITAL PROCESS OR FURTHER^n^nBisconti (2008) 112; Bouetel and Muizon (2006) 21, 23; Demere et al. (2008) 6; Fitzgerald (2006) 83; Fitzgerald (2010) 46; Geisler and Sanders (2003) 80; Marx (2011) 36; Steeman (2007) 4;^n';
+
+	TEXT   CHARACTER = 28 TEXT = 'Bouetel and Muizon (2006) 33; Churchill et al. (2011) 13, 25; Fitzgerald (2006) 48; Fitzgerald (2010) 32; Geisler and Sanders (2003) 47; Kimura and Hasegawa (2010) 53; Marx (2011) 37;';
+	TEXT   TAXON = 8 CHARACTER = 28 TEXT = 'Note that, in life position, the rostrum would be elevated, and the orbit therefore located below the level of the edge of the rostrum. However, this arrangement differs from the condition seen in balaenids both by virtue of the different kind of rostral curvature (upwards and horizontal and opposed to a full arc) and in terms of the lesser degree of downwards defelection of the supraorbital process in Caperea. In addition, scoring the skull in life position would also deviate from the standard practice used throughout the matrix to orient the skull by resting it on its ventralmost anterior (i.e. the tip of the snout) and posterior (i.e. the postglenoid processes) points. Caperea was therfore here scored as having the orbits located roughly in line with the level of the edge of the rostrum.';
+	TEXT   TAXON = 14 CHARACTER = 28 TEXT = 'The preserved base of the rostrum in relation to the surface for articulation with the supraorbital process, as well as the preserved portion of the supraorbital itself suggest that the orbit was locted at roughly the same dorsoventral level as the lateral edge of the rostrum.';
+
+	TEXT   CHARACTER = 29 TEXT = 'Demere and Berta (2008) 36;^n';
+
+	TEXT   CHARACTER = 30 TEXT = 'Bisconti (2008) 6, 141; Bouetel and Muizon (2006) 7; Churchill et al. (2011) 12; Demere and Berta (2008) 29; Demere et al. (2008) 16; Fitzgerald (2006) 60; Fitzgerald (2010) 34; Geisler and Sanders (2003) 59; Kimura and Hasegawa (2010) 14; Marx (2010) 39;^n';
+
+	TEXT   CHARACTER = 31 TEXT = 'Churchill et al. (2011) 14; Demere et al. (2008) 37; Marx (2011) 40;^n';
+
+	TEXT   CHARACTER = 32 TEXT = 'Marx (2011) 4;^n';
+	TEXT   TAXON = 14 CHARACTER = 32 TEXT = The_position_of_the_antorbital_notch_in_relation_to_the_preserved_surface_for_articulation_with_the_supraorbital_process_of_the_frontal_suggests_that_the_supraorbital_process_did_not_extend_anteriorly_to_a_point_medial_to_the_antorbital_notch.;
+
+	TEXT   CHARACTER = 33 TEXT = 'NA FOR TAXA WITH A SUPRAOCCIPITAL PROJECTED TO THE LEVEL OF THE ANTERIOR HALF OF THE SUPRAORBITAL PROCESS OR FURTHER^n^nBisconti (2008) 73; Demere and Berta (2008) 7; Demere et al. (2008) 15; Fitzgerald (2006) 79; Geisler and Sanders (2003) 77; Kimura and Hasegawa (2010) 18; Marx (2011) 46;';
+	TEXT   TAXON = 11 CHARACTER = 33 TEXT = 'Although the ascending process of the maxilla has not been preserved, the preserved portions of the frontals indicate that it did not extend beyond the midline of the supraorbital processes.';
+	TEXT   TAXON = 15 CHARACTER = 33 TEXT = 'Although the posteriormost edge of the ascending process of the maxilla has not been preserved, the sutural surface preseved on the frontals, as well as the preserved portions of the posterior borders of the supraorbital processes indicate that the ascending processes extended posteriorly beying the postorbital processes.';
+	TEXT   TAXON = 18 CHARACTER = 33 TEXT = 'Although the postorbital processes have not been preserved, the position of the posteriomost ends of the ascending processes of the maxilla in relation to the preserved base of the right zygomatic process indicate that the ascending processes extended posteriorly beyond the postorbital processes.';
+
+	TEXT   CHARACTER = 34 TEXT = 'NA FOR TAXA WITH A SUPRAOCCIPITAL PROJECTED TO THE LEVEL OF THE ANTERIOR HALF OF THE SUPRAORBITAL PROCESS OR FURTHER^n^nBouetel and Muizon (2006) 13; Kimura and Hasegawa (2010) 22; Marx (2011) 48;^n';
+
+	TEXT   CHARACTER = 35 TEXT = 'Bouetel and Muizon (2006) 14; Demere and Berta (2008) 37; Fitzgerald (2006) 80; Fitzgerald (2010) 44; Kimura and Hasegawa (2010) 19;^n';
+	TEXT   TAXON = 15 CHARACTER = 35 TEXT = 'Although the premaxillae are not preserved, the sutural contact surfaces on the frontals suggest that they did not extend beyond the posterior ends of the ascending processes of the maxillae.';
+	TEXT   TAXON = 20 CHARACTER = 35 TEXT = 'Although the premaxillae are not preserved, the sutural contact surfaces on the frontals suggest that they did not extend beyond the posterior ends of the ascending processes of the maxillae.';
+
+	TEXT   CHARACTER = 36 TEXT = 'Churchill et al. (2011) 17; Demere et al. (2008) 7; Kimura and Hasegawa (2010) 40; Marx (2011) 54;^n';
+	TEXT   TAXON = 10 CHARACTER = 36 TEXT = 'Based on reconstructions in Kellogg (1968).';
+
+	TEXT   CHARACTER = 37 TEXT = 'NA FOR TAXA WITH A SUPRAOCCIPITAL PROJECTED TO THE LEVEL OF THE ANTERIOR HALF OF THE SUPRAORBITAL PROCESS OR FURTHER^n^nBouetel and Muizon (2006) 19; Fitzgerald (2010) 52; Kimura and Hasegawa (2010) 38; Steeman (2007) 13;^n';
+	TEXT   TAXON = 5 CHARACTER = 37 TEXT = 'Although missing, the shape of the nasals can be inferred from the sutural contact surface on the frontals and the adjacent maxillae and premaxillae.';
+	TEXT   TAXON = 15 CHARACTER = 37 TEXT = 'Although missing, the shape of the nasals can be inferred from the sutural contact surfaces of the adjacent maxillae and premaxillae.';
+	TEXT   TAXON = 20 CHARACTER = 37 TEXT = 'Although missing, the shape of the nasals can be inferred from the sutural contact surfaces of the adjacent maxillae and premaxillae.';
+
+	TEXT   CHARACTER = 38 TEXT = 'Bisconti (2008) 100; Churchill et al. (2011) 20; Demere et al. (2008) 9; Fitzgerald (2006) 106; Fitzgerald (2010) 51; Geisler and Sanders (2003) 116; Kimura and Hasegawa (2010) 42;^n';
+
+	TEXT   CHARACTER = 39 TEXT = 'Churchill et al. (2011) 22	; Demere et al. (2008) 11; Kimura and Hasegawa (2010) 43;';
+
+	TEXT   CHARACTER = 41 TEXT = 'NA FOR TAXA WITH A SUPRAOCCIPITAL PROJECTED TO THE LEVEL OF THE ANTERIOR HALF OF THE SUPRAORBITAL PROCESS OR FURTHER^n^nBisconti (2008) 111; Demere and Berta (2008) 28; Demere et al. (2008) 12; Fitzgerald (2006) 112; Fitzgerald (2010) 54; Geisler and Sanders (2003) 122; Kimura and Ozawa (2002) 26; Kimura and Hasegawa (2010) 39; Marx (2011) 55;^n';
+	TEXT   TAXON = 15 CHARACTER = 41 TEXT = 'Although the postorbital processes and nasals are missing, the sutural contact surfaces on the frontals, as well as the preserved portions of the supraorbital processes and temporal fossae suggest that the nasals extended posteriorly to a point behind the postorbital processes.';
+	TEXT   TAXON = 18 CHARACTER = 41 TEXT = 'Although the postorbital processes missing, the preserved portions of the supraorbital processes and temporal fossae suggest that the nasals extended posteriorly to a point behind the postorbital processes.';
+
+	TEXT   CHARACTER = 42 TEXT = 'Bisconti (2008) 76; Kimura and Hasegawa (2010) 69; Steeman (2007) 19;^n';
+
+	TEXT   CHARACTER = 43 TEXT = 'Bisconti (2008) 3, 19, 90; Bouetel and Muizon (2006) 24; Churchill et al. (2011) 23; Demere and Berta (2008) 43; Demere et al. (2008) 79; Fitzgerald (2006) 121; Fitzgerald (2010) 58; Geisler and Sanders (2003) 131; Kimura and Hasegawa (2010) 46; Marx (2010) 56;^n';
+
+	TEXT   CHARACTER = 44 TEXT = 'Bisconti (2008) 131, 151; Marx (2010) 57;';
+	TEXT   TAXON = 14 CHARACTER = 44 TEXT = 'Although the medial part of supraorbital process is missing, the absence of a dorsally situated orbitotemporal crest on the preserved part of the supraorbital process suggests that the area enclosed by the crest was restricted to the medial part of the dorsal surface of the supraobital.';
+
+	TEXT   CHARACTER = 45 TEXT = 'Bouetel and Muizon (2006) 32; Kimura and Hasegawa (2010) 77; Marx (2011) 58; Steeman (2007) 12;^n';
+	TEXT   TAXON = 15 CHARACTER = 45 TEXT = 'Although the anterior part of the temporal fossa is mostly missing, the outline of the posterior half and the preserved portions of the frontals suggest that the temporal fossa was transversely wider than long.';
+
+	TEXT   CHARACTER = 46 TEXT = 'Bisconti (2008) 126; Demere and Berta (2008) 8; Kimura and Hasegawa (2010) 60; Marx (2011) 59; Steeman (2007) 8;^n';
+	TEXT   TAXON = 14 CHARACTER = 46 TEXT = 'Although not preserved, the outline of the temporal fossa in relation to the width of the skull as judged by the position of the left occipital condyle suggests that the intertemporal constriction was transversely wider than long.';
+
+	TEXT   CHARACTER = 47 TEXT = 'Bisconti (2008) 22; Demere and Berta (2008) 4; Demere et al. (2008) 95; Marx (2011) 61;^n';
+
+	TEXT   CHARACTER = 48 TEXT = 'Bisconti (2008) 57;^n';
+	TEXT   TAXON = 15 CHARACTER = 48 TEXT = 'Although lost for the most part, the preserved anterior portion of the parietal in conjunction with the contact surfaces for the latter on the posterior portion of the skull suggest a parietal anteroposteriorly longer than high.';
+
+	TEXT   CHARACTER = 49 TEXT = 'NA FOR TAXA WITH A SUPRAOCCIPITAL PROJECTED TO THE LEVEL OF THE ANTERIOR HALF OF THE SUPRAORBITAL PROCESS OR FURTHER^n^nBisconti (2008) 163; Fitzgerald (2006) 123; Geisler and Sanders (2003) 133; Kimura and Ozawa (2002) 28; Kimura and Hasegawa (2010) 21, 56; Marx (2011) 63;^n';
+
+	TEXT   CHARACTER = 50 TEXT = 'Bisconti (2008) 78; Bouetel and Muizon (2006) 39; Churchill et al. (2011) 49; Demere et al. (2008) 27; Fitzgerald (2006) 129; Fitzgerald (2010) 62; Geisler and Sanders (2003) 139; Kimura and Ozawa (2002) 2; Kimura and Hasegawa (2010) 78; Marx (2011) 64; Steeman (2007) 5;^n';
+	TEXT   TAXON = 15 CHARACTER = 50 TEXT = 'Although the skull has broken apart, the relation of the preserved portion of the supraoccipital to the bases of the supraorbital processes (which are here used as a proxy to estimate the position of the postorbital processes and hence the tips of the zygomatic processes) suggests that the supraoccipital did not extend anteriorly beyond the tips of the zygomatic processes of the squamosal.';
+	TEXT   TAXON = 18 CHARACTER = 50 TEXT = 'Although the zygomatic process is missing, the position of the anterior tip of the supraoccipital in relation to the preserved part of the squamosal and the temporal fossa make it extremely unlikley that that supraoccipital extended anteriorly beyond the tip of the zygomatic process.';
+
+	TEXT   CHARACTER = 51 TEXT = 'Bisconti (2008) 83; Marx (2011) 65;^n';
+	TEXT   TAXON = 18 CHARACTER = 51 TEXT = 'Although now lost, the occipital condyles were preserved when this specimen was first described, and their position was indicated by Cope (1896:pl. 11/3) and Kellogg (1968:fig. 51). The present character was therfore scored based on the aforementioned illustrations.';
+
+	TEXT   CHARACTER = 53 TEXT = 'Bisconti (2008) 113, 114; Churchill et al. (2011) 32; Marx (2011) 66;';
+	TEXT   TAXON = 1 CHARACTER = 53 TEXT = 'Scoring based on Kellogg (1936: fig. 31c).';
+	TEXT   TAXON = 18 CHARACTER = 53 TEXT = 'Owing to erosion of the boe surface, it is unclear whether the alisphenoid originally extended to the orbital fissure. Based on the relatively small size of the exposed surface of the alisphenoid, the latter was here coded as not contributing to the orbital fissure, following Kellogg (1968:fig.51). However, this coding must be regarded as tentative.';
+
+	TEXT   CHARACTER = 54 TEXT = 'Bisconti (2008) 91; Bouetel and Muizon (2006) 42; Churchill et al. (2011) 45; Demere et al. (2008) 30; Fitzgerald (2006) 132; Fitzgerald (2010) 63; Geisler and Sanders (2003) 142; Kimura and Hasegawa (2010) 64; Marx (2011) 67;';
+	TEXT   TAXON = 5 CHARACTER = 54 TEXT = 'Although broken, the position of the postorbital process suggests the zygomatic process of the squamosal to have been directed anterolaterally.';
+
+	TEXT   CHARACTER = 55 TEXT = 'Demere and Berta (2008) 10; Fitzgerald (2010) 64; Marx (2011) 68;^n';
+
+	TEXT   CHARACTER = 56 TEXT = 'Bisconti (2008) 93; Bouetel and Muizon (2006) 31; Churchill et al. (2011) 46; Demere and Berta (2008) 11; Demere et al. (2008) 21; Fitzgerald (2010) 65; Kimura and Ozawa (2002) 21; Kimura and Hasegawa (2010) 62; Marx (2011) 69;^n';
+	TEXT   TAXON = 15 CHARACTER = 56 TEXT = 'Although the skull is fractured, the outline of the basal part of the skull and the preserved portions of the supraoccipital and frontals suggest that the zygomatic processes likley contacted or at least approximated the postorbital process of the frontal. This is further corroborated by a possible facet for contact with the postorbital process on the tip of the zygomatic process, as well as comparisons with morphologically similar taxa (e.g. Herpetocetus bramblei, Piscobalaena nana).';
+	TEXT   TAXON = 20 CHARACTER = 56 TEXT = 'Although the distal part of the supraorbital has broken away, the outline of the posterior border of the supraorbital process in conjuntion with the position of the tip of the zygomatic process of the squamosal suggests that the tip of the latter approximated or contacted the postorbital process.';
+
+	TEXT   CHARACTER = 57 TEXT = 'Bisconti (2008) 18, 158; Bouetel and Muizon (2006) 43; Kimura and Hasegawa (2010) 65; Marx (2011) 70;^n';
+
+	TEXT   CHARACTER = 58 TEXT = 'Bisconti (2008) 35; Churchill et al. (2011) 42; Demere et al. (2008) 33; Kimura and Ozawa (2002) 19; Kimura and Hasegawa (2010) 71; Marx (2011) 71;^n';
+
+	TEXT   CHARACTER = 59 TEXT = 'Bisconti (2008) 143; Bouetel and Muizon (2006) 37; Churchill et al. (2011) 38';
+
+	TEXT   CHARACTER = 60 TEXT = 'Churchill et al. (2011) 40; Fitzgerald (2006) 139; Geisler and Sanders (2003) 149;^n';
+
+	TEXT   CHARACTER = 61 TEXT = 'Demere et al. (2008) 34; Fitzgerald (2006) 135; Fitzgerald (2010) 66; Geisler and Sanders (2003) 145; Kimura and Hasegawa (2010) 73; Marx (2011) 72;^n';
+
+	TEXT   TAXON = 6 CHARACTER = 62 TEXT = Note_the_partial_concealment_of_the_temporal_fossa_by_the_overhanging_supraoccipital_and_the_supraorbital_process_overriding_the_anterior_part_of_the_zygomatic_process.;
+	TEXT   TAXON = 18 CHARACTER = 62 TEXT = 'Although the exact width of the temporal fossa cannot be determined owing to the loss of the zygomatic process of the squamosal, the size of the squamosal fossa in relation to the preserved parts of the temporal fossa and comparisons with morphologically similar taxa (e.g. Piscobalaena nana) suggest that the length of the squamosal fossa and the width of the temporal fossa were about equal.';
+	TEXT   TAXON = 20 CHARACTER = 62 TEXT = 'Although the length of the squamosal fossa does not seem to equal the width of the temporal fossa in this photograph, the true length of the squamosal fossa is being obscured by the fact that the skull is tilted forwards owing to the lack of the rostrum. If  this bias is accounted for, the length of the squamosal fossa approaches or equals the width of the temporal fossa. See Whitmore and Barnes (2008:fig. 25) for a photograph showing the skull in a position appoximating its original orientation.';
+
+	TEXT   CHARACTER = 63 TEXT = 'Bouetel and Muizon (2006) 45, 48; Churchill et al. (2011) 48; Fitzgerald (2006) 141; Fitzgerald (2010) 67; Geisler and Sanders (2003) 151; Marx (2011) 73;^n';
+	TEXT   TAXON = 15 CHARACTER = 63 TEXT = 'See Whitmore and Barnes (2008:fig.9) for a lateral view of the skull. ';
+
+	TEXT   TAXON = 18 CHARACTER = 64 TEXT = 'Although only the base of the postglenoid process has been preserved, the position of the latter in relation to the exoccipital indicates that the postglenoid process extended ventrally well beyond the ventral border of the exoccipital. ';
+
+	TEXT   CHARACTER = 65 TEXT = 'Bouetel and Muizon (2006) 46; Kimura and Hasegawa (2010) 67; Marx (2011) 74;^n';
+
+	TEXT   CHARACTER = 67 TEXT = 'Bouetel and Muizon (2006) 47; Kimura and Hasegawa (2010) 68;^n';
+
+	TEXT   CHARACTER = 68 TEXT = 'Bisconti (2008) 69; Churchill et al. (2011) 43; Demere et al. (2008) 32; Kimura and Hasegawa (2010) 70; Marx (2011) 75;^n';
+
+	TEXT   CHARACTER = 69 TEXT = 'Bisconti (2008) 62; Churchill et al. (2011) 50; Demere et al. (2008) 29; Kimura and Hasegawa (2010) 81; Marx (2011) 77;^n';
+
+	TEXT   CHARACTER = 70 TEXT = 'Bouetel and Muizon (2006) 40; Churchill et al. (2011) 54; Fitzgerald (2006) 145; Fitzgerald (2010) 70; Geisler and Sanders (2003) 155	; Kimura and Hasegawa (2010) 82;^n';
+	TEXT   TAXON = 10 CHARACTER = 70 TEXT = 'See also Kellogg (1969: pl. 50, fig. 1).';
+
+	TEXT   CHARACTER = 71 TEXT = 'Bisconti (2008) 46; Churchill et al. (2011) 30; Demere and Berta (2008) 15; Demere et al. (2008) 39; Fitzgerald (2006) 149; Geisler and Sanders (2003) 159; Kimura and Ozawa (2002) 18; Kimura and Hasegawa (2010) 31; Marx (2011) 79; Steeman (2007) 22;^n';
+	TEXT   TAXON = 1 CHARACTER = 71 TEXT = 'The pterygoids are missing in the specimens coded here and the scoring was based on the description of Kellogg (1936:fig. 30).';
+
+	TEXT   CHARACTER = 72 TEXT = 'Bisconti (2008) 2; Fitzgerald (2006) 153; Fitzgerald (2010) 72; Geisler and Sanders (2003) 163;^n';
+	TEXT   TAXON = 1 CHARACTER = 72 TEXT = 'Owing to breakage, the exact outline of the ventral surface of the pterygoid and the ptergoid fossa are unclear. The coding of this character was therfore partially based on Kellogg (1936: fig. 30).';
+	TEXT   TAXON = 2 CHARACTER = 72 TEXT = 'see also Kellogg (1925:pl.6,fig.2)';
+
+	TEXT   CHARACTER = 73 TEXT = 'Fitzgerald (2006) 157; Fitzgerald (2010) 73; Geisler and Sanders (2003) 167;^n';
+
+	TEXT   CHARACTER = 74 TEXT = 'Churchill et al. (2011) 31; Demere et al. (2008) 80; Kimura and Hasegawa (2010) 35;^n';
+	TEXT   TAXON = 1 CHARACTER = 74 TEXT = 'The pterygoid hamuli are lost in the specimens examined here and the coding was based on Kellogg (1936:fig. 30).';
+
+	TEXT   CHARACTER = 75 TEXT = 'Bisconti (2008) 11, 117; Demere et al. (2008) 35; Kimura and Hasegawa (2010) 76; Marx (2011) 80;^n';
+
+	TEXT   CHARACTER = 76 TEXT = 'Fitzgerald (2006) 168; Fitzgerald (2010) 74; Geisler and Sanders (2003) 178;^n';
+
+	TEXT   TAXON = 4 CHARACTER = 77 TEXT = 'scoring based on Nishiwaki and Kasuya (1970:pl.II,3)';
+	TEXT   TAXON = 10 CHARACTER = 77 TEXT = 'The bulla is absent in this specimen, and the coding was based on Kellogg (1968: fig. 58).';
+	TEXT   TAXON = 15 CHARACTER = 77 TEXT = 'The tympanic bulla was removed in this specimen, and the coding was based on Whitmore and Barnes (2008:fig.11). ';
+
+	TEXT   TAXON = 4 CHARACTER = 78 TEXT = 'see also Nishiwaki and Kasuya (1970:pl.II,3)';
+
+	TEXT   CHARACTER = 79 TEXT = 'Bisconti (2008) 8; Bouetel and Muizon (2006) 51; Churchill et al. (2011) 34; Demere et al. (2008) 42; Fitzgerald (2006) 181; Fitzgerald (2010) 76; Geisler and Sanders (2003) 191; Kimura and Hasegawa (2010) 84; Marx (2010) 81; Steeman (2007) 21;^n';
+
+	TEXT   CHARACTER = 80 TEXT = 'Demere and Berta (2008) 18; Fitzgerald (2006) 184; Fitzgerald (2010) 77; Geisler and Sanders (2003) 194; Marx (2011) 82;^n';
+	TEXT   TAXON = 4 CHARACTER = 80 TEXT = 'based on Nishiwaki and Kasuya (1970:pl.II,3)';
+
+	TEXT   CHARACTER = 81 TEXT = 'Bouetel and Muizon (2006) 55; Churchill et al. (2011) 35; Demere et al. (2008) 43; Fitzgerald (2006) 187; Fitzgerald (2010) 78; Geisler and Sanders (2003) 197; Kimura and Ozawa (2002) 29; Kimura and Hasegawa (2010) 83; Marx (2011) 83;^n';
+	TEXT   TAXON = 18 CHARACTER = 81 TEXT = 'Although the occipital condyles are lost, they were preserved when the specimen was first described, and figured by Cope (1896:pl.11, fig.3) and Kellogg (1968:fig.51), based on which this characters was coded.';
+
+	TEXT   CHARACTER = 82 TEXT = 'Churchill et al. (2011) 91; ';
+	TEXT   TAXON = 1 CHARACTER = 82 TEXT = 'Scoring based on Kellogg (1936: pl. 16, fig. 4). ';
+	TEXT   TAXON = 17 CHARACTER = 82 TEXT = 'scoring based on Omura (1964:pl.XIV lower)';
+
+	TEXT   CHARACTER = 83 TEXT = 'Demere et al. (2008) 92; Kimura and Hasegawa (2010) 155;';
+
+	TEXT   CHARACTER = 84 TEXT = 'Bisconti (2008) 75; Bouetel and Muizon (2006) 77; Churchill et al. (2011) 69; Demere et al. (2008) 46; Dooley et al. (2004) 12; Ekdale et al. (2011) 27; Fitzgerald (2006) 220; Fitzgerald (2010) 98; Geisler and Sanders (2003) 230; Kimura and Ozawa (2002) 61; Kimura and Hasegawa (2010) 92, 94; Marx (2011) 84; Steeman (2007) 38;^n';
+
+	TEXT   CHARACTER = 85 TEXT = 'Bisconti (2008) 86; Bouetel and Muizon (2006) 70; Ekdale et al. (2011) 20; Fitzgerald (2006) 191; Geisler and Sanders (2003) 201; Kimura and Hasegawa (2010) 88;^n';
+
+	TEXT   CHARACTER = 86 TEXT = 'Bouetel and Muizon (2006) 64; Fitzgerald (2006) 192; Fitzgerald (2010) 80; Geisler and Sanders (2003) 202; Kimura and Hasegawa (2010) 87;^n';
+
+	TEXT   CHARACTER = 87 TEXT = 'Bouetel and Muizon (2006) 63; Dooley et al. (2004) 1; Ekdale et al. (2011) 37; Fitzgerald (2006) 193; Fitzgerald (2010) 81; Geisler and Sanders (2003) 203; Kimura and Ozawa (2002) 51; Kimura and Hasegawa (2010) 86;^n';
+
+	TEXT   CHARACTER = 88 TEXT = 'Bisconti (2008) 99; Ekdale et al. (2011) 19;^n^nNA FOR TAXA IN WHICH THE PARS COCHLEARIS IS NOT CRANIALLY ELONGATED';
+
+	TEXT   CHARACTER = 89 TEXT = 'Bouetel and Muizon (2006) 65; Ekdale et al. (2011) 23; Fitzgerald (2006) 195, 196; Fitzgerald (2010) 82; Geisler and Sanders (2003) 205, 206;^n';
+	TEXT   TAXON = 13 CHARACTER = 89 TEXT = 'While a range of variably developed sulci on the lateral side of the anterior process of Eubalaena sp. might represent the homologue of the anteroexternal sulcus, the actual state of this character is difficult to asses owing to the excessive growth ofthe anterior process, tegmen tympani and the ventrolateral tuberosity.';
+
+	TEXT   CHARACTER = 90 TEXT = 'Ekdale et al. (2011) 24; Fitzgerald (2006) 225; Fitzgerald (2010) 103; Geisler and Sanders (2003) 235;^n^n';
+
+	TEXT   CHARACTER = 91 TEXT = 'Bisconti (2008) 29; Churchill et al. (2011) 63; Dooley et al. (2004) 3, 6; Fitzgerald (2006) 245; Fitzgerald (2010) 114; Geisler and Sanders (2003) 255; Kimura and Ozawa (2002) 53; Marx (2011) 85;^n';
+
+	TEXT   CHARACTER = 92 TEXT = 'Bouetel and Muizon (2006) 69; Churchill et al. (2011) 65; Demere et al. (2008) 47; Dooley et al. (2004) 4, 11; Ekdale et al. (2011) 18; Fitzgerald (2006) 200, 201; Geisler and Sanders (2003) 210, 211; Kimura and Ozawa (2002) 54, 60; Kimura and Hasegawa (2010) 89; Steeman (2007) 28;^n';
+
+	TEXT   CHARACTER = 94 TEXT = 'Fitzgerald (2006) 209; Fitzgerald (2010) 90; Geisler and Sanders (2003) 219;^n';
+	TEXT   TAXON = 20 CHARACTER = 94 TEXT = 'While the anteromedial corner of the pars cochlearis seems somewhat angular, the actual outline of the central surface of this part of the periotic is obscured by breakage and glue, and it is possible that the angular shape of the corner is in fact an artefact of breakage.';
+
+	TEXT   CHARACTER = 95 TEXT = 'Bisconti (2008) 89?; Bouetel and Muizon (2006) 81; Churchill et al. (2011) 70; Demere et al. (2008) 49; Dooley et al. (2004) 13; Ekdale et al. (2011) 29; Kimura and Ozawa (2002) 62; Kimura and Hasegawa (2010) 99;^n';
+	TEXT   TAXON = 4 CHARACTER = 95 TEXT = 'scoring based on Ekdale et al. (2011:fig.7a)';
+
+	TEXT   CHARACTER = 96 TEXT = 'Fitzgerald (2006) 216; Fitzgerald (2010) 95; Geisler and Sanders (2003) 226;^n';
+	TEXT   TAXON = 2 CHARACTER = 96 TEXT = 'see also Kasuya (1973:pl.7,fig.8)';
+	TEXT   TAXON = 4 CHARACTER = 96 TEXT = 'scoring based on Ekdale et al. (2011:fig.7c)';
+
+	TEXT   CHARACTER = 98 TEXT = 'Bouetel and Muizon (2006) 82; Ekdale et al. (2011) 26; Fitzgerald (2006) 215; Fitzgerald (2010) 94; Geisler and Sanders (2003) 225; Kimura and Hasegawa (2010) 101; Steeman (2007) 32;^n';
+	TEXT   TAXON = 4 CHARACTER = 98 TEXT = 'scoring based on Ekdale et al. (2011:fig.7a,c)';
+
+	TEXT   CHARACTER = 99 TEXT = 'Marx (2011) 88; Steeman (2007) 39;';
+
+	TEXT   CHARACTER = 100 TEXT = 'Ekdale et al. (2011) 38;';
+
+	TEXT   CHARACTER = 102 TEXT = 'Fitzgerald (2006) 217; Geisler and Sanders (2003) 227; Marx (2011) 89;^n';
+
+	TEXT   CHARACTER = 103 TEXT = 'Bisconti (2008) 1; Bouetel and Muizon (2006) 71; Demere et al. (2008) 50; Dooley et al. (2004) 18; Ekdale et al. (2011) 33; Kimura and Ozawa (2002) 67;^n^n';
+
+	TEXT   CHARACTER = 104 TEXT = 'Bisconti (2008) 65; Bouetel and Muizon (2006) 72; Churchill et al. (2011) 71; Ekdale et al. (2011) 35; Fitzgerald (2006) 226; Fitzgerald (2010) 104; Geisler and Sanders (2003) 236; Kimura and Hasegawa (2010) 102;^n';
+
+	TEXT   CHARACTER = 105 TEXT = 'Bouetel and Muizon (2006) 75; Demere et al. (2008) 52; Dooley et al. (2004) 20; Ekdale et al. (2011) 47; Fitzgerald (2006) 228; Fitzgerald (2010) 105; Geisler and Sanders (2003) 238; Kimura and Ozawa (2002) 69; Kimura and Hasegawa (2010) 105; Marx (2011) 90;^n';
+
+	TEXT   CHARACTER = 106 TEXT = 'Ekdale et al. (2011) 40;^n';
+	TEXT   TAXON = 8 CHARACTER = 106 TEXT = 'This character may vary ontogenetically, possibly owing to continued ossification around the dorsal area of the pars cochlearis at a later stage in life.';
+
+	TEXT   CHARACTER = 107 TEXT = 'Bisconti (2008) 28; Bouetel and Muizon (2006) 62; Dooley et al. (2004) 27; Fitzgerald (2006) 231; Fitzgerald (2010) 107; Geisler and Sanders (2003) 241; Kimura and Ozawa (2002) 76; Kimura and Hasegawa (2010) 110; Marx (2011) 91; Steeman (2007) 37;^n';
+
+	TEXT   CHARACTER = 108 TEXT = 'Bisconti (2008) 105?; Bouetel and Muizon (2006) 83; Dooley et al. (2004) 26; Fitzgerald (2006) 234; Fitzgerald (2010) 108; Geisler and Sanders (2003) 244; Kimura and Ozawa (2002) 75; Kimura and Hasegawa (2010) 111; Marx (2011) 92;^n';
+
+	TEXT   CHARACTER = 109 TEXT = 'Churchill et al. (2011) 64; Dooley et al. (2004) 22; Ekdale et al. (2011) 25; Fitzgerald (2006) 236; Fitzgerald (2010) 110; Geisler and Sanders (2003) 246; Kimura and Ozawa (2002) 71; Kimura and Hasegawa (2010) 108;^n';
+	TEXT   TAXON = 14 CHARACTER = 109 TEXT = 'Although the anterior process of the periotic is detached from the posterior process in this specimen, the outline of the contact surface of the squamosal with the lateral side of the anterior process suggests an angle of greater than 90 degrees between the latter and the posterior process.';
+	TEXT   TAXON = 16 CHARACTER = 109 TEXT = 'Although the anterior process of the periotic is detached from the posterior process in this specimen, the outline of the contact surface of the squamosal with the lateral side of the anterior process suggests an angle of greater than 90 degrees between the latter and the posterior process.';
+
+	TEXT   CHARACTER = 110 TEXT = 'Bouetel and Muizon (2006) 85; Fitzgerald (2006) 238, 254; Geisler and Sanders (2003) 248, 264; Kimura and Hasegawa (2010) 113; Marx (2011) 93;^n';
+
+	TEXT   CHARACTER = 111 TEXT = 'Bouetel and Muizon (2006) 86; Marx (2011) 93;^n';
+
+	TEXT   CHARACTER = 112 TEXT = 'Churchill et al. (2011) 57; Ekdale et al. (2011) 1;^n';
+
+	TEXT   CHARACTER = 113 TEXT = 'Ekdale et al. (2011) 14;^n';
+
+	TEXT   CHARACTER = 115 TEXT = 'Bouetel and Muizon (2006) 61; Marx (2011) 96;^n';
+
+	TEXT   CHARACTER = 117 TEXT = 'Ekdale et al. (2011) 6;^n';
+
+	TEXT   TAXON = 2 CHARACTER = 118 TEXT = 'see also Kasuya (1973:pl.7,fig.5)';
+
+	TEXT   CHARACTER = 119 TEXT = 'Fitzgerald (2006) 249; Fitzgerald (2010) 115; Geisler and Sanders (2003) 259; Kimura and Hasegawa (2010) 120; Marx (2011) 97; Steeman (2007) 45;^n';
+
+	TEXT   CHARACTER = 120 TEXT = 'Churchill et al. (2011) 62; Ekdale et al. (2011) 8;^n';
+	TEXT   TAXON = 2 CHARACTER = 120 TEXT = 'see also Kasuya (1973:fig.61; pl.7, fig.3)';
+
+	TEXT   CHARACTER = 121 TEXT = 'Fitzgerald (2006) 251; Geisler and Sanders (2003) 261; Marx (2011) 98;^n';
+
+	TEXT   CHARACTER = 122 TEXT = 'Bouetel and Muizon (2006) 58; Ekdale et al. (2011) 16; Fitzgerald (2006) 259; Geisler and Sanders (2003) 269; Kimura and Hasegawa (2010) 117;^n';
+
+	TEXT   CHARACTER = 123 TEXT = 'Bisconti (2008) 30; Bouetel and Muizon (2006) 57, 59; Churchill et al. (2011) 59, 61; Demere et al. (2008) 45; Dooley et al. 41; Ekdale et al. (2011) 4,5; Fitzgerald (2006) 256; Fitzgerald (2010) 116; Geisler and Sanders (2003) 266; Kimura and Ozawa (2002) 32; Kimura and Hasegawa (2010) 116, 118; Marx (2011) 100; Steeman (2007) 43;';
+
+	TEXT   CHARACTER = 124 TEXT = 'Bisconti (2008) 153; Fitzgerald (2006) 257; Geisler and Sanders (2003) 267;^n';
+
+	TEXT   CHARACTER = 127 TEXT = 'Ekdale et al. (2011) 17;';
+
+	TEXT   CHARACTER = 128 TEXT = 'Fitzgerald (2006) 261; Fitzgerald (2010) 117; Geisler and Sanders (2003) 271;^n';
+
+	TEXT   CHARACTER = 132 TEXT = 'Bisconti (2008) 41; Bouetel and Muizon (2006) 60; Churchill et al. (2011) 58; Demere et al. (2008) 44; Ekdale et al. (2011) 2; Kimura and Ozawa (2002) 31; Kimura and Hasegawa (2010) 119; Marx (2011) 104; Steeman (2007) 53;^n';
+
+	TEXT   CHARACTER = 133 TEXT = 'Ekdale et al. (2011) 12;^n';
+
+	TEXT   CHARACTER = 134 TEXT = 'Ekdale et al. (2011) 7;^n';
+
+	TEXT   CHARACTER = 135 TEXT = 'Bouetel and Muizon (2006) 91; Kimura and Ozawa (2002) 42; Kimura and Hasegawa (2010) 124; Marx (2010) 105;^n';
+
+	TEXT   CHARACTER = 136 TEXT = 'Bisconti (2008) 9; Bouetel and Muizon (2006) 88; Churchill et al. (2011) 82; Demere and Berta (2008) 26; Demere et al. (2008) 53; Fitzgerald (2006) 41; Fitzgerald (2010) 26; Geisler and Sanders (2003) 40; Kimura and Ozawa (2002) 33; Kimura and Hasegawa (2010) 121; Marx (2010) 106;^n';
+	TEXT   TAXON = 4 CHARACTER = 136 TEXT = 'scoring based on Nishiwaki and Kasuya (1970:pl.III,2)';
+
+	TEXT   CHARACTER = 137 TEXT = 'Demere et al. (2008) 55; Marx (2011) 108;^n';
+
+	TEXT   CHARACTER = 138 TEXT = 'Bisconti (2008) 21; Bouetel and Muizon (2006) 87; Churchill et al. (2011) 76; Demere and Berta (2008) 25; Demere et al. (2008) 57; Fitzgerald (2006) 43; Fitzgerald (2010) 27; Geisler and Sanders (2003) 42; Kimura and Ozawa (2002) 37; Kimura and Hasegawa (2010) 125; Marx (2010) 109; Steeman (2007) 55;';
+	TEXT   TAXON = 7 CHARACTER = 138 TEXT = 'see also Trevisan (1941:fig.4)';
+
+	TEXT   CHARACTER = 139 TEXT = 'Bisconti (2008) 50; Bouetel and Muizon (2006) 89; Churchill et al. (2011) 78; Demere et al. (2008) 89; Kimura and Ozawa (2002) 39; Kimura and Hasegawa (2010) 122; Marx (2011) 110; Steeman (2007) 60;^n';
+
+	TEXT   CHARACTER = 140 TEXT = 'Bisconti (2008) 95; Bouetel and Muizon (2006) 90; Churchill et al. (2011) 77; Dooley et al. (2004) 34; Fitzgerald (2006) 39; Fitzgerald (2010) 120; Geisler and Sanders (2003) 38; Kimura and Ozawa (2002) 36, 43; Kimura and Hasegawa (2010) 123, 127; Marx (2010) 111;^n';
+	TEXT   TAXON = 22 CHARACTER = 140 TEXT = 'see also Bouetel and Muizon (2006:fig.17b) ';
+
+	TEXT   CHARACTER = 141 TEXT = 'Bisconti (2008) 26, 159; Bouetel and Muizon (2006) 98; Demere et al. (2008) 58; Fitzgerald (2006) 44; Fitzgerald (2010) 28; Geisler and Sanders (2003) 43; Kimura and Ozawa (2002) 38; Kimura and Hasegawa (2010) 132; Marx (2011) 112; Steeman (2007) 58;^n';
+	TEXT   TAXON = 23 CHARACTER = 141 TEXT = 'scoring based on Bisconti (2010:fig.10a)';
+
+	TEXT   CHARACTER = 142 TEXT = 'Bisconti (2008) 160; Marx (2011) 113;^n';
+	TEXT   TAXON = 23 CHARACTER = 142 TEXT = 'scoring based on Bisconti (2010:fig.10a)';
+
+	TEXT   CHARACTER = 143 TEXT = 'Bouetel and Muizon (2006) 97; Demere et al. (2008) 87; Kimura and Hasegawa (2010) 130; Marx (2011) 115; Steeman (2007) 58;^n';
+	TEXT   TAXON = 23 CHARACTER = 143 TEXT = 'scoring based on Bisconti (2010:fig.10a)';
+
+	TEXT   CHARACTER = 144 TEXT = 'Bouetel and Muizon (2006) 96; Demere et al. (2008) 86; Kimura and Hasegawa (2010) 138; Marx (2011) 116; Steeman (2007) 59;^n';
+
+	TEXT   CHARACTER = 145 TEXT = 'Bisconti (2008) 32; Bouetel and Muizon (2006) 92; Churchill et al. (2011) 81; Demere and Berta (2008) 27; Demere et al. (2008) 60; Dooley et al. (2004) 30; Fitzgerald (2006) 45; Fitzgerald (2010) 29; Geisler and Sanders (2003) 44; Kimura and Ozawa (2002) 34; Kimura and Hasegawa (2010) 128; Marx (2011) 117; Steeman (2007) 56;';
+	TEXT   TAXON = 23 CHARACTER = 145 TEXT = 'Although the tip of the coronoid process is missing, the outline of the preserved basal portion suggests a sharply triangular morphology.';
+
+	TEXT   CHARACTER = 146 TEXT = 'Demere et al. (2008) 82; Kimura and Hasegawa (2010) 131; Marx (2011) 118;^n';
+
+	TEXT   CHARACTER = 147 TEXT = 'Bouetel and Muizon (2006) 94, 95; Kimura and Hasegawa (2010) 134;^n';
+
+	TEXT   CHARACTER = 148 TEXT = 'Bisconti (2008) 38; Bouetel and Muizon (2006) 99; Churchill et al. (2011) 80; Demere et al. (2008) 59; Fitzgerald (2010) 30; Kimura and Ozawa (2002) 35; Kimura and Hasegawa (2010) 136; Marx (2011) 119;';
+
+	TEXT   CHARACTER = 149 TEXT = 'Bisconti (2008) 49; Churchill et al. (2011) 79; Demere et al. (2008) 56; Marx (2011) 121;^n';
+	TEXT   TAXON = 23 CHARACTER = 149 TEXT = 'scoring based on Bisconti (2010:fig.10a)';
+
+	TEXT   CHARACTER = 150 TEXT = 'Marx (2011) 122; Steeman (2007) 63;^n';
+
+	TEXT   CHARACTER = 151 TEXT = 'Bisconti (2008) 61; Marx (2011) 123;^n';
+	TEXT   TAXON = 1 CHARACTER = 151 TEXT = 'coding based on Kellogg (1936:fig.41)';
+	TEXT   TAXON = 3 CHARACTER = 151 TEXT = 'coding based on Emlong''s (1966) verbal description of the axis: "The transverse processes are short, projecting more backward than outward. No foramina are present on their surfaces." (p.23)';
+
+	TEXT   CHARACTER = 152 TEXT = 'Bisconti (2008) 48; Churchill et al. (2011) 93; Demere et al. (2008) 63; Dooley et al. (2004) 36; Geisler and Sanders (2003) 278, 279; Kimura and Ozawa (2002) 45; Kimura and Hasegawa (2010) 139; Marx (2011) 124; Steeman (2007) 62;^n';
+	TEXT   TAXON = 3 CHARACTER = 152 TEXT = 'coding based on Emlong''s (1966) verbal description of the cervical vertebrae: "The cervical vertebrae are all free, and distinct." (p.22)';
+
+	TEXT   CHARACTER = 153 TEXT = 'Steeman (2007) 69;^n';
+	TEXT   TAXON = 11 CHARACTER = 153 TEXT = 'coding based on Sanders and Barnes (2002:fig.16b)';
+	TEXT   TAXON = 21 CHARACTER = 153 TEXT = 'coding based on Kellogg (1968:pl.4, fig.5)';
+	TEXT   TAXON = 22 CHARACTER = 153 TEXT = 'coding based in Bouetel and Muizon (2006:fig.19i)';
+
+	TEXT   CHARACTER = 154 TEXT = 'Churchill et al. (2011) 96; Geisler and Sanders (2003) 284;^n';
+	TEXT   TAXON = 3 CHARACTER = 154 TEXT = 'coding based on Emlong (1966:fig.12) and Emlong''s (1966) verbal description of the lumbar vertebrae: "The tyransverse processes of the lumbars, and anterior caudals project strongly outward, and relatively little downward and backward." (p.28)';
+	TEXT   TAXON = 8 CHARACTER = 154 TEXT = 'see also Buchholtz (2011:fig.3f-g)';
+	TEXT   TAXON = 11 CHARACTER = 154 TEXT = 'coding based on Sanders and Barnes (2002:fig.20a)';
+
+	TEXT   TAXON = 1 CHARACTER = 155 TEXT = 'see also Kellogg (1936:figs.57-58)';
+	TEXT   TAXON = 3 CHARACTER = 155 TEXT = 'coding based on Emlong (1966:fig.12)';
+	TEXT   TAXON = 8 CHARACTER = 155 TEXT = 'see also Buchholtz (2011:fig.3f-g)';
+	TEXT   TAXON = 11 CHARACTER = 155 TEXT = 'coding based on Sanders and Barnes (2002:fig.20a; table 5)';
+	TEXT   TAXON = 21 CHARACTER = 155 TEXT = 'see also Kellogg (1968:pl.13)';
+
+	TEXT   CHARACTER = 156 TEXT = 'Bisconti (2008) 13; Demere et al. (2008) 90; Geisler and Sanders (2003) 290; Kimura and Hasegawa (2010) 154; Marx (2011) 125;^n';
+
+	TEXT   CHARACTER = 157 TEXT = 'Bisconti (2008) 68; Kimura and Hasegawa (2010) 147;^n';
+	TEXT   TAXON = 1 CHARACTER = 157 TEXT = 'see also Kellogg (1936:fig.71)';
+	TEXT   TAXON = 6 CHARACTER = 157 TEXT = 'scoring based on Omura (1975:pl.XII,figs.1-2)';
+	TEXT   TAXON = 11 CHARACTER = 157 TEXT = 'Although the bone is fragmentary, the preserved posterior border indicates that the the scapula was most liklely longer anteroposteriorly than it was high.';
+
+	TEXT   CHARACTER = 158 TEXT = 'Bisconti (2008) 97; Churchill et al. (2011) 99; Demere et al. (2008) 65; Geisler and Sanders (2003) 292; Kimura and Ozawa (2002) 48; Kimura and Hasegawa (2010) 146; Marx (2011) 127;^n';
+	TEXT   TAXON = 1 CHARACTER = 158 TEXT = 'coding based on Kellogg (1936:fig.71)';
+	TEXT   TAXON = 6 CHARACTER = 158 TEXT = 'scoring based on Omura (1975:pl.XII,figs.1-2)';
+
+	TEXT   CHARACTER = 159 TEXT = 'Bisconti (2008) 98; Churchill et al. (2011) 98; Demere et al. (2008) 64; Kimura and Hasegawa (2010) 145; Marx (2011) 128;^n';
+	TEXT   TAXON = 1 CHARACTER = 159 TEXT = 'see also Kellogg (1936:fig.71)';
+	TEXT   TAXON = 6 CHARACTER = 159 TEXT = 'scoring based on Omura (1975:pl.XII,figs.1-2)';
+
+	TEXT   CHARACTER = 160 TEXT = 'Churchill et al. (2011) 97; Geisler and Sanders (2003) 293;';
+	TEXT   TAXON = 1 CHARACTER = 160 TEXT = 'see also Kellogg (1936:fig.71)';
+	TEXT   TAXON = 6 CHARACTER = 160 TEXT = 'scoring based on Omura (1975:pl.XII,figs.1-2)';
+
+	TEXT   CHARACTER = 161 TEXT = 'Churchill et al. (2011) 102; Geisler and Sanders (2003) 294, 295; Kimura and Hasegawa (2010) 148;^n';
+	TEXT   TAXON = 1 CHARACTER = 161 TEXT = 'see also Kellogg (1936:fig.72)';
+
+	TEXT   CHARACTER = 162 TEXT = 'Bisconti (2008) 96; Churchill et al. (2011) 100; Demere et al. (2008) 66; Dooley et al. (2004) 40; Geisler and Sanders (2003) 297; Kimura and Ozawa (2002) 50; Kimura and Hasegawa (2010) 150; Marx (2011) 129;^n';
+	TEXT   TAXON = 1 CHARACTER = 162 TEXT = 'see also Kellogg (1936:fig.72)';
+
+	TEXT   CHARACTER = 163 TEXT = 'Churchill et al. (2011) 101;';
+
+	TEXT   CHARACTER = 164 TEXT = 'Churchill et al. (2011) 103;';
+	TEXT   TAXON = 1 CHARACTER = 164 TEXT = 'see also Kellogg (1936:fig.72)';
+
+	TEXT   CHARACTER = 165 TEXT = 'Churchill et al. (2011) 104, 105; Geisler and Sanders (2003) 298; Marx (2011) 130;';
+	TEXT   TAXON = 1 CHARACTER = 165 TEXT = 'see also Kellogg (1936:fig.72)';
+
+	TEXT   CHARACTER = 166 TEXT = 'Bisconti (2008) 70; Churchill et al. (2011) 106; Demere et al. (2008) 67; Dooley et al. (2004) 35; Geisler and Sanders (2003) 299; Kimura and Ozawa (2002) 49; Kimura and Hasegawa (2010) 151; Marx (2011) 131;^n';
+	TEXT   TAXON = 1 CHARACTER = 166 TEXT = 'see also Kellogg (1936:fig.74)';
+
+END;
+
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1 -  174;
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Mk1 (est.)':  1 -  174;
+END;
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1590832414042;
+		linkFile 'Anatrees-FM2012.txt.nex';
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 4713854658090436617;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 3685707774356414036;
+			mqVersion 340;
+			checksumv 0 3 1147487143 null  getNumChars 174 numChars 174 getNumTaxa 23 numTaxa 23   short true   bits 31   states 31   sumSquaresStatesOnly 12487.0 sumSquares 12487.0 longCompressibleToShort false usingShortMatrix true   NumFiles 2 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 123;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1338 642;
+			setLocation 15 23;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #4713854658090436617  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				suppressEPCResponse;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlockInt 0;
+					setTreeBlockID 017264ff153c1;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 998.1590832347290.1268147771246704890;
+				getTreeWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1215 570;
+					setLocation 15 23;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					setActive;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareLineTree.SquareLineTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							branchLengthsToggle off;
+							toggleScale on;
+							toggleBroadScale off;
+							toggleCenter on;
+							toggleEven on;
+							setFixedTaxonDistance 0;
+						endTell;
+						setEdgeWidth 4;
+						showEdgeLines on;
+						orientUp;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					showBranchColors on;
+					labelBranchLengths off;
+					centerBrLenLabels on;
+					showBrLensUnspecified on;
+					showBrLenLabelsOnTerminals on;
+					setBrLenLabelColor 0 0 255;
+					setNumBrLenDecimals 6;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						toggleColorPartition off;
+						toggleColorAssigned on;
+						toggleShadePartition off;
+						toggleShowFootnotes on;
+						toggleNodeLabels on;
+						toggleCenterNodeNames off;
+						toggleShowNames on;
+						namesAngle ?;
+					endTell;
+				endTell;
+					setTreeNumber 10;
+					setDrawingSizeMode 0;
+					toggleLegendFloat on;
+					scale 0;
+					toggleTextOnTree off;
+					togglePrintName on;
+					showWindow;
+				endTell;
+				desuppressEPCResponse;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocDoubles.DrawTreeAssocDoubles;
+				tell It;
+					setOn on;
+					toggleShow consensusFrequency;
+					toggleShow bootstrapFrequency;
+					toggleShow posteriorProbability;
+					toggleShow consensusFrequency;
+					toggleShow posteriorProbability;
+					toggleShow bootstrapFrequency;
+					setDigits 4;
+					setThreshold ?;
+					writeAsPercentage off;
+					toggleCentred off;
+					toggleHorizontal on;
+					toggleWhiteEdges on;
+					toggleShowOnTerminals on;
+					setFontSize 10;
+					setOffset 0  0;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocStrings.DrawTreeAssocStrings;
+				tell It;
+					setOn on;
+					toggleCentred on;
+					toggleHorizontal on;
+					setFontSize 10;
+					setOffset 0  0;
+					toggleShowOnTerminals on;
+				endTell;
+				getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #3685707774356414036 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1215 570;
+					setLocation 15 23;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					endTell;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					colorCells  #mesquite.charMatrices.NoColor.NoColor;
+					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges on;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleAutoWCharNames on;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					toggleShowPaleExcluded off;
+					togglePaleInapplicable on;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize on;
+					toggleColorsPanel off;
+					toggleDiagonal on;
+					setDiagonalHeight 80;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				hideWindow;
+				getEmployee #mesquite.charMatrices.AlterData.AlterData;
+				tell It;
+					toggleBySubmenus off;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor;
+				tell It;
+					panelOpen true;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

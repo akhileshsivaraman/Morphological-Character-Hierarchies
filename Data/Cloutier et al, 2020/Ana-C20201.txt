@@ -1,0 +1,301 @@
+# logfile from anagallis - 2020-5-11 5:53:34
+>-< import tnt> importing from TNT file 'Cloutier2020.tnt'
+xread> reading data...
+xread> 42 terminals and 204 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 Position_of_orbits lateral_and_widely_separated dorsal_and_close_together>
+>skipping unsupported (or wrong) TNT command  <{1 Proportion_of_skull_roof_lying_anterior_to_middle_of_orbits <50% >=50%>
+>skipping unsupported (or wrong) TNT command  <{2 Facial_lamina_of_premaxilla rises_vertically_(deep_snout) bends_posteriorly_(flattened_snout)>
+>skipping unsupported (or wrong) TNT command  <{3 Facial_lamina_of_premaxilla height_less_than_50%_of_length_of_premaxilla more_than_50%_of_length_of_premaxilla>
+>skipping unsupported (or wrong) TNT command  <{4 Orientation_of_anterior_tectal_and_lateral_rostral_relative_to_external_nostril dorsal-ventral posterior-anterior>
+>skipping unsupported (or wrong) TNT command  <{5 Postrostral absent postrostral_mosaic_of_small_variable_bones large_median_postrostral,_with_or_without_accessory_bones>
+>skipping unsupported (or wrong) TNT command  <{6 Number_of_nasals more_than_two two one>
+>skipping unsupported (or wrong) TNT command  <{7 Position_of_anterior_nostril facial edge_of_mouth_(or_marginal)>
+>skipping unsupported (or wrong) TNT command  <{8 Dermintermedial_processus absent present>
+>skipping unsupported (or wrong) TNT command  <{9 Position_of_posterior_nostril external,_far_from_jaw_margin external,_close_to_jaw_margin palatal>
+>skipping unsupported (or wrong) TNT command  <{10 Number_of_supraorbitals one more_than_one>
+>skipping unsupported (or wrong) TNT command  <{11 Posterior_or_posteriormost_supraorbital_(postfrontal)_extends_anterior_of_orbit yes no>
+>skipping unsupported (or wrong) TNT command  <{12 Relative_size_of_anterior_supraorbital_and_posterior_supraorbital similar prefrontal_much_bigger>
+>skipping unsupported (or wrong) TNT command  <{13 Shape_of_posterior_supraorbital posterior_process_shorter_than_orbital_margin posterior_process_much_longer_than_orbital_margin>
+>skipping unsupported (or wrong) TNT command  <{14 Contact_between_parietal_and_supraorbital present absent>
+>skipping unsupported (or wrong) TNT command  <{15 Intertemporal present absent>
+>skipping unsupported (or wrong) TNT command  <{16 Contact_between_posterior_supraorbital_and_intertemporal present absent>
+>skipping unsupported (or wrong) TNT command  <{17 Number_of_tectals one two_or_more>
+>skipping unsupported (or wrong) TNT command  <{18 Paired_bones_anterior_to_parietals absent present>
+>skipping unsupported (or wrong) TNT command  <{19 Width_of_ethmoid_relative_to_length_from_snout_tip_to_posterior_margin_of_parietals more_than_80% 70-79% 50-69% less_than_50%>
+>skipping unsupported (or wrong) TNT command  <{20 Pineal_foramen present absent>
+>skipping unsupported (or wrong) TNT command  <{21 Shape_of_pineal_series round_or_oval kite-shaped_with_distinct_posterior_corner pineal_opening_present_but_no_pineal_plates>
+>skipping unsupported (or wrong) TNT command  <{22 Location_of_pineal_foramen/eminence level_with,_or_anterior_to_posterior_margin_of_orbits posterior_to_orbits>
+>skipping unsupported (or wrong) TNT command  <{23 Parietals_surround_pineal_foramen/eminence yes no>
+>skipping unsupported (or wrong) TNT command  <{24 Dermal_intracranial_joint absent present>
+>skipping unsupported (or wrong) TNT command  <{25 Postparietals_narrow_to_a_point_posteriorly no yes>
+>skipping unsupported (or wrong) TNT command  <{26 Proportions_of_postparietal_shield maximum_width_of_postparietal_shield_<3_skull_width_at_level_of_anterior_end_of_postparietal maximum_width_of_postparietal_shield_>=3_skull_width_at_level_of_anterior_end_of_postparietal>
+>skipping unsupported (or wrong) TNT command  <{27 Spiracle_notch small_hole_or_narrow_slit wide_notch_between_skull_roof_and_cheek>
+>skipping unsupported (or wrong) TNT command  <{28 Extratemporal absent present>
+>skipping unsupported (or wrong) TNT command  <{29 Contact_between_extratemporal_and_supratemporal absent present>
+>skipping unsupported (or wrong) TNT command  <{30 Extrascapular_bones present absent>
+>skipping unsupported (or wrong) TNT command  <{31 Anterior_margin_of_median_extrascapular long very_short>
+>skipping unsupported (or wrong) TNT command  <{32 Median_extrascapular_overlap median_extrascapular_overlapped_by_lateral_extrascapulars median_extrascapular_overlapping_lateral_extrascapulars>
+>skipping unsupported (or wrong) TNT command  <{33 Internasal_pits undifferentiated_or_anterior_palatal_fossa shallow_paired_pits_with_strong_midline_ridge deep_pear-shaped_pits>
+>skipping unsupported (or wrong) TNT command  <{34 Tectum_orbitale narrow extensive>
+>skipping unsupported (or wrong) TNT command  <{35 Large_mesial_opening_and_several_small_dorsolateral_openings_in_postnasal_wall absent present>
+>skipping unsupported (or wrong) TNT command  <{36 Position_of_exit_of_pituitary_vein in_front_of_basipterygoid_process dorsal__to_vertical_portion_of_basipterygoid_process>
+>skipping unsupported (or wrong) TNT command  <{37 Descending_process_of_sphenoid_(with_its_posterior_extremity_lacking_periostegeal_lining) absent present>
+>skipping unsupported (or wrong) TNT command  <{38 Endoskeletal_intracranial_joint absent present>
+>skipping unsupported (or wrong) TNT command  <{39 Proportion_of_neurocranium ethmosphenoid_shorter_or_equal_in_length_to_otoccipital ethmosphenoid_longer_than_otoccipital>
+>skipping unsupported (or wrong) TNT command  <{40 Dorsal_element_of_hyoid_arch hyomandibula_articulating_with_lateral_commissure stapes_inserted_into_fenestra_ovalis>
+>skipping unsupported (or wrong) TNT command  <{41 Relative_positions_of_hyomandibular_facets ventral_anterior_to_dorsal dorsal_directly_above_ventral dorsal_anterior_to_ventral>
+>skipping unsupported (or wrong) TNT command  <{42 Vestibular_fontanelle absent present>
+>skipping unsupported (or wrong) TNT command  <{43 Anterior_margin_of_vestibular_fontanelle_anterior_to_posterior_margin_of_basicranial_fenestra no yes>
+>skipping unsupported (or wrong) TNT command  <{44 Basicranial_fenestra absent present>
+>skipping unsupported (or wrong) TNT command  <{45 Posttemporal_fossae absent present>
+>skipping unsupported (or wrong) TNT command  <{46 Extent_of_crista_parotica does_not_reach_posterior_margin_of_tabular reaches_posterior_margin_of_tabular>
+>skipping unsupported (or wrong) TNT command  <{47 Otical_process_(an_outgrowth_from_the_lateral_wall_of_the_braincase_penetrated_by_the_branches_of_the_r._oticus_lateralis) absent present>
+>skipping unsupported (or wrong) TNT command  <{48 Foramina_(similar_to_infradentary_foramina)_on_cheek_bones absent present>
+>skipping unsupported (or wrong) TNT command  <{49 Postorbital_bone contributes_to_orbital_margin excluded_from_orbital_margin>
+>skipping unsupported (or wrong) TNT command  <{50 Jugal_extends_anterior_to_middle_of_orbit no yes>
+>skipping unsupported (or wrong) TNT command  <{51 Relationship_of_jugal_to_orbit contributes_to_orbital_margin excluded_from_orbital_margin>
+>skipping unsupported (or wrong) TNT command  <{52 Lacrimal_excluded_from_orbit no yes>
+>skipping unsupported (or wrong) TNT command  <{53 Contact_between_posterior_supraorbital_and_lacrimal absent present>
+>skipping unsupported (or wrong) TNT command  <{54 Jugal-quadratojugal_contact absent present>
+>skipping unsupported (or wrong) TNT command  <{55 Number_of_cheek_bones_bearing_preopercular_canal_posterior_to_jugal one two>
+>skipping unsupported (or wrong) TNT command  <{56 Bone_bearing_both_quadratojugal_pit-line_and_preopercular_canal absent present>
+>skipping unsupported (or wrong) TNT command  <{57 Bar-like_preopercular absent present>
+>skipping unsupported (or wrong) TNT command  <{58 Subsquamosals absent present>
+>skipping unsupported (or wrong) TNT command  <{59 Preoperculosubmandibular absent present>
+>skipping unsupported (or wrong) TNT command  <{60 Vomer_proportions not_much_broader_than_long much_broader_than_long>
+>skipping unsupported (or wrong) TNT command  <{61 Anteromedial_process_of_vomer absent present>
+>skipping unsupported (or wrong) TNT command  <{62 Posterior_process_of_vomers absent short long>
+>skipping unsupported (or wrong) TNT command  <{63 Articulation_of_vomers vomers_not_articulating_with_each_other vomers_articulating_with_each_other>
+>skipping unsupported (or wrong) TNT command  <{64 Parasphenoid protruding_forward_in_ethmoid_region_of_endocranium behind_ethmoid_region>
+>skipping unsupported (or wrong) TNT command  <{65 Denticulated_field_of_parasphenoid without_spiracular_groove with_spiracular_groove>
+>skipping unsupported (or wrong) TNT command  <{66 Relationship_of_vomer_to_parasphenoid no_contact_or_simple_abutment dorsal-ventral_overlap_anteriorly side_to_side_overlap_between_posterior_processes_of_vomers_and_lateral_sides_of_parasphenoid>
+>skipping unsupported (or wrong) TNT command  <{67 Shape_of_parasphenoid broad,_splint-shaped slender,_splint-shaped>
+>skipping unsupported (or wrong) TNT command  <{68 Lateral_sides_of_parasphenoid parallel_or_slightly_diverging_anteriorly converging_anteriorly>
+>skipping unsupported (or wrong) TNT command  <{69 Posterior_carotid_opening_in_parasphenoid present absent>
+>skipping unsupported (or wrong) TNT command  <{70 Articulation_of_pterygoids pterygoids_not_articulating_with_each_other pterygoids_articulating_with_each_other>
+>skipping unsupported (or wrong) TNT command  <{71 Proportions_of_entopterygoid anterior_end_level_with_processus_ascendens anterior_end_considerably_anterior_to_processus_ascendens>
+>skipping unsupported (or wrong) TNT command  <{72 Number_of_fang_pairs_on_ectopterygoid two one none>
+>skipping unsupported (or wrong) TNT command  <{73 Palatal_fangs_mesial_to_marginal_tooth_row yes no>
+>skipping unsupported (or wrong) TNT command  <{74 Subterminal_mouth absent present>
+>skipping unsupported (or wrong) TNT command  <{75 Enlarged_anterior_tooth_on_premaxilla absent present>
+>skipping unsupported (or wrong) TNT command  <{76 Posterodorsal_process_of_maxilla present very_weak_or_absent>
+>skipping unsupported (or wrong) TNT command  <{77 Meckelian_ossification strong,_complete_from_articular_to_symphysial_region incomplete absent>
+>skipping unsupported (or wrong) TNT command  <{78 Coronoids_labiolingually_flattened no yes>
+>skipping unsupported (or wrong) TNT command  <{79 Protrusion_of_lower_jaw_in_front_of_skull absent present>
+>skipping unsupported (or wrong) TNT command  <{80 Anteroventral_lower_jaw_profile rounded squared_off>
+>skipping unsupported (or wrong) TNT command  <{81 Large_ventromesially_directed_flange_of_symphysial_region_of_mandible absent present>
+>skipping unsupported (or wrong) TNT command  <{82 Dermal_ornament_on_each_infradentary even separate_"starburst"_on_each_bone>
+>skipping unsupported (or wrong) TNT command  <{83 Infradentary_foramina always_present variable always_absent>
+>skipping unsupported (or wrong) TNT command  <{84 Dentary_fang_pair absent present>
+>skipping unsupported (or wrong) TNT command  <{85 Teeth_of_dentary reaching_anterior_end_of_dentary not_reaching_anterior_end>
+>skipping unsupported (or wrong) TNT command  <{86 Accessory_row_of_small_teeth_on_dentary present absent>
+>skipping unsupported (or wrong) TNT command  <{87 Splenial not_sutured_to_prearticular sutured_to_prearticular>
+>skipping unsupported (or wrong) TNT command  <{88 Suture_between_splenial_and_anterior_coronoid absent present>
+>skipping unsupported (or wrong) TNT command  <{89 Mesial_lamina_of_splenial absent present>
+>skipping unsupported (or wrong) TNT command  <{90 Angular_and_prearticular separated_by_ventral_exposure_of_Meckelian_bone in_contact>
+>skipping unsupported (or wrong) TNT command  <{91 Parasymphysial_tooth_whorl present absent>
+>skipping unsupported (or wrong) TNT command  <{92 Adsymphysial_dental_plate absent present>
+>skipping unsupported (or wrong) TNT command  <{93 Adsymphysial_dental_plate long_with_posterior_corner,_sutured_to_anterior_coronoid,_denticulated_or_with_tooth_row short,_rounded,_not_sutured_to_anterior_coronoid,_denticulated>
+>skipping unsupported (or wrong) TNT command  <{94 Tooth_row_on_adsymphysial_plate absent present>
+>skipping unsupported (or wrong) TNT command  <{95 Mesial_parasymphysial_foramen absent present>
+>skipping unsupported (or wrong) TNT command  <{96 Fangs_of_coronoids_(sensu_stricto) absent present>
+>skipping unsupported (or wrong) TNT command  <{97 Marginal_denticle_band_on_coronoids broad_band,_at_least_posteriorly narrow_band_with_2-4_denticle_rows single_tooth_row__or_absent>
+>skipping unsupported (or wrong) TNT command  <{98 Coronoid_proportions posterior_coronoid_same_length_as_middle_coronoid,_or_shorter posterior_coronoid_significantly_longer_than_middle_coronoid>
+>skipping unsupported (or wrong) TNT command  <{99 Number_of_fang_pairs_on_posteriormost_coronoid two one none>
+>skipping unsupported (or wrong) TNT command  <{100 Anterior_end_of_prearticular not_forked forked>
+>skipping unsupported (or wrong) TNT command  <{101 Longitudinal_dorsal_ridge_on_prearticular absent present>
+>skipping unsupported (or wrong) TNT command  <{102 Anterior_mandibular_(precoronoid)_fossa absent present>
+>skipping unsupported (or wrong) TNT command  <{103 Retroarticular_process absent present>
+>skipping unsupported (or wrong) TNT command  <{104 Foramen_in_hyomandibular absent present>
+>skipping unsupported (or wrong) TNT command  <{105 Opercular_process_of_hyomandibula present absent>
+>skipping unsupported (or wrong) TNT command  <{106 Distal_portion_of_hyomandibula developed reduced absent>
+>skipping unsupported (or wrong) TNT command  <{107 Contact_between_hyomandibula_and_palatoquadrate present absent>
+>skipping unsupported (or wrong) TNT command  <{108 Position_of_distal_exit_of_hyomandilar_canal_or_sulcus_on_anterolateral_face_of_hyomandibula at_a_level_of_mid-shaft_or_obvious_curvature within_promixal_portion>
+>skipping unsupported (or wrong) TNT command  <{109 Urohyal_morphology dorsoventrally_compressed_and_rod-like,_may_bifurcate_posteriorly vertical_plate>
+>skipping unsupported (or wrong) TNT command  <{110 Shape_of_anterior_basibranchial rounded rectangular,_longer_than_wide>
+>skipping unsupported (or wrong) TNT command  <{111 Sublingual_rod absent present>
+>skipping unsupported (or wrong) TNT command  <{112 Opercular present absent>
+>skipping unsupported (or wrong) TNT command  <{113 Number_of_branchiostegal_rays_per_side ten_or_more two_to_seven>
+>skipping unsupported (or wrong) TNT command  <{114 Size_of_median_gular small large>
+>skipping unsupported (or wrong) TNT command  <{115 Course_of_ethmoid_commissure canal_penetrating_the_body_of_the_premaxilla sutural_course>
+>skipping unsupported (or wrong) TNT command  <{116 Direction_of_anterior_pit-line_on_parietal_shield antero-posterior,_reaching_or_almost_reaching_parietal-postparietal_border essential_transverse,_anterior_or_almost_anterior_to_pineal_foramen/eminence>
+>skipping unsupported (or wrong) TNT command  <{117 Middle_and_posterior_pit-lines_on_postparietal posteriorly_situated mesially_situated>
+>skipping unsupported (or wrong) TNT command  <{118 Course_of_supraorbital_canal straight lyre-shaped>
+>skipping unsupported (or wrong) TNT command  <{119 Posterior_end_of_supraorbital_canal in_postparietal in_parietal in_intertemporal>
+>skipping unsupported (or wrong) TNT command  <{120 Contact_between_otic_and_supraorbital_canals not_in_contact in_contact>
+>skipping unsupported (or wrong) TNT command  <{121 Otic_canal runs_through_skull_roof follows_edge_of_skull_roof>
+>skipping unsupported (or wrong) TNT command  <{122 Otic_canal_enters_postparietals no yes>
+>skipping unsupported (or wrong) TNT command  <{123 Supracleithrum_and_postemporal present absent>
+>skipping unsupported (or wrong) TNT command  <{124 Curvature_of_dermal_shoulder_girdle smoothly_curving_chain tall_caudally_inclined_cleithrum>
+>skipping unsupported (or wrong) TNT command  <{125 Cleithral_ornamentation present absent>
+>skipping unsupported (or wrong) TNT command  <{126 Contact_margin_for_clavicle_on_cleithrum straight_or_faintly_convex strongly_concave>
+>skipping unsupported (or wrong) TNT command  <{127 Ventral_or_lower_lamina_of_cleithrum extensive_without_or_with_little_scapulocoracoid_lateral_exposure reduced,_with_large_scapulocoracoid_lateral_exposure>
+>skipping unsupported (or wrong) TNT command  <{128 Overlap_relations_of_cleithrum_and_clavicle normal rhizodontid_condition>
+>skipping unsupported (or wrong) TNT command  <{129 Depressed_posterior_flange_on_cleithrum absent poorly_developed well_developed>
+>skipping unsupported (or wrong) TNT command  <{130 Narrow_waist_on_cleithrum no yes>
+>skipping unsupported (or wrong) TNT command  <{131 Ventral_lamina_of_cleithrum_much_broader_than_dorsal_lamina no yes>
+>skipping unsupported (or wrong) TNT command  <{132 Clavicle_ascending_process clavicle_has_rod-like_ascending_process clavicle_lacks_rod-like_ascending_process>
+>skipping unsupported (or wrong) TNT command  <{133 Interclavicle_size small large>
+>skipping unsupported (or wrong) TNT command  <{134 Scapulocoracoid_and_cleithrum_attachment triradiate_scapulocoracoid_lying_flush_against_internal_surface_of_cleithrum,_not_separated_by_foramina single_large_foramen_piercing_C-shaped_scapulocoracoid_close_to_contact_face_for_cleithrum scapulocoracoid_attaching_to_cleithrum_via_three_buttresses scapulocoracoid_attaching_to_cleithrum_along_its_anterodorsal_margin>
+>skipping unsupported (or wrong) TNT command  <{135 Scapular_process_of_scapulocoracoid small large,_dorsally_projecting>
+>skipping unsupported (or wrong) TNT command  <{136 Subscapular_fossa absent present>
+>skipping unsupported (or wrong) TNT command  <{137 Coracoid_plate absent present_and_extends_ventromedially>
+>skipping unsupported (or wrong) TNT command  <{138 Pectoral_fin_radials only_preaxial_and_terminal preaxial_and_postaxial_radials_in_distal_part_of_fin,_only_preaxials_in_proximal_part symmetrical_array_of_preaxial_and_postaxial_radials>
+>skipping unsupported (or wrong) TNT command  <{139 Shape_of_ectepicondyle rounded elongate_parallel-sided_ridge>
+>skipping unsupported (or wrong) TNT command  <{140 Entepicondyle_size entepicondyle_narrow_relative_to_humerus_shaft_length entepicondyle_as_broad_as_or_broader_than_humerus_is_long>
+>skipping unsupported (or wrong) TNT command  <{141 Body_of_humerus cylindrical flattened_rectangular>
+>skipping unsupported (or wrong) TNT command  <{142 Caput_humeri flat_to_convex ball_with_neck>
+>skipping unsupported (or wrong) TNT command  <{143 Area_proximal_to_radial_facet short,_cylindrical_leading_edge,_with_no_muscle_scars enlarged,_sharp_leading_edge,_with_areas_for_muscle_attachments>
+>skipping unsupported (or wrong) TNT command  <{144 Shape_of_entepicondyle narrow._finger-like broad_rectangular_plate>
+>skipping unsupported (or wrong) TNT command  <{145 Discrete_pectoral_process_on_ventral_ridge_of_humerus absent present>
+>skipping unsupported (or wrong) TNT command  <{146 Postaxial_process_on_ulnare present absent>
+>skipping unsupported (or wrong) TNT command  <{147 Pectoral_fin_radials jointed unjointed>
+>skipping unsupported (or wrong) TNT command  <{148 Radial_length longer_than_humerus equal_to_or_shorter_than_humerus>
+>skipping unsupported (or wrong) TNT command  <{149 Shape_of_radius bladelike subcylindrical>
+>skipping unsupported (or wrong) TNT command  <{150 Termination_of_radius radius_and_intermedium_terminate_at_different_levels radius_and_intermedium_terminate_at_same_level>
+>skipping unsupported (or wrong) TNT command  <{151 Digits absent present>
+>skipping unsupported (or wrong) TNT command  <{152 Dorsal_and_anal_fins present absent>
+>skipping unsupported (or wrong) TNT command  <{153 Caudal_fin heterocercal triphycercal diphycercal>
+>skipping unsupported (or wrong) TNT command  <{154 Epichordal_radials_in_caudal_fin absent present>
+>skipping unsupported (or wrong) TNT command  <{155 Well_ossified_ribs absent present>
+>skipping unsupported (or wrong) TNT command  <{156 Expanded_ribs absent present>
+>skipping unsupported (or wrong) TNT command  <{157 Imbricate_ribs absent present>
+>skipping unsupported (or wrong) TNT command  <{158 Sacrum absent present>
+>skipping unsupported (or wrong) TNT command  <{159 Intercenta_fused_to_solid_ring no yes>
+>skipping unsupported (or wrong) TNT command  <{160 Ossified_supraoccipital_plug_for_the_attachment_of_the_supraneural_ligament present absent>
+>skipping unsupported (or wrong) TNT command  <{161 Scales rhombic intermediate_between_rhombic_and_round round>
+>skipping unsupported (or wrong) TNT command  <{162 Median_boss_on_round_scale present absent>
+>skipping unsupported (or wrong) TNT command  <{163 Long_basal_segments_of_lepidotrichia_in_pectoral_fin no yes>
+>skipping unsupported (or wrong) TNT command  <{164 Basal_scutes_on_fins absent present>
+>skipping unsupported (or wrong) TNT command  <{165 Pore-canal_network absent present>
+>skipping unsupported (or wrong) TNT command  <{166 Enamel_lining_of_pore_canals absent present>
+>skipping unsupported (or wrong) TNT command  <{167 Rostral_tubuli absent present>
+>skipping unsupported (or wrong) TNT command  <{168 Plicidentine absent simple_or_generalized_polyplocodont labyrinthodont dendrodont>
+>skipping unsupported (or wrong) TNT command  <{169 Postspiracular absent present>
+>skipping unsupported (or wrong) TNT command  <{170 Posterior_carotid_opening_in_parasphenoid large small>
+>skipping unsupported (or wrong) TNT command  <{171 Interclavicle_ornamentation unornamented ornamented>
+>skipping unsupported (or wrong) TNT command  <{172 Choana absent present>
+>skipping unsupported (or wrong) TNT command  <{173 Anocleithrum exposed subdermal>
+>skipping unsupported (or wrong) TNT command  <{174 Archipterygial_pectoral_fins no yes>
+>skipping unsupported (or wrong) TNT command  <{175 Submandibulars present absent>
+>skipping unsupported (or wrong) TNT command  <{176 Gular present absent>
+>skipping unsupported (or wrong) TNT command  <{177 Contact_between_postorbital_and_lacrimal absent present>
+>skipping unsupported (or wrong) TNT command  <{178 Contact_between_postfrontal_and_supratemporal no yes>
+>skipping unsupported (or wrong) TNT command  <{179 Transverse_joint_at_the_level_of_the_ulnare,_intermedium_and_radius absent present>
+>skipping unsupported (or wrong) TNT command  <{180 Branched_radials_(A4)_distal_to_the_ulnare absent present>
+>skipping unsupported (or wrong) TNT command  <{181 Olecranon_process_on_ulna absent present>
+>skipping unsupported (or wrong) TNT command  <{182 Radial_facet faces_distally has_some_ventrally_directed_component>
+>skipping unsupported (or wrong) TNT command  <{183 Ulnar_facet faces_distally has_some_ventrally_directed_component>
+>skipping unsupported (or wrong) TNT command  <{184 Glenoid_position elevated_from_plane_formed_by_clavicles offset_ventrally_to_lie_at_same_level_as_clavicular_plane>
+>skipping unsupported (or wrong) TNT command  <{185 Glenoid_orientation posterior_orientation lateral_component_to_glenoid_orientation>
+>skipping unsupported (or wrong) TNT command  <{186 Premaxillary_tooth_proportions all_approximately_same_size enlarged_anterior_tooth posteriormost_teeth_at_least_twice_height_of_anteriormost_teeth>
+>skipping unsupported (or wrong) TNT command  <{187 Anocleithrum oblong_with_distinct_anterior_overlap_area drop-shaped_with_no_anterior_overlap_area absent>
+>skipping unsupported (or wrong) TNT command  <{188 Glenoid_proportions height/width_ratio_60%_or_greater height/width_ratio_40-50%>
+>skipping unsupported (or wrong) TNT command  <{189 Interclavicle_shape ovoid kite-shape kite-shape_with_posterior_stalk>
+>skipping unsupported (or wrong) TNT command  <{190 Deltoid_and_supinator_process_on_humerus absent present>
+>skipping unsupported (or wrong) TNT command  <{191 Anterior_termination_of_ventral_ridge adjacent_to_the_caput_humeri offset_distally_toward_the_proximodistal_mid-region_of_anterior_margin_of_humerus>
+>skipping unsupported (or wrong) TNT command  <{192 Radius_and_ulna radius_much_longer_than_ulna approximately_equal_length>
+>skipping unsupported (or wrong) TNT command  <{193 Lepidotrichia_in_paired_appendages present absent>
+>skipping unsupported (or wrong) TNT command  <{194 Ribs,_trunk no_longer_than_diameter_of_intercentrum longer>
+>skipping unsupported (or wrong) TNT command  <{195 Ribs,_trunk all_cylindrical some_or_all_bear_flanges_from_posterior_margin_which_narrow_distally some_or_all_flare_distally>
+>skipping unsupported (or wrong) TNT command  <{196 Supraneural_spines present absent>
+>skipping unsupported (or wrong) TNT command  <{197 Number_of_transverse_flexion_(distal_to_ulnare)_ 1-2_rows 3_rows 4_rows 5-6_rows>
+>skipping unsupported (or wrong) TNT command  <{198 Number_radials_articulating_on_ulnare 0-2_radials 3-4_radials 5_radials>
+>skipping unsupported (or wrong) TNT command  <{199 Number_of_digits five_or_less more_than_five>
+>skipping unsupported (or wrong) TNT command  <{200 Radiale absent small_(approximately_one_fith_the_length_of_the_radius) large_(approximately_half_the_length_of_the_radius)>
+>skipping unsupported (or wrong) TNT command  <{201 Tabular_horn absent present>
+>skipping unsupported (or wrong) TNT command  <{202 Vestibular_fontanelle_and_basicranial_fenestra absent present>
+>skipping unsupported (or wrong) TNT command  <{203 Anocleithrum absent present>
+ccode> invalid character '*'
+ccode>-< ==> no character codes have been changed
+ccode 
+  [-/1 0.203;
+import tnt>-< error '-1' in TNT file 'Cloutier2020.tnt'
+import tnt> closing TNT file 'Cloutier2020.tnt'
+
+current dataset has 204 characters and 42 terminals
+>-< characters properties set>-< characters properties set
+  [-/1 1.204;
+characters properties set
+  <16 !1 17>
+  <21 !1 22>
+  <29 30>
+  <31 !1 32 33>
+  <70 !1 171>
+  <93 94 95>
+  <97 100>
+  <152 200>
+  <166 167>
+  <203 44>
+  <204 174>;
+>-< trees search mult> doing 50 replicates with tbr swapping
+rep 1    score 468   (random addition sequence, seed 0)                      [120 trees, best score 468, 1 rep hit 468]
+rep 2    score 464   (random addition sequence, seed 135970091)              [24 trees, best score 468, 1 rep hit 468]
+rep 3    score 464   (random addition sequence, seed 1476977750)             [24 trees, best score 464, 1 rep hit 464]
+rep 4    score 468   (random addition sequence, seed 897261750)              [24 trees, best score 464, 1 rep hit 464]
+rep 5    score 464   (random addition sequence, seed 2145337423)             [24 trees, best score 464, 2 reps hit 464]
+rep 6    score 468   (random addition sequence, seed 1005832234)             [24 trees, best score 464, 2 reps hit 464]
+rep 7    score 464   (random addition sequence, seed 1142968193)             [24 trees, best score 464, 3 reps hit 464]
+rep 8    score 464   (random addition sequence, seed 285706151)              [24 trees, best score 464, 4 reps hit 464]
+rep 9    score 464   (random addition sequence, seed 1406218754)             [24 trees, best score 464, 5 reps hit 464]
+rep 10   score 468   (random addition sequence, seed 567098904)              [24 trees, best score 464, 5 reps hit 464]
+rep 11   score 468   (random addition sequence, seed 1097472369)             [24 trees, best score 464, 5 reps hit 464]
+rep 12   score 464   (random addition sequence, seed 1466642627)             [24 trees, best score 464, 6 reps hit 464]
+rep 13   score 464   (random addition sequence, seed 1567696242)             [24 trees, best score 464, 7 reps hit 464]
+rep 14   score 464   (random addition sequence, seed 606595155)              [24 trees, best score 464, 8 reps hit 464]
+rep 15   score 468   (random addition sequence, seed 1445524860)             [24 trees, best score 464, 8 reps hit 464]
+rep 16   score 464   (random addition sequence, seed 1403315529)             [24 trees, best score 464, 9 reps hit 464]
+rep 17   score 471   (random addition sequence, seed 824525457)              [24 trees, best score 464, 9 reps hit 464]
+rep 18   score 464   (random addition sequence, seed 1734105587)             [24 trees, best score 464, 10 reps hit 464]
+rep 19   score 464   (random addition sequence, seed 342699771)              [24 trees, best score 464, 11 reps hit 464]
+rep 20   score 464   (random addition sequence, seed 1132639684)             [24 trees, best score 464, 12 reps hit 464]
+rep 21   score 468   (random addition sequence, seed 1480372940)             [24 trees, best score 464, 12 reps hit 464]
+rep 22   score 468   (random addition sequence, seed 677148623)              [24 trees, best score 464, 12 reps hit 464]
+rep 23   score 464   (random addition sequence, seed 1636558520)             [24 trees, best score 464, 13 reps hit 464]
+rep 24   score 464   (random addition sequence, seed 2110787230)             [24 trees, best score 464, 14 reps hit 464]
+rep 25   score 464   (random addition sequence, seed 1909821953)             [24 trees, best score 464, 15 reps hit 464]
+rep 26   score 464   (random addition sequence, seed 1570016200)             [24 trees, best score 464, 16 reps hit 464]
+rep 27   score 471   (random addition sequence, seed 1029300360)             [24 trees, best score 464, 16 reps hit 464]
+rep 28   score 471   (random addition sequence, seed 648696434)              [24 trees, best score 464, 16 reps hit 464]
+rep 29   score 464   (random addition sequence, seed 586654657)              [24 trees, best score 464, 17 reps hit 464]
+rep 30   score 468   (random addition sequence, seed 2042706055)             [24 trees, best score 464, 17 reps hit 464]
+rep 31   score 464   (random addition sequence, seed 1223125281)             [24 trees, best score 464, 18 reps hit 464]
+rep 32   score 464   (random addition sequence, seed 1437309499)             [24 trees, best score 464, 19 reps hit 464]
+rep 33   score 464   (random addition sequence, seed 396541117)              [24 trees, best score 464, 20 reps hit 464]
+rep 34   score 464   (random addition sequence, seed 685218564)              [24 trees, best score 464, 21 reps hit 464]
+rep 35   score 464   (random addition sequence, seed 1009749506)             [24 trees, best score 464, 22 reps hit 464]
+rep 36   score 464   (random addition sequence, seed 1298321667)             [24 trees, best score 464, 23 reps hit 464]
+rep 37   score 466   (random addition sequence, seed 120398140)              [24 trees, best score 464, 23 reps hit 464]
+rep 38   score 464   (random addition sequence, seed 1416782437)             [24 trees, best score 464, 24 reps hit 464]
+rep 39   score 464   (random addition sequence, seed 1950862650)             [24 trees, best score 464, 25 reps hit 464]
+rep 40   score 466   (random addition sequence, seed 825015787)              [24 trees, best score 464, 25 reps hit 464]
+rep 41   score 464   (random addition sequence, seed 1853008932)             [24 trees, best score 464, 26 reps hit 464]
+rep 42   score 464   (random addition sequence, seed 1779959165)             [24 trees, best score 464, 27 reps hit 464]
+rep 43   score 468   (random addition sequence, seed 1033399198)             [24 trees, best score 464, 27 reps hit 464]
+rep 44   score 464   (random addition sequence, seed 1244166021)             [24 trees, best score 464, 28 reps hit 464]
+rep 45   score 468   (random addition sequence, seed 1752707427)             [24 trees, best score 464, 28 reps hit 464]
+rep 46   score 464   (random addition sequence, seed 2129038857)             [24 trees, best score 464, 29 reps hit 464]
+rep 47   score 464   (random addition sequence, seed 948704860)              [24 trees, best score 464, 30 reps hit 464]
+rep 48   score 464   (random addition sequence, seed 2070973670)             [24 trees, best score 464, 31 reps hit 464]
+rep 49   score 464   (random addition sequence, seed 1561573850)             [24 trees, best score 464, 32 reps hit 464]
+rep 50   score 464   (random addition sequence, seed 2104783887)             [24 trees, best score 464, 33 reps hit 464]
+>-< trees consense strict> invalid or trailing input at position 24: 
+>-< trees consense strict write f Anacontree-C2020.tre
+>-<                        |
+>-< trees consense strict> strict consensus tree of all trees (24)
+
+┌─ Diabolepis
+├─ Youngolepis
+└─44─┬─ Kenichthys
+     ├─ Tungsenia
+     ├─47─┬─ Powichthys
+     │    └─48─┬─ Glyptolepis
+     │         └─ Porolepis
+     └─49─┬─50─┬─ Barameda
+          │    ├─ Gooloogongia
+          │    ├─ Hongyu
+          │    ├─ Sauripterus
+          │    ├─ Screbinodus
+          │    └─55─┬─ Rhizodus
+          │         └─ Strepsodus
+          └�

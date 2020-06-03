@@ -1,0 +1,13 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Sat May 30 12:59:35 2020]
+[!
+>Consensus of 880 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Tree(s) input to PAUP* as user-defined tree(s)
+>
+>880 trees read from TREES block; time used = 7.68 sec (CPU time = 0.05 sec)
+]
+	tree Strict = [&U] (Osmundastrum_cinnamomeum,((Danaea_sellowiana,Christensenia_aesculifolia,Marattiopsis_asiatica,(Angiopteris_blackii,Angiopteris_evecta,Angiopteris_angustifolia),Marattiopsis_aganzhenensis,Marattiopsis_anglica,Marattiopsis_patagonica,Marattia_laxa,Ptisana_novoguineensis,(Marattia_cicutifolia,(Eupodium_kaulfussii,Marattiopsis_vodrazkae)),(Qasimia_schyfsmae,Qasimia_lanceolata)),(((Gemellitheca_saudica,Buritiranopteris_costata,(Acaulangium_bulbaceum,Scolecopteris_minor,Scolecopteris_antarctica,Scolecopteris_globiforma,(Scolecopteris_gnoma,(Scolecopteris_mamayi,(Scolecopteris_latifolia,Scolecopteris_calicifolia))),Scolecopteris_illinoensis,Scolecopteris_majopsis,Araiangium_pygmaeum,Grandeuryella_renaultii,(Zhutheca_densata,Taiyuanitheca_tetralinea),Pectinangium_lanceolatum,Eoangiopteris_goodii,Eoangiopteris_andrewsii,Acitheca_polymorpha,Acitheca_adaensis)),(Millaya_tularosana,Danaeites_rigida)),(Radstockia_kidstonii,Sydneia_manleyi))),(Danaeopsis_marantacea,(Danaeopsis_fecunda,Marantoidea_acara)));
+end;

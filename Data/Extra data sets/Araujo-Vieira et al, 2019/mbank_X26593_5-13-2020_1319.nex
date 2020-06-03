@@ -1,0 +1,1174 @@
+#NEXUS
+
+[ File output by Morphobank v3.0 (http://www.morphobank.org); 2020-05-13 13.19.15 ]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX=27;
+	TAXLABELS
+		'Phyllodytes luteolus'
+		'Dendropsophus elegans'
+		'Dendropsophus microps'
+		'Dendropsophus minutus'
+		'Dendropsophus sanborni'
+		'Pseudis minuta'
+		'Scarthyla goinorum'
+		'Scinax alter'
+		'Scinax catharinae'
+		'Scinax fuscovarius'
+		'Scinax perpusillus'
+		'Xenohyla truncata'
+		'Sphaenorhynchus botocudo'
+		'Sphaenorhynchus bromelicola'
+		'Sphaenorhynchus cammaeus'
+		'Sphaenorhynchus canga'
+		'Sphaenorhynchus caramaschii'
+		'Sphaenorhynchus carneus'
+		'Sphaenorhynchus dorisae'
+		'Sphaenorhynchus lacteus'
+		'Sphaenorhynchus mirim'
+		'Sphaenorhynchus platycephalus'
+		'Sphaenorhynchus palustris'
+		'Sphaenorhynchus pauloalvini'
+		'Sphaenorhynchus planicola'
+		'Sphaenorhynchus prasinus'
+		'Sphaenorhynchus surdus'
+	;
+ENDBLOCK;
+
+
+
+BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=193;
+	FORMAT DATATYPE=STANDARD MISSING=? GAP=- SYMBOLS="01234567";
+
+	CHARLABELS
+		 [1] 'Medial relation nasals'
+		 [2] 'Anterior angular process'
+		 [3] 'Relantionship between Mxlry. proc. of nasal and the post. wall and pl. antor.'
+		 [4] 'Relation between nasal and sphenotmoid'
+		 [5] 'Exposure of the frontoparietal fontanelle'
+		 [6] 'Posterior portion of the internal margins of frontoparietals'
+		 [7] 'Tectum Synoticum'
+		 [8] 'Medial projection of the post margin of the exocciptalis'
+		 [9] 'Lamina perpendicularis'
+		 [10] 'Degree of anterior ossification of the Sphenothmoid'
+		 [11] 'Nature of the crista supraorbitalis'
+		 [12] 'Relative length of the crista supraorbitalis'
+		 [13] 'Maximum height of the par facialis of the maxilla'
+		 [14] 'Posterior extension of maxilla'
+		 [15] 'Maxillary and Premaxillary teeth'
+		 [16] 'Structure of the maxillary and premaxillary teeth'
+		 [17] 'Percentage of the maxilla edentate'
+		 [18] 'Relation between m,axilla and premaxilla'
+		 [19] 'Width of the base of alary process of the premaxilla'
+		 [20] 'Orientation of the premaxilla'
+		 [21] 'Lateral orientation of the alary process of the premaxilla'
+		 [22] 'Portion of the pars dentalis of the premaxilla with teeth'
+		 [23] 'Degree od anterior extension of the quadratojugal'
+		 [24] 'Quadratojugal-squamosal relationship'
+		 [25] 'Zygomatic ramus of the squamosal'
+		 [26] 'Relative length of the zygomatic ramus of the squamosal'
+		 [27] 'Otic ramus of the squamosal'
+		 [28] 'Shape of the otic ramus of the squamosal in lateral view'
+		 [29] 'Relation between otic ramus and ossified portion of the crista parotica'
+		 [30] 'Orientation of mediodistal portion of the medial ramus of the pterygoid'
+		 [31] 'Length of the posterior ramus of the pterygoid'
+		 [32] 'Denigerous process of the vomer'
+		 [33] 'Development of the dentigerous process of the vomer'
+		 [34] 'Relationship between dentigerous process and prechoanal/postchoanal processes'
+		 [35] 'Relationship between dentigerous process and m.body of vomer'
+		 [36] 'Medial contact between dentigerous process'
+		 [37] 'Vomerine teeth'
+		 [38] 'Structure of the vomerine teeth'
+		 [39] 'Medial portion of the anterior process of vomers that covers the solum nasi'
+		 [40] 'Arrangement of the vomerine teeth on the dentigerous process'
+		 [41] 'Relative length of the palatines'
+		 [42] 'Relative length of the cultriform process'
+		 [43] 'Shape of the anterior portion of the cultriform process'
+		 [44] 'Relative length of the posteromedial process of the parasphenoid'
+		 [45] 'Relative length of the alary process of the parasphenoid'
+		 [46] 'Posterolateral process of the crista parotica'
+		 [47] 'Shape of the tympanic annulus'
+		 [48] 'Shape of the pars externa plectri'
+		 [49] 'Relation between pars externa plectri and tympanic annulus'
+		 [50] 'Orientation of the pars media plectri with respect to the transversal skull axis'
+		 [51] 'Expansion of distal protion of the pars media plectri'
+		 [52] 'Medial end of the pars media plectri'
+		 [53] 'Relationship between the pars interna plectri and operculum'
+		 [54] 'Mineralization of the pars interna plectri'
+		 [55] 'Coronoid process'
+		 [56] 'Relationship between angulosplenail and dentary'
+		 [57] 'Nature of the connection between superior prenasal and alary cartilages'
+		 [58] 'Shape of the alary cartilage'
+		 [59] 'Contact point of the inferior prenasal cartilage on the alary process of the maxilla'
+		 [60] 'Orientation of the portion of the inferior prenasal cartilage that articulate with the soolum nasi'
+		 [61] 'Shape of the median prenasal process of the septum nasi'
+		 [62] 'Relative length of the medial prenasal process of the septum nasi'
+		 [63] 'Cartilaginous lamina that extends from cartilaginous branch to inferior margin of the oblique cartilage'
+		 [64] 'Connection between lamina nariochoanalis and postnasal wall'
+		 [65] 'Anterior process of the hyale'
+		 [66] 'Shape of anterior process of the hyale'
+		 [67] 'Shape of anterolateral process'
+		 [68] 'Relative length of the posterolateral process in males'
+		 [69] 'Shape of the hyoglossal sinus'
+		 [70] 'Hyale'
+		 [71] 'Maximum Height fo the hyoid plate'
+		 [72] 'Point of attachment of hyale to the skull'
+		 [73] 'Esophageal process in males'
+		 [74] 'Orientation of the esophageal process'
+		 [75] 'Shape of the cardiac process'
+		 [76] 'Internal butresses od arytenoid'
+		 [77] 'Number of internal burtresses od the arytenoids'
+		 [78] 'Rod of cartilage supporting each end of the vocal chord'
+		 [79] 'Fibrous masses'
+		 [80] 'Shape of the fibrous masses'
+		 [81] 'Carilaginous process of arytenoid supporting the frenulum'
+		 [82] 'Length of coracoids'
+		 [83] 'Length of Clavicles'
+		 [84] 'Length of the scapulas'
+		 [85] 'Anterior margins of the scapula'
+		 [86] 'Anterior process of the suprascapula'
+		 [87] 'Relative expansion of the pars acromialis'
+		 [88] 'Shape of the distal portion of the sternum'
+		 [89] 'Distal portion of the omeosternum'
+		 [90] 'Relative length of the base of omeosternum'
+		 [91] 'Orientation of the transverse process of presacral vertebra II'
+		 [92] 'Relative length of the transverse process of presacral vertebra IV'
+		 [93] 'Orientation of the transverse process of presacral vertebra VI'
+		 [94] 'Orientation of the transverse process od presacral VII'
+		 [95] 'Contact between presacral II and III'
+		 [96] 'Expansion of the sacral diapophysis'
+		 [97] 'Shape of the iliac arch'
+		 [98] 'Number of distal prepollical elements'
+		 [99] 'Shape of the first distal prepollical element'
+		 [100] 'Longitudinal axis of the terminal phalange'
+		 [101] 'Shape of the intercalary elemen between ultiamate and penultimate phalanges'
+		 [102] 'Mineralization of intercalary elements between ultimate and penultimate phalanges'
+		 [103] 'Preaxial dilatation of the mecarpal IV'
+		 [104] 'Contact between proximal portions of the metatarsi IV and V'
+		 [105] 'Number of distal elements to the prehallux'
+		 [106] 'Preaxial dilatation on metatarsal I'
+		 [107] 'Vocal sac structure'
+		 [108] 'Orientation of nostrils'
+		 [109] 'Black lateral line'
+		 [110] 'White lateral line'
+		 [111] 'White canthal line'
+		 [112] 'White dorsolateral line'
+		 [113] 'Longitudinal white line under eye'
+		 [114] 'Tympanic membrane'
+		 [115] 'Nature of nuptial pad on finger'
+		 [116] 'Coloration of nuptial pad with epidermal projections on Finger II'
+		 [117] 'Relative size of the epidermal projections of the nuptial pads'
+		 [118] 'Subcloacal ornamentation'
+		 [119] 'Ornamentation on the ventral surface'
+		 [120] 'Cloacal sheath'
+		 [121] 'Dermal ornamentation on forearm'
+		 [122] 'Dermal ornamentation on elbow'
+		 [123] 'Internal dermal fold on tarsus'
+		 [124] 'External dermal ornamentation on tarsus'
+		 [125] 'Dermal ornamentation on heel'
+		 [126] 'Supratympanic fold'
+		 [127] 'Shape of the adhesive disc on hands'
+		 [128] 'Degree of the preaxial webbing of Finger IV'
+		 [129] 'Degree of the postaxial webbing of Finger IV'
+		 [130] 'Degree of webbing between Toes I and II'
+		 [131] 'Degree of the preaxial webbing of Toe IV'
+		 [132] 'Degree of the postaxial webbing of Toe IV'
+		 [133] 'Position of the nostrils with respect to the main body axis'
+		 [134] 'Fleshy flanges on internal margins of the nostrils'
+		 [135] 'Position of the oral disc'
+		 [136] 'Submarginal papillae of the oral disc'
+		 [137] 'Marginal Papillae of the oral disc'
+		 [138] 'Ventral gap in the row of marginal papillae of the oral disc'
+		 [139] 'Anterior teeth rows'
+		 [140] 'Number of the anterior teeth rows'
+		 [141] 'Posterior teeth rows'
+		 [142] 'Number of the posterior teeth rows'
+		 [143] 'Gap in the first posterior teeth rows'
+		 [144] 'Relative length of the spiracle'
+		 [145] 'Dark pigmentation on ventral surface of proctodeal tube'
+		 [146] 'Direction of the opening of the vent tube'
+		 [147] 'Apical supplementary element of the m. intermandibularis'
+		 [148] 'Relationship between  m. Intermandibularis and m.submentalis'
+		 [149] 'Medial raphe of the m. intermandibularis'
+		 [150] 'Medial aponeurosis of the m. intermandibularis'
+		 [151] 'Medial portion of the m. Interhyoideus'
+		 [152] 'Relative degree of anterior development of the m. Interhyoideus'
+		 [153] 'Posterior extension of the fold of the m. interhyoideus fold'
+		 [154] 'Origin of the m. genohyoideus lateralis'
+		 [155] 'Number of slips of the m. genohyoideus lateralis'
+		 [156] 'Insertion of the internal part of the m. genohyoideus lateralis'
+		 [157] 'M. petrohyoideus anterior'
+		 [158] 'Disposition of the fibers of the m. petrohyoideus anterior'
+		 [159] 'Insertion of the branch I  of the m. petrohyoideus posterior'
+		 [160] 'Number of insertion of the branch III  of the m. petrohyoideus posterior'
+		 [161] 'Insertion of the m. sternohyoideus'
+		 [162] 'Pars dorsalis of the m. sternohyoideus'
+		 [163] 'Insertions of pars dorsalis of the m. sternohyoideus'
+		 [164] 'Relationship between the main body of the m. hyoglossus and the posteromedial process of the hyoid.'
+		 [165] 'Origin of medial segment of the m. hioglossus'
+		 [166] 'Inflected fibers  of the m. genioglossus'
+		 [167] 'M. lumbricalis brevis digiti IV, lateral slip (LBBIV lateral)'
+		 [168] 'Origin of the m. lumbricalis brevis digiti V, lateral slip (LBBV lateral)'
+		 [169] 'Origin of the m. flexor teres digiti V (FT V).'
+		 [170] 'Burtons ligament'
+		 [171] 'Insertion of the medial branch of the extensor digitorum comunis longus (EDCL) on the basal phalange'
+		 [172] 'Insertion of the postaxial branch of the extensos digitorum comunis longus (EDCL) on fascia'
+		 [173] 'EBD 2 medial slip'
+		 [174] 'EBP 2: origin from DC 2'
+		 [175] 'EBD 4 medial slip'
+		 [176] 'EBP 5 medial: accessory slip form M4'
+		 [177] 'M. flexor teres hallucis'
+		 [178] 'FM 2: origin from DT2-3 (or DT3)'
+		 [179] 'FM 4 and TM 4: distal end of FM IV dorsal to TM 4'
+		 [180] 'FM 4 and TM 4: distal end of FM IV ventral to TM 4'
+		 [181] 'LB 5 medial: additional insertion onto metatarsus 5'
+		 [182] 'FDB: structure of the tendon of insertion'
+		 [183] 'Origin of TVP from DT2-3'
+		 [184] 'EC: insertion on digiti 2'
+		 [185] 'ESH: insertion lateral fibers on medial region of basal phalanx 2 via tendon'
+		 [186] 'EBS 3: insertion on M3'
+		 [187] 'EBD II lateral'
+		 [188] 'EBD 5 lateral'
+		 [189] 'EBD 5 lateral: lenght of fibers'
+		 [190] 'Origin of the m. pectoralis portio abdominalis'
+		 [191] 'White parietal peritoneum'
+		 [192] 'Oviposition site'
+		 [193] 'Number of Chromosomes'
+	;
+
+	STATELABELS
+		1
+		'Widely separated'
+		'Slightly separated'
+		'Juxtaposed to septum nasi'
+		,
+		2
+		'Absent'
+		'Present'
+		,
+		3
+		'Betw post and planum antor'
+		'Surpasses the planum anto'
+		,
+		4
+		'Nonverlapping'
+		'Overlapping'
+		,
+		5
+		'Almost comple exposed'
+		'Narrow space'
+		,
+		6
+		'Roughly stright margins'
+		'Irregularly idented'
+		'Keyhole-like fenestra'
+		'Juxtaposed'
+		'Fused medially'
+		,
+		7
+		'Cartilaginous'
+		'Partially Ossified'
+		'Entirely Ossified'
+		,
+		8
+		'Absent'
+		'Present'
+		,
+		9
+		'Poorly developed'
+		'Well-developed'
+		,
+		10
+		'Not incorporating'
+		'Only the base'
+		'Incorporate at least the half of the septum nasi'
+		,
+		11
+		'Separated'
+		'Continuous'
+		,
+		12
+		'Extremely short'
+		'Short 1/3'
+		'Moderately  1/2'
+		'Elongate 2/3'
+		,
+		13
+		'Reduced 1-1.2 x'
+		'Develop. 2x'
+		'Well develop. 3x'
+		,
+		14
+		'Reduced 1/2 of X'
+		'Mod. developed  2/3 of X'
+		'Develop.  5/6 of X'
+		'Surpasses  5/6 of  X'
+		,
+		15
+		'Absent'
+		'Present'
+		,
+		16
+		'Pedicellate'
+		'Co-occurence of Pedicellate and non pedicellate'
+		,
+		17
+		'Maxilla dentate 95%'
+		'Maxilla edentate 10-25%'
+		'Maxilla edentate 35-40%'
+		'Maxilla edentate 55-80%'
+		'Maxilla edentate in 95%'
+		,
+		18
+		'Not overlapping'
+		'Overlaps'
+		,
+		19
+		'Narrow 1/3'
+		'Intermediate 1/2'
+		'Wider 2/3'
+		,
+		20
+		'Directed anteriorly'
+		'Directed dorsally'
+		,
+		21
+		'Directed laterally'
+		'Directed dorsally'
+		'Directed medially'
+		,
+		22
+		'Teeth separated'
+		'Teeth present in all par dentalis'
+		,
+		23
+		'Extremely short'
+		'Short  1/ 6 of X'
+		'Elongate 1/5-1/3 of X'
+		,
+		24
+		'Separate'
+		'Articulate'
+		,
+		25
+		'Absent'
+		'Present'
+		,
+		26
+		'Extremely short 1-1.5 x'
+		'Short  2.2-2.4 x'
+		'Mod. elongate 3.2-3.6 x'
+		'Elongate 4.8-5.8 x'
+		,
+		27
+		'Absent'
+		'Present'
+		,
+		28
+		'SubCuneiform'
+		'Square'
+		'Rectangular'
+		,
+		29
+		'Broad gap'
+		'Narrow gap/juxtaposed/Overlapping'
+		,
+		30
+		'Directed posteromedially'
+		'Directed posterolaterally'
+		,
+		31
+		'Extremely short'
+		'Short 1/2'
+		'Mod. long 3/4'
+		'Elongate. Reaches the distal portion'
+		,
+		32
+		'Absent'
+		'Present'
+		,
+		33
+		'Extremely reduced'
+		'Differentiated > 3 teeth'
+		,
+		34
+		'Between pre/postchoanal'
+		'Medially to postchoanal'
+		'Posteriorly to postchoanal'
+		,
+		35
+		'Separated of the vomer'
+		'Contiguous by constriction'
+		'Continuous to vomer'
+		,
+		36
+		'Not in contact'
+		'In contact'
+		,
+		37
+		'Absent'
+		'Present'
+		,
+		38
+		'Non pedicellate'
+		'Pedicellate'
+		,
+		39
+		'Absent'
+		'Present'
+		,
+		40
+		'Irregular'
+		'Arranged in a contiuous row'
+		,
+		41
+		'Ossified slivers'
+		'Overlap 3/4 of the planum antorbitale'
+		'Overlap the planum antorbitale'
+		'Reach the lateral portion of the sphenethmoid'
+		'Reach the neurocranial portion'
+		,
+		42
+		'At the level of orbitonasal foramen'
+		'Posterior to the orbitonasal foramen'
+		,
+		43
+		'Triangular'
+		'Rounded'
+		'Identated'
+		'Truncated'
+		,
+		44
+		'Extremely reduced'
+		'Shorter than 1/2'
+		'Reaching the 1/2'
+		,
+		45
+		'Ext. short .Do not reach the condyloid fossa'
+		'Short. At level of condyloid fossa'
+		'Elongate. Surpasses the condyloid fossa'
+		,
+		46
+		'Absent'
+		'Present'
+		,
+		47
+		'Shallow'
+		'Deep and expanded internally'
+		,
+		48
+		'Not expanded Cylindrical'
+		'Mediodistal expanded'
+		'Completely expanded'
+		,
+		49
+		'Entering dorsal'
+		'Entering posterior'
+		,
+		50
+		'Directed ventrally'
+		'Directed dorsally'
+		,
+		51
+		'Expanded 2x'
+		'Slightly expanded 1.2-1.3 x'
+		'Unexpanded'
+		,
+		52
+		'Reduced'
+		'Dilated'
+		,
+		53
+		'Occupies the dorsal portion'
+		'Occupies a small space'
+		,
+		54
+		'Minealized'
+		'Partially mineralized'
+		'Not mineralized'
+		,
+		55
+		'Absent'
+		'Small projection'
+		'Prominent projection'
+		,
+		56
+		'In contact or adjacent'
+		'Not in contact'
+		,
+		57
+		'Separated by unchondrified tissue'
+		'Synchondroticaly fused'
+		,
+		58
+		'Rectangular'
+		'Square'
+		,
+		59
+		'Located on the basal portion'
+		'Located on the middle'
+		,
+		60
+		'Oriented mediolaterally'
+		'Oriented laterally'
+		,
+		61
+		'Subcylindrical'
+		'Subtriangular'
+		'Triangular'
+		'Rounded'
+		,
+		62
+		'At the level of the alay process'
+		'Surpassing the alary process'
+		,
+		63
+		'Absent'
+		'Present'
+		,
+		64
+		'Connected to the postnasal wall'
+		'Not connected to the postnasal wall'
+		,
+		65
+		'Absent'
+		'Present'
+		,
+		66
+		'Slender'
+		'Dendriform'
+		'Laminar'
+		,
+		67
+		'Not distally expanded'
+		'Expanded distally'
+		'Laminar'
+		,
+		68
+		'Short 6-6.5 x'
+		'Mode. long 3-3.5 x'
+		'Elongate 2-2.5 x'
+		,
+		69
+		'U-shaped'
+		'V-shaped'
+		'Rectangular'
+		'Round'
+		,
+		70
+		'Straight'
+		'Curved medially'
+		,
+		71
+		'1/6 of the minimum width'
+		'1/3-2/3 of the minimum width'
+		'1-1.3x the minimum width'
+		,
+		72
+		'To the basal process'
+		'To the limit between basal process and otic capsule'
+		'To the otic capsule'
+		,
+		73
+		'Absent'
+		'Present'
+		,
+		74
+		'Directed ventrally'
+		'Directed dorsally'
+		'Directed posteriorly'
+		'Directed obliquely'
+		,
+		75
+		'Subcylindrical. Widht similar'
+		'Laminar. Medial projection'
+		'Laminar. Width similar'
+		'Laminar. Wider than adjacent parts'
+		'U-shaped'
+		,
+		76
+		'Absent'
+		'Present'
+		,
+		77
+		'One, medial'
+		'Three, medial and distal thisrds'
+		,
+		78
+		'Absent'
+		'Present'
+		,
+		79
+		'Not chondrified'
+		'Partially mineralized'
+		'Chondrified'
+		,
+		80
+		'Subtriangular'
+		'Elongate'
+		,
+		81
+		'Absent'
+		'Present'
+		,
+		82
+		'Short  0.10-0.14x'
+		'Elongate at least  0.17x'
+		,
+		83
+		'Short  0.08-0.10x'
+		'Elongate at least  0.15x'
+		,
+		84
+		'Short 1.15-1.4 x'
+		'Elongate 1.75-2.20x'
+		,
+		85
+		'Concave'
+		'Oblique'
+		,
+		86
+		'Absent'
+		'Present'
+		,
+		87
+		'2x of the pars glenoidalis'
+		'Equal or slightly more expand. than pars glenoidalis'
+		,
+		88
+		'Bilobed'
+		'Simple'
+		,
+		89
+		'Not expanded'
+		'Expanded'
+		,
+		90
+		'1.0-2.0x'
+		'at least 2.6x'
+		,
+		91
+		'Inclined anteriorly'
+		'Perpendicular'
+		,
+		92
+		'Short'
+		'Moderately long'
+		'Elongate'
+		,
+		93
+		'Inclined posteriorly'
+		'Perpendicluar'
+		,
+		94
+		'Inclined anteriorly'
+		'Perpendicular'
+		'Inclined posteriorly'
+		,
+		95
+		'Not in contact'
+		'Medial contact'
+		,
+		96
+		'Unexpanded'
+		'Mode. expand. 1.5-3.0 x'
+		'Strongly expand. 4.5x'
+		,
+		97
+		'U-shaped'
+		'V-shaped'
+		,
+		98
+		'One'
+		'Two'
+		,
+		99
+		'Bladelike'
+		'Cylindrical'
+		'Subcylindrical'
+		,
+		100
+		'Curved'
+		'Straight'
+		,
+		101
+		'Elongate and cylindrical'
+		'Concave disc'
+		,
+		102
+		'Not mineralized'
+		'Partially mineralized'
+		'Completely mineralized'
+		,
+		103
+		'Ausente'
+		'Present'
+		,
+		104
+		'Free'
+		'In close contact'
+		,
+		105
+		'One'
+		'Two'
+		'Three'
+		'Four'
+		'Five'
+		,
+		106
+		'Absent'
+		'Present'
+		,
+		107
+		'Median, subgular'
+		'Paired lateral'
+		,
+		108
+		'Directed laterally'
+		'Directed laterodorsally'
+		'Directed dorsally'
+		,
+		109
+		'Absent'
+		'Incomplete'
+		'Complete'
+		,
+		110
+		'Absent'
+		'Present'
+		,
+		111
+		'Absent'
+		'Present'
+		,
+		112
+		'Absent'
+		'Present'
+		,
+		113
+		'Absent'
+		'Present'
+		,
+		114
+		'Absent'
+		'Present'
+		,
+		115
+		'Without epidermal projections'
+		'With epidermal projections'
+		,
+		116
+		'Ligth'
+		'Dark'
+		,
+		117
+		'10-12 projections by  0.01 mm²'
+		'5-7 projections by  0.01 mm²'
+		,
+		118
+		'Not ornamentation'
+		'Small tubercles'
+		'Small, conical tubercles'
+		'Swelled tubercles'
+		'Weak dermal fold'
+		'Dermal flap/rounded'
+		'Dermal flap/triangular'
+		,
+		119
+		'Absent'
+		'Small, rounded tubercles'
+		'Small, conical tubercles'
+		'Two lateral, round, and small dermal pads'
+		'Two lateral, thick and flat dermal pads'
+		,
+		120
+		'Absent'
+		'Present'
+		,
+		121
+		'Absent'
+		'Row of rounded tubercles'
+		'Row of conical tubercles'
+		'Crenulated fold'
+		'Smooth fold'
+		,
+		122
+		'Absent'
+		'Present'
+		,
+		123
+		'Absent'
+		'Row of roundedtubercles'
+		'Crenulated fold'
+		'Smooth fold'
+		'Keel'
+		,
+		124
+		'Absent'
+		'Row of rounded tubercles'
+		'Row of conical tubercles'
+		'Crenulated fold'
+		'Smooth fold'
+		,
+		125
+		'Absent'
+		'Rounded tubercles'
+		'Conical tubercles'
+		'Crenulated fold'
+		'Round calcar appendage'
+		'Triangular calcar appendage'
+		,
+		126
+		'Weak'
+		'Strong'
+		,
+		127
+		'Rounded'
+		'Truncated'
+		'Oval/elliptical'
+		,
+		128
+		'Absent'
+		'Fringe'
+		'Antepenultimate'
+		'Midlenght'
+		'Penultimate'
+		,
+		129
+		'Absent'
+		'Fringe'
+		'Midlengtt basal phalange'
+		'Penultimate'
+		'Midlength 2 phalange'
+		'Adhesive disc'
+		,
+		130
+		'Absent'
+		'Subarticular tubercle'
+		'First Phalange'
+		'Adhesive Disc'
+		,
+		131
+		'Fringe'
+		'Antepenultiamte'
+		'Penultimate'
+		'Midlength basal phalange'
+		'Adhesive disc'
+		,
+		132
+		'Fringe'
+		'Antepenultimate'
+		'Midlength basal phalange'
+		'Penultimate'
+		'Midlength s phalange'
+		'Adhesive disc'
+		,
+		133
+		'EllipticalAcute angle'
+		'EllipticalParallel'
+		,
+		134
+		'Absent'
+		'Present'
+		,
+		135
+		'Ventral'
+		'Subterminal'
+		'Terminal'
+		,
+		136
+		'Absent'
+		'Present'
+		,
+		137
+		'Small, homogeneous'
+		'Few, enlarged, 2x'
+		,
+		138
+		'Absent'
+		'Present'
+		,
+		139
+		'Absent'
+		'Present'
+		,
+		140
+		'One'
+		'Two'
+		,
+		141
+		'Absent'
+		'Present'
+		,
+		142
+		'One'
+		'Two'
+		'Three'
+		'Four'
+		,
+		143
+		'Absent'
+		'Present'
+		,
+		144
+		'Short'
+		'Medium'
+		'Large'
+		,
+		145
+		'Absent'
+		'Present'
+		,
+		146
+		'Medial'
+		'Dextral'
+		,
+		147
+		'Absent'
+		'Present'
+		,
+		148
+		'Overlapps he posterior margin'
+		'Overlaps the posterolateral margin'
+		'Juxtaposes the posterior margin medially'
+		'Overlaps the posterior margin medially'
+		,
+		149
+		'Absent'
+		'Present'
+		,
+		150
+		'Absent'
+		'Present'
+		,
+		151
+		'Araphic'
+		'Medial raphe'
+		,
+		152
+		'Poorly developed 1/5'
+		'Developed 1/3'
+		'Well-developed 1/2'
+		,
+		153
+		'Surpasses slightly the mandible'
+		'Reaches to 1/3-1/2 of the m. deltoideus'
+		'Reaches the posterior portion of the m.deltoideus'
+		'Reaches the anterior margin of the m. pectoralis'
+		'Reaches the posterior margin of the m. pectoralis'
+		'Surpasses the m. pectoralis'
+		,
+		154
+		'From mandible by tendon'
+		'From mandible by tissue conective and fibers'
+		,
+		155
+		'One, external part'
+		'Two, external and internal parts'
+		,
+		156
+		'Posteromedial process and hyoid plate'
+		'Hyoid plate'
+		,
+		157
+		'Inserted on the lateral margin of the hyoid plate'
+		'With a additional layer of fibers on the hyoid plate'
+		,
+		158
+		'Separated in bundles'
+		'Continuous'
+		,
+		159
+		'On the base of the posteromedial process'
+		'Aprox on the half of the posteromedial process'
+		,
+		160
+		'One, posteromedial process'
+		'Two, posteromedial process and cricoid'
+		,
+		161
+		'Continuous'
+		'Discontinuous'
+		,
+		162
+		'Absent'
+		'Present'
+		,
+		163
+		'Hyoid plate'
+		'Hyoid plate and  thyroide membrane'
+		'Posteromedial process'
+		'Thyroide menbrane'
+		,
+		164
+		'Subterminal'
+		'Terminal'
+		,
+		165
+		'Hyoid plate'
+		'Hyale'
+		'Posteromedial process'
+		,
+		166
+		'Absent'
+		'Present'
+		,
+		167
+		'Absent'
+		'Present'
+		,
+		168
+		'DC 3-4-5'
+		'Aponeurosis (palmaris profundus)'
+		,
+		169
+		'Metacarpal IV and V'
+		'Metacarpal V'
+		,
+		170
+		'Absent'
+		'Present'
+		,
+		171
+		'Absent'
+		'Present'
+		,
+		172
+		'Absent'
+		'Present'
+		,
+		173
+		'Absent'
+		'Present'
+		,
+		174
+		'Absent'
+		'Present'
+		,
+		175
+		'Absent'
+		'Present'
+		,
+		176
+		'Absent'
+		'Present'
+		,
+		177
+		'Absent'
+		'Present'
+		,
+		178
+		'Absent'
+		'Present'
+		,
+		179
+		'Absent'
+		'Present'
+		,
+		180
+		'Absent'
+		'Present'
+		,
+		181
+		'Absent'
+		'Present'
+		,
+		182
+		'Undivided'
+		'Divided'
+		,
+		183
+		'Absent'
+		'Present'
+		,
+		184
+		'Absent'
+		'Present'
+		,
+		185
+		'Absent'
+		'Present'
+		,
+		186
+		'Absent'
+		'Present'
+		,
+		187
+		'Absent'
+		'Present'
+		,
+		188
+		'Absent'
+		'Present'
+		,
+		189
+		'Fibers reach the distal margin of the first phalange'
+		'Fibers reach the distal margin of the phalange 2'
+		,
+		190
+		'Fibers originate at midbody'
+		'Fibers originate on pelvis tendon not evident'
+		'Fibers originate on pelvis tendon evident'
+		,
+		191
+		'Absent'
+		'Present'
+		,
+		192
+		'Leaves'
+		'Phytotelmaata'
+		'Submerged'
+		,
+		193
+		'22'
+		'24'
+		'26'
+		'30'
+		
+	;
+
+	MATRIX
+	'Phyllodytes luteolus'		                   2001002002111210010111211310103112101111302121010121012011100001101?3112?????????11001110-1101011000111001012000010--03010111101000010010011131001010111111?01??01???10-0001010110011100101(0,1)0001?
+	'Dendropsophus elegans'		                  110110000112211001001111111011111120111140022101012102201100--110-1?01110-010021000101111011100210001010210000000110?000303000044223-020000-1000010211113110001000-0200-10000101101101001000-20?3
+	'Dendropsophus microps'		                  0001001002021110011111011210103111201111400111010021?2200110--110-0?0011?????????00101111001000210001110110100000110?100100111034223-010000-(0,1)(0,1)00010211024?1?00????????1110000001101101001010-00?3
+	'Dendropsophus minutus'		                  000010000011211001110101101010311020111140012101012102200110--110-0?00210-41000-00010111100100021020121011010000010--000000000022222-01000(0,1)0(0,1)(0,1)0001031002511100000120011110000001101001001000-1023
+	'Dendropsophus sanborni'		                 10011020020011100100010112100-1(0,1)01000-1-2121210101110120010011110-1?00110-00-00-00010111111110021000121010012001010--0003000000222221000--0-0--0010210025?1?00????????1010000101101001001000-?0?3
+	'Pseudis minuta'		                         1011140?12002310012111211110103111201111200110011121022011?00101121200020-00-00-000111001111101100210210101210000110?220204220211345101100111210000311122010010?01??21(0,1)-0000000100--00000000-00??
+	'Scarthyla goinorum'		                     1011130002002210012001211210103112101111311211010121012011103101121?00221000-????0010110111101010000121101002100-1?0?000003(0,1)000113231020011111(0,1)00101010121100110113001101000000100--00000000-1020
+	'Scinax alter'		                           1001102?02011210012011211310103110201111212121000121012011100101111010221031110-000101101110100111101011(0,1)10120010110?000101101111123-01100111200010101012?1001000???010101000101001000101000-20?1
+	'Scinax catharinae'		                      1001002002012210012101211210103110201111300221000121012011102001101?102210010????00100111010010110201001100200000110?010000001111123-01(0,1)0011120001010110011?0?1000-1??110110000100101011101102021
+	'Scinax fuscovarius'		                     1001121001012210012111211310103110211111210221000121022001101101101?00221031010-0001011110101001112010004101(1,2)000010-?110000001111123101100111200010110100111????01????1101000101001000001000-2021
+	'Scinax perpusillus'		                     2000102102111210012011211312103110101111210221000121010011102001121?0022?????????001011010010101111010001101(1,2)000010--110101101100011-0110011120001010100111???????????1101100001001010101000-2011
+	'Xenohyla truncata'		                      210111200213111021102121121000311220111131212100112010200100--01121?0022?????????00001000-01010210001000(1,2)10000000110?00000000103422310210011121001001001111101?001?0200110000011101101011010-00?1
+	'Sphaenorhynchus botocudo'		               100013010010001?3110102010110101121010002021101210101211100131100-22211011310021111001111102020110001210110220(0,1)11011?440(1,3)01310045344??????????????1011024?0-1???1?????0-1100?010011001000011101??
+	'Sphaenorhynchus bromelicola'		            100?130?0??0001?311010201011010112101?001031(0,1)0121020121110?110100-21211013310021111001110-0202011???????210120(0,1)1(0,1)01104(3,4)0(1,3)01310033323011000111211101011014?0-1?11?1101?0011001010011001000011101??
+	'Sphaenorhynchus cammaeus'		               10??1?0?0??0001?3??0?0201011010112?01?00?????0121020???1?0??1??00-2221101???00??1110011110?2??0110001?10??012011(0,1)0110440(1,3)02330033323??????????????10??????0?1???????1????????????????????????01??
+	'Sphaenorhynchus canga'		                  10001(3,4)0000?0001?412000201011010112201?002110101210201211001110?00-2221101131002111100111100200011000111011012001(0,1)01004(3,4)0(1,3)00(0,1,3)0003322301111011121(1,2)1010??????0?1???????1????????????????????????01??
+	'Sphaenorhynchus caramaschii'		            100(0,1)130?011000112100002010110101122010002122001210201121001110100-222110132100201110011110020101100012101101(1,2)01100110440(1,3)01310033222011110111210101011014?0-1?11???01?0011001010011001?00011101?1
+	'Sphaenorhynchus carneus'		                100113000210000--0000-000-0--100------0-0001101210001201001111010-21211011310020111100110-02(0,1)002?0001110(0,1)101(0,1,2)0(0,1)(0,1)001?0000(1,3)020000333230?1110101(1,2)1010(0,1)001014?0-11101120100011001110011001000011101(0,2)2
+	'Sphaenorhynchus dorisae'		                (1,2)001130?0110000--0000-20101101010200(0,1)0000121101210101211000010000-2121100-210021111001110-02100110001010(1,2)1010000001006104104500433240?100111121010101101310-1101111010001101101001100110001110121
+	'Sphaenorhynchus lacteus'		                101(0,1)130?0(0,1)1000112100102010110101122010001021201210201121001110100-22211011110021111001111002(0,1)00110001010(2,3)10010110110051040044004334401111011121010101101410-1101113010001100101001100111001110121
+	'Sphaenorhynchus mirim'		                  100011010---000--0001-2010110-010210(0,1)0000010101210201211001010000-21211011210010111001111012110010001210110200000011?510011440033323??????????????101101510-1???????1?0-11011000011001000111101??
+	'Sphaenorhynchus platycephalus'		          1000130?0110001131001020101101011220100011221012102012(1,2)1101010100-22211012210021111001111102110110001010100120(0,1)100110330300310033323011100111211101011014?0-1??1?1101?0011001010011001000011101??
+	'Sphaenorhynchus palustris'		              100013000010001131000020101101011(0,1)20100011(1,2)110121010?211?00110100-2221101131000-111001111102000110001110(1,2)10220(0,1)1(0,1)01104(3,4)0(1,3)0231004534401101(0,1)111212101011014?0-111111?0100011101010011001000011101??
+	'Sphaenorhynchus pauloalvini'		            10011(3,4)20011011100100111(0,1)1110002111201(0,1)01411220021011001010101011100?20211(2,3)01000-10010011101110021000121011012100-1111111(0,1)0200003332301110011121010100111210-01110121100-110011100110010000110010?
+	'Sphaenorhynchus planicola'		              100011010010000--0001-201011010112(0,1)010001020001210201121001010000-212110111100201110011110121001100011103101(0,1,2)00000110510410440033324011011111210101011025?0-111111101000110110100010010001111012?
+	'Sphaenorhynchus prasinus'		               100(0,1)1300001000112000(0,1)1201(0,1)11010112(0,1)0100021(1,2)(0,1)10121020111100(0,1)010000-22211011310021111001111002010110001(0,1)10(0,1,2,3)100101000110510410440043323011010111210101011013?0-11111100100011011010011001110011101??
+	'Sphaenorhynchus surdus'		                 1000110?01100011210010201011010112201000212210121020122100111(0,1)100-222110132100211110011110020101100011101101(1,2)0(0,1)1(0,1)01104(3,4)0(1,3)02310033222011100111211101011014?0-1?11???01?00110010100110010100111012?
+	;
+ENDBLOCK;
+
+BEGIN NOTES;
+
+	[Attribute comments]
+ENDBLOCK;
+BEGIN ASSUMPTIONS;
+TYPESET * UNTITLED = ord: 1 6 - 7 10 12 - 14 17 19 23 - 26 31 35 41 - 55 68 - 72 92 94 96 102 - 109 128 - 132 135 142 144 152 - 153 193, unord: 2 - 5 8 - 9 11 15 - 16 18 20 - 22 27 - 30 32 - 34 36 - 40 56 - 67 73 - 91 93 95 97 - 101 110 - 127 133 - 134 136 - 141 143 145 - 151 154 - 192;
+ENDBLOCK;
+BEGIN MESQUITE;
+ MESQUITESCRIPTVERSION 2; TITLE AUTO; tell ProjectCoordinator; timeSaved 1587510227406; getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa; tell It; setID 0 4453832440423635655; endTell; getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters; tell It; setID 0 8975219346428804255; mqVersion 360; checksumv 0 3 2994641382 null getNumChars 193 numChars 193 getNumTaxa 27 numTaxa 27 short true bits 127 states 127 sumSquaresStatesOnly 62848.0 sumSquares 62848.0 longCompressibleToShort false usingShortMatrix true NumFiles 1 NumMatrices 1; mqVersion; endTell; getWindow; tell It; suppress; setResourcesState false false 100; setPopoutState 300; setExplanationSize 0; setAnnotationSize 0; setFontIncAnnot 0; setFontIncExp 0; setSize 1257 714; setLocation 8 23; setFont SanSerif; setFontSize 10; getToolPalette; tell It; endTell; desuppress; endTell; getEmployee #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord; tell It; showDataWindow #8975219346428804255 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker; tell It; getWindow; tell It; setExplanationSize 30; setAnnotationSize 20; setFontIncAnnot 0; setFontIncExp 0; setSize 1157 642; setLocation 8 23; setFont SanSerif; setFontSize 10; getToolPalette; tell It; endTell; setActive; setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.arrow; colorCells #mesquite.charMatrices.NoColor.NoColor; colorRowNames #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor; colorColumnNames #mesquite.charMatrices.CharGroupColor.CharGroupColor; colorText #mesquite.charMatrices.NoColor.NoColor; setBackground White; toggleShowNames on; toggleShowTaxonNames on; toggleTight off; toggleThinRows off; toggleShowChanges on; toggleSeparateLines off; toggleShowStates on; toggleAutoWCharNames on; toggleAutoTaxonNames off; toggleShowDefaultCharNames off; toggleConstrainCW on; toggleBirdsEye off; toggleShowPaleGrid off; toggleShowPaleCellColors off; toggleShowPaleExcluded off; togglePaleInapplicable on; togglePaleMissing off; toggleShowBoldCellText off; toggleAllowAutosize on; toggleColorsPanel off; toggleDiagonal on; setDiagonalHeight 80; toggleLinkedScrolling on; toggleScrollLinkedTables off; endTell; showWindow; getWindow; tell It; forceAutosize; endTell; getEmployee #mesquite.charMatrices.AlterData.AlterData; tell It; toggleBySubmenus off; endTell; getEmployee #mesquite.charMatrices.ColorByState.ColorByState; tell It; setStateLimit 9; toggleUniformMaximum on; endTell; getEmployee #mesquite.charMatrices.ColorCells.ColorCells; tell It; setColor Red; removeColor off; endTell; getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip; tell It; showStrip off; endTell; getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel; tell It; togglePanel off; endTell; getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip; tell It; showStrip off; endTell; getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector; tell It; autotabOff; endTell; getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip; tell It; showStrip off; endTell; getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor; tell It; panelOpen true; endTell; endTell; endTell; endTell; 
+ENDBLOCK;
+BEGIN MESQUITECHARMODELS;
+ ProbModelSet * UNTITLED = 'Mk1 (est.)': 1- 193; 
+ENDBLOCK;

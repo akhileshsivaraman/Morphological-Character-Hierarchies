@@ -1,0 +1,9 @@
+branchswap=TBR
+addseq=random
+gap=inapp
+ratchet=yes
+hold=20
+nreps=50
+heur
+save
+Morphy-A2019.tre

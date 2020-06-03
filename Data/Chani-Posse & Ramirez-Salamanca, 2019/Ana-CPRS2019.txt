@@ -1,0 +1,509 @@
+# logfile from anagallis - 2020-5-29 11:29:18
+>-< import tnt> importing from TNT file 'CPRS2019.tnt'
+xread> reading data...
+xread> 79 terminals and 138 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 *_Head_and_pronotum,_spine-like_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{1 Antennal_insertions_(ai),_position_in_relation_to_frontoclypeus_and_eye: ai_situated_at_the_anterior_margin_of_frontoclypeus,_i.e.,_anterior_margin_of_antennal_cavity_touching_the_anterior_margin_of_frontoclypeus ai_situated_closer_to_frontoclypeus_than_to_eye ai_situated_at_equal_distance_or_closer_to_eye>
+>skipping unsupported (or wrong) TNT command  <{2 *_Sexual_dimorphism,_antennal_insertions,_distance_between_each_other_in_relation_to_eye_(ai-ai/ai-e): absent_(both_male_and_female_with_same_ai-ai/ai-e_ratio) present_(only_males_antennal_insertions_equidistant_from_each_other_and_eye_or_closer_to_each_other_than_to_eye)>
+>skipping unsupported (or wrong) TNT command  <{3 *_Sexual_dimorphism,_antennal_lenght: absent_(both_male_and_female_with_same_lenght) present_(i.e.,longer_in_males)>
+>skipping unsupported (or wrong) TNT command  <{4 *_Sexual_dimorphism,_antennomere_1,_setation: absent_(i.e,_both_male_and_female_with_same_setation) present_(i.e.,_denser_in_males)>
+>skipping unsupported (or wrong) TNT command  <{5 Antennae,_relative_length_of_antennomere_1_(a1),_and_antennomeres_2_(a2)_and_3_(a3)_combined: a1_distinctly_shorter_than_a2_and_a3_combined a1_as_long_as_or_longer_than_a2_and_a3_combined>
+>skipping unsupported (or wrong) TNT command  <{6 Antennae,_length_of_antennomeres_3_and_2_ratio_(a3/a2): a3_not_longer_than_a2_(maximum_a3/a2_ratio_1.0) a3_moderately_longer_than_a2_(a3/a2_ratio_1.2-1.5) a3_distinctly_longer_than_a2_(a3/a2_ratio_>>_1.5)>
+>skipping unsupported (or wrong) TNT command  <{7 Antennae,_antennomere_3,_tomentose_pubescence: absent present>
+>skipping unsupported (or wrong) TNT command  <{8 Antennnae,_antennomere_6,_apical_long_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{9 *_Sexual_dimorphism,_head,_punctation,_dorsal_view: absent_(i.e,_both_male_and_female_with_same_punctation) present_(i.e.,_with_dense_punctation_in_males,_scarcely_punctated_to_almost_glabrous_in_fem>
+>skipping unsupported (or wrong) TNT command  <{10 *_Sexual_dimorphism,_head,_punctation,_ventral_view: absent_(i.e,_both_male_and_female_with_same_punctation) present_(i.e.,_with_dense_punctation_in_males,_scarcely_punctated_to_almost_glabrous_in_fem>
+>skipping unsupported (or wrong) TNT command  <{11 *_Sexual_dimorphism,_head,_setation,_ventral_view: absent_(i.e,_both_male_and_female_with_same_setation) present_(i.e.,_with_dense_setation_in_males,_scarce_setae_to_almost_glabrous_in_females)>
+>skipping unsupported (or wrong) TNT command  <{12 *_Sexual_dimorphism,_head,_width: absent_(both_male_and_female_with_about_the_same_width) present_(distinctly_wider_in_males)>
+>skipping unsupported (or wrong) TNT command  <{13 *_Sexual_dimorphism,_frontoclypeus,_emargination: absent(i.e,_both_male_and_female_without_emargination) present_(emarginate_in_males)>
+>skipping unsupported (or wrong) TNT command  <{14 Head,_neck_constriction: neck_distinct_at_sides_only neck_constriction_fully_developed,_distinct_all_around neck_region_indistinct>
+>skipping unsupported (or wrong) TNT command  <{15 Head,_dorsal_basal_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{16 Head,_ventral_basal_ridge_(vbr),_development: vbr_along_considerable_portion_of_its_length_confluent_with_ventral_portion_of_postoccipital_suture vbr_extending_more_or_less_parallel_to_ventral_portion_of_postoccipital_suture>
+>skipping unsupported (or wrong) TNT command  <{17 Head,_postgenal_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{18 Head,_postgenal_ridge_(pgr)_relative_to_ventral_basal_ridge_(vbr),_development: pgr_developed_ventrally_but_not_joining_vbr_medially pgr_joined_vbr_medially pgr_slightly_developed_ventrally_(rather_laterally)_and_not_joining_vbr>
+>skipping unsupported (or wrong) TNT command  <{19 Head,_postmandibular_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{20 Head,_postmandibular_ridge_(pmr)_relative_to_mandibular_base_(mb): pmr_bordering_mb_almost_completely pmr_bordering_mb_only_laterally pmr_and_mb_separate>
+>skipping unsupported (or wrong) TNT command  <{21 Head,_postmandibular_sulcus: absent present>
+>skipping unsupported (or wrong) TNT command  <{22 Head,_infraorbital_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{23 Head,_infraorbital_ridge_(ior),_development_(sensu_Smetana,_see_Chani-Posse_2014): ior_complete ior_extending_far_beyond_postgenal_ridge ior_reaching_postgenal_ridge_or_slightly_extending_beyond_postgenal_ridge>
+>skipping unsupported (or wrong) TNT command  <{24 Head,_ligula,_shape: more_or_less_bilobed,_with_variously_developed_rounded_lobes small,_entire_(or_at_most_slightly_notched_medially)>
+>skipping unsupported (or wrong) TNT command  <{25 Head,_mandibles,_dorso-lateral_groove: absent present>
+>skipping unsupported (or wrong) TNT command  <{26 Labial_palpus,_relative_length_of_palpomeres_3_(p3,_apical)_and_2_(p2,_preapical)_(p3/p2): p3_distinctly_shorter_than_p2 p3_and_p2_subequal_in_length p3_distinctly_longer_than_p2>
+>skipping unsupported (or wrong) TNT command  <{27 *_Labial_palpomere_2_(when_p3_distinctly_shorter_than_p2),_setae: basal mediobasal>
+>skipping unsupported (or wrong) TNT command  <{28 *_Labial_palpomere_2,_shape: cylindrical slightly_expanded_apically>
+>skipping unsupported (or wrong) TNT command  <{29 *_Sexual_dimorphism,_labial_palpomere_2-3: absent__(i.e.,_subcyindrical_in_both_male_and_female) present_(i.e.,_medially_expanded_in_males,_subcylindrical_in_females)>
+>skipping unsupported (or wrong) TNT command  <{30 *Maxillary_palpus,_relative_length_of_palpomeres_4_(p4,_apical)_and_2_(p2)_(p4/p2): p4_as_long_as_or_longer_than_p2 p4_distinctly_shorter_than_p2>
+>skipping unsupported (or wrong) TNT command  <{31 *_Sexual_dimorphism,_maxillary_palpomere_3: absent__(i.e.,_subcyindrical_in_both_male_and_female) present_(i.e.,_apically_expanded_in_males,_subcylindrical_in_females)>
+>skipping unsupported (or wrong) TNT command  <{32 Maxillary_palpus,_palpomere_4_(apical),_shape: subacute,_i.e.,_narrowed_at_base_and_evenly_converging_towards_apex fusiform_to_expanded_apically,_i.e.,_narrowed_at_base_but_not_(or_not_evenly)_converging_towards_apex subcylindrical_"rod-like",_parallel-sided_at_most_of_its_length,_apex_subtruncate subcylindrical_"rod-like",_parallel-sided_at_most_of_its_length,_apex_acute extremely_elongate_(like_in_Atanygnathus)>
+>skipping unsupported (or wrong) TNT command  <{33 Gular_sutures_(gs),_development: gs_joined_before_neck gs_not_joined_before_neck,_extended_close_to_each_other_at_base_of_head_capsule>
+>skipping unsupported (or wrong) TNT command  <{34 Gular_sutures_(gs),_if_not_joined_before_neck,_degree_of_separation: gs_slightly_separated_from_each_other gs_widely_separated_from_each_other>
+>skipping unsupported (or wrong) TNT command  <{35 Male_gular_sutures,_if_joined_before_neck,_joining_point: joined_anteriorly_(i.e.,_not_farther_than_one_half_the_distance_between_the_anterior_margin_of_mentum_and_the_base_of_head_along_midline) joined_posteriorly>
+>skipping unsupported (or wrong) TNT command  <{36 *_Sexual_dimorphism,_gular_sutures,_if_joined_before_neck,_joining_point: absent_(i.e,_both_male_and_female_with_same_joining_point) present_(joined_anteriorly_on_male_but_posteriorly_on_female)>
+>skipping unsupported (or wrong) TNT command  <{37 Hypostomal_cavity_(hc): absent present>
+>skipping unsupported (or wrong) TNT command  <{38 Hypostomal_cavity_(hc),_if_present: hc_distinctly_delimited_(i.e.,_cavity_surface_with_microsculture_and/or_punctation_different_from_rest_of_nearby_head_surface) hc_moderately_delimited_(i.e.,_cavity_surface_without_microsculpture_or_punctation_different_from_rest_of_nearby_head_surface) hc_slightly_delimited_(cavity_distinct_only_laterally,_its_surface_with_same_microsculture_or_punctuation_as_rest_of_nearby_head_surface)>
+>skipping unsupported (or wrong) TNT command  <{39 Prothorax,_anterior_angles_(aap)_relative_to_anterior_margin_of_prosternum_(amp): aap_and_amp_at_about_the_same_level aap_distinctly_posterior_to_amp>
+>skipping unsupported (or wrong) TNT command  <{40 *_Prothorax,_pronotum,_deflection_(in_ventral_view): absent present>
+>skipping unsupported (or wrong) TNT command  <{41 *_Prothorax,_pronotum,_if_deflected_(in_ventral_view): not_visible_beyond_spiracles visible_beyond_spiracles>
+>skipping unsupported (or wrong) TNT command  <{42 Prothorax,_large_lateral_setiferous_puncture_(llsp),_position_in_relation_to_superior_marginal_line_of_pronotum_(smlp): llsp_situated_very_close_to_smlp_or_at_a_distance_no_more_than_three_times_its_diameter llsp_situated_away_from_smlp_at_a_distance_at_least_three_times_as_large_as_its_diameter>
+>skipping unsupported (or wrong) TNT command  <{43 *_Prothorax,_prosternum,_sternacostal_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{44 *_Prothorax,_prosternum,_sternacostal_ridge_(when_present): joining_superior_line_of_hypomeron not_joining_superior_line_of_hypomeron>
+>skipping unsupported (or wrong) TNT command  <{45 Prothorax,_basisternum_(bs),_length_relative_to_length_of_furcasternum_(fs)_(bs/fs,_measured_laterally): bs_slightly_to_moderately_longer_than_fs_(bs/fs_ratio_up_to_1.5) bs_distinctly_longer_than_fs_(bs/fs_ratio_>>_1.5) bs_distinctly_shorter_than_fs_(bs/fs_ratio_<<1.0)>
+>skipping unsupported (or wrong) TNT command  <{46 Prothorax,_prosternum,_transverse_carina_on_basisternum: absent present>
+>skipping unsupported (or wrong) TNT command  <{47 Prothorax,_prosternum,_transverse_carina_on_basisternum_(tc),_development_(when_present): tc_rudimentary_to_uncomplete tc_complete>
+>skipping unsupported (or wrong) TNT command  <{48 *_Prothorax,_prosternum,basisternum,_microsculpture_(when_transverse_carina_present): uniform_(i.e.,_not_different_at_both_sides_of_transverse_carina) not_uniform_(i.e.,_distinct_at_both_sides_of_carina>
+>skipping unsupported (or wrong) TNT command  <{49 Prothorax,_prosternum,_longitudinal_ridge_(in_ventral_view): absent present>
+>skipping unsupported (or wrong) TNT command  <{50 Prosternum,_keel: absent present>
+>skipping unsupported (or wrong) TNT command  <{51 Prothorax,_hypomeron,_superior_marginal_line,_deflection_under_anterior_angles_(ventral_view): not_distinct distinct>
+>skipping unsupported (or wrong) TNT command  <{52 Prothorax,_hypomeron,_inferior_marginal_line_(iml),_development: iml_not_continued_as_a_separate_entity_beyond_anterior_pronotal_angles iml_continued_as_a_separate_entity_beyond_anterior_pronotal_angles_and_curving_around_them iml_continued_as_a_separate_entity_beyond_anterior_pronotal_angles_and_continuous_with_them>
+>skipping unsupported (or wrong) TNT command  <{53 Prothorax,_degree_of_fusion_of_pronotum_(pnt)_and_prosternum_(pst): pnt_and_pst_not_fused_in_procoxal_cavity,_pronotosternal_suture_complete_in_cavity pnt_and_pst_at_least_partially_fused,_pronotosternal_suture_missing_in_part_of_cavity>
+>skipping unsupported (or wrong) TNT command  <{54 Prothorax,_prosternum,_basisternum,_pair_of_macrosetae: absent present>
+>skipping unsupported (or wrong) TNT command  <{55 Prothorax,_prosternum,_basisternum,_position_of_pair_of_macrosetae_(ms,_if_present)_in_relation_to_anterior_margin_of_prosternum_(amp)_and_the_sternacostal_suture_(ss): ms_situated_close_to_amp_(i.e.,_not_farther_than_one_fourth_the_distance_between_amp_and_the_ss_along_midline) ms_situated_far_from_amp_(i.e.,_farther_than_one_fourth_the_distance_between_amp_and_the_ss_along_midline)>
+>skipping unsupported (or wrong) TNT command  <{56 Mesothorax,_mesoscutellum,_posterior_scutellar_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{57 Mesothorax,_elytron,_humeral_spines_or_spine-like_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{58 Sternopleural_(anapleural)_suture: transverse,_or_nearly_transverse_(very_slightly_oblique) distinctly_oblique_(medial_end_of_suture_anterior_to_its_lateral_end) sinuate>
+>skipping unsupported (or wrong) TNT command  <{59 Sternopleural_(anapleural)_sutures_(sps),_their_position_with_respect_to_anterior_margin_of_mesoventrite_(amm),_if_oblique: sps_confluent_at_amm sps_not_confluent_at_amm>
+>skipping unsupported (or wrong) TNT command  <{60 Mesothorax,_mesoventral_cross-like_ridge_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{61 *_Mesothorax,_mesoventral_longitudinal_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{62 Mesothorax,_mesoventral_posterior_half_of_prepectus,_ridge_connecting_coxal_cavities: absent present>
+>skipping unsupported (or wrong) TNT command  <{63 Mesothorax,_intercoxal_process,_apex: rounded_or_broadly_pointed,_forming_obtuse_angle narrowly_pointed_forming_sharp_(acute)_angle intercoxal_process_not_distinct,_metaventrite_fused_with_mesoventrite>
+>skipping unsupported (or wrong) TNT command  <{64 Profemora,_lateroventral_medial_spines_(posterior_row): absent present>
+>skipping unsupported (or wrong) TNT command  <{65 *_Sexual_dimorphism,_profemora,_lateroventral_apical_spine/s_(anterior_row,_when_present) absent_(both_sexes_with_spine/s) present_(spine/s_only_in_males)>
+>skipping unsupported (or wrong) TNT command  <{66 Profemora,_lateroventral_medial_spines_(anterior_row): absent present>
+>skipping unsupported (or wrong) TNT command  <{67 *_Profemora,_chaetotaxy: conspicuosuly_denser_ventrally scarce_all_over dense_both_dorsally_and_ventrally>
+>skipping unsupported (or wrong) TNT command  <{68 *_Profemora,_chaetotaxy,_longitudinal_patch_of_dense_setae_lateroventrally: absent present>
+>skipping unsupported (or wrong) TNT command  <{69 *_Sexual_dimorphism,_profemora,_shape: absent present_(medially_dilated_or_wider_in_males)>
+>skipping unsupported (or wrong) TNT command  <{70 Protibiae,_shape: cylindrical_to_slightly_broadened_apically subconical_to_conical,_moderately_to_distinctly_broadened_apically>
+>skipping unsupported (or wrong) TNT command  <{71 Protibiae,_apical_excavation: absent present>
+>skipping unsupported (or wrong) TNT command  <{72 *_Protibiae,_apical_excavation,_spines: absent present>
+>skipping unsupported (or wrong) TNT command  <{73 *_Protibiae,_apical_excavation,_spines_(when_present),_number: 5-6 2-3>
+>skipping unsupported (or wrong) TNT command  <{74 *_Protibiae,_lateroventral_spines: absent present>
+>skipping unsupported (or wrong) TNT command  <{75 *_Protibiae,_lateroventral_spines,_distribution: irregular,_not_in_rows in_one_row in_two_rows>
+>skipping unsupported (or wrong) TNT command  <{76 *_Protarsi,_tarsomeres_2-3,_relative_width: as_long_as_to_longer_than_wide distinctly_wider_than_long>
+>skipping unsupported (or wrong) TNT command  <{77 *_Male_protarsi,_tarsomeres_2-3: not_bilobed_(posterior_margin_moderately_curved_to_straight) sub-bilobed strongly_bilobed>
+>skipping unsupported (or wrong) TNT command  <{78 *_Protarsomeres_2-3,_ventral_surface,_discal_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{79 *_Protarsomeres_2-3,_ventral_surface,_discal_setae_(when_present),_shaft_microsculpture: smooth striate>
+>skipping unsupported (or wrong) TNT command  <{80 *_Protarsomeres_2-3,_ventral_surface,_discal_setae_(when_present),_shaft_shape: cylindrical,_distinctly_broadened_apically subcylindrical,_gradually_narrowed_apically>
+>skipping unsupported (or wrong) TNT command  <{81 *_Protarsomeres_2-3,_ventral_surface,_discal_setae_(when_present),_terminal_plate: absent present>
+>skipping unsupported (or wrong) TNT command  <{82 *_Protarsomeres_2-3,_ventral_surface,_discal_setae_(when_present),_terminal_plate_shape: rounded_to_ovoid_to_subquadrate subfusiform_to_leaf-like not_distinct,_fused_to_adyacent_plates>
+>skipping unsupported (or wrong) TNT command  <{83 *_Protarsomeres_2-3,_ventral_surface,_marginal_setae: absent_(if_present_only_1-2_fine_setae_at_each_lateroposterior_angle) present>
+>skipping unsupported (or wrong) TNT command  <{84 *_Protarsomeres_2-3,_ventral_surface,_marginal_setae,_distribution_(when_present): posteriad lateral>
+>skipping unsupported (or wrong) TNT command  <{85 *_Protarsomeres_2-3,_ventral_surface,_marginal_setae,_distribution_(when_present_and_posterior): continuous interrupted_medially>
+>skipping unsupported (or wrong) TNT command  <{86 *_Protarsomeres_2-3,_ventral_surface,_marginal_setae,_number_at_each_side_(when_present_and_lateral): 3 4 more_than_4 only_2>
+>skipping unsupported (or wrong) TNT command  <{87 *_Protarsomere_5,_chaetotaxy: several_fine_setae scarce_(very_few_fine_setae,_almost_glabrous)>
+>skipping unsupported (or wrong) TNT command  <{88 Apical_tarsomere,_empodial_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{89 Metacoxae,_transverse_carina: absent present>
+>skipping unsupported (or wrong) TNT command  <{90 Metacoxae,_ventral_spines: absent present>
+>skipping unsupported (or wrong) TNT command  <{91 *Male_metatrocanter,_spines: absent_(or_only_one_at_most) present>
+>skipping unsupported (or wrong) TNT command  <{92 *_Male_metatrocanter,_spines,_distribution_(when_present): posteroapical anteromedial>
+>skipping unsupported (or wrong) TNT command  <{93 *_Sexual_dimorphism,_metatrocanter,_spines_(when_present_in_males): absent_(i.e.,_male_and_female_with_spines) present_(i.e.,_only_in_males)>
+>skipping unsupported (or wrong) TNT command  <{94 Male_metafemora,_spines: absent present>
+>skipping unsupported (or wrong) TNT command  <{95 *_Male_metafemora,_spines,_number_(when_present): one_row two_rows only_apical>
+>skipping unsupported (or wrong) TNT command  <{96 *__Male_metafemora,_spines,_shape_(when_present): as_strong-like_setae_(i.e.,_same_orientation_as_nearby_finer_setae) as_true_spines>
+>skipping unsupported (or wrong) TNT command  <{97 *_Male_metafemora,_spines,_distribution_(when_present_as_"true_spines"): entire_posterior_margin basal_half_of_posterior_margin basal_fifth_of_posterior_margin>
+>skipping unsupported (or wrong) TNT command  <{98 *_Sexual_dimorphism,_metafemora,_spines_(when_present_in_males): absent_(i.e.,_male_and_female_with_spines) present_(i.e.,_only_in_males)>
+>skipping unsupported (or wrong) TNT command  <{99 Metatibiae,_spines: absent,_or_at_most_one_or_two_spines_present always_several_spines_present>
+>skipping unsupported (or wrong) TNT command  <{100 Metatarsi,_relative_length_of_tarsomeres_1_(t1)_and_5_(t5)_(t1/t5): t1_shorter_than_t5_or_at_most_both_tarsomeres_subequal_(t1/t5_<_1.0) t1_moderately_longer_than_t5_(t1/t5_>>_1.0_but_<_2.0) t1_significantly_longer_than_t5_(t1/t5_>>_2.0_but_<_3.0) t1_much_longer_than_t5_(t1/t5_=_4.0)>
+>skipping unsupported (or wrong) TNT command  <{101 *_Sexual_dimorphism,_metarsomere_1_(t1),_length: absent_(i.e.,_male_and_female_with_same_t1_length) present_(i.e.,_t1_in_male_distinctly_longer_than_in_female)>
+>skipping unsupported (or wrong) TNT command  <{102 Metatarsi,_tarsomeres_3-5,_dorsal_surface,_chaetotaxy: developed_only_at_margins,_dorsal_surface_of_tarsomeres_glabrous_along_midline tarsomeres_dorsally_setose_(setae_not_restricted_to_marginal_series)>
+>skipping unsupported (or wrong) TNT command  <{103 Hind_wing,_venation,_veins_CuA_and_MP4: completely_separate fused_in_one_vein_(although_often_its_origin_from_two_veins_still_very_obvious)>
+>skipping unsupported (or wrong) TNT command  <{104 Hind_wing,_venation,_MP3: vein_MP3_present,_although_sometimes_faint vein_MP3_absent>
+>skipping unsupported (or wrong) TNT command  <{105 Abdomen,_protergal_glands,_cuticular_manifestation: shallow_impression well-developed_acetabula more_or_less_invaginated_capsules_with_smaller_openings>
+>skipping unsupported (or wrong) TNT command  <{106 Abdomen,_tergites_3_and_4,_ABTC,_pair_of_accessory_ridges: absent present>
+>skipping unsupported (or wrong) TNT command  <{107 Abdomen,_tergum_3,_PBTC: absent present>
+>skipping unsupported (or wrong) TNT command  <{108 Abdomen,_tergum_5,_ABTC,_pair_of_accessory_ridges: absent present>
+>skipping unsupported (or wrong) TNT command  <{109 Abdomen,_tergum_4,_PBTC: absent present>
+>skipping unsupported (or wrong) TNT command  <{110 Abdomen,_tergum_5,_PBTC: absent present>
+>skipping unsupported (or wrong) TNT command  <{111 Abdomen,_tergum_3,_curved_ridge_on_disc: absent present>
+>skipping unsupported (or wrong) TNT command  <{112 Abdomen,_tergum_4,_curved_ridge_on_disc: absent present>
+>skipping unsupported (or wrong) TNT command  <{113 Abdomen,_tergum_5,_curved_ridge_on_disc: absent present>
+>skipping unsupported (or wrong) TNT command  <{114 Abdomen,_sternum_3,_basal_transverse_carina,_shape_of_its_lateral_area: not_sinuate sinuate inclined_medially>
+>skipping unsupported (or wrong) TNT command  <{115 Abdomen,_male_sternum_7,_patches_of_setae_on_disc: absent present>
+>skipping unsupported (or wrong) TNT command  <{116 Male_sternum_8,_apical_margin,_distinct_medial_projection: absent present>
+>skipping unsupported (or wrong) TNT command  <{117 Male_sternum_8,_apical_margin,_medial_emargination: absent present>
+>skipping unsupported (or wrong) TNT command  <{118 Female_sternum_8,_apical_margin,_distinct_medial_projection: absent present>
+>skipping unsupported (or wrong) TNT command  <{119 *_Female_sternum_8,_apical_margin,_distinct_medial_projection_(when_present): straight_to_slightly_emarginate_at_sides distinctly_emarginate_at_sides>
+>skipping unsupported (or wrong) TNT command  <{120 Male_sternum_9,_relative_length_of_basal_(bp)_and_distal_(dp)_portions_(bp/dp): bp__shorter_or_as_long_as_dp_at_most_(bp/dp_1.0) bp_moderately_longer_than_dp_(bp/dp_1.2-1.4) bp_distinctly_longer_than_dp_(bp/dp_at_least_1.6)>
+>skipping unsupported (or wrong) TNT command  <{121 Male_sternum_9,_distal_portion,_median_emargination: distinct not_distinct>
+>skipping unsupported (or wrong) TNT command  <{122 Male_sternum_9,_distal_portion,_emargination_(if_distinct): acute subangulate_to_concave slightly_arcuate>
+>skipping unsupported (or wrong) TNT command  <{123 Lateral_tergal_sclerites_9_(styli),_apical_straight_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{124 Lateral_tergal_sclerites_9_(styli),_shape: dorsoventrally_flattened not_dorsoventrally_or_laterally_flattened laterally_flattened>
+>skipping unsupported (or wrong) TNT command  <{125 Sexual_dimorphism,_lateral_tergal_sclerites_9_(styli)_(if_dorsoventrally_flattened): absent_(i.e.,_equally_wide_in_both_male_and_female) present_(i.e.,_distinctly_wider_in_males_than_in_females)>
+>skipping unsupported (or wrong) TNT command  <{126 Male_tergum_10,_shape: emarginate_medio-apically apically_subtruncate_to_wide_and_subangulate_or_arcuate concave_medio-apically_to_apically_truncate apically_distinctly_subacute_to_acute>
+>skipping unsupported (or wrong) TNT command  <{127 Male:_aedeagus,_parameres,_separation: paired,_well_separated fused_into_a_single_lobe_(sometimes__secondarily_bifurcate)>
+>skipping unsupported (or wrong) TNT command  <{128 Male:_aedeagus,_paramere(s),_sensory_peg_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{129 Male:_aedeagus,_paramere(s),_degree_of_attachment_to_median_lobe: fused_to_median_lobe_only_at_base,_otherwise_paramere(s)_distinctly_separated_from_median_lobe_along_entire_length fused_to_median_lobe_only_at_base_and_very_closely_appressed_to_median_lobe_along_entire_length fused_to_median_lobe_along_its_(their)_entire_length,_paramere(s)_and_median_lobe_hardly_distinguishable_from_each_other.>
+>skipping unsupported (or wrong) TNT command  <{130 Male:_aedeagus,_paramere(s),_shape: paramere(s)_not_(or_at_most_slightly)_produced_over_apex_of_median_lobe paramer_strongly_produced_produced_over_apex_of_median_lobe paramere_distinctly_small_(short_and/or_thin)>
+>skipping unsupported (or wrong) TNT command  <{131 Ovipositor,_each_second_gonocoxite,_number_of_macrosetae: 2-5 one_at_midline>
+>skipping unsupported (or wrong) TNT command  <{132 Labial_P2 absent present>
+>skipping unsupported (or wrong) TNT command  <{133 Oblique_sternopleural_suture absent present>
+>skipping unsupported (or wrong) TNT command  <{134 Dorsoventrally_flattened_lateral_tergal_sclerites_9 absent present>
+>skipping unsupported (or wrong) TNT command  <{135 Posterior_marginal_setae absent present>
+>skipping unsupported (or wrong) TNT command  <{136 Lateral_marginal_setae absent present>
+>skipping unsupported (o# logfile from anagallis - 2020-5-30 10:55:27
+import tnt> importing from TNT file 'CPRS2019.tnt'
+xread> reading data...
+xread> 79 terminals and 138 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 *_Head_and_pronotum,_spine-like_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{1 Antennal_insertions_(ai),_position_in_relation_to_frontoclypeus_and_eye: ai_situated_at_the_anterior_margin_of_frontoclypeus,_i.e.,_anterior_margin_of_antennal_cavity_touching_the_anterior_margin_of_frontoclypeus ai_situated_closer_to_frontoclypeus_than_to_eye ai_situated_at_equal_distance_or_closer_to_eye>
+>skipping unsupported (or wrong) TNT command  <{2 *_Sexual_dimorphism,_antennal_insertions,_distance_between_each_other_in_relation_to_eye_(ai-ai/ai-e): absent_(both_male_and_female_with_same_ai-ai/ai-e_ratio) present_(only_males_antennal_insertions_equidistant_from_each_other_and_eye_or_closer_to_each_other_than_to_eye)>
+>skipping unsupported (or wrong) TNT command  <{3 *_Sexual_dimorphism,_antennal_lenght: absent_(both_male_and_female_with_same_lenght) present_(i.e.,longer_in_males)>
+>skipping unsupported (or wrong) TNT command  <{4 *_Sexual_dimorphism,_antennomere_1,_setation: absent_(i.e,_both_male_and_female_with_same_setation) present_(i.e.,_denser_in_males)>
+>skipping unsupported (or wrong) TNT command  <{5 Antennae,_relative_length_of_antennomere_1_(a1),_and_antennomeres_2_(a2)_and_3_(a3)_combined: a1_distinctly_shorter_than_a2_and_a3_combined a1_as_long_as_or_longer_than_a2_and_a3_combined>
+>skipping unsupported (or wrong) TNT command  <{6 Antennae,_length_of_antennomeres_3_and_2_ratio_(a3/a2): a3_not_longer_than_a2_(maximum_a3/a2_ratio_1.0) a3_moderately_longer_than_a2_(a3/a2_ratio_1.2-1.5) a3_distinctly_longer_than_a2_(a3/a2_ratio_>>_1.5)>
+>skipping unsupported (or wrong) TNT command  <{7 Antennae,_antennomere_3,_tomentose_pubescence: absent present>
+>skipping unsupported (or wrong) TNT command  <{8 Antennnae,_antennomere_6,_apical_long_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{9 *_Sexual_dimorphism,_head,_punctation,_dorsal_view: absent_(i.e,_both_male_and_female_with_same_punctation) present_(i.e.,_with_dense_punctation_in_males,_scarcely_punctated_to_almost_glabrous_in_fem>
+>skipping unsupported (or wrong) TNT command  <{10 *_Sexual_dimorphism,_head,_punctation,_ventral_view: absent_(i.e,_both_male_and_female_with_same_punctation) present_(i.e.,_with_dense_punctation_in_males,_scarcely_punctated_to_almost_glabrous_in_fem>
+>skipping unsupported (or wrong) TNT command  <{11 *_Sexual_dimorphism,_head,_setation,_ventral_view: absent_(i.e,_both_male_and_female_with_same_setation) present_(i.e.,_with_dense_setation_in_males,_scarce_setae_to_almost_glabrous_in_females)>
+>skipping unsupported (or wrong) TNT command  <{12 *_Sexual_dimorphism,_head,_width: absent_(both_male_and_female_with_about_the_same_width) present_(distinctly_wider_in_males)>
+>skipping unsupported (or wrong) TNT command  <{13 *_Sexual_dimorphism,_frontoclypeus,_emargination: absent(i.e,_both_male_and_female_without_emargination) present_(emarginate_in_males)>
+>skipping unsupported (or wrong) TNT command  <{14 Head,_neck_constriction: neck_distinct_at_sides_only neck_constriction_fully_developed,_distinct_all_around neck_region_indistinct>
+>skipping unsupported (or wrong) TNT command  <{15 Head,_dorsal_basal_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{16 Head,_ventral_basal_ridge_(vbr),_development: vbr_along_considerable_portion_of_its_length_confluent_with_ventral_portion_of_postoccipital_suture vbr_extending_more_or_less_parallel_to_ventral_portion_of_postoccipital_suture>
+>skipping unsupported (or wrong) TNT command  <{17 Head,_postgenal_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{18 Head,_postgenal_ridge_(pgr)_relative_to_ventral_basal_ridge_(vbr),_development: pgr_developed_ventrally_but_not_joining_vbr_medially pgr_joined_vbr_medially pgr_slightly_developed_ventrally_(rather_laterally)_and_not_joining_vbr>
+>skipping unsupported (or wrong) TNT command  <{19 Head,_postmandibular_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{20 Head,_postmandibular_ridge_(pmr)_relative_to_mandibular_base_(mb): pmr_bordering_mb_almost_completely pmr_bordering_mb_only_laterally pmr_and_mb_separate>
+>skipping unsupported (or wrong) TNT command  <{21 Head,_postmandibular_sulcus: absent present>
+>skipping unsupported (or wrong) TNT command  <{22 Head,_infraorbital_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{23 Head,_infraorbital_ridge_(ior),_development_(sensu_Smetana,_see_Chani-Posse_2014): ior_complete ior_extending_far_beyond_postgenal_ridge ior_reaching_postgenal_ridge_or_slightly_extending_beyond_postgenal_ridge>
+>skipping unsupported (or wrong) TNT command  <{24 Head,_ligula,_shape: more_or_less_bilobed,_with_variously_developed_rounded_lobes small,_entire_(or_at_most_slightly_notched_medially)>
+>skipping unsupported (or wrong) TNT command  <{25 Head,_mandibles,_dorso-lateral_groove: absent present>
+>skipping unsupported (or wrong) TNT command  <{26 Labial_palpus,_relative_length_of_palpomeres_3_(p3,_apical)_and_2_(p2,_preapical)_(p3/p2): p3_distinctly_shorter_than_p2 p3_and_p2_subequal_in_length p3_distinctly_longer_than_p2>
+>skipping unsupported (or wrong) TNT command  <{27 *_Labial_palpomere_2_(when_p3_distinctly_shorter_than_p2),_setae: basal mediobasal>
+>skipping unsupported (or wrong) TNT command  <{28 *_Labial_palpomere_2,_shape: cylindrical slightly_expanded_apically>
+>skipping unsupported (or wrong) TNT command  <{29 *_Sexual_dimorphism,_labial_palpomere_2-3: absent__(i.e.,_subcyindrical_in_both_male_and_female) present_(i.e.,_medially_expanded_in_males,_subcylindrical_in_females)>
+>skipping unsupported (or wrong) TNT command  <{30 *Maxillary_palpus,_relative_length_of_palpomeres_4_(p4,_apical)_and_2_(p2)_(p4/p2): p4_as_long_as_or_longer_than_p2 p4_distinctly_shorter_than_p2>
+>skipping unsupported (or wrong) TNT command  <{31 *_Sexual_dimorphism,_maxillary_palpomere_3: absent__(i.e.,_subcyindrical_in_both_male_and_female) present_(i.e.,_apically_expanded_in_males,_subcylindrical_in_females)>
+>skipping unsupported (or wrong) TNT command  <{32 Maxillary_palpus,_palpomere_4_(apical),_shape: subacute,_i.e.,_narrowed_at_base_and_evenly_converging_towards_apex fusiform_to_expanded_apically,_i.e.,_narrowed_at_base_but_not_(or_not_evenly)_converging_towards_apex subcylindrical_"rod-like",_parallel-sided_at_most_of_its_length,_apex_subtruncate subcylindrical_"rod-like",_parallel-sided_at_most_of_its_length,_apex_acute extremely_elongate_(like_in_Atanygnathus)>
+>skipping unsupported (or wrong) TNT command  <{33 Gular_sutures_(gs),_development: gs_joined_before_neck gs_not_joined_before_neck,_extended_close_to_each_other_at_base_of_head_capsule>
+>skipping unsupported (or wrong) TNT command  <{34 Gular_sutures_(gs),_if_not_joined_before_neck,_degree_of_separation: gs_slightly_separated_from_each_other gs_widely_separated_from_each_other>
+>skipping unsupported (or wrong) TNT command  <{35 Male_gular_sutures,_if_joined_before_neck,_joining_point: joined_anteriorly_(i.e.,_not_farther_than_one_half_the_distance_between_the_anterior_margin_of_mentum_and_the_base_of_head_along_midline) joined_posteriorly>
+>skipping unsupported (or wrong) TNT command  <{36 *_Sexual_dimorphism,_gular_sutures,_if_joined_before_neck,_joining_point: absent_(i.e,_both_male_and_female_with_same_joining_point) present_(joined_anteriorly_on_male_but_posteriorly_on_female)>
+>skipping unsupported (or wrong) TNT command  <{37 Hypostomal_cavity_(hc): absent present>
+>skipping unsupported (or wrong) TNT command  <{38 Hypostomal_cavity_(hc),_if_present: hc_distinctly_delimited_(i.e.,_cavity_surface_with_microsculture_and/or_punctation_different_from_rest_of_nearby_head_surface) hc_moderately_delimited_(i.e.,_cavity_surface_without_microsculpture_or_punctation_different_from_rest_of_nearby_head_surface) hc_slightly_delimited_(cavity_distinct_only_laterally,_its_surface_with_same_microsculture_or_punctuation_as_rest_of_nearby_head_surface)>
+>skipping unsupported (or wrong) TNT command  <{39 Prothorax,_anterior_angles_(aap)_relative_to_anterior_margin_of_prosternum_(amp): aap_and_amp_at_about_the_same_level aap_distinctly_posterior_to_amp>
+>skipping unsupported (or wrong) TNT command  <{40 *_Prothorax,_pronotum,_deflection_(in_ventral_view): absent present>
+>skipping unsupported (or wrong) TNT command  <{41 *_Prothorax,_pronotum,_if_deflected_(in_ventral_view): not_visible_beyond_spiracles visible_beyond_spiracles>
+>skipping unsupported (or wrong) TNT command  <{42 Prothorax,_large_lateral_setiferous_puncture_(llsp),_position_in_relation_to_superior_marginal_line_of_pronotum_(smlp): llsp_situated_very_close_to_smlp_or_at_a_distance_no_more_than_three_times_its_diameter llsp_situated_away_from_smlp_at_a_distance_at_least_three_times_as_large_as_its_diameter>
+>skipping unsupported (or wrong) TNT command  <{43 *_Prothorax,_prosternum,_sternacostal_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{44 *_Prothorax,_prosternum,_sternacostal_ridge_(when_present): joining_superior_line_of_hypomeron not_joining_superior_line_of_hypomeron>
+>skipping unsupported (or wrong) TNT command  <{45 Prothorax,_basisternum_(bs),_length_relative_to_length_of_furcasternum_(fs)_(bs/fs,_measured_laterally): bs_slightly_to_moderately_longer_than_fs_(bs/fs_ratio_up_to_1.5) bs_distinctly_longer_than_fs_(bs/fs_ratio_>>_1.5) bs_distinctly_shorter_than_fs_(bs/fs_ratio_<<1.0)>
+>skipping unsupported (or wrong) TNT command  <{46 Prothorax,_prosternum,_transverse_carina_on_basisternum: absent present>
+>skipping unsupported (or wrong) TNT command  <{47 Prothorax,_prosternum,_transverse_carina_on_basisternum_(tc),_development_(when_present): tc_rudimentary_to_uncomplete tc_complete>
+>skipping unsupported (or wrong) TNT command  <{48 *_Prothorax,_prosternum,basisternum,_microsculpture_(when_transverse_carina_present): uniform_(i.e.,_not_different_at_both_sides_of_transverse_carina) not_uniform_(i.e.,_distinct_at_both_sides_of_carina>
+>skipping unsupported (or wrong) TNT command  <{49 Prothorax,_prosternum,_longitudinal_ridge_(in_ventral_view): absent present>
+>skipping unsupported (or wrong) TNT command  <{50 Prosternum,_keel: absent present>
+>skipping unsupported (or wrong) TNT command  <{51 Prothorax,_hypomeron,_superior_marginal_line,_deflection_under_anterior_angles_(ventral_view): not_distinct distinct>
+>skipping unsupported (or wrong) TNT command  <{52 Prothorax,_hypomeron,_inferior_marginal_line_(iml),_development: iml_not_continued_as_a_separate_entity_beyond_anterior_pronotal_angles iml_continued_as_a_separate_entity_beyond_anterior_pronotal_angles_and_curving_around_them iml_continued_as_a_separate_entity_beyond_anterior_pronotal_angles_and_continuous_with_them>
+>skipping unsupported (or wrong) TNT command  <{53 Prothorax,_degree_of_fusion_of_pronotum_(pnt)_and_prosternum_(pst): pnt_and_pst_not_fused_in_procoxal_cavity,_pronotosternal_suture_complete_in_cavity pnt_and_pst_at_least_partially_fused,_pronotosternal_suture_missing_in_part_of_cavity>
+>skipping unsupported (or wrong) TNT command  <{54 Prothorax,_prosternum,_basisternum,_pair_of_macrosetae: absent present>
+>skipping unsupported (or wrong) TNT command  <{55 Prothorax,_prosternum,_basisternum,_position_of_pair_of_macrosetae_(ms,_if_present)_in_relation_to_anterior_margin_of_prosternum_(amp)_and_the_sternacostal_suture_(ss): ms_situated_close_to_amp_(i.e.,_not_farther_than_one_fourth_the_distance_between_amp_and_the_ss_along_midline) ms_situated_far_from_amp_(i.e.,_farther_than_one_fourth_the_distance_between_amp_and_the_ss_along_midline)>
+>skipping unsupported (or wrong) TNT command  <{56 Mesothorax,_mesoscutellum,_posterior_scutellar_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{57 Mesothorax,_elytron,_humeral_spines_or_spine-like_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{58 Sternopleural_(anapleural)_suture: transverse,_or_nearly_transverse_(very_slightly_oblique) distinctly_oblique_(medial_end_of_suture_anterior_to_its_lateral_end) sinuate>
+>skipping unsupported (or wrong) TNT command  <{59 Sternopleural_(anapleural)_sutures_(sps),_their_position_with_respect_to_anterior_margin_of_mesoventrite_(amm),_if_oblique: sps_confluent_at_amm sps_not_confluent_at_amm>
+>skipping unsupported (or wrong) TNT command  <{60 Mesothorax,_mesoventral_cross-like_ridge_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{61 *_Mesothorax,_mesoventral_longitudinal_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{62 Mesothorax,_mesoventral_posterior_half_of_prepectus,_ridge_connecting_coxal_cavities: absent present>
+>skipping unsupported (or wrong) TNT command  <{63 Mesothorax,_intercoxal_process,_apex: rounded_or_broadly_pointed,_forming_obtuse_angle narrowly_pointed_forming_sharp_(acute)_angle intercoxal_process_not_distinct,_metaventrite_fused_with_mesoventrite>
+>skipping unsupported (or wrong) TNT command  <{64 Profemora,_lateroventral_medial_spines_(posterior_row): absent present>
+>skipping unsupported (or wrong) TNT command  <{65 *_Sexual_dimorphism,_profemora,_lateroventral_apical_spine/s_(anterior_row,_when_present) absent_(both_sexes_with_spine/s) present_(spine/s_only_in_males)>
+>skipping unsupported (or wrong) TNT command  <{66 Profemora,_lateroventral_medial_spines_(anterior_row): absent present>
+>skipping unsupported (or wrong) TNT command  <{67 *_Profemora,_chaetotaxy: conspicuosuly_denser_ventrally scarce_all_over dense_both_dorsally_and_ventrally>
+>skipping unsupported (or wrong) TNT command  <{68 *_Profemora,_chaetotaxy,_longitudinal_patch_of_dense_setae_lateroventrally: absent present>
+>skipping unsupported (or wrong) TNT command  <{69 *_Sexual_dimorphism,_profemora,_shape: absent present_(medially_dilated_or_wider_in_males)>
+>skipping unsupported (or wrong) TNT command  <{70 Protibiae,_shape: cylindrical_to_slightly_broadened_apically subconical_to_conical,_moderately_to_distinctly_broadened_apically>
+>skipping unsupported (or wrong) TNT command  <{71 Protibiae,_apical_excavation: absent present>
+>skipping unsupported (or wrong) TNT command  <{72 *_Protibiae,_apical_excavation,_spines: absent present>
+>skipping unsupported (or wrong) TNT command  <{73 *_Protibiae,_apical_excavation,_spines_(when_present),_number: 5-6 2-3>
+>skipping unsupported (or wrong) TNT command  <{74 *_Protibiae,_lateroventral_spines: absent present>
+>skipping unsupported (or wrong) TNT command  <{75 *_Protibiae,_lateroventral_spines,_distribution: irregular,_not_in_rows in_one_row in_two_rows>
+>skipping unsupported (or wrong) TNT command  <{76 *_Protarsi,_tarsomeres_2-3,_relative_width: as_long_as_to_longer_than_wide distinctly_wider_than_long>
+>skipping unsupported (or wrong) TNT command  <{77 *_Male_protarsi,_tarsomeres_2-3: not_bilobed_(posterior_margin_moderately_curved_to_straight) sub-bilobed strongly_bilobed>
+>skipping unsupported (or wrong) TNT command  <{78 *_Protarsomeres_2-3,_ventral_surface,_discal_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{79 *_Protarsomeres_2-3,_ventral_surface,_discal_setae_(when_present),_shaft_microsculpture: smooth striate>
+>skipping unsupported (or wrong) TNT command  <{80 *_Protarsomeres_2-3,_ventral_surface,_discal_setae_(when_present),_shaft_shape: cylindrical,_distinctly_broadened_apically subcylindrical,_gradually_narrowed_apically>
+>skipping unsupported (or wrong) TNT command  <{81 *_Protarsomeres_2-3,_ventral_surface,_discal_setae_(when_present),_terminal_plate: absent present>
+>skipping unsupported (or wrong) TNT command  <{82 *_Protarsomeres_2-3,_ventral_surface,_discal_setae_(when_present),_terminal_plate_shape: rounded_to_ovoid_to_subquadrate subfusiform_to_leaf-like not_distinct,_fused_to_adyacent_plates>
+>skipping unsupported (or wrong) TNT command  <{83 *_Protarsomeres_2-3,_ventral_surface,_marginal_setae: absent_(if_present_only_1-2_fine_setae_at_each_lateroposterior_angle) present>
+>skipping unsupported (or wrong) TNT command  <{84 *_Protarsomeres_2-3,_ventral_surface,_marginal_setae,_distribution_(when_present): posteriad lateral>
+>skipping unsupported (or wrong) TNT command  <{85 *_Protarsomeres_2-3,_ventral_surface,_marginal_setae,_distribution_(when_present_and_posterior): continuous interrupted_medially>
+>skipping unsupported (or wrong) TNT command  <{86 *_Protarsomeres_2-3,_ventral_surface,_marginal_setae,_number_at_each_side_(when_present_and_lateral): 3 4 more_than_4 only_2>
+>skipping unsupported (or wrong) TNT command  <{87 *_Protarsomere_5,_chaetotaxy: several_fine_setae scarce_(very_few_fine_setae,_almost_glabrous)>
+>skipping unsupported (or wrong) TNT command  <{88 Apical_tarsomere,_empodial_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{89 Metacoxae,_transverse_carina: absent present>
+>skipping unsupported (or wrong) TNT command  <{90 Metacoxae,_ventral_spines: absent present>
+>skipping unsupported (or wrong) TNT command  <{91 *Male_metatrocanter,_spines: absent_(or_only_one_at_most) present>
+>skipping unsupported (or wrong) TNT command  <{92 *_Male_metatrocanter,_spines,_distribution_(when_present): posteroapical anteromedial>
+>skipping unsupported (or wrong) TNT command  <{93 *_Sexual_dimorphism,_metatrocanter,_spines_(when_present_in_males): absent_(i.e.,_male_and_female_with_spines) present_(i.e.,_only_in_males)>
+>skipping unsupported (or wrong) TNT command  <{94 Male_metafemora,_spines: absent present>
+>skipping unsupported (or wrong) TNT command  <{95 *_Male_metafemora,_spines,_number_(when_present): one_row two_rows only_apical>
+>skipping unsupported (or wrong) TNT command  <{96 *__Male_metafemora,_spines,_shape_(when_present): as_strong-like_setae_(i.e.,_same_orientation_as_nearby_finer_setae) as_true_spines>
+>skipping unsupported (or wrong) TNT command  <{97 *_Male_metafemora,_spines,_distribution_(when_present_as_"true_spines"): entire_posterior_margin basal_half_of_posterior_margin basal_fifth_of_posterior_margin>
+>skipping unsupported (or wrong) TNT command  <{98 *_Sexual_dimorphism,_metafemora,_spines_(when_present_in_males): absent_(i.e.,_male_and_female_with_spines) present_(i.e.,_only_in_males)>
+>skipping unsupported (or wrong) TNT command  <{99 Metatibiae,_spines: absent,_or_at_most_one_or_two_spines_present always_several_spines_present>
+>skipping unsupported (or wrong) TNT command  <{100 Metatarsi,_relative_length_of_tarsomeres_1_(t1)_and_5_(t5)_(t1/t5): t1_shorter_than_t5_or_at_most_both_tarsomeres_subequal_(t1/t5_<_1.0) t1_moderately_longer_than_t5_(t1/t5_>>_1.0_but_<_2.0) t1_significantly_longer_than_t5_(t1/t5_>>_2.0_but_<_3.0) t1_much_longer_than_t5_(t1/t5_=_4.0)>
+>skipping unsupported (or wrong) TNT command  <{101 *_Sexual_dimorphism,_metarsomere_1_(t1),_length: absent_(i.e.,_male_and_female_with_same_t1_length) present_(i.e.,_t1_in_male_distinctly_longer_than_in_female)>
+>skipping unsupported (or wrong) TNT command  <{102 Metatarsi,_tarsomeres_3-5,_dorsal_surface,_chaetotaxy: developed_only_at_margins,_dorsal_surface_of_tarsomeres_glabrous_along_midline tarsomeres_dorsally_setose_(setae_not_restricted_to_marginal_series)>
+>skipping unsupported (or wrong) TNT command  <{103 Hind_wing,_venation,_veins_CuA_and_MP4: completely_separate fused_in_one_vein_(although_often_its_origin_from_two_veins_still_very_obvious)>
+>skipping unsupported (or wrong) TNT command  <{104 Hind_wing,_venation,_MP3: vein_MP3_present,_although_sometimes_faint vein_MP3_absent>
+>skipping unsupported (or wrong) TNT command  <{105 Abdomen,_protergal_glands,_cuticular_manifestation: shallow_impression well-developed_acetabula more_or_less_invaginated_capsules_with_smaller_openings>
+>skipping unsupported (or wrong) TNT command  <{106 Abdomen,_tergites_3_and_4,_ABTC,_pair_of_accessory_ridges: absent present>
+>skipping unsupported (or wrong) TNT command  <{107 Abdomen,_tergum_3,_PBTC: absent present>
+>skipping unsupported (or wrong) TNT command  <{108 Abdomen,_tergum_5,_ABTC,_pair_of_accessory_ridges: absent present>
+>skipping unsupported (or wrong) TNT command  <{109 Abdomen,_tergum_4,_PBTC: absent present>
+>skipping unsupported (or wrong) TNT command  <{110 Abdomen,_tergum_5,_PBTC: absent present>
+>skipping unsupported (or wrong) TNT command  <{111 Abdomen,_tergum_3,_curved_ridge_on_disc: absent present>
+>skipping unsupported (or wrong) TNT command  <{112 Abdomen,_tergum_4,_curved_ridge_on_disc: absent present>
+>skipping unsupported (or wrong) TNT command  <{113 Abdomen,_tergum_5,_curved_ridge_on_disc: absent present>
+>skipping unsupported (or wrong) TNT command  <{114 Abdomen,_sternum_3,_basal_transverse_carina,_shape_of_its_lateral_area: not_sinuate sinuate inclined_medially>
+>skipping unsupported (or wrong) TNT command  <{115 Abdomen,_male_sternum_7,_patches_of_setae_on_disc: absent present>
+>skipping unsupported (or wrong) TNT command  <{116 Male_sternum_8,_apical_margin,_distinct_medial_projection: absent present>
+>skipping unsupported (or wrong) TNT command  <{117 Male_sternum_8,_apical_margin,_medial_emargination: absent present>
+>skipping unsupported (or wrong) TNT command  <{118 Female_sternum_8,_apical_margin,_distinct_medial_projection: absent present>
+>skipping unsupported (or wrong) TNT command  <{119 *_Female_sternum_8,_apical_margin,_distinct_medial_projection_(when_present): straight_to_slightly_emarginate_at_sides distinctly_emarginate_at_sides>
+>skipping unsupported (or wrong) TNT command  <{120 Male_sternum_9,_relative_length_of_basal_(bp)_and_distal_(dp)_portions_(bp/dp): bp__shorter_or_as_long_as_dp_at_most_(bp/dp_1.0) bp_moderately_longer_than_dp_(bp/dp_1.2-1.4) bp_distinctly_longer_than_dp_(bp/dp_at_least_1.6)>
+>skipping unsupported (or wrong) TNT command  <{121 Male_sternum_9,_distal_portion,_median_emargination: distinct not_distinct>
+>skipping unsupported (or wrong) TNT command  <{122 Male_sternum_9,_distal_portion,_emargination_(if_distinct): acute subangulate_to_concave slightly_arcuate>
+>skipping unsupported (or wrong) TNT command  <{123 Lateral_tergal_sclerites_9_(styli),_apical_straight_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{124 Lateral_tergal_sclerites_9_(styli),_shape: dorsoventrally_flattened not_dorsoventrally_or_laterally_flattened laterally_flattened>
+>skipping unsupported (or wrong) TNT command  <{125 Sexual_dimorphism,_lateral_tergal_sclerites_9_(styli)_(if_dorsoventrally_flattened): absent_(i.e.,_equally_wide_in_both_male_and_female) present_(i.e.,_distinctly_wider_in_males_than_in_females)>
+>skipping unsupported (or wrong) TNT command  <{126 Male_tergum_10,_shape: emarginate_medio-apically apically_subtruncate_to_wide_and_subangulate_or_arcuate concave_medio-apically_to_apically_truncate apically_distinctly_subacute_to_acute>
+>skipping unsupported (or wrong) TNT command  <{127 Male:_aedeagus,_parameres,_separation: paired,_well_separated fused_into_a_single_lobe_(sometimes__secondarily_bifurcate)>
+>skipping unsupported (or wrong) TNT command  <{128 Male:_aedeagus,_paramere(s),_sensory_peg_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{129 Male:_aedeagus,_paramere(s),_degree_of_attachment_to_median_lobe: fused_to_median_lobe_only_at_base,_otherwise_paramere(s)_distinctly_separated_from_median_lobe_along_entire_length fused_to_median_lobe_only_at_base_and_very_closely_appressed_to_median_lobe_along_entire_length fused_to_median_lobe_along_its_(their)_entire_length,_paramere(s)_and_median_lobe_hardly_distinguishable_from_each_other.>
+>skipping unsupported (or wrong) TNT command  <{130 Male:_aedeagus,_paramere(s),_shape: paramere(s)_not_(or_at_most_slightly)_produced_over_apex_of_median_lobe paramer_strongly_produced_produced_over_apex_of_median_lobe paramere_distinctly_small_(short_and/or_thin)>
+>skipping unsupported (or wrong) TNT command  <{131 Ovipositor,_each_second_gonocoxite,_number_of_macrosetae: 2-5 one_at_midline>
+>skipping unsupported (or wrong) TNT command  <{132 Labial_P2 absent present>
+>skipping unsupported (or wrong) TNT command  <{133 Oblique_sternopleural_suture absent present>
+>skipping unsupported (or wrong) TNT command  <{134 Dorsoventrally_flattened_lateral_tergal_sclerites_9 absent present>
+>skipping unsupported (or wrong) TNT command  <{135 Posterior_marginal_setae absent present>
+>skipping unsupported (or wrong) TNT command  <{136 Lateral_marginal_setae absent present>
+>skipping unsupported (or wrong) TNT command  <{137 Gular_not_joined_before_neck absent present>
+>skipping unsupported (or wrong) TNT command  <proc />
+>skipping unsupported (or wrong) TNT command  <comments 0>
+import tnt> closing TNT file 'CPRS2019.tnt'
+
+current dataset has 138 characters and 79 terminals
+characters properties set
+  [-/1 1.138;
+characters properties set
+  <18 19>
+  <20 21>
+  <23 24>
+  <34 !1 36 37>
+  <38 39>
+  <41 42>
+  <44 45>
+  <47 48 49>
+  <55 56>
+  <72 <73 74>>
+  <75 76>
+  <79 80 81 <82 83>>
+  <84 85 <136 86> <137 87>>
+  <92 93 94>
+  <95 96 <97 98> 99>
+  <122 !1 123>
+  <133 28>
+  <134 60>
+  <135 126>
+  <138 35>;
+trees search mult> doing 1 replicate with tbr swapping
+trees search mult> holding at most 10 trees per replicate
+rep 1   score 956   (random addition sequence, seed 1)                      [3 trees, min score 956, 1 rep hit 956]
+  > character hierarchy scores not always guaranteed to be optimal during this tree search
+    use command 'csc.' ('characters score .') to check if this is the case for the trees that are now in memory
+    (if its output does not flag such cases, everything is ok)
+tread
+'trees from anagallis'
+(Pescolinus_palmatus(((((((((((Paederomimus_difformiceps(Holisus_prolixus(Amblyopinus_emarginatus(Arrowinus_minutus Cyrtoquedius_frenatus_group))))(((Paederomimus_lustrator_group((Belonuchus_cephalotes Belonuchus_gracilis)(Paederomimus_nobilis Paederomimus_salvini)))(Hesperus_bruchi(Hesperus_tremolerasi(Hesperus_argentinus Hesperus_zitschkai))))((Belonuchus_subaeneus Paederomimus_capitalis_group)(Belonuchus_barbicornis(Linoderus_gracilipes Neopescolinus_nevermanni)))))(Hesperus_ferrugineus Belonuchus_atticida))((Philonthus_laetipennis((Paederallus_sp_undescribed(Delgadobius_amazonensis Phileciton_badariottii))((Paederomimus_angusticollis Hesperus_novo-teutonicus)(Belonuchus_pollens Belonuchus_rufipennis))))(Philonthus_diamantinus Philonthus_callosipennis)))(Leptopeltus_flavipennis(Cafius_xantholoma Cafius_seminitens)))(Ophionthus_serpentinus Hesperus_ornaticornis))(Paederomimus_gentilis Paederomimus_aeneiceps))(Leptopeltoides_columbiensis(Ecitophytes_coniceps Proxenobius_borgmeieri)))((Paederomimus_cf_contractus((Belonuchus_mordens(Belonuchus_haemorrhoidalis Belonuchus_cognatus))(Paederomimus_pectoralis Odontolinus_fasciatus)))(Paederomimus_nigrinus Belonuchus_albovariegatus)))(Chroaptomus_flagrans Philonthus_fulgipennides))((((Philonthus_splendens(Misantlius_gebieni(Platydracus_chrysotrichopterus Creophilus_maxillosus)))(Philonthus_figulus(Philonthus_bicoloristylus(Philonthus_lynchi(Gabrius_picipennis Bisnius_sordidus)))))(((Trapeziderus_diversus((Agacerus_pectinatus Philonthus_caeruleipennis)(Philonthus_cyanipennis Philonthus_nitidus)))(Philonthus_longicornis(Philonthus_sericans((Philonthus_bonariensis Philonthus_flavolimbatus)(Flohria_subcoerulea Philonthus_rectangulus)))))((Philothalpus_bilobus Philothalpus_falini)(Xenopygus_analis Nordus_elytisi))))(Laetulonthus_laetulus(Hesperus_baltimorensis Actinus_imperialis)))))*
+(Pescolinus_palmatus(((((((((((Paederomimus_difformiceps(Holisus_prolixus((Arrowinus_minutus Amblyopinus_emarginatus)Cyrtoquedius_frenatus_group)))(((Paederomimus_lustrator_group((Belonuchus_cephalotes Belonuchus_gracilis)(Paederomimus_nobilis Paederomimus_salvini)))(Hesperus_bruchi(Hesperus_tremolerasi(Hesperus_argentinus Hesperus_zitschkai))))((Belonuchus_subaeneus Paederomimus_capitalis_group)(Belonuchus_barbicornis(Linoderus_gracilipes Neopescolinus_nevermanni)))))(Hesperus_ferrugineus Belonuchus_atticida))((Philonthus_laetipennis((Paederallus_sp_undescribed(Delgadobius_amazonensis Phileciton_badariottii))((Paederomimus_angusticollis Hesperus_novo-teutonicus)(Belonuchus_pollens Belonuchus_rufipennis))))(Philonthus_diamantinus Philonthus_callosipennis)))(Leptopeltus_flavipennis(Cafius_xantholoma Cafius_seminitens)))(Ophionthus_serpentinus Hesperus_ornaticornis))(Paederomimus_gentilis Paederomimus_aeneiceps))(Leptopeltoides_columbiensis(Ecitophytes_coniceps Proxenobius_borgmeieri)))((Paederomimus_cf_contractus((Belonuchus_mordens(Belonuchus_haemorrhoidalis Belonuchus_cognatus))(Paederomimus_pectoralis Odontolinus_fasciatus)))(Paederomimus_nigrinus Belonuchus_albovariegatus)))(Chroaptomus_flagrans Philonthus_fulgipennides))((((Philonthus_splendens(Misantlius_gebieni(Platydracus_chrysotrichopterus Creophilus_maxillosus)))(Philonthus_figulus(Philonthus_bicoloristylus(Philonthus_lynchi(Gabrius_picipennis Bisnius_sordidus)))))(((Trapeziderus_diversus((Agacerus_pectinatus Philonthus_caeruleipennis)(Philonthus_cyanipennis Philonthus_nitidus)))(Philonthus_longicornis(Philonthus_sericans((Philonthus_bonariensis Philonthus_flavolimbatus)(Flohria_subcoerulea Philonthus_rectangulus)))))((Philothalpus_bilobus Philothalpus_falini)(Xenopygus_analis Nordus_elytisi))))(Laetulonthus_laetulus(Hesperus_baltimorensis Actinus_imperialis)))))*
+(Pescolinus_palmatus(((((((((((Paederomimus_difformiceps((Arrowinus_minutus(Amblyopinus_emarginatus Cyrtoquedius_frenatus_group))Holisus_prolixus))(((Paederomimus_lustrator_group((Belonuchus_cephalotes Belonuchus_gracilis)(Paederomimus_nobilis Paederomimus_salvini)))(Hesperus_bruchi(Hesperus_tremolerasi(Hesperus_argentinus Hesperus_zitschkai))))((Belonuchus_subaeneus Paederomimus_capitalis_group)(Belonuchus_barbicornis(Linoderus_gracilipes Neopescolinus_nevermanni)))))(Hesperus_ferrugineus Belonuchus_atticida))((Philonthus_laetipennis((Paederallus_sp_undescribed(Delgadobius_amazonensis Phileciton_badariottii))((Paederomimus_angusticollis Hesperus_novo-teutonicus)(Belonuchus_pollens Belonuchus_rufipennis))))(Philonthus_diamantinus Philonthus_callosipennis)))(Leptopeltus_flavipennis(Cafius_xantholoma Cafius_seminitens)))(Ophionthus_serpentinus Hesperus_ornaticornis))(Paederomimus_gentilis Paederomimus_aeneiceps))(Leptopeltoides_columbiensis(Ecitophytes_coniceps Proxenobius_borgmeieri)))((Paederomimus_cf_contractus((Belonuchus_mordens(Belonuchus_haemorrhoidalis Belonuchus_cognatus))(Paederomimus_pectoralis Odontolinus_fasciatus)))(Paederomimus_nigrinus Belonuchus_albovariegatus)))(Chroaptomus_flagrans Philonthus_fulgipennides))((((Philonthus_splendens(Misantlius_gebieni(Platydracus_chrysotrichopterus Creophilus_maxillosus)))(Philonthus_figulus(Philonthus_bicoloristylus(Philonthus_lynchi(Gabrius_picipennis Bisnius_sordidus)))))(((Trapeziderus_diversus((Agacerus_pectinatus Philonthus_caeruleipennis)(Philonthus_cyanipennis Philonthus_nitidus)))(Philonthus_longicornis(Philonthus_sericans((Philonthus_bonariensis Philonthus_flavolimbatus)(Flohria_subcoerulea Philonthus_rectangulus)))))((Philothalpus_bilobus Philothalpus_falini)(Xenopygus_analis Nordus_elytisi))))(Laetulonthus_laetulus(Hesperus_baltimorensis Actinus_imperialis)))));
+script execute stop> closing script file 'Anascript.txt' (level 1), getting back to script file file 'standard input' (level 0)
+>-< program set randomseed 888992742;
+>-< script execute start> reading from script file 'Anascript.txt' (level 1)
+log start>-< there is already an open log file (/Users/akhileshsivaraman/Documents/Imperial/Morphological Character Hierarchies/Data/Chani-Posse & Ramirez-Salamanca, 2019/Ana-CPRS2019.txt)
+import tnt> importing from TNT file 'CPRS2019.tnt'
+xread> reading data...
+xread> current data matrix and tree buffer are cleared
+xread> new matrix has 79 terminals and 138 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 *_Head_and_pronotum,_spine-like_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{1 Antennal_insertions_(ai),_position_in_relation_to_frontoclypeus_and_eye: ai_situated_at_the_anterior_margin_of_frontoclypeus,_i.e.,_anterior_margin_of_antennal_cavity_touching_the_anterior_margin_of_frontoclypeus ai_situated_closer_to_frontoclypeus_than_to_eye ai_situated_at_equal_distance_or_closer_to_eye>
+>skipping unsupported (or wrong) TNT command  <{2 *_Sexual_dimorphism,_antennal_insertions,_distance_between_each_other_in_relation_to_eye_(ai-ai/ai-e): absent_(both_male_and_female_with_same_ai-ai/ai-e_ratio) present_(only_males_antennal_insertions_equidistant_from_each_other_and_eye_or_closer_to_each_other_than_to_eye)>
+>skipping unsupported (or wrong) TNT command  <{3 *_Sexual_dimorphism,_antennal_lenght: absent_(both_male_and_female_with_same_lenght) present_(i.e.,longer_in_males)>
+>skipping unsupported (or wrong) TNT command  <{4 *_Sexual_dimorphism,_antennomere_1,_setation: absent_(i.e,_both_male_and_female_with_same_setation) present_(i.e.,_denser_in_males)>
+>skipping unsupported (or wrong) TNT command  <{5 Antennae,_relative_length_of_antennomere_1_(a1),_and_antennomeres_2_(a2)_and_3_(a3)_combined: a1_distinctly_shorter_than_a2_and_a3_combined a1_as_long_as_or_longer_than_a2_and_a3_combined>
+>skipping unsupported (or wrong) TNT command  <{6 Antennae,_length_of_antennomeres_3_and_2_ratio_(a3/a2): a3_not_longer_than_a2_(maximum_a3/a2_ratio_1.0) a3_moderately_longer_than_a2_(a3/a2_ratio_1.2-1.5) a3_distinctly_longer_than_a2_(a3/a2_ratio_>>_1.5)>
+>skipping unsupported (or wrong) TNT command  <{7 Antennae,_antennomere_3,_tomentose_pubescence: absent present>
+>skipping unsupported (or wrong) TNT command  <{8 Antennnae,_antennomere_6,_apical_long_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{9 *_Sexual_dimorphism,_head,_punctation,_dorsal_view: absent_(i.e,_both_male_and_female_with_same_punctation) present_(i.e.,_with_dense_punctation_in_males,_scarcely_punctated_to_almost_glabrous_in_fem>
+>skipping unsupported (or wrong) TNT command  <{10 *_Sexual_dimorphism,_head,_punctation,_ventral_view: absent_(i.e,_both_male_and_female_with_same_punctation) present_(i.e.,_with_dense_punctation_in_males,_scarcely_punctated_to_almost_glabrous_in_fem>
+>skipping unsupported (or wrong) TNT command  <{11 *_Sexual_dimorphism,_head,_setation,_ventral_view: absent_(i.e,_both_male_and_female_with_same_setation) present_(i.e.,_with_dense_setation_in_males,_scarce_setae_to_almost_glabrous_in_females)>
+>skipping unsupported (or wrong) TNT command  <{12 *_Sexual_dimorphism,_head,_width: absent_(both_male_and_female_with_about_the_same_width) present_(distinctly_wider_in_males)>
+>skipping unsupported (or wrong) TNT command  <{13 *_Sexual_dimorphism,_frontoclypeus,_emargination: absent(i.e,_both_male_and_female_without_emargination) present_(emarginate_in_males)>
+>skipping unsupported (or wrong) TNT command  <{14 Head,_neck_constriction: neck_distinct_at_sides_only neck_constriction_fully_developed,_distinct_all_around neck_region_indistinct>
+>skipping unsupported (or wrong) TNT command  <{15 Head,_dorsal_basal_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{16 Head,_ventral_basal_ridge_(vbr),_development: vbr_along_considerable_portion_of_its_length_confluent_with_ventral_portion_of_postoccipital_suture vbr_extending_more_or_less_parallel_to_ventral_portion_of_postoccipital_suture>
+>skipping unsupported (or wrong) TNT command  <{17 Head,_postgenal_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{18 Head,_postgenal_ridge_(pgr)_relative_to_ventral_basal_ridge_(vbr),_development: pgr_developed_ventrally_but_not_joining_vbr_medially pgr_joined_vbr_medially pgr_slightly_developed_ventrally_(rather_laterally)_and_not_joining_vbr>
+>skipping unsupported (or wrong) TNT command  <{19 Head,_postmandibular_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{20 Head,_postmandibular_ridge_(pmr)_relative_to_mandibular_base_(mb): pmr_bordering_mb_almost_completely pmr_bordering_mb_only_laterally pmr_and_mb_separate>
+>skipping unsupported (or wrong) TNT command  <{21 Head,_postmandibular_sulcus: absent present>
+>skipping unsupported (or wrong) TNT command  <{22 Head,_infraorbital_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{23 Head,_infraorbital_ridge_(ior),_development_(sensu_Smetana,_see_Chani-Posse_2014): ior_complete ior_extending_far_beyond_postgenal_ridge ior_reaching_postgenal_ridge_or_slightly_extending_beyond_postgenal_ridge>
+>skipping unsupported (or wrong) TNT command  <{24 Head,_ligula,_shape: more_or_less_bilobed,_with_variously_developed_rounded_lobes small,_entire_(or_at_most_slightly_notched_medially)>
+>skipping unsupported (or wrong) TNT command  <{25 Head,_mandibles,_dorso-lateral_groove: absent present>
+>skipping unsupported (or wrong) TNT command  <{26 Labial_palpus,_relative_length_of_palpomeres_3_(p3,_apical)_and_2_(p2,_preapical)_(p3/p2): p3_distinctly_shorter_than_p2 p3_and_p2_subequal_in_length p3_distinctly_longer_than_p2>
+>skipping unsupported (or wrong) TNT command  <{27 *_Labial_palpomere_2_(when_p3_distinctly_shorter_than_p2),_setae: basal mediobasal>
+>skipping unsupported (or wrong) TNT command  <{28 *_Labial_palpomere_2,_shape: cylindrical slightly_expanded_apically>
+>skipping unsupported (or wrong) TNT command  <{29 *_Sexual_dimorphism,_labial_palpomere_2-3: absent__(i.e.,_subcyindrical_in_both_male_and_female) present_(i.e.,_medially_expanded_in_males,_subcylindrical_in_females)>
+>skipping unsupported (or wrong) TNT command  <{30 *Maxillary_palpus,_relative_length_of_palpomeres_4_(p4,_apical)_and_2_(p2)_(p4/p2): p4_as_long_as_or_longer_than_p2 p4_distinctly_shorter_than_p2>
+>skipping unsupported (or wrong) TNT command  <{31 *_Sexual_dimorphism,_maxillary_palpomere_3: absent__(i.e.,_subcyindrical_in_both_male_and_female) present_(i.e.,_apically_expanded_in_males,_subcylindrical_in_females)>
+>skipping unsupported (or wrong) TNT command  <{32 Maxillary_palpus,_palpomere_4_(apical),_shape: subacute,_i.e.,_narrowed_at_base_and_evenly_converging_towards_apex fusiform_to_expanded_apically,_i.e.,_narrowed_at_base_but_not_(or_not_evenly)_converging_towards_apex subcylindrical_"rod-like",_parallel-sided_at_most_of_its_length,_apex_subtruncate subcylindrical_"rod-like",_parallel-sided_at_most_of_its_length,_apex_acute extremely_elongate_(like_in_Atanygnathus)>
+>skipping unsupported (or wrong) TNT command  <{33 Gular_sutures_(gs),_development: gs_joined_before_neck gs_not_joined_before_neck,_extended_close_to_each_other_at_base_of_head_capsule>
+>skipping unsupported (or wrong) TNT command  <{34 Gular_sutures_(gs),_if_not_joined_before_neck,_degree_of_separation: gs_slightly_separated_from_each_other gs_widely_separated_from_each_other>
+>skipping unsupported (or wrong) TNT command  <{35 Male_gular_sutures,_if_joined_before_neck,_joining_point: joined_anteriorly_(i.e.,_not_farther_than_one_half_the_distance_between_the_anterior_margin_of_mentum_and_the_base_of_head_along_midline) joined_posteriorly>
+>skipping unsupported (or wrong) TNT command  <{36 *_Sexual_dimorphism,_gular_sutures,_if_joined_before_neck,_joining_point: absent_(i.e,_both_male_and_female_with_same_joining_point) present_(joined_anteriorly_on_male_but_posteriorly_on_female)>
+>skipping unsupported (or wrong) TNT command  <{37 Hypostomal_cavity_(hc): absent present>
+>skipping unsupported (or wrong) TNT command  <{38 Hypostomal_cavity_(hc),_if_present: hc_distinctly_delimited_(i.e.,_cavity_surface_with_microsculture_and/or_punctation_different_from_rest_of_nearby_head_surface) hc_moderately_delimited_(i.e.,_cavity_surface_without_microsculpture_or_punctation_different_from_rest_of_nearby_head_surface) hc_slightly_delimited_(cavity_distinct_only_laterally,_its_surface_with_same_microsculture_or_punctuation_as_rest_of_nearby_head_surface)>
+>skipping unsupported (or wrong) TNT command  <{39 Prothorax,_anterior_angles_(aap)_relative_to_anterior_margin_of_prosternum_(amp): aap_and_amp_at_about_the_same_level aap_distinctly_posterior_to_amp>
+>skipping unsupported (or wrong) TNT command  <{40 *_Prothorax,_pronotum,_deflection_(in_ventral_view): absent present>
+>skipping unsupported (or wrong) TNT command  <{41 *_Prothorax,_pronotum,_if_deflected_(in_ventral_view): not_visible_beyond_spiracles visible_beyond_spiracles>
+>skipping unsupported (or wrong) TNT command  <{42 Prothorax,_large_lateral_setiferous_puncture_(llsp),_position_in_relation_to_superior_marginal_line_of_pronotum_(smlp): llsp_situated_very_close_to_smlp_or_at_a_distance_no_more_than_three_times_its_diameter llsp_situated_away_from_smlp_at_a_distance_at_least_three_times_as_large_as_its_diameter>
+>skipping unsupported (or wrong) TNT command  <{43 *_Prothorax,_prosternum,_sternacostal_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{44 *_Prothorax,_prosternum,_sternacostal_ridge_(when_present): joining_superior_line_of_hypomeron not_joining_superior_line_of_hypomeron>
+>skipping unsupported (or wrong) TNT command  <{45 Prothorax,_basisternum_(bs),_length_relative_to_length_of_furcasternum_(fs)_(bs/fs,_measured_laterally): bs_slightly_to_moderately_longer_than_fs_(bs/fs_ratio_up_to_1.5) bs_distinctly_longer_than_fs_(bs/fs_ratio_>>_1.5) bs_distinctly_shorter_than_fs_(bs/fs_ratio_<<1.0)>
+>skipping unsupported (or wrong) TNT command  <{46 Prothorax,_prosternum,_transverse_carina_on_basisternum: absent present>
+>skipping unsupported (or wrong) TNT command  <{47 Prothorax,_prosternum,_transverse_carina_on_basisternum_(tc),_development_(when_present): tc_rudimentary_to_uncomplete tc_complete>
+>skipping unsupported (or wrong) TNT command  <{48 *_Prothorax,_prosternum,basisternum,_microsculpture_(when_transverse_carina_present): uniform_(i.e.,_not_different_at_both_sides_of_transverse_carina) not_uniform_(i.e.,_distinct_at_both_sides_of_carina>
+>skipping unsupported (or wrong) TNT command  <{49 Prothorax,_prosternum,_longitudinal_ridge_(in_ventral_view): absent present>
+>skipping unsupported (or wrong) TNT command  <{50 Prosternum,_keel: absent present>
+>skipping unsupported (or wrong) TNT command  <{51 Prothorax,_hypomeron,_superior_marginal_line,_deflection_under_anterior_angles_(ventral_view): not_distinct distinct>
+>skipping unsupported (or wrong) TNT command  <{52 Prothorax,_hypomeron,_inferior_marginal_line_(iml),_development: iml_not_continued_as_a_separate_entity_beyond_anterior_pronotal_angles iml_continued_as_a_separate_entity_beyond_anterior_pronotal_angles_and_curving_around_them iml_continued_as_a_separate_entity_beyond_anterior_pronotal_angles_and_continuous_with_them>
+>skipping unsupported (or wrong) TNT command  <{53 Prothorax,_degree_of_fusion_of_pronotum_(pnt)_and_prosternum_(pst): pnt_and_pst_not_fused_in_procoxal_cavity,_pronotosternal_suture_complete_in_cavity pnt_and_pst_at_least_partially_fused,_pronotosternal_suture_missing_in_part_of_cavity>
+>skipping unsupported (or wrong) TNT command  <{54 Prothorax,_prosternum,_basisternum,_pair_of_macrosetae: absent present>
+>skipping unsupported (or wrong) TNT command  <{55 Prothorax,_prosternum,_basisternum,_position_of_pair_of_macrosetae_(ms,_if_present)_in_relation_to_anterior_margin_of_prosternum_(amp)_and_the_sternacostal_suture_(ss): ms_situated_close_to_amp_(i.e.,_not_farther_than_one_fourth_the_distance_between_amp_and_the_ss_along_midline) ms_situated_far_from_amp_(i.e.,_farther_than_one_fourth_the_distance_between_amp_and_the_ss_along_midline)>
+>skipping unsupported (or wrong) TNT command  <{56 Mesothorax,_mesoscutellum,_posterior_scutellar_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{57 Mesothorax,_elytron,_humeral_spines_or_spine-like_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{58 Sternopleural_(anapleural)_suture: transverse,_or_nearly_transverse_(very_slightly_oblique) distinctly_oblique_(medial_end_of_suture_anterior_to_its_lateral_end) sinuate>
+>skipping unsupported (or wrong) TNT command  <{59 Sternopleural_(anapleural)_sutures_(sps),_their_position_with_respect_to_anterior_margin_of_mesoventrite_(amm),_if_oblique: sps_confluent_at_amm sps_not_confluent_at_amm>
+>skipping unsupported (or wrong) TNT command  <{60 Mesothorax,_mesoventral_cross-like_ridge_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{61 *_Mesothorax,_mesoventral_longitudinal_ridge: absent present>
+>skipping unsupported (or wrong) TNT command  <{62 Mesothorax,_mesoventral_posterior_half_of_prepectus,_ridge_connecting_coxal_cavities: absent present>
+>skipping unsupported (or wrong) TNT command  <{63 Mesothorax,_intercoxal_process,_apex: rounded_or_broadly_pointed,_forming_obtuse_angle narrowly_pointed_forming_sharp_(acute)_angle intercoxal_process_not_distinct,_metaventrite_fused_with_mesoventrite>
+>skipping unsupported (or wrong) TNT command  <{64 Profemora,_lateroventral_medial_spines_(posterior_row): absent present>
+>skipping unsupported (or wrong) TNT command  <{65 *_Sexual_dimorphism,_profemora,_lateroventral_apical_spine/s_(anterior_row,_when_present) absent_(both_sexes_with_spine/s) present_(spine/s_only_in_males)>
+>skipping unsupported (or wrong) TNT command  <{66 Profemora,_lateroventral_medial_spines_(anterior_row): absent present>
+>skipping unsupported (or wrong) TNT command  <{67 *_Profemora,_chaetotaxy: conspicuosuly_denser_ventrally scarce_all_over dense_both_dorsally_and_ventrally>
+>skipping unsupported (or wrong) TNT command  <{68 *_Profemora,_chaetotaxy,_longitudinal_patch_of_dense_setae_lateroventrally: absent present>
+>skipping unsupported (or wrong) TNT command  <{69 *_Sexual_dimorphism,_profemora,_shape: absent present_(medially_dilated_or_wider_in_males)>
+>skipping unsupported (or wrong) TNT command  <{70 Protibiae,_shape: cylindrical_to_slightly_broadened_apically subconical_to_conical,_moderately_to_distinctly_broadened_apically>
+>skipping unsupported (or wrong) TNT command  <{71 Protibiae,_apical_excavation: absent present>
+>skipping unsupported (or wrong) TNT command  <{72 *_Protibiae,_apical_excavation,_spines: absent present>
+>skipping unsupported (or wrong) TNT command  <{73 *_Protibiae,_apical_excavation,_spines_(when_present),_number: 5-6 2-3>
+>skipping unsupported (or wrong) TNT command  <{74 *_Protibiae,_lateroventral_spines: absent present>
+>skipping unsupported (or wrong) TNT command  <{75 *_Protibiae,_lateroventral_spines,_distribution: irregular,_not_in_rows in_one_row in_two_rows>
+>skipping unsupported (or wrong) TNT command  <{76 *_Protarsi,_tarsomeres_2-3,_relative_width: as_long_as_to_longer_than_wide distinctly_wider_than_long>
+>skipping unsupported (or wrong) TNT command  <{77 *_Male_protarsi,_tarsomeres_2-3: not_bilobed_(posterior_margin_moderately_curved_to_straight) sub-bilobed strongly_bilobed>
+>skipping unsupported (or wrong) TNT command  <{78 *_Protarsomeres_2-3,_ventral_surface,_discal_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{79 *_Protarsomeres_2-3,_ventral_surface,_discal_setae_(when_present),_shaft_microsculpture: smooth striate>
+>skipping unsupported (or wrong) TNT command  <{80 *_Protarsomeres_2-3,_ventral_surface,_discal_setae_(when_present),_shaft_shape: cylindrical,_distinctly_broadened_apically subcylindrical,_gradually_narrowed_apically>
+>skipping unsupported (or wrong) TNT command  <{81 *_Protarsomeres_2-3,_ventral_surface,_discal_setae_(when_present),_terminal_plate: absent present>
+>skipping unsupported (or wrong) TNT command  <{82 *_Protarsomeres_2-3,_ventral_surface,_discal_setae_(when_present),_terminal_plate_shape: rounded_to_ovoid_to_subquadrate subfusiform_to_leaf-like not_distinct,_fused_to_adyacent_plates>
+>skipping unsupported (or wrong) TNT command  <{83 *_Protarsomeres_2-3,_ventral_surface,_marginal_setae: absent_(if_present_only_1-2_fine_setae_at_each_lateroposterior_angle) present>
+>skipping unsupported (or wrong) TNT command  <{84 *_Protarsomeres_2-3,_ventral_surface,_marginal_setae,_distribution_(when_present): posteriad lateral>
+>skipping unsupported (or wrong) TNT command  <{85 *_Protarsomeres_2-3,_ventral_surface,_marginal_setae,_distribution_(when_present_and_posterior): continuous interrupted_medially>
+>skipping unsupported (or wrong) TNT command  <{86 *_Protarsomeres_2-3,_ventral_surface,_marginal_setae,_number_at_each_side_(when_present_and_lateral): 3 4 more_than_4 only_2>
+>skipping unsupported (or wrong) TNT command  <{87 *_Protarsomere_5,_chaetotaxy: several_fine_setae scarce_(very_few_fine_setae,_almost_glabrous)>
+>skipping unsupported (or wrong) TNT command  <{88 Apical_tarsomere,_empodial_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{89 Metacoxae,_transverse_carina: absent present>
+>skipping unsupported (or wrong) TNT command  <{90 Metacoxae,_ventral_spines: absent present>
+>skipping unsupported (or wrong) TNT command  <{91 *Male_metatrocanter,_spines: absent_(or_only_one_at_most) present>
+>skipping unsupported (or wrong) TNT command  <{92 *_Male_metatrocanter,_spines,_distribution_(when_present): posteroapical anteromedial>
+>skipping unsupported (or wrong) TNT command  <{93 *_Sexual_dimorphism,_metatrocanter,_spines_(when_present_in_males): absent_(i.e.,_male_and_female_with_spines) present_(i.e.,_only_in_males)>
+>skipping unsupported (or wrong) TNT command  <{94 Male_metafemora,_spines: absent present>
+>skipping unsupported (or wrong) TNT command  <{95 *_Male_metafemora,_spines,_number_(when_present): one_row two_rows only_apical>
+>skipping unsupported (or wrong) TNT command  <{96 *__Male_metafemora,_spines,_shape_(when_present): as_strong-like_setae_(i.e.,_same_orientation_as_nearby_finer_setae) as_true_spines>
+>skipping unsupported (or wrong) TNT command  <{97 *_Male_metafemora,_spines,_distribution_(when_present_as_"true_spines"): entire_posterior_margin basal_half_of_posterior_margin basal_fifth_of_posterior_margin>
+>skipping unsupported (or wrong) TNT command  <{98 *_Sexual_dimorphism,_metafemora,_spines_(when_present_in_males): absent_(i.e.,_male_and_female_with_spines) present_(i.e.,_only_in_males)>
+>skipping unsupported (or wrong) TNT command  <{99 Metatibiae,_spines: absent,_or_at_most_one_or_two_spines_present always_several_spines_present>
+>skipping unsupported (or wrong) TNT command  <{100 Metatarsi,_relative_length_of_tarsomeres_1_(t1)_and_5_(t5)_(t1/t5): t1_shorter_than_t5_or_at_most_both_tarsomeres_subequal_(t1/t5_<_1.0) t1_moderately_longer_than_t5_(t1/t5_>>_1.0_but_<_2.0) t1_significantly_longer_than_t5_(t1/t5_>>_2.0_but_<_3.0) t1_much_longer_than_t5_(t1/t5_=_4.0)>
+>skipping unsupported (or wrong) TNT command  <{101 *_Sexual_dimorphism,_metarsomere_1_(t1),_length: absent_(i.e.,_male_and_female_with_same_t1_length) present_(i.e.,_t1_in_male_distinctly_longer_than_in_female)>
+>skipping unsupported (or wrong) TNT command  <{102 Metatarsi,_tarsomeres_3-5,_dorsal_surface,_chaetotaxy: developed_only_at_margins,_dorsal_surface_of_tarsomeres_glabrous_along_midline tarsomeres_dorsally_setose_(setae_not_restricted_to_marginal_series)>
+>skipping unsupported (or wrong) TNT command  <{103 Hind_wing,_venation,_veins_CuA_and_MP4: completely_separate fused_in_one_vein_(although_often_its_origin_from_two_veins_still_very_obvious)>
+>skipping unsupported (or wrong) TNT command  <{104 Hind_wing,_venation,_MP3: vein_MP3_present,_although_sometimes_faint vein_MP3_absent>
+>skipping unsupported (or wrong) TNT command  <{105 Abdomen,_protergal_glands,_cuticular_manifestation: shallow_impression well-developed_acetabula more_or_less_invaginated_capsules_with_smaller_openings>
+>skipping unsupported (or wrong) TNT command  <{106 Abdomen,_tergites_3_and_4,_ABTC,_pair_of_accessory_ridges: absent present>
+>skipping unsupported (or wrong) TNT command  <{107 Abdomen,_tergum_3,_PBTC: absent present>
+>skipping unsupported (or wrong) TNT command  <{108 Abdomen,_tergum_5,_ABTC,_pair_of_accessory_ridges: absent present>
+>skipping unsupported (or wrong) TNT command  <{109 Abdomen,_tergum_4,_PBTC: absent present>
+>skipping unsupported (or wrong) TNT command  <{110 Abdomen,_tergum_5,_PBTC: absent present>
+>skipping unsupported (or wrong) TNT command  <{111 Abdomen,_tergum_3,_curved_ridge_on_disc: absent present>
+>skipping unsupported (or wrong) TNT command  <{112 Abdomen,_tergum_4,_curved_ridge_on_disc: absent present>
+>skipping unsupported (or wrong) TNT command  <{113 Abdomen,_tergum_5,_curved_ridge_on_disc: absent present>
+>skipping unsupported (or wrong) TNT command  <{114 Abdomen,_sternum_3,_basal_transverse_carina,_shape_of_its_lateral_area: not_sinuate sinuate inclined_medially>
+>skipping unsupported (or wrong) TNT command  <{115 Abdomen,_male_sternum_7,_patches_of_setae_on_disc: absent present>
+>skipping unsupported (or wrong) TNT command  <{116 Male_sternum_8,_apical_margin,_distinct_medial_projection: absent present>
+>skipping unsupported (or wrong) TNT command  <{117 Male_sternum_8,_apical_margin,_medial_emargination: absent present>
+>skipping unsupported (or wrong) TNT command  <{118 Female_sternum_8,_apical_margin,_distinct_medial_projection: absent present>
+>skipping unsupported (or wrong) TNT command  <{119 *_Female_sternum_8,_apical_margin,_distinct_medial_projection_(when_present): straight_to_slightly_emarginate_at_sides distinctly_emarginate_at_sides>
+>skipping unsupported (or wrong) TNT command  <{120 Male_sternum_9,_relative_length_of_basal_(bp)_and_distal_(dp)_portions_(bp/dp): bp__shorter_or_as_long_as_dp_at_most_(bp/dp_1.0) bp_moderately_longer_than_dp_(bp/dp_1.2-1.4) bp_distinctly_longer_than_dp_(bp/dp_at_least_1.6)>
+>skipping unsupported (or wrong) TNT command  <{121 Male_sternum_9,_distal_portion,_median_emargination: distinct not_distinct>
+>skipping unsupported (or wrong) TNT command  <{122 Male_sternum_9,_distal_portion,_emargination_(if_distinct): acute subangulate_to_concave slightly_arcuate>
+>skipping unsupported (or wrong) TNT command  <{123 Lateral_tergal_sclerites_9_(styli),_apical_straight_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{124 Lateral_tergal_sclerites_9_(styli),_shape: dorsoventrally_flattened not_dorsoventrally_or_laterally_flattened laterally_flattened>
+>skipping unsupported (or wrong) TNT command  <{125 Sexual_dimorphism,_lateral_tergal_sclerites_9_(styli)_(if_dorsoventrally_flattened): absent_(i.e.,_equally_wide_in_both_male_and_female) present_(i.e.,_distinctly_wider_in_males_than_in_females)>
+>skipping unsupported (or wrong) TNT command  <{126 Male_tergum_10,_shape: emarginate_medio-apically apically_subtruncate_to_wide_and_subangulate_or_arcuate concave_medio-apically_to_apically_truncate apically_distinctly_subacute_to_acute>
+>skipping unsupported (or wrong) TNT command  <{127 Male:_aedeagus,_parameres,_separation: paired,_well_separated fused_into_a_single_lobe_(sometimes__secondarily_bifurcate)>
+>skipping unsupported (or wrong) TNT command  <{128 Male:_aedeagus,_paramere(s),_sensory_peg_setae: absent present>
+>skipping unsupported (or wrong) TNT command  <{129 Male:_aedeagus,_paramere(s),_degree_of_attachment_to_median_lobe: fused_to_median_lobe_only_at_base,_otherwise_paramere(s)_distinctly_separated_from_median_lobe_along_entire_length fused_to_median_lobe_only_at_base_and_very_closely_appressed_to_median_lobe_along_entire_length fused_to_median_lobe_along_its_(their)_entire_length,_paramere(s)_and_median_lobe_hardly_distinguishable_from_each_other.>
+>skipping unsupported (or wrong) TNT command  <{130 Male:_aedeagus,_paramere(s),_shape: paramere(s)_not_(or_at_most_slightly)_produced_over_apex_of_median_lobe paramer_strongly_produced_produced_over_apex_of_median_lobe paramere_distinctly_small_(short_and/or_thin)>
+>skipping unsupported (or wrong) TNT command  <{131 Ovipositor,_each_second_gonocoxite,_number_of_macrosetae: 2-5 one_at_midline>
+>skipping unsupported (or wrong) TNT command  <{132 Labial_P2 absent present>
+>skipping unsupported (or wrong) TNT command  <{133 Oblique_sternopleural_suture absent present>
+>skipping unsupported (or wrong) TNT command  <{134 Dorsoventrally_flattened_lateral_tergal_sclerites_9 absent present>
+>skipping unsupported (or wrong) TNT command  <{135 Posterior_marginal_setae absent present>
+>skipping unsupported (or wrong) TNT command  <{136 Lateral_marginal_setae absent present>
+>skipping unsupported (or wrong) TNT command  <{137 Gular_not_joined_before_neck absent present>
+>skipping unsupported (or wrong) TNT command  <proc />
+>skipping unsupported (or wrong) TNT command  <comments 0>
+import tnt> closing TNT file 'CPRS2019.tnt'
+
+current dataset has 138 characters and 79 terminals
+characters properties set
+  [-/1 1.138;
+characters properties set
+  <18 19>
+  <20 21>
+  <23 24>
+  <34 !1 36 37>
+  <38 39>
+  <41 42>
+  <44 45>
+  <47 48 49>
+  <55 56>
+  <72 <73 74>>
+  <75 76>
+  <79 80 81 <82 83>>
+  <84 85 <136 86> <137 87>>
+  <92 93 94>
+  <95 96 <97 98> 99>
+  <122 !1 123>
+  <133 28>
+  <134 60>
+  <135 126>
+  <138 35>;
+trees search mult> doing 1 replicate with tbr swapping
+rep 1   score 967   (random addition sequence, seed 888992742)              [5 trees, min score 967, 1 rep hit 967]
+  > character hierarchy scores not always guaranteed to be optimal during this tree search
+    use command 'csc.' ('characters score .') to check if this is the case for the trees that are now in memory
+    (if its output does not flag such cases, everything is ok)
+program set randomseed 328;
+tread
+'trees from anagallis'
+((Paederomimus_salvini(Philonthus_fulgipennides(((((Paederomimus_lustrator_group(((Paederomimus_gentilis((Pescolinus_palmatus(Philonthus_diamantinus(((((Philonthus_sericans((Philonthus_splendens(Laetulonthus_laetulus((Xenopygus_analis Nordus_elytisi)((Misantlius_gebieni Platydracus_chrysotrichopterus)Creophilus_maxillosus))))(Philonthus_rectangulus(Agacerus_pectinatus(Philothalpus_bilobus Philothalpus_falini)))))(((Amblyopinus_emarginatus(Cyrtoquedius_frenatus_group Arrowinus_minutus))Holisus_prolixus)(Philonthus_flavolimbatus(Philonthus_longicornis(Philonthus_bonariensis((Philonthus_bicoloristylus((Cafius_xantholoma Cafius_seminitens)(Delgadobius_amazonensis Philonthus_callosipennis)))(Flohria_subcoerulea Philonthus_lynchi)))))))(Paederomimus_nigrinus Hesperus_ornaticornis))(Trapeziderus_diversus(Hesperus_baltimorensis Actinus_imperialis)))((Paederomimus_cf_contractus(Paederomimus_difformiceps(Paederomimus_angusticollis Hesperus_novo-teutonicus)))(Leptopeltus_flavipennis Leptopeltoides_columbiensis)))))(Linoderus_gracilipes((Paederomimus_pectoralis((Neopescolinus_nevermanni(Paederomimus_nobilis((Belonuchus_gracilis Belonuchus_cephalotes)(Belonuchus_albovariegatus Belonuchus_subaeneus))))(Paederomimus_capitalis_group Odontolinus_fasciatus)))(Ophionthus_serpentinus Belonuchus_barbicornis)))))(Philonthus_figulus Philonthus_nitidus))(Belonuchus_haemorrhoidalis(Belonuchus_mordens(Belonuchus_cognatus(Belonuchus_rufipennis Belonuchus_pollens))))))(Belonuchus_atticida(Hesperus_ferrugineus(Hesperus_tremolerasi(Hesperus_zitschkai(Hesperus_bruchi Hesperus_argentinus))))))(Proxenobius_borgmeieri(Ecitophytes_coniceps Paederallus_sp_undescribed)))(Gabrius_picipennis Bisnius_sordidus))(Philonthus_laetipennis(Paederomimus_aeneiceps Phileciton_badariottii)))))(Chroaptomus_flagrans(Philonthus_caeruleipennis Philonthus_cyanipennis)))*
+((Paederomimus_salvini(Philonthus_fulgipennides(((((Paederomimus_lustrator_group(((Paederomimus_gentilis((Pescolinus_palmatus(Philonthus_diamantinus(((((Philonthus_sericans((Philonthus_splendens(Laetulonthus_laetulus((Xenopygus_analis Nordus_elytisi)((Misantlius_gebieni Platydracus_chrysotrichopterus)Creophilus_maxillosus))))(Philonthus_rectangulus(Agacerus_pectinatus(Philothalpus_bilobus Philothalpus_falini)))))((((Arrowinus_minutus Amblyopinus_emarginatus)Cyrtoquedius_frenatus_group)Holisus_prolixus)(Philonthus_flavolimbatus(Philonthus_longicornis(Philonthus_bonariensis((Philonthus_bicoloristylus((Cafius_xantholoma Cafius_seminitens)(Delgadobius_amazonensis Philonthus_callosipennis)))(Flohria_subcoerulea Philonthus_lynchi)))))))(Paederomimus_nigrinus Hesperus_ornaticornis))(Trapeziderus_diversus(Hesperus_baltimorensis Actinus_imperialis)))((Paederomimus_cf_contractus(Paederomimus_difformiceps(Paederomimus_angusticollis Hesperus_novo-teutonicus)))(Leptopeltus_flavipennis Leptopeltoides_columbiensis)))))(Linoderus_gracilipes((Paederomimus_pectoralis((Neopescolinus_nevermanni(Paederomimus_nobilis((Belonuchus_gracilis Belonuchus_cephalotes)(Belonuchus_albovariegatus Belonuchus_subaeneus))))(Paederomimus_capitalis_group Odontolinus_fasciatus)))(Ophionthus_serpentinus Belonuchus_barbicornis)))))(Philonthus_figulus Philonthus_nitidus))(Belonuchus_haemorrhoidalis(Belonuchus_mordens(Belonuchus_cognatus(Belonuchus_rufipennis Belonuchus_pollens))))))(Belonuchus_atticida(Hesperus_ferrugineus(Hesperus_tremolerasi(Hesperus_zitschkai(Hesperus_bruchi Hesperus_argentinus))))))(Proxenobius_borgmeieri(Ecitophytes_coniceps Paederallus_sp_undescribed)))(Gabrius_picipennis Bisnius_sordidus))(Philonthus_laetipennis(Paederomimus_aeneiceps Phileciton_badariottii)))))(Chroaptomus_flagrans(Philonthus_caeruleipennis Philonthus_cyanipennis)))*
+((Paederomimus_salvini(Philonthus_fulgipennides(((((Paederomimus_lustrator_group(((Paederomimus_gentilis((Pescolinus_palmatus(Philonthus_diamantinus(((((Philonthus_sericans((Philonthus_splendens(Laetulonthus_laetulus((Xenopygus_analis Nordus_elytisi)((Misantlius_gebieni Platydracus_chrysotrichopterus)Creophilus_maxillosus))))(Philonthus_rectangulus(Agacerus_pectinatus(Philothalpus_bilobus Philothalpus_falini)))))(((Arrowinus_minutus(Amblyopinus_emarginatus Cyrtoquedius_frenatus_group))Holisus_prolixus)(Philonthus_flavolimbatus(Philonthus_longicornis(Philonthus_bonariensis((Philonthus_bicoloristylus((Cafius_xantholoma Cafius_seminitens)(Delgadobius_amazonensis Philonthus_callosipennis)))(Flohria_subcoerulea Philonthus_lynchi)))))))(Paederomimus_nigrinus Hesperus_ornaticornis))(Trapeziderus_diversus(Hesperus_baltimorensis Actinus_imperialis)))((Paederomimus_cf_contractus(Paederomimus_difformiceps(Paederomimus_angusticollis Hesperus_novo-teutonicus)))(Leptopeltus_flavipennis Leptopeltoides_columbiensis)))))(Linoderus_gracilipes((Paederomimus_pectoralis((Neopescolinus_nevermanni(Paederomimus_nobilis((Belonuchus_gracilis Belonuchus_cephalotes)(Belonuchus_albovariegatus Belonuchus_subaeneus))))(Paederomimus_capitalis_group Odontolinus_fasciatus)))(Ophionthus_serpentinus Belonuchus_barbicornis)))))(Philonthus_figulus Philonthus_nitidus))(Belonuchus_haemorrhoidalis(Belonuchus_mordens(Belonuchus_cognatus(Belonuchus_rufipennis Belonuchus_pollens))))))(Belonuchus_atticida(Hesperus_ferrugineus(Hesperus_tremolerasi(Hesperus_zitschkai(Hesperus_bruchi Hesperus_argentinus))))))(Proxenobius_borgmeieri(Ecitophytes_coniceps Paederallus_sp_undescribed)))(Gabrius_picipennis Bisnius_sordidus))(Philonthus_laetipennis(Paederomimus_aeneiceps Phileciton_badariottii)))))(Chroaptomus_flagrans(Philonthus_caeruleipennis Philonthus_cyanipennis)))*
+((Paederomimus_salvini(Philonthus_fulgipennides(((((Paederomimus_lustrator_group(((Paederomimus_gentilis((Pescolinus_palmatus(Philonthus_diamantinus(((((Philonthus_sericans((Philonthus_splendens(Laetulonthus_laetulus((Xenopygus_analis Nordus_elytisi)((Misantlius_gebieni Platydracus_chrysotrichopterus)Creophilus_maxillosus))))(Philonthus_rectangulus(Agacerus_pectinatus(Philothalpus_bilobus Philothalpus_falini)))))((Cyrtoquedius_frenatus_group((Amblyopinus_emarginatus Arrowinus_minutus)Holisus_prolixus))(Philonthus_flavolimbatus(Philonthus_longicornis(Philonthus_bonariensis((Philonthus_bicoloristylus((Cafius_xantholoma Cafius_seminitens)(Delgadobius_amazonensis Philonthus_callosipennis)))(Flohria_subcoerulea Philonthus_lynchi)))))))(Paederomimus_nigrinus Hesperus_ornaticornis))(Trapeziderus_diversus(Hesperus_baltimorensis Actinus_imperialis)))((Paederomimus_cf_contractus(Paederomimus_difformiceps(Paederomimus_angusticollis Hesperus_novo-teutonicus)))(Leptopeltus_flavipennis Leptopeltoides_columbiensis)))))(Linoderus_gracilipes((Paederomimus_pectoralis((Neopescolinus_nevermanni(Paederomimus_nobilis((Belonuchus_gracilis Belonuchus_cephalotes)(Belonuchus_albovariegatus Belonuchus_subaeneus))))(Paederomimus_capitalis_group Odontolinus_fasciatus)))(Ophionthus_serpentinus Belonuchus_barbicornis)))))(Philonthus_figulus Philonthus_nitidus))(Belonuchus_haemorrhoidalis(Belonuchus_mordens(Belonuchus_cognatus(Belonuchus_rufipennis Belonuchus_pollens))))))(Belonuchus_atticida(Hesperus_ferrugineus(Hesperus_tremolerasi(Hesperus_zitschkai(Hesperus_bruchi Hesperus_argentinus))))))(Proxenobius_borgmeieri(Ecitophytes_coniceps Paederallus_sp_undescribed)))(Gabrius_picipennis Bisnius_sordidus))(Philonthus_laetipennis(Paederomimus_aeneiceps Phileciton_badariottii)))))(Chroaptomus_flagrans(Philonthus_caeruleipennis Philonthus_cyanipennis)))*
+((Paederomimus_salvini(Philonthus_fulgipennides(((((Paederomimus_lustrator_group(((Paederomimus_gentilis((Pescolinus_palmatus(Philonthus_diamantinus(((((Philonthus_sericans((Philonthus_splendens(Laetulonthus_laetulus((Xenopygus_analis Nordus_elytisi)((Creophilus_maxillosus Platydracus_chrysotrichopterus)Misantlius_gebieni))))(Philonthus_rectangulus(Agacerus_pectinatus(Philothalpus_bilobus Philothalpus_falini)))))(((Amblyopinus_emarginatus(Cyrtoquedius_frenatus_group Arrowinus_minutus))Holisus_prolixus)(Philonthus_flavolimbatus(Philonthus_longicornis(Philonthus_bonariensis((Philonthus_bicoloristylus((Cafius_xantholoma Cafius_seminitens)(Delgadobius_amazonensis Philonthus_callosipennis)))(Flohria_subcoerulea Phi

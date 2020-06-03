@@ -1,0 +1,39 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Wed May 13 15:06:32 2020]
+[!
+>Consensus of 3146 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 54 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        6 characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 48
+>    Gaps are treated as "missing"
+>    Multistate taxa interpreted as uncertainty
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 50
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 10
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 75459137
+>  Score of best tree(s) found = 145
+>  Number of trees retained = 3146
+>  Note: Effectiveness of search may have been diminished due to tree-buffer overflow.
+>  Time used = 32.50 sec (CPU time = 11.54 sec)
+]
+	tree Strict = [&U] (Hexanchidae,Pristiophorus,(Sclerorhychus,Spathobatis,Pristis,(Torpedo,(Narcine,Narke)),Iansan,Rhynchobatus,Rhinobatos_tenuirostris,Rhinobatos_maronita,Aptychotrema,Zapteryx,Trygonorrhina,Rhinobatos_hakelensis,Raja,Rhombopterygia,Rhinobatos_whitfieldi,Zanobatos,(Myliobatis,Urolophus),Rhinobatos,Rhinobatos_latus,Rhinobatos_intermedius,Britobatos_primarmatus,(Tethybatis,(Platyrhina,(Platyrhinoidis,Tingitanius_tenuimandibulus)))));
+end;

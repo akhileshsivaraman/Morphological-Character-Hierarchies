@@ -1,0 +1,35 @@
+#NEXUS
+BEGIN TREES;
+	TRANSLATE
+		1 Synodus,
+		2 Gymnoscopelus,
+		3 Ctenothrissa,
+		4 Pycnosteroides,
+		5 Aipichthys,
+		6 Aipichthyoides,
+		7 Omosomopsis,
+		8 Sphenocephalus,
+		9 Stichocentrus,
+		10 Velifer,
+		11 Lampris,
+		12 Regalecus,
+		13 Stylephorus,
+		14 Polymixia,
+		15 Aphredoderus,
+		16 Percopsis,
+		17 Bregmaceros,
+		18 Merluccius,
+		19 Halobatrachus,
+		20 Brotula,
+		21 Cyttus,
+		22 Zeus,
+		23 Hoplostethus,
+		24 Sargocentron,
+		25 Dicentrarchus,
+		26 Lates
+		;
+
+		TREE Morphy_1 = [&U] (1,(2,(3,(((4,(14,(7,(8,(15,16))))),((9,23),(24,(25,(26,(19,(20,((13,(21,22)),(17,18))))))))),(5,(6,(10,(11,12))))))));
+		TREE Morphy_2 = [&U] (1,(2,(3,(((4,(14,(7,(8,(15,16))))),((9,23),(24,((19,(20,((13,(21,22)),(17,18)))),(25,26))))),(5,(6,(10,(11,12))))))));
+		TREE Morphy_3 = [&U] (1,(2,(3,(((4,(14,(7,(8,(((13,(21,22)),(17,18)),(15,16)))))),((9,23),(24,(25,(26,(19,20)))))),(5,(6,(10,(11,12))))))));
+END;

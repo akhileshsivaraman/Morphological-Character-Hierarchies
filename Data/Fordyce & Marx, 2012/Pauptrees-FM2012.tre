@@ -1,0 +1,66 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Wed May 13 16:24:01 2020]
+[!
+>Data file = FM2012.nex
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 174 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        7 characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 167
+>    Gaps are treated as "missing"
+>    Multistate taxa interpreted as uncertainty
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 75
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 10
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>  'Maxtrees' setting = 5000 (will not be increased)
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 854442
+>  Score of best tree(s) found = 430
+>  Number of trees retained = 6
+>  Time used = 0.48 sec (CPU time = 0.47 sec)
+]
+	Translate
+		1 Zygorhiza_kochii,
+		2 Physeter_catodon,
+		3 Aetiocetus_cotylalveus,
+		4 Balaena_mysticetus,
+		5 Balaenella_brachyrhynus,
+		6 Balaenoptera_bonaerensis,
+		7 Balaenula_astensis,
+		8 Caperea_marginata,
+		9 Cetotherium_rathkii,
+		10 Diorocetus_hiatus,
+		11 Eomysticetus_whitmorei,
+		12 Eschrichtius_robustus,
+		13 Eubalaena_spp.,
+		14 Herpetocetus_bramblei,
+		15 Herpetocetus_transatlanticus,
+		16 Megaptera_miocaena,
+		17 Megaptera_novaeangliae,
+		18 Metopocetus_durinasus,
+		19 Morenocetus_parvus,
+		20 Nannocetus_eremus,
+		21 Pelocetus_calvertensis,
+		22 Piscobalaena_nana,
+		23 Plesiobalaenoptera_quarantellii
+		;
+tree 'PAUP_1' = [&R] (1:16,(2:35,(3:10,((((((4:5,7:5):7,13:6):2,5:3):5,19:3):34,(((((((6:9,17:14):6,23:5):15,12:20):6,16:7):13,21:9):7,10:7):11,((((8:16,((14:2,15:1):0,20:2):4):15,22:5):2,18:5):13,9:5):15):11):28,11:8):13):20):4):0;
+tree 'PAUP_2' = [&R] (1:16,(2:35,(3:10,((((((4:5,7:5):7,13:6):2,5:3):5,19:3):34,(((((((6:9,17:14):6,23:5):15,12:20):6,16:7):13,21:9):7,10:7):11,((((8:16,((14:2,20:1):1,15:1):4):15,22:5):2,18:5):13,9:5):15):11):28,11:8):13):20):4):0;
+tree 'PAUP_3' = [&R] (1:16,(2:35,(3:10,((((((4:5,7:5):7,13:6):2,5:3):5,19:3):34,(((((((6:9,17:14):6,23:5):15,12:20):6,16:7):13,21:9):7,10:7):11,((((8:16,(14:2,(15:1,20:2):0):4):15,22:5):2,18:5):13,9:5):15):11):28,11:8):13):20):4):0;
+tree 'PAUP_4' = [&R] (1:16,(2:35,(3:10,((((((4:5,7:5):7,13:6):2,5:3):5,19:3):34,((((((6:8,17:15):6,23:5):13,(12:14,16:8):13):13,21:9):6,10:6):11,((((8:16,(14:2,(15:1,20:2):0):4):15,22:5):3,18:4):13,9:5):16):12):28,11:8):13):20):4):0;
+tree 'PAUP_5' = [&R] (1:16,(2:35,(3:10,((((((4:5,7:5):7,13:6):2,5:3):5,19:3):34,((((((6:8,17:15):6,23:5):13,(12:14,16:8):13):13,21:9):6,10:6):11,((((8:16,((14:2,15:1):0,20:2):4):15,22:5):3,18:4):13,9:5):16):12):28,11:8):13):20):4):0;
+tree 'PAUP_6' = [&R] (1:16,(2:35,(3:10,((((((4:5,7:5):7,13:6):2,5:3):5,19:3):34,((((((6:8,17:15):6,23:5):13,(12:14,16:8):13):13,21:9):6,10:6):11,((((8:16,((14:2,20:1):1,15:1):4):15,22:5):3,18:4):13,9:5):16):12):28,11:8):13):20):4):0;
+End;

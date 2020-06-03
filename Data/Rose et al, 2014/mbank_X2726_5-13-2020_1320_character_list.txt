@@ -1,0 +1,214 @@
+
+[ File output by Morphobank v3.0 (http://www.morphobank.org); 2020-05-13 13.20.53 ]
+
+Phenotypic characters (numbered in Nexus format)
+
+Array characters
+  1. posterior nasal [[]] narrow, not contacting lacrimal (0); broad contact with frontal (1).
+  2. Length of postorbital portion of skull [[]] shorter than preorbital portion (0); about equal to preorbital portion (1); longer than preorbital portion (2).
+  3. position of orbits [[]] over molars (0); over premolars or more anterior (1).
+  4. premaxilla [[]] small, ascending process contacts nasals (0); ascending process present, no na contact (1).
+  5. incisive foramen [[]] paired (0); single median (1).
+  6. tuber maxillae [[]] weak or absent in adult (0); prominent in adult (1).
+  7. Orbital portion of maxilla [[]] separated from frontal (0); contacting frontal (1).
+  8. sphenopalatine foramen [[]] middle of orbit (0); near maxillary foramen (1).
+  9. contribution of ascending lamina of palatine in orbit [[]] forms significant part of medial orbital wall (0); very small or absent from medial orbital wall (1).
+  10. palatal vacuities [[]] present (0); absent (1).
+  11. facial exposure of lacrimal [[]] large or moderate, not contacting nasal (0); large or moderate, contacting nasal (1); small, not contacting nasal (2); absent (3).
+  12. supraorbital process [[]] absent, region over orbit does not project laterally from sagittal plane (0); present, short (1); present, long and extending ventrally (2).
+  13. supraorbital foramen or notch [[]] present (0); absent (1).
+  14. optic foramen [[]] anteriorly placed (0); posteriorly placed (1).
+  15. sphenorbital fissure [[]] separate from foramen rotundum (0); confluent with foramen rotundum (1).
+  16. alisphenoid canal (posterior opening) [[]] present (0); absent (1).
+  17. posterior opening of alisphenoid canal [[]] separate from foramen ovale (0); in common depression with foramen ovale (1).
+  18. foramen ovale [[]] separate (0); confluent with mid lac for (1).
+  19. foramen ovale position [[]] anterior to glenoid fossa (0); medial to glenoid fossa (1).
+  20. Orbital portion of parietal [[]] contacting alisphenoid (0); not contacting alisphenoid (1).
+  21. anterior extent of jugal and zygomatic portion of maxilla [[]] jugal extends anteriorly, forms anteroventral border of orbit (0); zygomatic portion of maxilla large, jugal more posterior and does not contribute to anteroventral border of orbit (1).
+  22. posterior extent of jugal [[]] strong, contributes to anterior portion of glenoid fossa (0); strong, extends to posterior border of glenoid fossa without contributing to articular surface (1); weak, splint-like, extends to anterior edge of glenoid fossa (2).
+  23. zygomatic process of squamosal [[]] narrow (0); laterally expanded (1).
+  24. preglenoid process [[]] absent (0); present (1).
+  25. postglenoid process [[]] facing anteriorly (0); facing anterolaterally (1).
+  26. postglenoid foramen [[]] present (0); absent (1).
+  27. posttympanic process [[]] about the same size as pgp (0); shortened relative to pgp (1).
+  28. exposure of mastoid [[]] broad, posterior (0); narrow, lateral (1); absent (amastoidy) (2).
+  29. mastoid foramen [[]] present, between mastoid and occipital-supraoccipital (0); absent (1).
+  30. posttemporal (or percranial) canal [[]] present at petrosal-squamosal suture, canal continues within suture (0); absent (1).
+  31. sulcus for internal carotid artery [[]] transpromontorial, forms anteroposterior groove on promontorium (0); absent (1).
+  32. sulcus for proximal stapedial artery [[]] present, forms groove that branches from transpromontorial sulcus anteromedial to fenestrae vestibuli and cochleae (0); absent (1).
+  33. tympanic aperture of hiatus Fallopii [[]] absent (0); present (1).
+  34. foramen for ramus superior of stapedial artery [[]] present, through petrosal or petrosal squamosal suture on dorsolateral edge of epitympanic recess (0); present and anterolateral, through basioccipital (1); absent (2).
+  35. ectotympanic [[]] not attached (0); attached (1); attached and forms bulla (2).
+  36. hypoglossal foramen [[]] present (0); absent (1).
+  37. height of mandibular condyle [[]] below level of dentition (0); even with superior aspect of dentition (1); substantially superior to dentition (2).
+  38. coronoid canal of dentary [[]] absent (0); present (1).
+  39. number of thoracic vertebrae [[]] fewer than 19 (0); more than 19 (1).
+  40. number of sacral vertebrae [[]] three or fewer (0); four (1); five (2); six (3).
+  41. acromion process [[]] present (0); absent (1).
+  42. bicipittal groove of humerus [[]] simple (0); with distinct "facet" (1).
+  43. ridge from deltopectoral crest extending onto distal anterior shaft of humerus [[]] present (0); absent (1).
+  44. supinator crest of humerus [[]] well-developed and prominent (0); present but restricted to distal third of shaft (1); weak or absent (2).
+  45. lateral articular shelf [[]] absent or indistinct (0); present, tapered distally (1); present, extended distally (2).
+  46. proximolateral part of lateral articular shelf [[]] flat or convex (0); concave and elaborated (1).
+  47. entepicondylar foramen [[]] present (0); absent (1).
+  48. medial epicondyle [[]] very prominent, expands medially (0); prominent but not expanded (1); weak or absent (2).
+  49. supratrochlear foramen of humerus [[]] absent (0); present (1).
+  50. capitulum of humerus [[]] round (0); gently keeled (1); distinctly, sharply keeled (2).
+  51. proximal radius [[]] with single fossa for humeral capitulum and trochlea (0); with separate fossae for capitulum and trochlea (1).
+  52. proportions of head of radius [[]] low width to depth ratio (0); high width to depth ratio (1).
+  53. lateral process of radius [[]] absent or weak (0); present (1).
+  54. articular surface of lateral process of proximal radius [[]] shallowly concave (0); shallowly convex (1).
+  55. extent of proximal ulnar facet on posterior aspect of proximal radius [[]] restricted to lateral half of face (0); extending medially as narrow strip across width of head (1).
+  56. shape of lateral process of proximal radius [[]] not beveled (0); beveled to accommodate capitular tail (lateral articular shelf) (1).
+  57. styloid process of distal radius [[]] distinct and projecting distally (0); weak or absent (1).
+  58. facets on distal radius [[]] single concave fossa (0); split into separate scaphoid and lunar fossae (1).
+  59. articular surface of distal radius [[]] restricted to distal face (0); convex extension onto distopalmar surface (1).
+  60. contact between lunar and unciform [[]] present (0); absent (1).
+  61. contact between lunar and trapezoid [[]] absent (0); present (1).
+  62. centrale [[]] present as separate ossification (0); absent or fused to scaphoid (1).
+  63. first metacarpal [[]] present (0); absent (1).
+  64. fifth manual digit [[]] present with phalanges (0); present without phalanges (1); absent (2).
+  65. anterior iliac crest [[]] round (0); slightly concave or straight (1); deeply concave (2).
+  66. fovea capitis of femur [[]] centrally located (0); marginal (1).
+  67. height of greater trochanter [[]] lower than head (0); about even with head (1); higher than head (2).
+  68. orientation of lesser trochanter of femur [[]] medially (0); posteromedially (1).
+  69. size third trochanter of femur [[]] small (0); large (1); absent (2).
+  70. supracondylar fossa [[]] absent (0); present (1).
+  71. trochlear ridges of distal femur [[]] subequal (0); medial expanded with tuberosity (1).
+  72. ossified patella [[]] absent (0); present (1).
+  73. medial malleolus of tibia [[]] forms well-developed medial wall (0); prominent anteriorly, reduced and beveled posteriorly (1).
+  74. posterior process and median ridge of distal articulation of tibia [[]] absent (0); present (1).
+  75. astragalar canal [[]] present (0); absent (1).
+  76. orientation of trochlear ridges of astragalus [[]] not oblique (essentially vertical) (0); oblique (1).
+  77. depth of trochlear groove of astragalus [[]] nearly flat to concave (0); shallow groove, less than 25% of trochlea width (1); deep groove, more 25% of trochlear width (2).
+  78. distal extent of medial trochlear ridge of astragalus [[]] separate from distal edge of astragalus (0); reaching distal edge of astragalus (1).
+  79. cotylar fossa [[]] absent (0); present (1).
+  80. lateral process of astragalus [[]] small (0); large and shelf-like (1).
+  81. tuberculum mediale of astragalus [[]] absent (0); present (1).
+  82. squatting facet on dorsal side of astragalar neck [[]] absent (0); present (1).
+  83. sustentacular facet of astragalus [[]] separate from distal calcaneal and ectal facets (0); confluent with distal calcaneal facet (1); J-shaped (2); confluent with ectal facet (3).
+  84. Posterior tubercle of medial trochlear facet [[]] small (0); protruding (1); extending proximomedially (2).
+  85. Proximal calcaneal facet of astragalus [[]] without distoectal lappet (0); with distoectal lappet (1).
+  86. navicular facet of astragalus [[]] spherical or convex (0); saddle-shaped (1); trochleated (2).
+  87. lateral groove on calcaneum [[]] present, broad (0); absent or indistinct (1).
+  88. orientation of astragalar facet of calcaneum in lateral view [[]] sloping proximally, with no angle formed within facet (0); sloping slightly proximally, facet has a rounded angle within it (1); perpendicular to long axis, facet forms sharp angle (2).
+  89. orientation of astragalar facet of calcaneum in anterior view [[]] oriented at angle to long axis (0); oriented perpendicular to long axis (1); elongated along long axis (2).
+  90. shape of facet of sustentaculum of calcaneum [[]] round or oval (0); narrow, straight on lateral edge (1).
+  91. orientation of distal edge of calcaneum between sustentaculum and cuboid facet [[]] makes wide angle with long axis (0); makes acute angle with long axis (1); expanded into distal shelf that forms right angle (2).
+  92. shape of cuboid facet of calcaneum [[]] not crescent-shaped (0); crescent-shaped (1).
+  93. peroneal tuberosity of calcaneum [[]] large (0); present, moderate, projecting distally (1); small, indistinct, or absent (2).
+  94. Anterior contact between navicular and calcaneum [[]] absent (0); present (1).
+  95. plantar process of navicular [[]] present and prominent (0); weak or absent (1).
+  96. navicular and proximal ectocuneiform facets of cuboid [[]] not confluent (0); confluent with distinct ridge (1).
+  97. entocuneiform [[]] medially placed (0); posteriorly placed (1); absent (2).
+  98. entocuneiform and mesocuneiform [[]] separate (0); fused (1).
+  99. mesocuneiform and navicular facets of entocuneiform [[]] along anterior margin (0); mesocuneiform facet posterolateral to navicular facet (1).
+  100. cuboid [[]] not contacting MT III (0); contacts MT III (1).
+  101. first metatarsal [[]] present with phalanges (0); present without phalanges, medially positioned (1); small and lacking phalanges, articulating with posterior MT III (2); absent (3).
+  102. fifth metatarsal [[]] present with phalanges (0); present without phalanges (1); absent (2).
+  103. distal phalanges [[]] laterally compressed, as claws (0); dorsoventrally compressed, as hooves (1).
+  104. canine size [[]] large (0); small (1); absent (2).
+  105. postcanine diastema [[]] short (0); long (1); absent (2).
+  106. cusp relief of cheek teeth [[]] sharp, generally conical (0); tall, bunodont cusps with little or no loph development (1); low, bunodont to bunolophodont (2); well-developed lophodonty with high lophs (3).
+  107. cheek tooth enamel surface [[]] smooth (0); rugose (1).
+  108. fifth premolar [[]] present (0); absent (1).
+  109. P1 [[]] present with diastema (0); present without diastema (1); absent (2).
+  110. diastema posterior to P2 [[]] absent (0); long (greater than P3 length) (1); short (less than or equal to P3 length) (2).
+  111. P2 metacone [[]] absent (0); present, small, close to paracone (1); present, about as large as and separate from paracone (2).
+  112. P2 metacone position [[]] close to paracone (0); distant from paracone (1).
+  113. P2 lingual cusps [[]] none (0); one (1); two (2).
+  114. P3 size [[]] smaller or nearly equal to P4 (0); larger than P4 (1).
+  115. P3 parastyle [[]] protruding, P3 mesial edge concave (0); not protruding, P3 mesial edge convex (1).
+  116. P3 paraconule [[]] absent or indistinct (0); present (1); present and lingually positioned (2).
+  117. P3 preparaconule crista [[]] in line with connection to protocone (0); angled more labially than connection to protocone (1).
+  118. P3 metacone [[]] absent (0); present, much smaller than paracone (1); present, comparable in size to paracone (2).
+  119. P3 metaconule [[]] absent or indistinct (0); present, small relative to paraconule (1); present, similar in size to paraconule (2).
+  120. P3 metaloph [[]] none, metaconule separate from ectoloph and protocone (0); metaconule connected to protocone but not to ectoloph (1); metaconule connects to ectoloph but not to protocone (2); metaloph complete but weak (3); metaloph complete and prominent (4).
+  121. P3 protocone [[]] absent (0); present (1).
+  122. P3 endoprotocrista [[]] absent (0); present, distal ridge (1); present, forming hypocone (2).
+  123. P4 protocone [[]] absent or indistinct (0); present, close to paracone in size (1).
+  124. P4 paraconule [[]] large and distinct (0); small (1); indistinct (2).
+  125. P4 preparaconule crista orientation [[]] toward parastyle (0); toward paracone (1).
+  126. P4 metacone [[]] present, distinctly smaller than paracone (0); present, about equal in size to paracone (1); absent (2).
+  127. P4 metaconule [[]] present, similar in size to paraconule (0); present, significantly smaller than paraconule (1); absent or indistinct (2).
+  128. P4 metaconule position [[]] distal to line connecting protocone and metacone (0); on line connecting protocone and metacone (1); mesial to line connecting protocone and metacone (2).
+  129. P4 endoprotocrista [[]] absent (0); present as ridge joined to protocone (1); present, forming hypocone (2).
+  130. P4 metaloph [[]] absent, no connections between protocone (or hypocone), metaconule, and ectoloph (0); metaconule connects to ectoloph, but not protocone or hypocone (1); metaconule connects to protocone or hypocone, but not ectoloph (2); metaloph complete but low or weak (3); metaloph complete and high (4).
+  131. P4 hypocone [[]] absent (0); present, weak or poorly separated from protocone (1); present, strong and separate from protocone (2).
+  132. P3 and P4 metacone position [[]] distal to paracone (0); distolingual to paracone (1).
+  133. P3-4 cross lophs [[]] not u-shaped (0); u-shaped (1).
+  134. M1 size [[]] smaller or nearly equal to M2 (0); larger than M2 (1).
+  135. M1 ectocingulum [[]] absent (0); present but broken at paracone (1); present and continuous (2).
+  136. M2 ectocingulum [[]] absent (0); present but broken on paracone (1); present and continuous (2).
+  137. upper molar centrocrista [[]] poorly developed (0); present, labially flexed (1); present, not flexed (2).
+  138. upper molar mesostyle [[]] absent (0); weak, cingular (1); strong (2).
+  139. M paracone [[]] not flattened (0); flattened buccally (1); pinched (2).
+  140. lingual crest on paracone [[]] absent (0); present (1).
+  141. M metacone [[]] not flattened (0); flattened buccally (1); part of convex ectoloph (2).
+  142. M metacone tilting [[]] vertical, in line with paracone (0); metacone lingually tilted (1).
+  143. M1-2 postmetacrista [[]] weak or absent (0); present and in line with paracone and metacone (1); present and labially deflected (2).
+  144. M3 postmetacrista [[]] weak or absent (0); present and in line with paracone and metacone (1); present and labially deflected (2).
+  145. M protocone and hypocone shape [[]] vertical (0); mesially recurved (1).
+  146. upper molar paraconules [[]] large and distinct (0); small or indistinct (1); merged into protoloph (2).
+  147. upper molar paraconule position [[]] midway between paracone and protocone (0); closer to protocone (1); closer to paracone (2).
+  148. upper molar metaconules [[]] present (0); very small (1); absent (2).
+  149. M metaconules or corresponding part of metalophs [[]] on line between metacone and hypocone (0); mesial to line connecting metacone and hypocone (1).
+  150. upper molar parastyles [[]] small (0); large, teardrop-shaped (1); form crest with pa (2); absent (3).
+  151. main mass of M parastyle [[]] in line with pa and me (0); buccal to line connecting pa and me (1).
+  152. M parastyles [[]] not recurved (0); distally recurved (1).
+  153. M3 parastyle [[]] similar to that of M1-2 (0); projecting buccally (1).
+  154. M1-2 paracone and metacone size [[]] paracone distinctly larger than metacone (0); paracone and metacone about same size (1).
+  155. upper molar preparaconule crista [[]] toward parastyle (0); toward paracone, does not join (1); joined with paracone (2).
+  156. upper molar ectoloph-metaloph junction [[]] anterior to metacone, separate (0); ant. to me, premetaconule crista bends back to join (1); joins at metacone (2).
+  157. M1-2 hypocone [[]] absent (0); present (1).
+  158. M2 posthypocrista [[]] absent or indistinct (0); distinct, short, and mesiobuccally directed (1); distinct, long, and mesially directed (2); distinct, long, mesiobuccally directed, forming basin distal to metaloph (3).
+  159. M2 lingual cingulum [[]] absent (0); present only as ridge spanning central valley (1); present, except at hypocone (2); present across entire lingual face (3).
+  160. labial crest of M hypocone [[]] absent (0); present (1).
+  161. M3 size [[]] distinctly smaller than M2 (0); about same size as M2 (1); distinctly larger than M2 (2).
+  162. M3 metacone [[]] similar to that of M2 (0); lingually shifted (1); lingually shifted to nearly touching hypocone (2).
+  163. M3 hypocone [[]] absent (0); present, but distinctly smaller than M3 protocone (1); present, similar in size to M3 protocone (2).
+  164. M3 hypocone position [[]] at about same level as protocone (0); labially shifted relative to protocone (1); lingually shifted relative to protocone (2).
+  165. M3 hypostyle [[]] absent (0); small or narrow cingulum (1); large shelf or cusp (2); posthypocrista continuous with postmetacrista, enclosing basin (3).
+  166. M1-2 [[]] square or longer than broad (0); broader than long (1).
+  167. second lower incisor [[]] not tusk-like (0); enlarged, procumbent, and tusk-like (1).
+  168. distal cusp on i3 [[]] absent (0); present (1).
+  169. p1 presence [[]] present with short diastema (0); present with no diastema (1); absent (2).
+  170. post-p2 diastema [[]] absent (0); short (less than or equal to p3) (1); long (greater than p3) (2).
+  171. p2 paraconid [[]] absent (0); large and distinct without paralophid (1); present with paralophid (2); paralophid forming loop enclosing mesial basin (3).
+  172. p2 metaconid [[]] absent (0); very small swelling on protoconid slope (1); distinct, small, and distolingual to protoconid (2); large and lingual to protoconid (3).
+  173. p2 talonid [[]] shelf or ridge with no distinct cusps (0); small, medially-placed hypoconid present (1); large, medially-placed hypoconid with well-developed metalophid (2); large, labially-placed hypoconid with well-developed metalophid, entoconid absent (3); large, labially-placed hypoconid with well-developed metalophid, entoconid present (4).
+  174. p3 metaconid [[]] absent (0); present, close to protoconid (1); present, closer to margin of tooth than to protoconid (2).
+  175. p3 metaconid size [[]] less than half the height of protoconid (including absent) (0); more than half the height of protoconid but still distinctly smaller (1); about equal in size to protoconid (2).
+  176. p3 hypoconid [[]] small (0); large (1); absent (2).
+  177. p3 entoconid [[]] absent (0); present, distinctly smaller than hypoconid (1); present, comparable in size to hypoconid (2).
+  178. p3 paraconid or paralophid [[]] paraconid not distinct, paralophid no more than short, mesial preprotocristid (0); paraconid distinct cusp, with or without paracristid (1); paralophid well developed without distinct paraconid, defines valley between paralophid and metaconid/protoconid (2).
+  179. p4 paraconid and paralophid [[]] absent (0); distinct cusp, with or with out paracristid (1); paralophid well developed without paraconid, mesially or mesiolingually directed (2); paralophid well developed without paraconid, extends lingually close to mesial wall (3).
+  180. p4 width [[]] distinctly narrower than m1 (0); as wide or almost as wide as m1 (1); wider than m1 (2).
+  181. p4 metaconid [[]] absent (0); present, much smaller than protoconid (1); present, about same size as protoconid (2); present, taller than protoconid (3).
+  182. p4 entoconid [[]] absent or weak (0); present and distinct (1).
+  183. m1 paraconid or paralophid [[]] distinct, separate paraconid cusp (0); distinct paraconid at lingual end of paralophid appressed to protolophid (1); paralophid extending lingually without distinct paraconid, separate from metaconid (2); paralophid extending lingually and connected to mesial crest from metaconid (3); paralophid extending mesiolingually with valley between it and protolophid (4); short lingually-extending paralophid and labially extending crest from metaconid meeting at mid-protolophid (5); paraconid and paralophid absent or indistinct (6).
+  184. m3 protolophid shape [[]] straight (0); labial portion angled more distolingually than lingual portion (1); lingual portion angled more distolingually than rest (2).
+  185. lower molar protolophid notch [[]] deeply notched nearly to base of cusps (0); shallowly notched to flat (1).
+  186. lower molar twinned metaconids [[]] absent (0); present (1).
+  187. lower molar protolophid connection to metaconid [[]] protolophid connects to mesial metaconid or between mesial and distal metaconids (0); protolophid connects exclusively to distal metaconid (1).
+  188. lower molar metaconid buttress [[]] absent (0); lingual (1); labial (2).
+  189. mesial crest of m metaconid [[]] present (0); absent (1).
+  190. m metastylids [[]] strong (0); weak (1); absent (2).
+  191. lower molar cristid obliqua [[]] oblique, contacts middle of protolophid (0); oblique, contacts lingual cusps (1); longitudinal (2).
+  192. m2 cristid obliqua shape [[]] straight (0); bowed buccally (1); bowed buccally forming continuous arc with hypolophid (2); bowed lingually (3).
+  193. m3 cristid obliqua shape [[]] straight (0); bowed buccally (1); forming continuous arc with hypolophid (2); bowed lingually (3).
+  194. height of cristid obliqua within valley between trigonid and talonid [[]] cristid obliqua very low or interrupted, valley wide and deep (0); valley filled or reduced by cristid obliqua or encroaching bases of cusps (1).
+  195. lower molar talonid height [[]] much lower than trigonid (0); about same height as trigonid (1).
+  196. m3 hypolophid [[]] incomplete (0); complete, lingual and labial cristids about equal (1); complete, labial cristid longer than lingual (2).
+  197. m3 hypolophid shape [[]] straight (0); labial portion angled more distolingually than lingual portion (1); slightly concave distally (2); lingual portion angled more distolabially than labial portion (3).
+  198. lower molar posthypocristid [[]] present (0); absent (1).
+  199. lower molar postentocristid [[]] absent (0); present (1).
+  200. m3 postentoconulid [[]] absent (0); present, small (1); present, large (2); medial extension of lophoid loop (3).
+  201. m1 and m2 hypoconulids [[]] large (0); small (1); absent or cingular (2); form enlarged cingular shelf (3).
+  202. m1 and m2 hypoconulid position [[]] buccal (0); medial (1); lingual (2).
+  203. m2 hypoconulid [[]] separate from hypolophid (0); closely appressed to hypolophid (1).
+  204. m3 hypoconulid [[]] present, large (0); small (1); absent or reduced to cingulum (2).
+  205. m3 hypoconulid position [[]] completely distal of hypoconid and entoconid (0); between hypoconid and entoconid, forming part of hypolophid where present (1).
+  206. m3 hcld connection [[]] separate (0); joining mid-hypolophid (1); joins postcristid from hypoconid (2); joins postcristid from entoconid (3).
+  207. lower molar entoconulid [[]] distinct (0); indistinct or absent (1).
+  208. enamel prism decussation [[]] horizontal (0); vertical (1).

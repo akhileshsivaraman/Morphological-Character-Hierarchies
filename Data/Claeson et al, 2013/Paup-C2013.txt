@@ -1,0 +1,198 @@
+
+P A U P *
+Version 4.0a (build 166) for macOS (built on Sep  1 2019 at 23:02:50)
+Wed May 13 15:04:00 2020
+
+
+paup> execute Claeson2013.nex
+
+Processing of file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Claeson et al,
+2013/Claeson2013.nex" begins...
+
+Data matrix has 30 taxa, 54 characters
+Valid character-state symbols: 01234
+Missing data identified by '?'
+Gaps identified by '-'
+
+Character types changed:
+  Of 54 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+
+*** Skipping "MESQUITECHARMODELS" block
+
+*** Skipping "MESQUITE" block
+
+Processing of input file "Claeson2013.nex" completed.
+
+paup> tstatus
+
+Taxon-status summary:
+   Original data matrix contains 30 taxa
+   No taxa have been deleted
+   No taxa have been assigned to the outgroup: outgroup defaults to first taxon (Hexanchidae)
+
+paup> cstatus
+
+Character-status summary:
+  Current optimality criterion = parsimony
+  No characters are excluded
+  Of 54 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+    6 characters are parsimony-uninformative
+    Number of parsimony-informative characters = 48
+
+paup> pset collapse=no
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nreps=50
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 54 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        6 characters are parsimony-uninformative
+        Number of parsimony-informative characters = 48
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 50
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+The limit of 100 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)y
+
+Enter new value for 'Maxtrees' (200):1000
+
+Action if limit is hit:
+   (1) Prompt for new value
+   (2) Automatically increase by 100 (= AUTOINC)
+   (3) Leave unchanged, and don't prompt
+(1)>1
+
+The limit of 1000 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)y
+
+Enter new value for 'Maxtrees' (1100):10000
+
+Action if limit is hit:
+   (1) Prompt for new value
+   (2) Automatically increase by 100 (= AUTOINC)
+   (3) Leave unchanged, and don't prompt
+(1)>1
+
+The limit of 10000 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)n
+
+    'Maxtrees' limit (10000) hit while swapping on tree #4685 (score=147)
+
+Heuristic search completed
+  Total number of rearrangements tried = 75459137
+  Score of best tree(s) found = 145
+  Number of trees retained = 3146
+  Note: Effectiveness of search may have been diminished due to tree-buffer overflow.
+  Time used = 32.50 sec (CPU time = 11.54 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1       950      1081      2030             145            2      15
+     2      1080         1      1080             145            1      10
+     3      1116      2031      3146             145            3      25
+
+paup> contree / file=Paupcontree-C2013.tre
+
+Strict consensus of 3146 trees:
+
+/--------------------------------------------------------------------------------- Hexanchidae
+|
+|             /------------------------------------------------------------------- Pristiophorus
+|             |
+|             |            /------------------------------------------------------ Sclerorhychus
+|             |            |
+|             |            +------------------------------------------------------ Spathobatis
+|             |            |
+|             |            +------------------------------------------------------ Pristis
+|             |            |
+|             |            |                          /--------------------------- Torpedo
+|             |            |                          |
+|             |            +--------------------------+             /------------- Narcine
+|             |            |                          \-------------+
+|             |            |                                        \------------- Narke
+\-------------+            |
+              |            +------------------------------------------------------ Iansan
+              |            |
+              |            +------------------------------------------------------ Rhynchobatus
+              |            |
+              |            +------------------------------------------------------ 'Rhinobatos' tenuirostris
+              |            |
+              |            +------------------------------------------------------ 'Rhinobatos' maronita
+              |            |
+              |            +------------------------------------------------------ Aptychotrema
+              |            |
+              |            +------------------------------------------------------ Zapteryx
+              |            |
+              |            +------------------------------------------------------ Trygonorrhina
+              \------------+
+                           +------------------------------------------------------ 'Rhinobatos' hakelensis
+                           |
+                           +------------------------------------------------------ Raja
+                           |
+                           +------------------------------------------------------ Rhombopterygia
+                           |
+                           +------------------------------------------------------ 'Rhinobatos' whitfieldi
+                           |
+                           +------------------------------------------------------ Zanobatos
+                           |
+                           |                                        /------------- Myliobatis
+                           +----------------------------------------+
+                           |                                        \------------- Urolophus
+                           |
+                           +------------------------------------------------------ Rhinobatos
+                           |
+                           +------------------------------------------------------ 'Rhinobatos' latus
+                           |
+                           +------------------------------------------------------ 'Rhinobatos' intermedius
+                           |
+                           +------------------------------------------------------ Britobatos primarmatus
+                           |
+                           |             /---------------------------------------- Tethybatis
+                           |             |
+                           \-------------+            /--------------------------- Platyrhina
+                                         |            |
+                                         \------------+             /------------- Platyrhinoidis
+                                                      \-------------+
+                                                                    \------------- Tingitanius tenuimandibulus
+
+Consensus tree(s) written to treefile: ~/Documents/Imperial/Morphological Character Hierarchies/Data/Claeson
+et al, 2013/Paupcontree-C2013.tre
+
+paup> cd '/Users/akhileshsivaraman/Documents/Imperial/Morphological Character Hierarchies/Data/Cloutier et al, 2020/'
+
+Current directory set to /Users/akhileshsivaraman/Documents/Imperial/Morphological Character
+Hierarchies/Data/Cloutier et al, 2020
+
+paup> cleartrees
+
+All trees have been cleared from memory.
+
+paup> contree
+
+No trees are currently in memory; ConTree command ignored
+
+paup> log file=Paup-C2020.txt

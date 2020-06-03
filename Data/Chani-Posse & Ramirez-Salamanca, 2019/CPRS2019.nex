@@ -1,0 +1,460 @@
+#NEXUS
+[written Thu May 07 12:33:13 BST 2020 by Mesquite  version 3.40 (build 877) at Akhileshs-MacBook-Air.local/127.0.0.1]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=79;
+	TAXLABELS
+		Arrowinus_minutus Amblyopinus_emarginatus Holisus_prolixus Cyrtoquedius_frenatus_group Creophilus_maxillosus Platydracus_chrysotrichopterus Misantlius_gebieni Xenopygus_analis Nordus_elytisi Philothalpus_bilobus Philothalpus_falini Actinus_imperialis Agacerus_pectinatus Belonuchus_atticida Belonuchus_barbicornis Belonuchus_cephalotes Belonuchus_gracilis Belonuchus_albovariegatus Belonuchus_cognatus Belonuchus_haemorrhoidalis Belonuchus_mordens Belonuchus_pollens Belonuchus_rufipennis Belonuchus_subaeneus Bisnius_sordidus Cafius_seminitens Cafius_xantholoma Chroaptomus_flagrans Delgadobius_amazonensis Ecitophytes_coniceps Flohria_subcoerulea Gabrius_picipennis Hesperus_argentinus Hesperus_baltimorensis Hesperus_bruchi Hesperus_ferrugineus 'Hesperus novo-teutonicus' Hesperus_ornaticornis Hesperus_tremolerasi Hesperus_zitschkai Laetulonthus_laetulus Leptopeltoides_columbiensis Leptopeltus_flavipennis Linoderus_gracilipes Neopescolinus_nevermanni Odontolinus_fasciatus Ophionthus_serpentinus Paederallus_sp_undescribed Paederomimus_aeneiceps Paederomimus_angusticollis Paederomimus_capitalis_group Paederomimus_cf_contractus Paederomimus_difformiceps Paederomimus_gentilis Paederomimus_lustrator_group Paederomimus_nigrinus Paederomimus_nobilis Paederomimus_pectoralis Paederomimus_salvini Pescolinus_palmatus Phileciton_badariottii Philonthus_bicoloristylus Philonthus_bonariensis Philonthus_callosipennis Philonthus_caeruleipennis Philonthus_cyanipennis Philonthus_diamantinus Philonthus_figulus Philonthus_flavolimbatus Philonthus_fulgipennides Philonthus_laetipennis Philonthus_longicornis Philonthus_lynchi Philonthus_nitidus Philonthus_rectangulus Philonthus_sericans Philonthus_splendens Proxenobius_borgmeieri Trapeziderus_diversus 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  'Matrix in file "CP & RS, 2019.nex"';
+	DIMENSIONS  NCHAR=138;
+	FORMAT DATATYPE = STANDARD GAP = - MISSING = ? SYMBOLS = "  0 1 2 3 4 5";
+	CHARSTATELABELS 
+		1 '* Head and pronotum, spine-like setae:' /  absent present,
+		2 'Antennal insertions (ai), position in relation to frontoclypeus and eye:' /  'ai situated at the anterior margin of frontoclypeus, i.e., anterior margin of antennal cavity touching the anterior margin of frontoclypeus' ai_situated_closer_to_frontoclypeus_than_to_eye ai_situated_at_equal_distance_or_closer_to_eye,
+		3 '* Sexual dimorphism, antennal insertions, distance between each other in relation to eye (ai-ai/ai-e):' /  'absent (both male and female with same ai-ai/ai-e ratio)' 'present (only males antennal insertions equidistant from each other and eye or closer to each other than to eye)',
+		4 '* Sexual dimorphism, antennal lenght:' /  'absent (both male and female with same lenght)' 'present (i.e.,longer in males)',
+		5 '* Sexual dimorphism, antennomere 1, setation:' /  'absent (i.e, both male and female with same setation)' 'present (i.e., denser in males)',
+		6 'Antennae, relative length of antennomere 1 (a1), and antennomeres 2 (a2) and 3 (a3) combined:' /  a1_distinctly_shorter_than_a2_and_a3_combined a1_as_long_as_or_longer_than_a2_and_a3_combined,
+		7 'Antennae, length of antennomeres 3 and 2 ratio (a3/a2):' /  'a3 not longer than a2 (maximum a3/a2 ratio 1.0)' 'a3 moderately longer than a2 (a3/a2 ratio 1.2-1.5)' 'a3 distinctly longer than a2 (a3/a2 ratio >> 1.5)',
+		8 'Antennae, antennomere 3, tomentose pubescence:' /  absent present,
+		9 'Antennnae, antennomere 6, apical long setae:' /  absent present,
+		10 '* Sexual dimorphism, head, punctation, dorsal view:' /  'absent (i.e, both male and female with same punctation)' 'present (i.e., with dense punctation in males, scarcely punctated to almost glabrous in fem',
+		11 '* Sexual dimorphism, head, punctation, ventral view:' /  'absent (i.e, both male and female with same punctation)' 'present (i.e., with dense punctation in males, scarcely punctated to almost glabrous in fem',
+		12 '* Sexual dimorphism, head, setation, ventral view:' /  'absent (i.e, both male and female with same setation)' 'present (i.e., with dense setation in males, scarce setae to almost glabrous in females)',
+		13 '* Sexual dimorphism, head, width:' /  'absent (both male and female with about the same width)' 'present (distinctly wider in males)',
+		14 '* Sexual dimorphism, frontoclypeus, emargination:' /  'absent(i.e, both male and female without emargination)' 'present (emarginate in males)',
+		15 'Head, neck constriction:' /  neck_distinct_at_sides_only 'neck constriction fully developed, distinct all around' neck_region_indistinct,
+		16 'Head, dorsal basal ridge:' /  absent present,
+		17 'Head, ventral basal ridge (vbr), development:' /  vbr_along_considerable_portion_of_its_length_confluent_with_ventral_portion_of_postoccipital_suture vbr_extending_more_or_less_parallel_to_ventral_portion_of_postoccipital_suture,
+		18 'Head, postgenal ridge:' /  absent present,
+		19 'Head, postgenal ridge (pgr) relative to ventral basal ridge (vbr), development:' /  pgr_developed_ventrally_but_not_joining_vbr_medially pgr_joined_vbr_medially 'pgr slightly developed ventrally (rather laterally) and not joining vbr',
+		20 'Head, postmandibular ridge:' /  absent present,
+		21 'Head, postmandibular ridge (pmr) relative to mandibular base (mb):' /  pmr_bordering_mb_almost_completely pmr_bordering_mb_only_laterally pmr_and_mb_separate,
+		22 'Head, postmandibular sulcus:' /  absent present,
+		23 'Head, infraorbital ridge:' /  absent present,
+		24 'Head, infraorbital ridge (ior), development (sensu Smetana, see Chani-Posse 2014):' /  ior_complete ior_extending_far_beyond_postgenal_ridge ior_reaching_postgenal_ridge_or_slightly_extending_beyond_postgenal_ridge,
+		25 'Head, ligula, shape:' /  'more or less bilobed, with variously developed rounded lobes' 'small, entire (or at most slightly notched medially)',
+		26 'Head, mandibles, dorso-lateral groove:' /  absent present,
+		27 'Labial palpus, relative length of palpomeres 3 (p3, apical) and 2 (p2, preapical) (p3/p2):' /  p3_distinctly_shorter_than_p2 p3_and_p2_subequal_in_length p3_distinctly_longer_than_p2,
+		28 '* Labial palpomere 2 (when p3 distinctly shorter than p2), setae:' /  basal mediobasal,
+		29 '* Labial palpomere 2, shape:' /  cylindrical slightly_expanded_apically,
+		30 '* Sexual dimorphism, labial palpomere 2-3:' /  'absent  (i.e., subcyindrical in both male and female)' 'present (i.e., medially expanded in males, subcylindrical in females)',
+		31 '*Maxillary palpus, relative length of palpomeres 4 (p4, apical) and 2 (p2) (p4/p2):' /  p4_as_long_as_or_longer_than_p2 p4_distinctly_shorter_than_p2,
+		32 '* Sexual dimorphism, maxillary palpomere 3:' /  'absent  (i.e., subcyindrical in both male and female)' 'present (i.e., apically expanded in males, subcylindrical in females)',
+		33 'Maxillary palpus, palpomere 4 (apical), shape:' /  'subacute, i.e., narrowed at base and evenly converging towards apex' 'fusiform to expanded apically, i.e., narrowed at base but not (or not evenly) converging towards apex' 'subcylindrical "rod-like", parallel-sided at most of its length, apex subtruncate' 'subcylindrical "rod-like", parallel-sided at most of its length, apex acute' 'extremely elongate (like in Atanygnathus)',
+		34 'Gular sutures (gs), development:' /  gs_joined_before_neck 'gs not joined before neck, extended close to each other at base of head capsule',
+		35 'Gular sutures (gs), if not joined before neck, degree of separation:' /  gs_slightly_separated_from_each_other gs_widely_separated_from_each_other,
+		36 'Male gular sutures, if joined before neck, joining point:' /  'joined anteriorly (i.e., not farther than one half the distance between the anterior margin of mentum and the base of head along midline)' joined_posteriorly,
+		37 '* Sexual dimorphism, gular sutures, if joined before neck, joining point:' /  'absent (i.e, both male and female with same joining point)' 'present (joined anteriorly on male but posteriorly on female)',
+		38 'Hypostomal cavity (hc):' /  absent present,
+		39 'Hypostomal cavity (hc), if present:' /  'hc distinctly delimited (i.e., cavity surface with microsculture and/or punctation different from rest of nearby head surface)' 'hc moderately delimited (i.e., cavity surface without microsculpture or punctation different from rest of nearby head surface)' 'hc slightly delimited (cavity distinct only laterally, its surface with same microsculture or punctuation as rest of nearby head surface)',
+		40 'Prothorax, anterior angles (aap) relative to anterior margin of prosternum (amp):' /  aap_and_amp_at_about_the_same_level aap_distinctly_posterior_to_amp,
+		41 '* Prothorax, pronotum, deflection (in ventral view):' /  absent present,
+		42 '* Prothorax, pronotum, if deflected (in ventral view):' /  not_visible_beyond_spiracles visible_beyond_spiracles,
+		43 'Prothorax, large lateral setiferous puncture (llsp), position in relation to superior marginal line of pronotum (smlp):' /  llsp_situated_very_close_to_smlp_or_at_a_distance_no_more_than_three_times_its_diameter llsp_situated_away_from_smlp_at_a_distance_at_least_three_times_as_large_as_its_diameter,
+		44 '* Prothorax, prosternum, sternacostal ridge:' /  absent present,
+		45 '* Prothorax, prosternum, sternacostal ridge (when present):' /  joining_superior_line_of_hypomeron not_joining_superior_line_of_hypomeron,
+		46 'Prothorax, basisternum (bs), length relative to length of furcasternum (fs) (bs/fs, measured laterally):' /  'bs slightly to moderately longer than fs (bs/fs ratio up to 1.5)' 'bs distinctly longer than fs (bs/fs ratio >> 1.5)' 'bs distinctly shorter than fs (bs/fs ratio <<1.0)',
+		47 'Prothorax, prosternum, transverse carina on basisternum:' /  absent present,
+		48 'Prothorax, prosternum, transverse carina on basisternum (tc), development (when present):' /  tc_rudimentary_to_uncomplete tc_complete,
+		49 '* Prothorax, prosternum,basisternum, microsculpture (when transverse carina present):' /  'uniform (i.e., not different at both sides of transverse carina)' 'not uniform (i.e., distinct at both sides of carina',
+		50 'Prothorax, prosternum, longitudinal ridge (in ventral view):' /  absent present,
+		51 'Prosternum, keel:' /  absent present,
+		52 'Prothorax, hypomeron, superior marginal line, deflection under anterior angles (ventral view):' /  not_distinct distinct,
+		53 'Prothorax, hypomeron, inferior marginal line (iml), development:' /  iml_not_continued_as_a_separate_entity_beyond_anterior_pronotal_angles iml_continued_as_a_separate_entity_beyond_anterior_pronotal_angles_and_curving_around_them iml_continued_as_a_separate_entity_beyond_anterior_pronotal_angles_and_continuous_with_them,
+		54 'Prothorax, degree of fusion of pronotum (pnt) and prosternum (pst):' /  'pnt and pst not fused in procoxal cavity, pronotosternal suture complete in cavity' 'pnt and pst at least partially fused, pronotosternal suture missing in part of cavity',
+		55 'Prothorax, prosternum, basisternum, pair of macrosetae:' /  absent present,
+		56 'Prothorax, prosternum, basisternum, position of pair of macrosetae (ms, if present) in relation to anterior margin of prosternum (amp) and the sternacostal suture (ss):' /  'ms situated close to amp (i.e., not farther than one fourth the distance between amp and the ss along midline)' 'ms situated far from amp (i.e., farther than one fourth the distance between amp and the ss along midline)',
+		57 'Mesothorax, mesoscutellum, posterior scutellar ridge:' /  absent present,
+		58 'Mesothorax, elytron, humeral spines or spine-like setae:' /  absent present,
+		59 'Sternopleural (anapleural) suture:' /  'transverse, or nearly transverse (very slightly oblique)' 'distinctly oblique (medial end of suture anterior to its lateral end)' sinuate,
+		60 'Sternopleural (anapleural) sutures (sps), their position with respect to anterior margin of mesoventrite (amm), if oblique:' /  sps_confluent_at_amm sps_not_confluent_at_amm,
+		61 'Mesothorax, mesoventral cross-like ridge ridge:' /  absent present,
+		62 '* Mesothorax, mesoventral longitudinal ridge:' /  absent present,
+		63 'Mesothorax, mesoventral posterior half of prepectus, ridge connecting coxal cavities:' /  absent present,
+		64 'Mesothorax, intercoxal process, apex:' /  'rounded or broadly pointed, forming obtuse angle' 'narrowly pointed forming sharp (acute) angle' 'intercoxal process not distinct, metaventrite fused with mesoventrite',
+		65 'Profemora, lateroventral medial spines (posterior row):' /  absent present,
+		66 '* Sexual dimorphism, profemora, lateroventral apical spine/s (anterior row, when present)' /  'absent (both sexes with spine/s)' 'present (spine/s only in males)',
+		67 'Profemora, lateroventral medial spines (anterior row):' /  absent present,
+		68 '* Profemora, chaetotaxy:' /  conspicuosuly_denser_ventrally scarce_all_over dense_both_dorsally_and_ventrally,
+		69 '* Profemora, chaetotaxy, longitudinal patch of dense setae lateroventrally:' /  absent present,
+		70 '* Sexual dimorphism, profemora, shape:' /  absent 'present (medially dilated or wider in males)',
+		71 'Protibiae, shape:' /  cylindrical_to_slightly_broadened_apically 'subconical to conical, moderately to distinctly broadened apically',
+		72 'Protibiae, apical excavation:' /  absent present,
+		73 '* Protibiae, apical excavation, spines:' /  absent present,
+		74 '* Protibiae, apical excavation, spines (when present), number:' /  '5-6' '2-3',
+		75 '* Protibiae, lateroventral spines:' /  absent present,
+		76 '* Protibiae, lateroventral spines, distribution:' /  'irregular, not in rows' in_one_row in_two_rows,
+		77 '* Protarsi, tarsomeres 2-3, relative width:' /  as_long_as_to_longer_than_wide distinctly_wider_than_long,
+		78 '* Male protarsi, tarsomeres 2-3:' /  'not bilobed (posterior margin moderately curved to straight)' 'sub-bilobed' strongly_bilobed,
+		79 '* Protarsomeres 2-3, ventral surface, discal setae:' /  absent present,
+		80 '* Protarsomeres 2-3, ventral surface, discal setae (when present), shaft microsculpture:' /  smooth striate,
+		81 '* Protarsomeres 2-3, ventral surface, discal setae (when present), shaft shape:' /  'cylindrical, distinctly broadened apically' 'subcylindrical, gradually narrowed apically',
+		82 '* Protarsomeres 2-3, ventral surface, discal setae (when present), terminal plate:' /  absent present,
+		83 '* Protarsomeres 2-3, ventral surface, discal setae (when present), terminal plate shape:' /  rounded_to_ovoid_to_subquadrate 'subfusiform to leaf-like' 'not distinct, fused to adyacent plates',
+		84 '* Protarsomeres 2-3, ventral surface, marginal setae:' /  'absent (if present only 1-2 fine setae at each lateroposterior angle)' present,
+		85 '* Protarsomeres 2-3, ventral surface, marginal setae, distribution (when present):' /  posteriad lateral,
+		86 '* Protarsomeres 2-3, ventral surface, marginal setae, distribution (when present and posterior):' /  continuous interrupted_medially,
+		87 '* Protarsomeres 2-3, ventral surface, marginal setae, number at each side (when present and lateral):' /  3 4 more_than_4 only_2,
+		88 '* Protarsomere 5, chaetotaxy:' /  several_fine_setae 'scarce (very few fine setae, almost glabrous)',
+		89 'Apical tarsomere, empodial setae:' /  absent present,
+		90 'Metacoxae, transverse carina:' /  absent present,
+		91 'Metacoxae, ventral spines:' /  absent present,
+		92 '*Male metatrocanter, spines:' /  'absent (or only one at most)' present,
+		93 '* Male metatrocanter, spines, distribution (when present):' /  posteroapical anteromedial,
+		94 '* Sexual dimorphism, metatrocanter, spines (when present in males):' /  'absent (i.e., male and female with spines)' 'present (i.e., only in males)',
+		95 'Male metafemora, spines:' /  absent present,
+		96 '* Male metafemora, spines, number (when present):' /  one_row two_rows only_apical,
+		97 '*  Male metafemora, spines, shape (when present):' /  'as strong-like setae (i.e., same orientation as nearby finer setae)' as_true_spines,
+		98 '* Male metafemora, spines, distribution (when present as "true spines"):' /  entire_posterior_margin basal_half_of_posterior_margin basal_fifth_of_posterior_margin,
+		99 '* Sexual dimorphism, metafemora, spines (when present in males):' /  'absent (i.e., male and female with spines)' 'present (i.e., only in males)',
+		100 'Metatibiae, spines:' /  'absent, or at most one or two spines present' always_several_spines_present,
+		101 'Metatarsi, relative length of tarsomeres 1 (t1) and 5 (t5) (t1/t5):' /  't1 shorter than t5 or at most both tarsomeres subequal (t1/t5 < 1.0)' 't1 moderately longer than t5 (t1/t5 >> 1.0 but < 2.0)' 't1 significantly longer than t5 (t1/t5 >> 2.0 but < 3.0)' 't1 much longer than t5 (t1/t5 = 4.0)',
+		102 '* Sexual dimorphism, metarsomere 1 (t1), length:' /  'absent (i.e., male and female with same t1 length)' 'present (i.e., t1 in male distinctly longer than in female)',
+		103 'Metatarsi, tarsomeres 3-5, dorsal surface, chaetotaxy:' /  'developed only at margins, dorsal surface of tarsomeres glabrous along midline' 'tarsomeres dorsally setose (setae not restricted to marginal series)',
+		104 'Hind wing, venation, veins CuA and MP4:' /  completely_separate 'fused in one vein (although often its origin from two veins still very obvious)',
+		105 'Hind wing, venation, MP3:' /  'vein MP3 present, although sometimes faint' vein_MP3_absent,
+		106 'Abdomen, protergal glands, cuticular manifestation:' /  shallow_impression 'well-developed acetabula' more_or_less_invaginated_capsules_with_smaller_openings,
+		107 'Abdomen, tergites 3 and 4, ABTC, pair of accessory ridges:' /  absent present,
+		108 'Abdomen, tergum 3, PBTC:' /  absent present,
+		109 'Abdomen, tergum 5, ABTC, pair of accessory ridges:' /  absent present,
+		110 'Abdomen, tergum 4, PBTC:' /  absent present,
+		111 'Abdomen, tergum 5, PBTC:' /  absent present,
+		112 'Abdomen, tergum 3, curved ridge on disc:' /  absent present,
+		113 'Abdomen, tergum 4, curved ridge on disc:' /  absent present,
+		114 'Abdomen, tergum 5, curved ridge on disc:' /  absent present,
+		115 'Abdomen, sternum 3, basal transverse carina, shape of its lateral area:' /  not_sinuate sinuate inclined_medially,
+		116 'Abdomen, male sternum 7, patches of setae on disc:' /  absent present,
+		117 'Male sternum 8, apical margin, distinct medial projection:' /  absent present,
+		118 'Male sternum 8, apical margin, medial emargination:' /  absent present,
+		119 'Female sternum 8, apical margin, distinct medial projection:' /  absent present,
+		120 '* Female sternum 8, apical margin, distinct medial projection (when present):' /  straight_to_slightly_emarginate_at_sides distinctly_emarginate_at_sides,
+		121 'Male sternum 9, relative length of basal (bp) and distal (dp) portions (bp/dp):' /  'bp  shorter or as long as dp at most (bp/dp 1.0)' 'bp moderately longer than dp (bp/dp 1.2-1.4)' 'bp distinctly longer than dp (bp/dp at least 1.6)',
+		122 'Male sternum 9, distal portion, median emargination:' /  distinct not_distinct,
+		123 'Male sternum 9, distal portion, emargination (if distinct):' /  acute subangulate_to_concave slightly_arcuate,
+		124 'Lateral tergal sclerites 9 (styli), apical straight setae:' /  absent present,
+		125 'Lateral tergal sclerites 9 (styli), shape:' /  dorsoventrally_flattened not_dorsoventrally_or_laterally_flattened laterally_flattened,
+		126 'Sexual dimorphism, lateral tergal sclerites 9 (styli) (if dorsoventrally flattened):' /  'absent (i.e., equally wide in both male and female)' 'present (i.e., distinctly wider in males than in females)',
+		127 'Male tergum 10, shape:' /  'emarginate medio-apically' apically_subtruncate_to_wide_and_subangulate_or_arcuate 'concave medio-apically to apically truncate' apically_distinctly_subacute_to_acute,
+		128 'Male: aedeagus, parameres, separation:' /  'paired, well separated' 'fused into a single lobe (sometimes  secondarily bifurcate)',
+		129 'Male: aedeagus, paramere(s), sensory peg setae:' /  absent present,
+		130 'Male: aedeagus, paramere(s), degree of attachment to median lobe:' /  'fused to median lobe only at base, otherwise paramere(s) distinctly separated from median lobe along entire length' fused_to_median_lobe_only_at_base_and_very_closely_appressed_to_median_lobe_along_entire_length 'fused to median lobe along its (their) entire length, paramere(s) and median lobe hardly distinguishable from each other.',
+		131 'Male: aedeagus, paramere(s), shape:' /  'paramere(s) not (or at most slightly) produced over apex of median lobe' paramer_strongly_produced_produced_over_apex_of_median_lobe 'paramere distinctly small (short and/or thin)',
+		132 'Ovipositor, each second gonocoxite, number of macrosetae:' /  '2-5' one_at_midline,
+		133 Labial_P2 /  absent present,
+		134 Oblique_sternopleural_suture /  absent present,
+		135 Dorsoventrally_flattened_lateral_tergal_sclerites_9 /  absent present,
+		136 Posterior_marginal_setae /  absent present,
+		137 Lateral_marginal_setae /  absent present,
+		138 Gular_not_joined_before_neck /  absent present ; 
+	MATRIX
+	Arrowinus_minutus               0000011000000000-0-0-011002-1000111--0-01001100--1100011010-0001000?0010--101?1001??????101???0----1101--10101100000010-01-01-100001000??1
+	Amblyopinus_emarginatus         000001000000?010110??010101-1000111--0-00-01110--1000010000-000000000010--0-12100100---01000--0----1101--10000000000010-01-001010111001--1
+	Holisus_prolixus                00000110100000100110-00-101-101020-000-010?1110--111010-000-00000-110010--101?0----????00000--0----?10111101000000?0000-0??01-?????1000??0
+	Cyrtoquedius_frenatus_group     0100001000001010111??010112-?0?0110--0-00-01100--0100011110-000000010110--1012100100---010?0--0----11010010000000000010-00101-21000-000--1
+	Creophilus_maxillosus           010001100000(0 1)0111110-112012-1010110--1001001100--11121111011000001000110--1011100100---01110--0----11010000000000000010-00001-210001010--1
+	Platydracus_chrysotrichopterus  010001100000001111112112012-1000110--1001011100--1110111100-00010-020010--0-11100100---01110--0----11010000000000000010-00001-110001000--1
+	Misantlius_gebieni              01000010100000111101211211000000110--1001011100--1110111101100010-000?10--0-11100100---0101???0----11010011010000011010-01-01-111001110--1
+	Xenopygus_analis                010001101000001111112112112-1000110--1100-01100--1101111101100000-000010--1011100100---01110--0----11001010000011101010-00001-211001010--1
+	Nordus_elytisi                  010001101000001111112112112-1010110--1100-01100--110110-101100000-010010--1011100100---01110--0----01001010000011000010-01-01-111001010--1
+	Philothalpus_bilobus            010000101000001111112112112-1000110--1200-01110--11001101021100100000010--1011100100---01110--0----11011011000000001010-00001-211101010--1
+	Philothalpus_falini             010000101000001111112112112-1000110--1200-01110--11001101021101100000010--1011100100---01110--0----11011011000000001010-00001-211101010--1
+	Actinus_imperialis              010?01201000101111212112112-100020-100-01011100--0010110101100020-000010--1011100100---00110--0----01001020100000000010-00001-11002?010--0
+	Agacerus_pectinatus             010?01201000??111100-00-112-1000010--0-01001110--0010110102100010-000?10--1011100100---00110--0----11001020101000000010-01-01-31000?010--1
+	Belonuchus_atticida             110001101000101111211012112-100030-001201111100--011010-1011001010010000--10000----11-?00110--0----0000???0101100000010-000000210221011010
+	Belonuchus_barbicornis          01101010100010111110-0121101001020-000-1111111110001011010110010100110011110000----101-10110--0----00101020101100000010-00101-210221110100
+	Belonuchus_cephalotes           01100100000010111100-00-1101001020-000-0111100101011011010110010100110011110000----11-010110--1111000001??0101100000000-001000210221111010
+	Belonuchus_gracilis             01100110000010111100-00-1101001020-000-0111100101011011010110010100110011110000----11-010110--111100000???0101100000000-001000110221111010
+	Belonuchus_albovariegatus       01000120100010111110-0121101001020-000-1111100110011010-10110010100110011110000----11-1101?0--0----0110???0101100000010-001000110221111010
+	Belonuchus_cognatus             01000110000010111110-00-112-001020-00120101110100111010-100-001010110000--10000----11-310111001110010001020101100000010-00001-110221000010
+	Belonuchus_haemorrhoidalis      01000110100010111100-00-112-100020-001201011101001110110100-001010110000--10000----11-310111001110011001020101100000010-00001-310221000010
+	Belonuchus_mordens              01000110000010111100-00-112-100020-001201011101000110111100-001010110100--10000----11-010110--111?010001020101100000010-000000110221001010
+	Belonuchus_pollens              01000110100010111110-012112-001020-000-01011101000010110100-001010010000--10000----11-010111011110010001020101100000010-00001-210221000010
+	Belonuchus_rufipennis           010001101000(0 1)0111110-012112-001020-000-01011101000010110100-001010010000--10000----11-010111011110111001020101100000010-00001-210221000010
+	Belonuchus_subaeneus            01100110100010111111200-1101?00020-100-1111101110011010-10110010100110011110000----11-?10110--0----100010201011000000?0-?01000210221111010
+	Bisnius_sordidus                010000101000001111111012112-101010-100-01001100--1010111100-0011000??000--10000----101-00110--0----10001020101100000010-00001-211001000100
+	Cafius_seminitens               01000100000000111111200-112-100010-000-01011100--0110110100-00110-000010--1212100110---00100--0----11001020101100000010-00011-?????1000--0
+	Cafius_xantholoma               01000010000000111121100-112-100010-000-01011100--0110110100-00110-000010--1212100110---00100--0----11001020101100000010-00011-311001000--0
+	Chroaptomus_flagrans            020001101010111111111012112-100010-100-01011100--0010110100-001010011000--10000----11-110110--0----11001020101100000010-00001-110201000010
+	Delgadobius_amazonensis         0100001000000011111??010112-1000110--0-01011100--001010-100-00100-010000--1001111100---00110--0----1000??20101100000010-00001-110220000--1
+	Ecitophytes_coniceps            00000121000000111121000-112-100030-001111011110--0010111101100010-0100010-0-001110-11-000110--0----01001020000000000010-???01-110220010010
+	Flohria_subcoerulea             01000110100000111101001(0 1)112-1000210--1201001100--00101101021001100000010--10101010-0---00110--0----10001020101100000010-00201-111001010--1
+	Gabrius_picipennis              010000101000(0 1)01111111012111-100000-100-01001100--1010111100-001100000000--10000----11-300110--0----10001020101100000010-01-01-31100?000010
+	Hesperus_argentinus             11???1101?????1111211012112-1?0030-0?1201111100--011010-101101001?011?00--10000----11-00011????????00?010?01010000000?11???00??????1011010
+	Hesperus_baltimorensis          010001101000101111112112112-100020-100-01011100--0110111101100020-000010--1011100100---00110--0----11001020100000000010-00001-110101010--0
+	Hesperus_bruchi                 11???1101?????1111211012112-1?0030-0?1201111100--011010-101101001?011?00--10000----11-000110--0----00?010?010100000001?????00??1022?011010
+	Hesperus_ferrugineus            11???1101?????1111211012112-1?0030-0?1201111100--011010-101100000?011?00--100?0----11-00011????????00?0???010100000???11???00??????1011010
+	'Hesperus novo-teutonicus'      01000110000110111100-00-112-100110-100-1111110111011010-10110010000110011010000----11-210110--0----1000???0101?00020010-????1-??????010010
+	Hesperus_ornaticornis           01???1101??0??1?1????????12-??0020-000-11111001100?101??1011000?0?0???011???0?0----1????0??????????00?0???0?0???????????????????????01???0
+	Hesperus_tremolerasi            11???1101?????1111211012112-1?0?30-0?1201111100--011010-101101001?011?00--10000----11-000110--0----00?0???010100000001?????00???????011010
+	Hesperus_zitschkai              11???1101?????1111211012112-1?0030-0?1201111000--011010-101101000?011?00--100?0----11-00011????????00?0???010100000???0-???00??????1010010
+	Laetulonthus_laetulus           010001101000101111112112112-1000110--0-01011100--0010110101100100-000010--1011100100---00110--0----1000?120100000000010-01-01-21100?010--1
+	Leptopeltoides_columbiensis     010001100000001111111012112-100010-00120100110110101011010110011000000011010000----11-200110--0----11001020101100000010-00001-21022?010010
+	Leptopeltus_flavipennis         010001100000001111111012112-100010-00120100110110111011010110010000000011010000----11-000110--0----10001020101100000010-00001-210221010010
+	Linoderus_gracilipes            02000010010010111101100-1101000020-000-1111111110011010-10100010100110010-10000----11-210110--0----0(0 1)1010201011000001110201001210221111010
+	Neopescolinus_nevermanni        020001100000101111111012112-000020-100-1111111111011010-10100010100110011110000----100-10110--0----0100???0101100000010-201000210221011100
+	Odontolinus_fasciatus           01100120000010111111200-112-100020-000-1111110110011011010110010100111011010100----100-10111111012111001020101100000000-001001210221011100
+	Ophionthus_serpentinus          01100010100010111110-00-112-001020-000-1111101100011010-101100101001100111101011?1?0---10110--0----0100??2010110000001??10101-11022?010--0
+	Paederallus_sp_undescribed      01000021000000111101100-112-1000110--1211011110--001010-101000010-0110011110000----11-310110--0----00001020101100000010-00001-110221010011
+	Paederomimus_aeneiceps          01000100000010111110-012111-100020-010-01111100--001011110110010100111011010000----11-310110--0----1000??20101100000000-101001110221011010
+	Paederomimus_angusticollis      01000110000010111100-00-111-110010-100-111111011101101101011001000011001110-000----11-210110--0----00001020101100020010-00101-210221010010
+	Paederomimus_capitalis_group    01000110000010111111200-112-100020-100-1111111111011011010110010100111011010000----11-110110--1111110001020101100000010-00101-210221010010
+	Paederomimus_cf_contractus      01000100000000111100-00-112-100010-100-11110-0111011011010110010000110011110000----11-010110--0----00001020101100020000-00101-210221010010
+	Paederomimus_difformiceps       01000110000000111100-00-112-100010-100-1111110111011011010110010000110011110000----11-110110--0----0000???0101100020010-00101-010221010010
+	Paederomimus_gentilis           01000110000010111110-012112-100020-000-0111110110001011010100010000110011010000----11-110110--0----1000???0101100000000-00101-110221010010
+	Paederomimus_lustrator_group    01000100000010111110-00-112-100020-000-1111110111011011010110010100110011110000----11-010110--0----10001020101100000010-001001210221011010
+	Paederomimus_nigrinus           01000120100000111100-0121101001020-000-1111100110011011010110010100110011110000----11-?10110--0----00001020101100000010-01-00?110220111010
+	Paederomimus_nobilis            01100110000010111101100-1101000020-000-0111100111011010-10110010100110011110000----101-10110--0----00001020101100000010-00101-210221110100
+	Paederomimus_pectoralis         01100010000010111111200-112-100020-100-111111111101101101011001010011?011110000----11-?1011???0----10?01020101100000000-00101-21022?010010
+	Paederomimus_salvini            01100110000010111101100-1101000020-000-0111100111011010-10110010100111011110000----101-10110--0----00001020101100000010-00101-210221110100
+	Pescolinus_palmatus             01000110100000111111100-1101000020-100-1111110111001010-101000100-0110011?0-100----101-10110--0----00001?20101100000111020100121022?111100
+	Phileciton_badariottii          010001000000001111111012112-1000010--0-0101110101001010-101100100-011000--0-000----101-10110--0----01001020101100000010-00001-110220010101
+	Philonthus_bicoloristylus       010000100000101111112012112-1000110--1201001100--0010110100-001000000010--1011100110---00110--110-010001020101100000010-00001-011000000--1
+	Philonthus_bonariensis          010001000000001111112012112-1000110--0-01001100--0010110100-001000000010--1011100110---00110--0----10001020101100000010-00001-111000000--1
+	Philonthus_callosipennis        01000010000000111101200-112-1000110--120101110111001010-1011011100000100--0-11111120---00110--0----0000???0101100000010-00001-210000010--1
+	Philonthus_caeruleipennis       01010110100010111110-012112-1000110--0-01001100--0010110100-001000?00?10--10111001?0---00110--0----01001010101100000010-00001-111001000--1
+	Philonthus_cyanipennis          010101101000101111112112112-1000110--0-01001100--1010110100-001000000010--1011100100---00110--0----1100??20101100000010-00001-311001000--1
+	Philonthus_diamantinus          010000101000001111012012112-100010-00120101110111001010-1011011100000000--0-11111110---00110--0----000010?0101100000010-00001-210221010--0
+	Philonthus_figulus              010000100000001111112011112-1000110--0-01001100--1110110100-001100000010--10111001?0---00110--110-011001020101100000010-00001-111000000--1
+	Philonthus_flavolimbatus        010001000000001111112012112-1000110--0-01001100--0010110100-001000000010--1011100110---00110--0----11001020101100000010-00001-311000000--1
+	Philonthus_fulgipennides        01000010100010111101200-112-100010-100-010111010?00101101011001010011000--10000----10?-10110--0----00001020101100000010-00001-110221010100
+	Philonthus_laetipennis          01000010100000111101200-112-100010-100-01011101000010110101100101?011000--10000----10?-10110--0----00?01020101100000010-00001-110221010100
+	Philonthus_longicornis          010000100000001111111011112-1000110--0-01001100--1110110100-001100000010--1011100100---00110--110-011001020101100000010-00001-111000000--1
+	Philonthus_lynchi               010000000000001111112012112-1000010--1201001100--0010110100-001000000010--1011100110---00110--0----10001020101100000010-00002-301001000--1
+	Philonthus_nitidus              010001101000101111112112112-1000110--0-01001100--1110110100-001100000010--1011100100---00110--0----11001020101100000010-01-01-011001000--1
+	Philonthus_rectangulus          010001000000(0 1)01111112012112-1000110--0-01001100--1010110100-001100?00?10--1011100100---00110--0----11001020101100000010-00001-211000000--1
+	Philonthus_sericans             010000100000(0 1)01111112011112-1000110--0-01001100--1110110100-001100?00?10--1011100100---00110--0----11001020101100000010-00001-111000000--1
+	Philonthus_splendens            010001101000101111112112112-1000110--0-01001100--1110110100-001100000010--1011100110---00110--110-011001020101100000010-01-01-011001000--1
+	Proxenobius_borgmeieri          000001111000001111210012112-100030-001200-11100--01001101011001000011000--10000----11-000110--0----02001020000000000010-00001-210221010010
+	Trapeziderus_diversus           01000010100000111100-00-112-100010-000-01011100--1110110101100020-010010--1011100100---10110--1110011001020101100000010-00101-111001010--0
+
+;
+
+END;
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1 -  138;
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Mk1 (est.)':  1 -  138;
+END;
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1588851193221;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 2504405313918753609;
+			tell It;
+				setDefaultOrder  88 68 67 87 135 139 117 69 123 133 134 379 169 74 180 196 194 82 187 161 186 39 63 23 66 378 99 58 128 176 167 103 79 105 71 73 77 76 72 81 202 172 171 40 179 33 178 174 181 193 22 182 70 183 19 26 1 375 199 173 175 191 189 197 159 184 198 38 188 27 28 13 190 380 49 369 382 61 14;
+				attachments ;
+			endTell;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 6329805258828241987;
+			tell It;
+				setDefaultOrder  146 6 213 143 247 9 10 13 327 237 250 145 236 249 28 29 36 33 343 34 41 368 32 38 42 300 49 148 149 248 150 144 324 53 382 54 210 394 378 398 182 181 298 192 193 302 59 68 240 428 351 61 318 66 67 429 71 72 81 365 179 183 282 363 299 212 251 174 131 244 83 344 128 129 220 141 232 253 79 225 190 142 227 224 228 229 231 205 87 76 364 221 152 252 85 242 209 153 255 346 86 234 320 90 91 93 381 95 317 96 97 102 103 104 396 395 106 178 108 147 109 112 274 366 275 276 277 279 280 292 293 296 132 133 134 135 136 137;
+				attachments ;
+			endTell;
+			mqVersion 340;
+			checksumv 0 3 4135585779 null  getNumChars 138 numChars 138 getNumTaxa 79 numTaxa 79   short true   bits 15   states 15   sumSquaresStatesOnly 27352.0 sumSquares 27352.0 longCompressibleToShort false usingShortMatrix true   NumFiles 1 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 243;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1440 765;
+			setLocation 0 23;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			showTaxa #2504405313918753609 #mesquite.lists.TaxonList.TaxonList;
+			tell It;
+				setTaxa #2504405313918753609;
+				getWindow;
+				tell It;
+					useTargetValue off;
+					setTargetValue ;
+					newAssistant  #mesquite.lists.TaxonListCurrPartition.TaxonListCurrPartition;
+					newAssistant  #mesquite.lists.DefaultTaxaOrder.DefaultTaxaOrder;
+					getTable;
+					tell It;
+						rowNamesWidth 245;
+					endTell;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1197 693;
+					setLocation 0 23;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.lists.TaxonList.TaxonListWindow.arrow;
+					endTell;
+				endTell;
+				showWindow;
+				getEmployee #mesquite.lists.ColorTaxon.ColorTaxon;
+				tell It;
+					setColor Dark Gray;
+					removeColor on;
+				endTell;
+				getEmployee #mesquite.lists.TaxonListAnnotPanel.TaxonListAnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #6329805258828241987 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					getTable;
+					tell It;
+						rowNamesWidth 275;
+					endTell;
+					setExplanationSize 30;
+					setAnnotationSize 40;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1197 673;
+					setLocation 0 23;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.arrow;
+					endTell;
+					setActive;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.arrow;
+					colorCells  #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+					colorRowNames  #mesquite.charMatrices.NoColor.NoColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames off;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges on;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleAutoWCharNames on;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					toggleShowPaleExcluded off;
+					togglePaleInapplicable on;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize on;
+					toggleColorsPanel off;
+					toggleDiagonal on;
+					setDiagonalHeight 80;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.AlterData.AlterData;
+				tell It;
+					toggleBySubmenus off;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesEditor.StateNamesEditor;
+				tell It;
+					makeWindow;
+					tell It;
+						getTable;
+						tell It;
+							rowNamesWidth 517;
+						endTell;
+						setExplanationSize 30;
+						setAnnotationSize 20;
+						setFontIncAnnot 0;
+						setFontIncExp 0;
+						setSize 1197 693;
+						setLocation 0 23;
+						setFont SanSerif;
+						setFontSize 10;
+						getToolPalette;
+						tell It;
+							setTool mesquite.categ.StateNamesEditor.StateNamesWindow.ibeam;
+						endTell;
+						rowsAreCharacters on;
+						toggleConstrainChar on;
+						toggleConstrainCharNum 3;
+						togglePanel off;
+						toggleSummaryPanel off;
+					endTell;
+					showWindow;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor;
+				tell It;
+					panelOpen true;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

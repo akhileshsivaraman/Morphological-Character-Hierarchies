@@ -1,0 +1,13 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Mon May 11 06:33:03 2020]
+[!
+>Consensus of 690 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Tree(s) input to PAUP* as user-defined tree(s)
+>
+>690 trees read from TREES block; time used = 13.33 sec (CPU time = 0.03 sec)
+]
+	tree Strict = [&U] (Hexanchidae,Pristiophorus,(Sclerorhychus,Spathobatis,Pristis,Rhynchobatus,Rhinobatos_tenuirostris,Rhinobatos_maronita,Rhinobatos_intermedius,Rhinobatos_latus,Rhinobatos,Raja,Rhinobatos_hakelensis,Rhinobatos_whitfieldi,Zanobatos,(Torpedo,(Narcine,Narke)),(Myliobatis,Urolophus),Rhombopterygia,Iansan,Aptychotrema,Zapteryx,Trygonorrhina,Britobatos_primarmatus,(Tethybatis,(Platyrhina,(Platyrhinoidis,Tingitanius_tenuimandibulus)))));
+end;

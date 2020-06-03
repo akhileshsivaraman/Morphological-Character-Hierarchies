@@ -1,0 +1,17 @@
+log start f Ana-FM2012.txt
+import tnt FM2012.tnt
+characters properties set
+<30 31>
+  <123 !1 <124 !1 125> 126>
+  <167 9>
+  <168 18>
+  <169 44>
+  <170 70>
+  <171 84 88>
+  <172 95>
+  <173 98>
+  <174 144>;
+program set randomseed 888992742
+trees search mult * 
+trees show write a r e tnt T f Anatrees-FM2012.txt
+script execute stop

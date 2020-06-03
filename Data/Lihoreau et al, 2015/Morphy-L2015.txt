@@ -1,0 +1,13 @@
+branchswap=tbr
+gap=inapp
+addseq=random
+hold=10
+ratchet=no
+nreps=50
+heuristic
+nreps=75
+heuristic
+hold=25
+heur
+save
+Morphytrees-L2015.tre

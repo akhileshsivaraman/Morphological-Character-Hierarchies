@@ -1,0 +1,416 @@
+
+P A U P *
+Version 4.0a (build 166) for macOS (built on Sep  1 2019 at 23:02:50)
+Mon May 25 18:35:30 2020
+
+
+paup> execute L2015.nex
+
+Processing of file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Lihoreau et al,
+2015/L2015.nex" begins...
+
+Data matrix has 54 taxa, 176 characters
+Valid character-state symbols: 01234
+Missing data identified by '?'
+Gaps identified by '-'
+
+*** Skipping "NOTES" block
+
+Character types changed:
+  Of 176 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+
+Outgroup status changed:
+  3 taxa transferred to outgroup
+  Total number of taxa now in outgroup = 3
+  Number of ingroup taxa = 51
+
+*** Skipping "MESQUITECHARMODELS" block
+
+*** Skipping "MESQUITE" block
+
+Processing of input file "L2015.nex" completed.
+
+paup> cstatus
+
+Character-status summary:
+  Current optimality criterion = parsimony
+  No characters are excluded
+  Of 176 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+    1 character is parsimony-uninformative
+    Number of parsimony-informative characters = 175
+
+paup> tstatus
+
+Taxon-status summary:
+   Original data matrix contains 54 taxa
+   No taxa have been deleted
+   Designated outgroup taxa:
+      Homacodon, Gujaratia, B_lysitensis
+
+paup> ingroup Homacodon Gujaratia B_lysitensis
+
+Outgroup status changed:
+  3 taxa transferred to ingroup
+  Total number of taxa now in outgroup = 0
+  Number of ingroup taxa = 54
+
+paup> pset collapse=no
+
+paup> hsearch addseq=random nreps=50 hold=10 reconlimit=0
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 176 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        1 character is parsimony-uninformative
+        Number of parsimony-informative characters = 175
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 50
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+Heuristic search completed
+  Total number of rearrangements tried = 44767777
+  Score of best tree(s) found = 991
+  Number of trees retained = 2
+  Time used = 7.89 sec (CPU time = 7.86 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1         2         1         2             991            1       9
+     2         2         -         -             992           15       1
+     3         8         -         -             992            5      14*
+     4         6         -         -             994           32       1
+     5        12         -         -             994            2      11*
+     6        16         -         -             994            9       2*
+     7        14         -         -             997           23       3*
+     8        24         -         -             997           18       2*
+     9        48         -         -             997            4       2*
+    10        14         -         -             999           47       1
+    11        24         -         -            1001           16       1
+    12        27         -         -            1001           17       1
+    13        24         -         -            1002           39       1
+    14         2         -         -            1003           34       1
+
+Note(s):
+    * Multiple hits on islands of unsaved trees may in fact represent different islands
+
+paup> hsearch addseq=random nreps=75 hold=10 reconlimit=0
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 176 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        1 character is parsimony-uninformative
+        Number of parsimony-informative characters = 175
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 75
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+Heuristic search completed
+  Total number of rearrangements tried = 64333335
+  Score of best tree(s) found = 991
+  Number of trees retained = 2
+  Time used = 13.18 sec (CPU time = 13.11 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1         2         1         2             991            1      14
+     2         2         -         -             992            7       2*
+     3         8         -         -             992           11      16*
+     4         3         -         -             994            6       1
+     5         6         -         -             994            2       2*
+     6        12         -         -             994            3      16*
+     7        16         -         -             994           10       5*
+     8        14         -         -             997           38       4*
+     9        24         -         -             997           43       2*
+    10        48         -         -             997           12       2*
+    11        10         -         -             998           65       1
+    12         9         -         -            1000           30       2*
+    13        12         -         -            1000           55       2*
+    14         3         -         -            1001           60       1
+    15        24         -         -            1001           75       1
+    16         2         -         -            1002           42       1
+    17        24         -         -            1002            8       1
+    18         4         -         -            1003           64       2*
+
+Note(s):
+    * Multiple hits on islands of unsaved trees may in fact represent different islands
+
+paup> hsearch addseq=random nreps=100 hold=10 reconlimit=0
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 176 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        1 character is parsimony-uninformative
+        Number of parsimony-informative characters = 175
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 100
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+Heuristic search completed
+  Total number of rearrangements tried = 73575738
+  Score of best tree(s) found = 991
+  Number of trees retained = 2
+  Time used = 19.16 sec (CPU time = 18.99 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1         2         1         2             991            2      28
+     2         2         -         -             992           16       1
+     3         8         -         -             992            4      27*
+     4         2         -         -             994            9       2*
+     5         3         -         -             994            8       2*
+     6         6         -         -             994           14       2*
+     7        12         -         -             994           11      24*
+     8        16         -         -             994            1       7*
+     9        14         -         -             997           60       1
+    10        12         -         -            1000           22       3*
+    11         3         -         -            1001           63       1
+    12        24         -         -            1002           99       1
+    13         4         -         -            1003           26       1
+
+Note(s):
+    * Multiple hits on islands of unsaved trees may in fact represent different islands
+
+paup> hsearch addseq=random nreps=100 hold=50 reconlimit=0
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 176 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        1 character is parsimony-uninformative
+        Number of parsimony-informative characters = 175
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 100
+    Starting seed = generated automatically
+    Number of trees held at each step = 50
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+The limit of 100 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)y
+
+Enter new value for 'Maxtrees' (200):1000
+
+Action if limit is hit:
+   (1) Prompt for new value
+   (2) Automatically increase by 100 (= AUTOINC)
+   (3) Leave unchanged, and don't prompt
+(1)>1
+
+Heuristic search completed
+  Total number of rearrangements tried = 76947517
+  Score of best tree(s) found = 991
+  Number of trees retained = 2
+  Time used = 51.69 sec (CPU time = 42.36 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1         2         1         2             991            2      18
+     2         2         -         -             992           53       2*
+     3         8         -         -             992            3      36*
+     4         3         -         -             994           22       2*
+     5         6         -         -             994           46       3*
+     6        12         -         -             994            1      18*
+     7        16         -         -             994           10       4*
+     8         6         -         -             995           93       1
+     9        14         -         -             997           79       2*
+    10        15         -         -             997           45       2*
+    11        24         -         -             997            4       1
+    12        48         -         -             997           16       1
+    13         6         -         -            1000           38       1
+    14         9         -         -            1000           64       2*
+    15         3         -         -            1001            8       4*
+    16        24         -         -            1001           50       1
+    17        27         -         -            1001           20       1
+    18         9         -         -            1006           27       1
+
+Note(s):
+    * Multiple hits on islands of unsaved trees may in fact represent different islands
+
+paup> save file=Pauptrees-L2015.tre
+
+Error(#145): Ambiguous command abbreviation: save (SaveDist SaveAssum)
+
+paup> savetrees file=Pauptrees-L2015.tre
+
+2 trees saved to file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Lihoreau et al,
+2015/Pauptrees-L2015.tre"
+
+paup> contree / file=Paupcontree-L2015.tre
+
+Strict consensus of 2 trees:
+
+/---------------------------------------------------------------------- Dichobune_leporina
+|
+|                                                          /----------- Cebochoerus_campichii
+|                                                          |
+|                     /------------------------------------+      /---- Palaeochoerus
+|                     |                                    |   /--+
+|                     |                                    |   |  \---- Perchoerus
+|                     |                                    \---+
+|                     |                                        \------- Kenyasus
+|                     |
+|                     |   /-------------------------------------------- Siamotherium_krabiense
+|                     |   |
+|                     |   |      /------------------------------------- Anthracokeryx_tenuis
+|                     |   |      |
+|                     |   |      |                                /---- Anthracokeryx_thailandicus
+|                 /---+   |      |   /----------------------------+
+|                 |   |   |      |   |                            \---- Microbunodon_minimum
+|                 |   |   |      |   |
+|                 |   |   |  /---+   |              /------------------ Bothriogenys_orientalis
+|                 |   |   |  |   |   |              |
+|                 |   |   |  |   |   |   /----------+  /--------------- Lokone
+|                 |   |   |  |   |   |   |          |  |
+|                 |   |   |  |   |   |   |          \--+   /----------- Morotochoerus_ugandanensis
+|                 |   |   |  |   |   |   |             |   |
+|                 |   |   |  |   \---+   |             \---+   /------- Kenyapotamus_coryndonae
+|                 |   |   |  |       |   |                 |   |
+|                 |   \---+  |       |   |                 \---+  /---- Archaeopotamus_harvardi
+|                 |       |  |       |   |                     \--+
+|                 |       |  |       |   |                        \---- Hexaprotodon_garyam
+|                 |       |  |       |   |
+|                 |       |  |       |   |                 /----------- Bothriogenys_fraasi
+|                 |       |  |       |   |                 |
+|                 |       |  |       |   |             /---+   /------- Bothriogenys_andrewsi
+|                 |       |  |       |   |             |   |   |
+|                 |       |  |       \---+             |   \---+  /---- Brachyodus_aequatorialis
+|                 |       |  |           |             |       |  |
+|                 |       |  |           |          /--+       \--+---- Brachyodus_onoideus
+|                 |       |  |           |          |  |          |
+|                 |       |  |           |          |  |          \---- Brachyodus_depereti
+|                 |       |  |           |          |  |
+|                 |       |  |           |      /---+  \--------------- Bothriogenys_gorringei
+|                 |       |  |           |      |   |
+|                 |       \--+           |      |   |             /---- Bothriodon_velaunus
+|                 |          |           |  /---+   \-------------+
+|                 |          |           |  |   |                 \---- Aepinacodon
+|                 |          |           |  |   |
+|                 |          |           |  |   |                 /---- Elomeryx_crispus
+|                 |          |           |  |   \-----------------+
+|                 |          |           \--+                     \---- Elomeryx_borbonicus
+|                 |          |              |
+|              /--+          |              |       /------------------ Afromeryx_zelteni
+|              |  |          |              |       |
+|              |  |          |              \-------+  /--------------- Sivameryx_paleindicus
+|              |  |          |                      |  |
+|              |  |          |                      \--+   /----------- Merycopotamus_nanus
+|              |  |          |                         |   |
+|              |  |          |                         \---+   /------- Merycopotamus_dissimilis
+|              |  |          |                             |   |
+|              |  |          |                             \---+  /---- Libycosaurus_anisae
+|              |  |          |                                 \--+
+|              |  |          |                                    \---- Libycosaurus_bahri
+|              |  |          |
+|              |  |          |                                 /------- H_occidentalis
+|              |  |          |                                 |
+|              |  |          |                             /---+  /---- Anthracotherium_chaimanei
+|              |  |          |                             |   \--+
+|              |  |          \-----------------------------+      \---- Anthracotherium_magnum
+|              |  |                                        |
+|              |  |                                        \----------- Myaingtherium_kenyapotamoides
+|              |  |
+|              |  |                  /--------------------------------- Cebochoerus_depereti
+|              |  |                  |
+|              |  |                  |                         /------- Amphimeryx_murinus
+|          /---+  |                  |                         |
+|          |   |  |                  |                     /---+  /---- Lophiomeryx_chalanati
+|          |   |  |                  |                     |   \--+
+|          |   |  |                  |                 /---+      \---- Archeomeryx
+|          |   |  |                  |                 |   |
+|          |   |  |              /---+              /--+   \----------- Paroxacron_valdense
+|          |   |  |              |   |              |  |
+|          |   |  |              |   |          /---+  \--------------- Xiphodon_castrense
+|          |   |  |              |   |          |   |
+|          |   |  |              |   |      /---+   \------------------ Diplobune_minor
+|          |   |  |              |   |      |   |
+|          |   |  |              |   |   /--+   \---------------------- Dacrytherium_ovinum
+|          |   |  \--------------+   |   |  |
+|          |   |                 |   \---+  \-------------------------- Merycoidon
+|      /---+   |                 |       |
+|      |   |   |                 |       \----------------------------- Mixtotherium
+|      |   |   |                 |
+|      |   |   |                 |                             /------- Gobiohyus
+|      |   |   |                 |                             |
+|      |   |   |                 \-----------------------------+  /---- Amphiragha
+|      |   |   |                                               \--+
+|      |   |   |                                                  \---- Hallebune
+|   /--+   |   |
+|   |  |   |   |                                                  /---- Khirtaria
+|   |  |   |   \--------------------------------------------------+
+|   |  |   |                                                      \---- Indohyus
+|   |  |   |
+\---+  |   \----------------------------------------------------------- Entelodon
+    |  |
+    |  |                                                          /---- Gujaratia
+    |  \----------------------------------------------------------+
+    |                                                             \---- B_lysitensis
+    |
+    \------------------------------------------------------------------ Homacodon
+
+Consensus tree(s) written to treefile: ~/Documents/Imperial/Morphological Character
+Hierarchies/Data/Lihoreau et al, 2015/Paupcontree-L2015.tre

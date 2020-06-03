@@ -1,0 +1,433 @@
+#NEXUS
+
+[ File output by Morphobank v3.0 (http://www.morphobank.org); 2020-04-01 14.56.20 ]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX=26;
+	TAXLABELS
+		'Synodus'
+		'Gymnoscopelus'
+		'Ctenothrissa'
+		'Pycnosteroides'
+		'Aipichthys'
+		'Aipichthyoides'
+		'Omosomopsis'
+		'Sphenocephalus'
+		'Stichocentrus'
+		'Velifer'
+		'Lampris'
+		'Regalecus'
+		'Stylephorus'
+		'Polymixia'
+		'Aphredoderus'
+		'Percopsis'
+		'Bregmaceros'
+		'Merluccius'
+		'Halobatrachus'
+		'Brotula'
+		'Cyttus'
+		'Zeus'
+		'Hoplostethus'
+		'Sargocentron'
+		'Dicentrarchus'
+		'Lates'
+	;
+ENDBLOCK;
+
+
+
+BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=66;
+	FORMAT DATATYPE=STANDARD MISSING=? GAP=- SYMBOLS="012345";
+
+	CHARLABELS
+		 [1] 'Ascending process of the premaxilla'
+		 [2] 'Premaxilla postmaxillary process'
+		 [3] 'Posterior margin of the premaxilla postmaxillary process'
+		 [4] 'Anterior supramaxilla'
+		 [5] 'Posterior supramaxilla'
+		 [6] 'Supraorbital'
+		 [7] 'Antorbital'
+		 [8] 'Lateral ethmoid'
+		 [9] 'Mesethmoid'
+		 [10] 'Orbitosphenoid'
+		 [11] 'Basisphenoid'
+		 [12] 'Intercalar'
+		 [13] 'Epioccipital'
+		 [14] 'Frontal'
+		 [15] 'Frontal vault or cradle'
+		 [16] 'Spina occipitalis'
+		 [17] 'Cranio-hyomandibular articulation'
+		 [18] 'Metapterygoid'
+		 [19] 'Anterior palatine process'
+		 [20] 'Palatine teeth'
+		 [21] 'Posterior and anterior ceratohyals'
+		 [22] 'Articulation between the anterior ceratohyal and the ventral hypohyal'
+		 [23] 'Anterior branchiostegals'
+		 [24] 'Median fusion of neural spines'
+		 [25] 'Proximal insertion of Baudelot"s ligament'
+		 [26] 'Insertion of epineurals'
+		 [27] 'Epipleurals'
+		 [28] 'First vertebral centrum'
+		 [29] 'First neural spine'
+		 [30] 'Second vertebral centrum'
+		 [31] 'Number of ossified supraneurals'
+		 [32] 'Position of supraneurals'
+		 [33] 'Insertion of the first dorsal pterygiophore'
+		 [34] 'Distal end of the first dorsal pterygiophore'
+		 [35] 'Dorsal fin spines'
+		 [36] '"Chain-link" articulation of dorsal fin spines'
+		 [37] 'Spinous first dorsal fin'
+		 [38] 'Elongated and unbranched first soft ray of the dorsal fin'
+		 [39] 'Adipose fin'
+		 [40] 'Anal fin spines'
+		 [41] 'Soft rays of the unpaired fins'
+		 [42] 'Second ural vertebral centrum and upper hypurals'
+		 [43] 'Second ural vertebral centrum and first ural centrum'
+		 [44] 'Neural spine of the second preural vertebra'
+		 [45] 'First uroneural'
+		 [46] 'Number of epurals'
+		 [47] 'Y bone'
+		 [48] 'Parhypural'
+		 [49] 'Number of discrete hypurals'
+		 [50] 'Overlap of the caudal skeleton by the caudal fin rays'
+		 [51] 'Number of principal caudal fin rays'
+		 [52] 'Scapular foramen'
+		 [53] 'Postcleithra'
+		 [54] 'Insertion of the pectoral fin'
+		 [55] 'Number of autogenous pectoral radials'
+		 [56] 'Pectoral fin soft rays'
+		 [57] 'Anterior tip of the pelvic girdle'
+		 [58] 'Contact between pectoral and pelvic girdles'
+		 [59] 'Antero-median pelvic process'
+		 [60] 'External dorsal pelvic wing'
+		 [61] 'Internal wings of the pelvic bone'
+		 [62] 'Median processes of the pelvic bones'
+		 [63] 'Autogenous pelvic radials'
+		 [64] 'Number of soft rays of the pelvic fin'
+		 [65] 'Pelvic fin spine'
+		 [66] 'Base of the pelvic fin spine'
+	;
+
+	STATELABELS
+		1
+		'shorter than the alveolar process'
+		'equal to or longer than the alveolar process'
+		,
+		2
+		'absent'
+		'present'
+		,
+		3
+		'straight'
+		'notched'
+		,
+		4
+		'present'
+		'absent'
+		,
+		5
+		'present'
+		'absent'
+		,
+		6
+		'present'
+		'absent'
+		,
+		7
+		'present'
+		'absent'
+		,
+		8
+		'not in contact with the vomer'
+		'in direct contact with the vomer'
+		,
+		9
+		'anterior to the lateral ethmoid'
+		'median or posterior to the lateral ethmoid'
+		,
+		10
+		'present'
+		'absent'
+		,
+		11
+		'present'
+		'absent'
+		,
+		12
+		'small and not containing the foramen for cranial nerve IX'
+		'large and containing the foramen for cranial nerve IX'
+		,
+		13
+		'not firmly bound to the dorsal limb of the posttemporal'
+		'firmly bound to the dorsal limb of the posttemporal'
+		'epioccipital and posttemporal fused'
+		,
+		14
+		'not forming part of the sagittal crest'
+		'forming part of the sagittal crest'
+		,
+		15
+		'absent'
+		'present'
+		,
+		16
+		'absent'
+		'present'
+		,
+		17
+		'two-headed'
+		'single-headed'
+		,
+		18
+		'in contact (or close approximation) with the quadrate'
+		'small and not in contact with the quadrate'
+		,
+		19
+		'present, palatine articulates with the maxilla'
+		'absent, no palate-maxillary connexion'
+		'absent, no palatine-maxillary connexion'
+		,
+		20
+		'present'
+		'absent'
+		,
+		21
+		'separated with cartilage'
+		'sutured'
+		,
+		22
+		'straight'
+		'condylar'
+		,
+		23
+		'subequal in length to the posterior ones'
+		'smaller than the posterior ones'
+		,
+		24
+		'at least one paired neural spine'
+		'all neural spines fused medially, unpaired'
+		,
+		25
+		'on abdominal vertebrae'
+		'on basioccipital'
+		'on exoccipitals'
+		'split between the first abdominal vertebra and the exoccipitals'
+		,
+		26
+		'all on neural arches or spines'
+		'at least partly below neural arches'
+		'at least partly on ribs'
+		,
+		27
+		'present'
+		'absent'
+		,
+		28
+		'no facets'
+		'facets articulating with exoccipital condyles'
+		,
+		29
+		'separated from the neurocranium'
+		'closely associated or sutured with the neurocranium'
+		,
+		30
+		'subequal in length to the others'
+		'abbreviated in length'
+		,
+		31
+		'three or more'
+		'two'
+		'one'
+		'none'
+		,
+		32
+		'at least one posterior to the first neural spine'
+		'all anterior to the first neural spine'
+		,
+		33
+		'posterior to the neural spine 4'
+		'between the neural spines 2 and 4'
+		'between the neural spines 1 and 2'
+		'anterior to the first neural spine'
+		,
+		34
+		'oriented posteriorly'
+		'oriented anteriorly'
+		,
+		35
+		'absent'
+		'present'
+		,
+		36
+		'absent'
+		'present'
+		'no distal radials'
+		,
+		37
+		'continuous dorsal fin'
+		'absent'
+		'dorsal fin subdivised - or deeply notched - with an anterior part entirely spinous'
+		'present'
+		'dorsal fin subdivided with an anterior part composed of soft rays'
+		,
+		38
+		'absent'
+		'present'
+		,
+		39
+		'present'
+		'absent'
+		,
+		40
+		'absent'
+		'present'
+		,
+		41
+		'at least some branched distally'
+		'all unbranched'
+		,
+		42
+		'autogenous'
+		'fused'
+		,
+		43
+		'autogenous'
+		'fused'
+		,
+		44
+		'short and leaf-shaped'
+		'long and spine-like'
+		,
+		45
+		'autogenous'
+		'fused to the terminal centrum'
+		,
+		46
+		'three'
+		'two'
+		'one'
+		'none'
+		,
+		47
+		'absent'
+		'present'
+		,
+		48
+		'articulated or fused to the first preural centrum'
+		'truncated proximally by the loss of the haemal arch and separated from the first preural centrum'
+		,
+		49
+		'six'
+		'less than six'
+		,
+		50
+		'little to no overlap'
+		'extensive overlap or hypurostegy'
+		,
+		51
+		'19 or more'
+		'18'
+		'17 or less'
+		,
+		52
+		'in scapula'
+		'between scapula and coracoid'
+		,
+		53
+		'two or more separated bones'
+		'only one bone'
+		,
+		54
+		'vertical or oblique'
+		'horizontal'
+		,
+		55
+		'four'
+		'three'
+		,
+		56
+		'at least some branched distally'
+		'all unbranched'
+		,
+		57
+		'posterior to the distal postcleithrum'
+		'anterior to the distal postcleithrum'
+		,
+		58
+		'no contact, with pelvic girdle posterior to the pectoral girdle'
+		'contact at the level of the cleithrum'
+		'contact at the level of the coracoid'
+		'pelvic girdle anterior to the pectoral girdle'
+		,
+		59
+		'absent'
+		'present'
+		,
+		60
+		'shorter than the external ventral wing'
+		'equal in size to the external ventral wing'
+		,
+		61
+		'separated'
+		'joined medially'
+		,
+		62
+		'non-overlapping'
+		'overlapping medially'
+		,
+		63
+		'present'
+		'absent'
+		,
+		64
+		'six or more'
+		'five or less'
+		,
+		65
+		'absent'
+		'present'
+		,
+		66
+		'symmetrical'
+		'asymmetrical'
+		
+	;
+
+	MATRIX
+	'Synodus'		                 00-00000000000000000000000000000000-00000000010010000000000000000-
+	'Gymnoscopelus'		           00-10100010000000000000100000000000-00000110?00001000000000000000-
+	'Ctenothrissa'		            00-000000000?00010000001??0?0000100-0010000000000000000012?????00-
+	'Pycnosteroides'		          0??0011?000??00?10?0?001?10?0?10(2,3)01?0011000100000110000012?????01?
+	'Aipichthys'		              00-1011?0000100?1000?001?00?0?01201?0111000000000100000012???0?00-
+	'Aipichthyoides'		          00-0011?100?110?10???001??0?0?01201?0111000001001100000012?????00-
+	'Omosomopsis'		             0101011??01?100?10?0??11?10?0?0010100011000101101010000010?????00-
+	'Sphenocephalus'		          0111010?????100110?00001???10020(0,1)01?00010001010000100000100001?010
+	'Stichocentrus'		           01?0010?000?000?00?0?001????0?10201?00110000(0,1)000?000000011?????01?
+	'Velifer'		                 10-11111100011101011010130110011301?01110100000001001000120010000-
+	'Lampris'		                 10-11111100011101011010102110021300-01100100010011001110120010100-
+	'Regalecus'		               10-11111100-1-1010110101???1013-310-011-110--3001-2-1110120?10110-
+	'Stylephorus'		             10-1111?111-1-0111-10001???-113-010-0110110--3011-201101110???110-
+	'Polymixia'		               01000101000010010000001101010000001000110001000000100000100001000-
+	'Aphredoderus'		            00-11110011110010000100102110020001000110101010100101000100001000-
+	'Percopsis'		               00-11100011110010000100102110020001000010101010000101000000001000-
+	'Bregmaceros'		             011111110111100110?10001????113-(1,2)10-0110010111111021101011?0???00-
+	'Merluccius'		              0111111101111001100110010211113-100-00100101111110211000110?00?00-
+	'Halobatrachus'		           11011111-1101001000010011211103-101-10100101-10010201000111-001111
+	'Brotula'		                 0111011101001001000010011211013-100-00100101-1011020000013?---1111
+	'Cyttus'		                  1111111001002001110100010?1?112-2010101111111101102010011100101010
+	'Zeus'		                    1111111001102001110100012211113-2010101111111211102010011100101010
+	'Hoplostethus'		            0110010100001001000000011?1100101011001100000000000000001110110011
+	'Sargocentron'		            010001010000100100000001121100002011101101101000100000001110100011
+	'Dicentrarchus'		           010101110100100100001001121100001011101101100000102000001111101111
+	'Lates'		                   0101011101001001000010011??100001011101101100100102000001111101111
+	;
+ENDBLOCK;
+
+BEGIN NOTES;
+
+	[Attribute comments]
+ENDBLOCK;
+BEGIN ASSUMPTIONS;
+TYPESET * UNTITLED = unord: 1 - 66;
+ENDBLOCK;

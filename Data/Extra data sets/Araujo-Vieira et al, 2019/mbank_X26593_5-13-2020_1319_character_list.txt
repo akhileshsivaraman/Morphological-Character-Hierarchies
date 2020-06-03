@@ -1,0 +1,199 @@
+
+[ File output by Morphobank v3.0 (http://www.morphobank.org); 2020-05-13 13.19.28 ]
+
+Phenotypic characters (numbered in Nexus format)
+
+Array characters
+  1. Medial relation nasals [[]] Widely separated (0); Slightly separated (1); Juxtaposed to septum nasi (2).
+  2. Anterior angular process [[]] Absent (0); Present (1).
+  3. Relantionship between Mxlry. proc. of nasal and the post. wall and pl. antor. [[]] Betw post and planum antor (0); Surpasses the planum anto (1).
+  4. Relation between nasal and sphenotmoid [[]] Nonverlapping (0); Overlapping (1).
+  5. Exposure of the frontoparietal fontanelle [[]] Almost comple exposed (0); Narrow space (1).
+  6. Posterior portion of the internal margins of frontoparietals [[]] Roughly stright margins (0); Irregularly idented (1); Keyhole-like fenestra (2); Juxtaposed (3); Fused medially (4).
+  7. Tectum Synoticum [[]] Cartilaginous (0); Partially Ossified (1); Entirely Ossified (2).
+  8. Medial projection of the post margin of the exocciptalis [[]] Absent (0); Present (1).
+  9. Lamina perpendicularis [[]] Poorly developed (0); Well-developed (1).
+  10. Degree of anterior ossification of the Sphenothmoid [[]] Not incorporating (0); Only the base (1); Incorporate at least the half of the septum nasi (2).
+  11. Nature of the crista supraorbitalis [[]] Separated (0); Continuous (1).
+  12. Relative length of the crista supraorbitalis [[]] Extremely short (0); Short 1/3 (1); Moderately  1/2 (2); Elongate 2/3 (3).
+  13. Maximum height of the par facialis of the maxilla [[]] Reduced 1-1.2 x (0); Develop. 2x (1); Well develop. 3x (2).
+  14. Posterior extension of maxilla [[]] Reduced 1/2 of X (0); Mod. developed  2/3 of X (1); Develop.  5/6 of X (2); Surpasses  5/6 of  X (3).
+  15. Maxillary and Premaxillary teeth [[]] Absent (0); Present (1).
+  16. Structure of the maxillary and premaxillary teeth [[]] Pedicellate (0); Co-occurence of Pedicellate and non pedicellate (1).
+  17. Percentage of the maxilla edentate [[]] Maxilla dentate 95% (0); Maxilla edentate 10-25% (1); Maxilla edentate 35-40% (2); Maxilla edentate 55-80% (3); Maxilla edentate in 95% (4).
+  18. Relation between m,axilla and premaxilla [[]] Not overlapping (0); Overlaps (1).
+  19. Width of the base of alary process of the premaxilla [[]] Narrow 1/3 (0); Intermediate 1/2 (1); Wider 2/3 (2).
+  20. Orientation of the premaxilla [[]] Directed anteriorly (0); Directed dorsally (1).
+  21. Lateral orientation of the alary process of the premaxilla [[]] Directed laterally (0); Directed dorsally (1); Directed medially (2).
+  22. Portion of the pars dentalis of the premaxilla with teeth [[]] Teeth separated (0); Teeth present in all par dentalis (1).
+  23. Degree od anterior extension of the quadratojugal [[]] Extremely short (0); Short  1/ 6 of X (1); Elongate 1/5-1/3 of X (2).
+  24. Quadratojugal-squamosal relationship [[]] Separate (0); Articulate (1).
+  25. Zygomatic ramus of the squamosal [[]] Absent (0); Present (1).
+  26. Relative length of the zygomatic ramus of the squamosal [[]] Extremely short 1-1.5 x (0); Short  2.2-2.4 x (1); Mod. elongate 3.2-3.6 x (2); Elongate 4.8-5.8 x (3).
+  27. Otic ramus of the squamosal [[]] Absent (0); Present (1).
+  28. Shape of the otic ramus of the squamosal in lateral view [[]] SubCuneiform (0); Square (1); Rectangular (2).
+  29. Relation between otic ramus and ossified portion of the crista parotica [[]] Broad gap (0); Narrow gap/juxtaposed/Overlapping (1).
+  30. Orientation of mediodistal portion of the medial ramus of the pterygoid [[]] Directed posteromedially (0); Directed posterolaterally (1).
+  31. Length of the posterior ramus of the pterygoid [[]] Extremely short (0); Short 1/2 (1); Mod. long 3/4 (2); Elongate. Reaches the distal portion (3).
+  32. Denigerous process of the vomer [[]] Absent (0); Present (1).
+  33. Development of the dentigerous process of the vomer [[]] Extremely reduced (0); Differentiated > 3 teeth (1).
+  34. Relationship between dentigerous process and prechoanal/postchoanal processes [[]] Between pre/postchoanal (0); Medially to postchoanal (1); Posteriorly to postchoanal (2).
+  35. Relationship between dentigerous process and m.body of vomer [[]] Separated of the vomer (0); Contiguous by constriction (1); Continuous to vomer (2).
+  36. Medial contact between dentigerous process [[]] Not in contact (0); In contact (1).
+  37. Vomerine teeth [[]] Absent (0); Present (1).
+  38. Structure of the vomerine teeth [[]] Non pedicellate (0); Pedicellate (1).
+  39. Medial portion of the anterior process of vomers that covers the solum nasi [[]] Absent (0); Present (1).
+  40. Arrangement of the vomerine teeth on the dentigerous process [[]] Irregular (0); Arranged in a contiuous row (1).
+  41. Relative length of the palatines [[]] Ossified slivers (0); Overlap 3/4 of the planum antorbitale (1); Overlap the planum antorbitale (2); Reach the lateral portion of the sphenethmoid (3); Reach the neurocranial portion (4).
+  42. Relative length of the cultriform process [[]] At the level of orbitonasal foramen (0); Posterior to the orbitonasal foramen (1).
+  43. Shape of the anterior portion of the cultriform process [[]] Triangular (0); Rounded (1); Identated (2); Truncated (3).
+  44. Relative length of the posteromedial process of the parasphenoid [[]] Extremely reduced (0); Shorter than 1/2 (1); Reaching the 1/2 (2).
+  45. Relative length of the alary process of the parasphenoid [[]] Ext. short .Do not reach the condyloid fossa (0); Short. At level of condyloid fossa (1); Elongate. Surpasses the condyloid fossa (2).
+  46. Posterolateral process of the crista parotica [[]] Absent (0); Present (1).
+  47. Shape of the tympanic annulus [[]] Shallow (0); Deep and expanded internally (1).
+  48. Shape of the pars externa plectri [[]] Not expanded Cylindrical (0); Mediodistal expanded (1); Completely expanded (2).
+  49. Relation between pars externa plectri and tympanic annulus [[]] Entering dorsal (0); Entering posterior (1).
+  50. Orientation of the pars media plectri with respect to the transversal skull axis [[]] Directed ventrally (0); Directed dorsally (1).
+  51. Expansion of distal protion of the pars media plectri [[]] Expanded 2x (0); Slightly expanded 1.2-1.3 x (1); Unexpanded (2).
+  52. Medial end of the pars media plectri [[]] Reduced (0); Dilated (1).
+  53. Relationship between the pars interna plectri and operculum [[]] Occupies the dorsal portion (0); Occupies a small space (1).
+  54. Mineralization of the pars interna plectri [[]] Minealized (0); Partially mineralized (1); Not mineralized (2).
+  55. Coronoid process [[]] Absent (0); Small projection (1); Prominent projection (2).
+  56. Relationship between angulosplenail and dentary [[]] In contact or adjacent (0); Not in contact (1).
+  57. Nature of the connection between superior prenasal and alary cartilages [[]] Separated by unchondrified tissue (0); Synchondroticaly fused (1).
+  58. Shape of the alary cartilage [[]] Rectangular (0); Square (1).
+  59. Contact point of the inferior prenasal cartilage on the alary process of the maxilla [[]] Located on the basal portion (0); Located on the middle (1).
+  60. Orientation of the portion of the inferior prenasal cartilage that articulate with the soolum nasi [[]] Oriented mediolaterally (0); Oriented laterally (1).
+  61. Shape of the median prenasal process of the septum nasi [[]] Subcylindrical (0); Subtriangular (1); Triangular (2); Rounded (3).
+  62. Relative length of the medial prenasal process of the septum nasi [[]] At the level of the alay process (0); Surpassing the alary process (1).
+  63. Cartilaginous lamina that extends from cartilaginous branch to inferior margin of the oblique cartilage [[]] Absent (0); Present (1).
+  64. Connection between lamina nariochoanalis and postnasal wall [[]] Connected to the postnasal wall (0); Not connected to the postnasal wall (1).
+  65. Anterior process of the hyale [[]] Absent (0); Present (1).
+  66. Shape of anterior process of the hyale [[]] Slender (0); Dendriform (1); Laminar (2).
+  67. Shape of anterolateral process [[]] Not distally expanded (0); Expanded distally (1); Laminar (2).
+  68. Relative length of the posterolateral process in males [[]] Short 6-6.5 x (0); Mode. long 3-3.5 x (1); Elongate 2-2.5 x (2).
+  69. Shape of the hyoglossal sinus [[]] U-shaped (0); V-shaped (1); Rectangular (2); Round (3).
+  70. Hyale [[]] Straight (0); Curved medially (1).
+  71. Maximum Height fo the hyoid plate [[]] 1/6 of the minimum width (0); 1/3-2/3 of the minimum width (1); 1-1.3x the minimum width (2).
+  72. Point of attachment of hyale to the skull [[]] To the basal process (0); To the limit between basal process and otic capsule (1); To the otic capsule (2).
+  73. Esophageal process in males [[]] Absent (0); Present (1).
+  74. Orientation of the esophageal process [[]] Directed ventrally (0); Directed dorsally (1); Directed posteriorly (2); Directed obliquely (3).
+  75. Shape of the cardiac process [[]] Subcylindrical. Widht similar (0); Laminar. Medial projection (1); Laminar. Width similar (2); Laminar. Wider than adjacent parts (3); U-shaped (4).
+  76. Internal butresses od arytenoid [[]] Absent (0); Present (1).
+  77. Number of internal burtresses od the arytenoids [[]] One, medial (0); Three, medial and distal thisrds (1).
+  78. Rod of cartilage supporting each end of the vocal chord [[]] Absent (0); Present (1).
+  79. Fibrous masses [[]] Not chondrified (0); Partially mineralized (1); Chondrified (2).
+  80. Shape of the fibrous masses [[]] Subtriangular (0); Elongate (1).
+  81. Carilaginous process of arytenoid supporting the frenulum [[]] Absent (0); Present (1).
+  82. Length of coracoids [[]] Short  0.10-0.14x (0); Elongate at least  0.17x (1).
+  83. Length of Clavicles [[]] Short  0.08-0.10x (0); Elongate at least  0.15x (1).
+  84. Length of the scapulas [[]] Short 1.15-1.4 x (0); Elongate 1.75-2.20x (1).
+  85. Anterior margins of the scapula [[]] Concave (0); Oblique (1).
+  86. Anterior process of the suprascapula [[]] Absent (0); Present (1).
+  87. Relative expansion of the pars acromialis [[]] 2x of the pars glenoidalis (0); Equal or slightly more expand. than pars glenoidalis (1).
+  88. Shape of the distal portion of the sternum [[]] Bilobed (0); Simple (1).
+  89. Distal portion of the omeosternum [[]] Not expanded (0); Expanded (1).
+  90. Relative length of the base of omeosternum [[]] 1.0-2.0x (0); at least 2.6x (1).
+  91. Orientation of the transverse process of presacral vertebra II [[]] Inclined anteriorly (0); Perpendicular (1).
+  92. Relative length of the transverse process of presacral vertebra IV [[]] Short (0); Moderately long (1); Elongate (2).
+  93. Orientation of the transverse process of presacral vertebra VI [[]] Inclined posteriorly (0); Perpendicluar (1).
+  94. Orientation of the transverse process od presacral VII [[]] Inclined anteriorly (0); Perpendicular (1); Inclined posteriorly (2).
+  95. Contact between presacral II and III [[]] Not in contact (0); Medial contact (1).
+  96. Expansion of the sacral diapophysis [[]] Unexpanded (0); Mode. expand. 1.5-3.0 x (1); Strongly expand. 4.5x (2).
+  97. Shape of the iliac arch [[]] U-shaped (0); V-shaped (1).
+  98. Number of distal prepollical elements [[]] One (0); Two (1).
+  99. Shape of the first distal prepollical element [[]] Bladelike (0); Cylindrical (1); Subcylindrical (2).
+  100. Longitudinal axis of the terminal phalange [[]] Curved (0); Straight (1).
+  101. Shape of the intercalary elemen between ultiamate and penultimate phalanges [[]] Elongate and cylindrical (0); Concave disc (1).
+  102. Mineralization of intercalary elements between ultimate and penultimate phalanges [[]] Not mineralized (0); Partially mineralized (1); Completely mineralized (2).
+  103. Preaxial dilatation of the mecarpal IV [[]] Ausente (0); Present (1).
+  104. Contact between proximal portions of the metatarsi IV and V [[]] Free (0); In close contact (1).
+  105. Number of distal elements to the prehallux [[]] One (0); Two (1); Three (2); Four (3); Five (4).
+  106. Preaxial dilatation on metatarsal I [[]] Absent (0); Present (1).
+  107. Vocal sac structure [[]] Median, subgular (0); Paired lateral (1).
+  108. Orientation of nostrils [[]] Directed laterally (0); Directed laterodorsally (1); Directed dorsally (2).
+  109. Black lateral line [[]] Absent (0); Incomplete (1); Complete (2).
+  110. White lateral line [[]] Absent (0); Present (1).
+  111. White canthal line [[]] Absent (0); Present (1).
+  112. White dorsolateral line [[]] Absent (0); Present (1).
+  113. Longitudinal white line under eye [[]] Absent (0); Present (1).
+  114. Tympanic membrane [[]] Absent (0); Present (1).
+  115. Nature of nuptial pad on finger [[]] Without epidermal projections (0); With epidermal projections (1).
+  116. Coloration of nuptial pad with epidermal projections on Finger II [[]] Ligth (0); Dark (1).
+  117. Relative size of the epidermal projections of the nuptial pads [[]] 10-12 projections by  0.01 mm² (0); 5-7 projections by  0.01 mm² (1).
+  118. Subcloacal ornamentation [[]] Not ornamentation (0); Small tubercles (1); Small, conical tubercles (2); Swelled tubercles (3); Weak dermal fold (4); Dermal flap/rounded (5); Dermal flap/triangular (6).
+  119. Ornamentation on the ventral surface [[]] Absent (0); Small, rounded tubercles (1); Small, conical tubercles (2); Two lateral, round, and small dermal pads (3); Two lateral, thick and flat dermal pads (4).
+  120. Cloacal sheath [[]] Absent (0); Present (1).
+  121. Dermal ornamentation on forearm [[]] Absent (0); Row of rounded tubercles (1); Row of conical tubercles (2); Crenulated fold (3); Smooth fold (4).
+  122. Dermal ornamentation on elbow [[]] Absent (0); Present (1).
+  123. Internal dermal fold on tarsus [[]] Absent (0); Row of roundedtubercles (1); Crenulated fold (2); Smooth fold (3); Keel (4).
+  124. External dermal ornamentation on tarsus [[]] Absent (0); Row of rounded tubercles (1); Row of conical tubercles (2); Crenulated fold (3); Smooth fold (4).
+  125. Dermal ornamentation on heel [[]] Absent (0); Rounded tubercles (1); Conical tubercles (2); Crenulated fold (3); Round calcar appendage (4); Triangular calcar appendage (5).
+  126. Supratympanic fold [[]] Weak (0); Strong (1).
+  127. Shape of the adhesive disc on hands [[]] Rounded (0); Truncated (1); Oval/elliptical (2).
+  128. Degree of the preaxial webbing of Finger IV [[]] Absent (0); Fringe (1); Antepenultimate (2); Midlenght (3); Penultimate (4).
+  129. Degree of the postaxial webbing of Finger IV [[]] Absent (0); Fringe (1); Midlengtt basal phalange (2); Penultimate (3); Midlength 2 phalange (4); Adhesive disc (5).
+  130. Degree of webbing between Toes I and II [[]] Absent (0); Subarticular tubercle (1); First Phalange (2); Adhesive Disc (3).
+  131. Degree of the preaxial webbing of Toe IV [[]] Fringe (0); Antepenultiamte (1); Penultimate (2); Midlength basal phalange (3); Adhesive disc (4).
+  132. Degree of the postaxial webbing of Toe IV [[]] Fringe (0); Antepenultimate (1); Midlength basal phalange (2); Penultimate (3); Midlength s phalange (4); Adhesive disc (5).
+  133. Position of the nostrils with respect to the main body axis [[]] EllipticalAcute angle (0); EllipticalParallel (1).
+  134. Fleshy flanges on internal margins of the nostrils [[]] Absent (0); Present (1).
+  135. Position of the oral disc [[]] Ventral (0); Subterminal (1); Terminal (2).
+  136. Submarginal papillae of the oral disc [[]] Absent (0); Present (1).
+  137. Marginal Papillae of the oral disc [[]] Small, homogeneous (0); Few, enlarged, 2x (1).
+  138. Ventral gap in the row of marginal papillae of the oral disc [[]] Absent (0); Present (1).
+  139. Anterior teeth rows [[]] Absent (0); Present (1).
+  140. Number of the anterior teeth rows [[]] One (0); Two (1).
+  141. Posterior teeth rows [[]] Absent (0); Present (1).
+  142. Number of the posterior teeth rows [[]] One (0); Two (1); Three (2); Four (3).
+  143. Gap in the first posterior teeth rows [[]] Absent (0); Present (1).
+  144. Relative length of the spiracle [[]] Short (0); Medium (1); Large (2).
+  145. Dark pigmentation on ventral surface of proctodeal tube [[]] Absent (0); Present (1).
+  146. Direction of the opening of the vent tube [[]] Medial (0); Dextral (1).
+  147. Apical supplementary element of the m. intermandibularis [[]] Absent (0); Present (1).
+  148. Relationship between  m. Intermandibularis and m.submentalis [[]] Overlapps he posterior margin (0); Overlaps the posterolateral margin (1); Juxtaposes the posterior margin medially (2); Overlaps the posterior margin medially (3).
+  149. Medial raphe of the m. intermandibularis [[]] Absent (0); Present (1).
+  150. Medial aponeurosis of the m. intermandibularis [[]] Absent (0); Present (1).
+  151. Medial portion of the m. Interhyoideus [[]] Araphic (0); Medial raphe (1).
+  152. Relative degree of anterior development of the m. Interhyoideus [[]] Poorly developed 1/5 (0); Developed 1/3 (1); Well-developed 1/2 (2).
+  153. Posterior extension of the fold of the m. interhyoideus fold [[]] Surpasses slightly the mandible (0); Reaches to 1/3-1/2 of the m. deltoideus (1); Reaches the posterior portion of the m.deltoideus (2); Reaches the anterior margin of the m. pectoralis (3); Reaches the posterior margin of the m. pectoralis (4); Surpasses the m. pectoralis (5).
+  154. Origin of the m. genohyoideus lateralis [[]] From mandible by tendon (0); From mandible by tissue conective and fibers (1).
+  155. Number of slips of the m. genohyoideus lateralis [[]] One, external part (0); Two, external and internal parts (1).
+  156. Insertion of the internal part of the m. genohyoideus lateralis [[]] Posteromedial process and hyoid plate (0); Hyoid plate (1).
+  157. M. petrohyoideus anterior [[]] Inserted on the lateral margin of the hyoid plate (0); With a additional layer of fibers on the hyoid plate (1).
+  158. Disposition of the fibers of the m. petrohyoideus anterior [[]] Separated in bundles (0); Continuous (1).
+  159. Insertion of the branch I  of the m. petrohyoideus posterior [[]] On the base of the posteromedial process (0); Aprox on the half of the posteromedial process (1).
+  160. Number of insertion of the branch III  of the m. petrohyoideus posterior [[]] One, posteromedial process (0); Two, posteromedial process and cricoid (1).
+  161. Insertion of the m. sternohyoideus [[]] Continuous (0); Discontinuous (1).
+  162. Pars dorsalis of the m. sternohyoideus [[]] Absent (0); Present (1).
+  163. Insertions of pars dorsalis of the m. sternohyoideus [[]] Hyoid plate (0); Hyoid plate and  thyroide membrane (1); Posteromedial process (2); Thyroide menbrane (3).
+  164. Relationship between the main body of the m. hyoglossus and the posteromedial process of the hyoid. [[]] Subterminal (0); Terminal (1).
+  165. Origin of medial segment of the m. hioglossus [[]] Hyoid plate (0); Hyale (1); Posteromedial process (2).
+  166. Inflected fibers  of the m. genioglossus [[]] Absent (0); Present (1).
+  167. M. lumbricalis brevis digiti IV, lateral slip (LBBIV lateral) [[]] Absent (0); Present (1).
+  168. Origin of the m. lumbricalis brevis digiti V, lateral slip (LBBV lateral) [[]] DC 3-4-5 (0); Aponeurosis (palmaris profundus) (1).
+  169. Origin of the m. flexor teres digiti V (FT V). [[]] Metacarpal IV and V (0); Metacarpal V (1).
+  170. Burtons ligament [[]] Absent (0); Present (1).
+  171. Insertion of the medial branch of the extensor digitorum comunis longus (EDCL) on the basal phalange [[]] Absent (0); Present (1).
+  172. Insertion of the postaxial branch of the extensos digitorum comunis longus (EDCL) on fascia [[]] Absent (0); Present (1).
+  173. EBD 2 medial slip [[]] Absent (0); Present (1).
+  174. EBP 2: origin from DC 2 [[]] Absent (0); Present (1).
+  175. EBD 4 medial slip [[]] Absent (0); Present (1).
+  176. EBP 5 medial: accessory slip form M4 [[]] Absent (0); Present (1).
+  177. M. flexor teres hallucis [[]] Absent (0); Present (1).
+  178. FM 2: origin from DT2-3 (or DT3) [[]] Absent (0); Present (1).
+  179. FM 4 and TM 4: distal end of FM IV dorsal to TM 4 [[]] Absent (0); Present (1).
+  180. FM 4 and TM 4: distal end of FM IV ventral to TM 4 [[]] Absent (0); Present (1).
+  181. LB 5 medial: additional insertion onto metatarsus 5 [[]] Absent (0); Present (1).
+  182. FDB: structure of the tendon of insertion [[]] Undivided (0); Divided (1).
+  183. Origin of TVP from DT2-3 [[]] Absent (0); Present (1).
+  184. EC: insertion on digiti 2 [[]] Absent (0); Present (1).
+  185. ESH: insertion lateral fibers on medial region of basal phalanx 2 via tendon [[]] Absent (0); Present (1).
+  186. EBS 3: insertion on M3 [[]] Absent (0); Present (1).
+  187. EBD II lateral [[]] Absent (0); Present (1).
+  188. EBD 5 lateral [[]] Absent (0); Present (1).
+  189. EBD 5 lateral: lenght of fibers [[]] Fibers reach the distal margin of the first phalange (0); Fibers reach the distal margin of the phalange 2 (1).
+  190. Origin of the m. pectoralis portio abdominalis [[]] Fibers originate at midbody (0); Fibers originate on pelvis tendon not evident (1); Fibers originate on pelvis tendon evident (2).
+  191. White parietal peritoneum [[]] Absent (0); Present (1).
+  192. Oviposition site [[]] Leaves (0); Phytotelmaata (1); Submerged (2).
+  193. Number of Chromosomes [[]] 22 (0); 24 (1); 26 (2); 30 (3).

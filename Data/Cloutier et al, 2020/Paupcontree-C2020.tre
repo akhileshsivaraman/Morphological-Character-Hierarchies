@@ -1,0 +1,39 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Wed May 20 15:32:30 2020]
+[!
+>Consensus of 96 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 204 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        8 characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 196
+>    Gaps are treated as "missing"
+>    Multistate taxa interpreted as uncertainty
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 75
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 10
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>    No more than 10000 trees of score (length) greater than or equal to 1 will be saved in each replicate
+>  Initial 'Maxtrees' setting = 200000
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 18067328
+>  Score of best tree(s) found = 439
+>  Number of trees retained = 96
+>  Time used = 3.60 sec (CPU time = 3.58 sec)
+]
+	tree Strict = [&U] (Youngolepis,Diabolepis,((Powichthys,(Porolepis,Glyptolepis)),(Tungsenia,Kenichthys,(((Gooloogongia,Sauripterus,Barameda,Screbinodus,(Rhizodus,Strepsodus)),Hongyu),(((Gyroptychius,Osteolepis),(Gogonasus,Medoevia,((Cladarosymblema,Megalichthys,Ectosteorhachis),(Beelarongia,(Canowindra,Koharalepis))))),Marsdenichthys,(Spodichthys,(Tristichopterus,(Eusthenopteron,(Jarvikina,(((Platycephalichthys,(Mandageria,Eusthenodon)),Cabonnichthys),((Bruehnopteron,(Panderichthys,(Elpistostege,(Tiktaalik,(Ventastega,(Acanthostega,(Ichthyostega,Tulerpeton))))))),Tinirau)))))))))));
+end;

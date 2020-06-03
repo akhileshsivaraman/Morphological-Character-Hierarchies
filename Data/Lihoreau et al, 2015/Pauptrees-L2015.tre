@@ -1,0 +1,93 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Mon May 25 18:41:05 2020]
+[!
+>Data file = L2015.nex
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 176 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        1 character is parsimony-uninformative
+>        Number of parsimony-informative characters = 175
+>    Gaps are treated as "missing"
+>    Multistate taxa interpreted as uncertainty
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 100
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 50
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 76947517
+>  Score of best tree(s) found = 991
+>  Number of trees retained = 2
+>  Time used = 51.69 sec (CPU time = 42.36 sec)
+]
+	Translate
+		1 Dichobune_leporina,
+		2 Cebochoerus_campichii,
+		3 Cebochoerus_depereti,
+		4 Siamotherium_krabiense,
+		5 Anthracokeryx_tenuis,
+		6 Anthracokeryx_thailandicus,
+		7 Microbunodon_minimum,
+		8 H_occidentalis,
+		9 Anthracotherium_chaimanei,
+		10 Anthracotherium_magnum,
+		11 Myaingtherium_kenyapotamoides,
+		12 Bothriogenys_orientalis,
+		13 Bothriogenys_fraasi,
+		14 Bothriogenys_gorringei,
+		15 Bothriogenys_andrewsi,
+		16 Brachyodus_aequatorialis,
+		17 Brachyodus_onoideus,
+		18 Brachyodus_depereti,
+		19 Bothriodon_velaunus,
+		20 Aepinacodon,
+		21 Elomeryx_crispus,
+		22 Elomeryx_borbonicus,
+		23 Afromeryx_zelteni,
+		24 Sivameryx_paleindicus,
+		25 Merycopotamus_nanus,
+		26 Merycopotamus_dissimilis,
+		27 Libycosaurus_anisae,
+		28 Libycosaurus_bahri,
+		29 Lokone,
+		30 Morotochoerus_ugandanensis,
+		31 Kenyapotamus_coryndonae,
+		32 Archaeopotamus_harvardi,
+		33 Hexaprotodon_garyam,
+		34 Palaeochoerus,
+		35 Kenyasus,
+		36 Perchoerus,
+		37 Amphimeryx_murinus,
+		38 Khirtaria,
+		39 Gobiohyus,
+		40 Mixtotherium,
+		41 Lophiomeryx_chalanati,
+		42 Homacodon,
+		43 Xiphodon_castrense,
+		44 Diplobune_minor,
+		45 Gujaratia,
+		46 B_lysitensis,
+		47 Dacrytherium_ovinum,
+		48 Paroxacron_valdense,
+		49 Entelodon,
+		50 Indohyus,
+		51 Merycoidon,
+		52 Archeomeryx,
+		53 Amphiragha,
+		54 Hallebune
+		;
+tree 'PAUP_1' = [&U] (1,((((((2,((34,36),35)),(4,((5,((6,7),((12,(29,(30,(31,(32,33))))),(((((13,(15,(16,(17,18)))),14),(19,20)),(21,22)),(23,(24,(25,(26,(27,28))))))))),((8,(9,10)),11)))),((3,(((((((37,(41,52)),48),43),44),47),51),40)),(39,(53,54)))),(38,50)),49),(45,46)),42);
+tree 'PAUP_2' = [&U] (1,((((((2,((34,36),35)),(4,((5,((6,7),((12,(29,(30,(31,(32,33))))),(((((13,(15,((16,17),18))),14),(19,20)),(21,22)),(23,(24,(25,(26,(27,28))))))))),((8,(9,10)),11)))),((3,(((((((37,(41,52)),48),43),44),47),51),40)),(39,(53,54)))),(38,50)),49),(45,46)),42);
+End;

@@ -1,0 +1,11 @@
+branchswap=TBR
+gap=Inapp
+ratchet=yes
+nreps=50
+hold=10
+heuristic
+nreps=75
+heuristic
+savetrees
+save
+Morphy-D2016.tre

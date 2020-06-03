@@ -1,0 +1,12 @@
+branchwap=tbr
+gap=inapp
+addseq=randon
+addseq=raonom
+addseq=random
+nreps=50
+hold=10
+heur
+nreps=75
+heur
+save
+Morphytrees-R2014.tre

@@ -1,0 +1,13 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Mon May 11 06:39:32 2020]
+[!
+>Consensus of 522 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Tree(s) input to PAUP* as user-defined tree(s)
+>
+>522 trees read from TREES block; time used = 5.00 sec (CPU time = 0.04 sec)
+]
+	tree Strict = [&U] (Bathybates_fasciatus,Bathybates_graueri,(Bathybates_minor,((Hemibates_stenosoma,(Benthochromis_tricoti,Boulengerochromis_microlepis,(Tylochromis_polylepis,Tylochromis_jentinki,Tylochromis_lateralis,Tylochromis_labrodon,Tylochromis_variabilis),Greenwoodochromis_christyi,Cyphotilapia_frontosa,Cyphotilapia_sp.,Ctenochromis_benthicola,((Tanganicodus_irsacae,(Eretmodus_cyanostictus,Spathodus_marlieri)),(Neolamprologus_tetracanthus,Telmatochromis_temporalis,Variabilichromis_moorii,(Altolamprologus_compressiceps,Neolamprologus_fasciatus),Lepidiolamprologus_elongatus,Lamprologus_lemairii,Lepidiolamprologus_attenuatus,(Chalinochromis_brichardi,Julidochromis_ornatus))),Lobochilotes_labiatus,Astatoreochromis_straeleni,Astatotilapia_burtoni,(Oreochromis_karomo,Oreochromis_niloticus_eduardianus,Oreochromis_tanganicae,Tilapia_rendalli),Simochromis_diagramma,Tropheus_moorii,Limnotilapia_dardennii,Petrochromis_fasciolatus,Interochromis_loocki,Pseudosimochromis_curvifrons,Ctenochromis_horei,Gnathochromis_pfefferi,Tangachromis_dhanisi,Gnathochromis_permaxillaris,Triglachromis_otostigma,Limnochromis_auritus,Reganochromis_calliurus,(Haplotaxodon_microlepis,(Xenochromis_hecqui,(Perissodus_microlepis,Plecodus_paradoxus))),Baileychromis_centropomoides,((Paracyprichromis_brieni,(Cyprichromis_microlepidotus,Cyprichromis_sp.)),(Ophthalmotilapia_nasuta,Cyathopharynx_furcifer,Aulonocranus_dewindti,Cardiopharynx_schoutedeni,Lestradea_perspicax,Ectodus_descampsi,Callochromis_macrops,Cunningtonia_longiventralis,Xenotilapia_leptura,Grammatotria_lemairii,Xenotilapia_melanogenys,Xenotilapia_boulengeri,Xenotilapia_tenuidentata)))),(Trematocara_macrostoma,(Trematocara_marginatum,Trematocara_nigrifrons)))));
+end;

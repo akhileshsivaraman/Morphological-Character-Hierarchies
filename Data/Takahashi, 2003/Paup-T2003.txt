@@ -1,0 +1,409 @@
+
+P A U P *
+Version 4.0a (build 166) for macOS (built on Sep  1 2019 at 23:02:50)
+Wed May 13 16:24:58 2020
+
+
+paup> execute Takahashi2003.nex
+
+Processing of file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Takahashi,
+2003/Takahashi2003.nex" begins...
+
+Are you sure you want to reset the active datafile? (Y/n)y
+
+Data matrix has 72 taxa, 40 characters
+Valid character-state symbols: 0123456
+Missing data identified by '?'
+Gaps identified by '-'
+
+Character types changed:
+  Of 40 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+
+*** Skipping "NOTES" block
+
+*** Skipping "MESQUITECHARMODELS" block
+
+*** Skipping "MESQUITE" block
+
+Processing of input file "Takahashi2003.nex" completed.
+
+paup> tstatus
+
+Taxon-status summary:
+   Original data matrix contains 72 taxa
+   No taxa have been deleted
+   No taxa have been assigned to the outgroup: outgroup defaults to first taxon (Bathybates fasciatus)
+
+paup> cstatus
+
+Character-status summary:
+  Current optimality criterion = parsimony
+  No characters are excluded
+  Of 40 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+    All characters are parsimony-informative
+
+paup> pset collapse=0
+
+Error(#141): Invalid value specified for 'collapse': "0".
+                 Use "collapse=?" to see a list of valid values for each option.
+
+paup> pset collapse=no
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nreps=50
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 40 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        All characters are parsimony-informative
+    Gaps are treated as "missing"
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 50
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  'Maxtrees' setting = 5000 (will not be increased)
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+  Random-addition-sequence replicate 1:
+    0 trees in memory at start of replicate
+
+    Elapsed AddSeq   Taxa      Rearr.  -- Number of trees --    ------ Best trees -----
+       time    rep  added      tried      saved   to swap       this rep        overall
+  -------------------------------------------------------------------------------------
+    0:01:00      1      -  459539859       5000       396            140            140
+
+    5000 trees found (score=140)
+
+Search terminated prematurely (no room to store new trees)
+   5000 trees retained
+  Time used = 00:01:05 (CPU time = 00:01:05.0)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1      5000         1      5000             140            1       1
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nreps=75
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 40 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        All characters are parsimony-informative
+    Gaps are treated as "missing"
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 75
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  'Maxtrees' setting = 5000 (will not be increased)
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+  Random-addition-sequence replicate 1:
+    0 trees in memory at start of replicate
+    5000 trees found (score=139)
+
+Search terminated prematurely (no room to store new trees)
+   5000 trees retained
+  Time used = 57.64 sec (CPU time = 57.34 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1      5000         1      5000             139            1       1
+
+paup> set maxtrees=10000
+
+Maxtrees reset to 10000
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nreps=75
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 40 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        All characters are parsimony-informative
+    Gaps are treated as "missing"
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 75
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  'Maxtrees' setting = 10000 (will not be increased)
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+  Random-addition-sequence replicate 1:
+    0 trees in memory at start of replicate
+
+    Elapsed AddSeq   Taxa      Rearr.  -- Number of trees --    ------ Best trees -----
+       time    rep  added      tried      saved   to swap       this rep        overall
+  -------------------------------------------------------------------------------------
+    0:01:00      1      -  457683917      10000      5460            141            141
+    0:02:00      1      -  927645433      10000       670            141            141
+
+    10000 trees found (score=141)
+
+    0:02:08      1      -  992043647      10000         0            141            141
+
+Search terminated prematurely (no room to store new trees)
+   10000 trees retained
+  Time used = 00:02:08 (CPU time = 00:02:07.3)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1     10000         1     10000             141            1       1
+
+paup> hsearch addseq=random hold=20 reconlimit=0 nreps=100
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 40 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        All characters are parsimony-informative
+    Gaps are treated as "missing"
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 100
+    Starting seed = generated automatically
+    Number of trees held at each step = 20
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  'Maxtrees' setting = 10000 (will not be increased)
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+  Random-addition-sequence replicate 1:
+    0 trees in memory at start of replicate
+
+    Elapsed AddSeq   Taxa      Rearr.  -- Number of trees --    ------ Best trees -----
+       time    rep  added      tried      saved   to swap       this rep        overall
+  -------------------------------------------------------------------------------------
+    0:01:00      1      -  418529633      10000      5984            140            140
+    0:02:00      1      -  800007728      10000      2204            140            140
+
+    10000 trees found (score=140)
+
+    0:02:32      1      - 1022914461      10000         0            140            140
+
+Search terminated prematurely (no room to store new trees)
+   10000 trees retained
+  Time used = 00:02:31 (CPU time = 00:02:29.1)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1     10000         1     10000             140            1       1
+
+paup> hsearch addseq=random hold=20 reconlimit=0 nreps=50
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 40 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        All characters are parsimony-informative
+    Gaps are treated as "missing"
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 50
+    Starting seed = generated automatically
+    Number of trees held at each step = 20
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  'Maxtrees' setting = 10000 (will not be increased)
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+  Random-addition-sequence replicate 1:
+    0 trees in memory at start of replicate
+
+    Elapsed AddSeq   Taxa      Rearr.  -- Number of trees --    ------ Best trees -----
+       time    rep  added      tried      saved   to swap       this rep        overall
+  -------------------------------------------------------------------------------------
+    0:01:00      1      -  461419555      10000      5510            140            140
+    0:02:00      1      -  928055921      10000       733            140            140
+
+    10000 trees found (score=140)
+
+    0:02:09      1      -  998910450      10000         0            140            140
+
+Search terminated prematurely (no room to store new trees)
+   10000 trees retained
+  Time used = 00:02:08 (CPU time = 00:02:07.4)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1     10000         1     10000             140            1       1
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nreps=75
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 40 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        All characters are parsimony-informative
+    Gaps are treated as "missing"
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 75
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  'Maxtrees' setting = 10000 (will not be increased)
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+  Random-addition-sequence replicate 1:
+    0 trees in memory at start of replicate
+
+    Elapsed AddSeq   Taxa      Rearr.  -- Number of trees --    ------ Best trees -----
+       time    rep  added      tried      saved   to swap       this rep        overall
+  -------------------------------------------------------------------------------------
+    0:01:00      1      -  467307104      10000      5501            139            139
+    0:02:00      1      -  965221025      10000       206            139            139
+
+    10000 trees found (score=139)
+
+    0:02:03      1      -  984525222      10000         0            139            139
+
+Search terminated prematurely (no room to store new trees)
+   10000 trees retained
+  Time used = 00:02:02 (CPU time = 00:02:00.9)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1     10000         1     10000             139            1       1
+
+paup> savetrees file=Paup-T2003.tre
+
+OK to replace file "Paup-T2003.tre"? (Y/n)y
+
+10000 trees saved to file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Takahashi, 2003/Paup-
+T2003.tre"
+
+paup> contree / file=Paupcontree-T2003.tre
+
+Strict consensus of 10000 trees:
+
+                                                                  /----- Oreochromis karomo(54)
+                                                                  +----- Oreochromis niloticus eduardianus(55)
+                                                              /---+----- Oreochromis tanganicae(56)
+                                                              |   \----- Tilapia rendalli(57)
+                                                              +--------- Astatoreochromis straeleni(32)
+                                                              +--------- Astatotilapia burtoni(33)
+                                                              +--------- ?Ctenochromis? horei(58)
+                                                              +--------- ?Gnathochromis? pfefferi(59)
+                                               /--------------+--------- Interochromis loocki(60)
+                                               |              +--------- Limnotilapia dardennii(61)
+                                               |              +--------- Lobochilotes labiatus(62)
+                                               |              +--------- Petrochromis fasciolatus(63)
+                                               |              +--------- Pseudosimochromis curvifrons(64)
+                                               |              +--------- Simochromis diagramma(65)
+                                               |              \--------- Tropheus moorii(66)
+                                               |                  /----- Altolamprologus compressiceps(34)
+                                               |              /---+----- Neolamprologus fasciatus(40)
+                                               |              |   /----- Chalinochromis brichardi(35)
+                                               |              +---+----- Julidochromis ornatus(36)
+                                           /---+              +--------- Lamprologus lemairii(37)
+                                           |   |         /----+--------- Lepidiolamprologus attenuatus(38)
+                                           |   |         |    +--------- Lepidiolamprologus elongatus(39)
+                                           |   |         |    +--------- Neolamprologus tetracanthus(41)
+                                           |   |    /----+    +--------- Telmatochromis temporalis(42)
+                                           |   |    |    |    \--------- Variabilichromis moorii(43)
+                                           |   |    |    |        /----- Eretmodus cyanostictus(28)
+                                      /----+   +----+    |    /---+----- Spathodus marlieri(29)
+                                      |    |   |    |    \----+--------- Tanganicodus irsacae(30)
+                                      |    |   |    \------------------- ?Ctenochromis? benthicola(67)
+                                      |    |   |                  /----- Cyphotilapia frontosa(10)
+                                      |    |   \------------------+----- Cyphotilapia sp.(11)
+                                      |    |                      /----- Gnathochromis permaxillaris(45)
+                                 /----+    |                  /---+----- Triglachromis otostigma(49)
+                                 |    |    |             /----+--------- Tangachromis dhanisi(48)
+                                 |    |    \-------------+        /----- Baileychromis centropomoides(44)
+                                 |    |                  +--------+----- Reganochromis calliurus(47)
+                            /----+    |                  \-------------- Limnochromis auritus(46)
+                            |    |    \--------------------------------- Greenwoodochromis christyi(31)
+                            |    |                                /----- Perissodus microlepis(51)
+                            |    |                            /---+----- Plecodus paradoxus(52)
+                            |    |                       /----+--------- Xenochromis hecqui(53)
+                        /---+    \-----------------------+-------------- Haplotaxodon microlepis(50)
+                        |   |                                     /----- Tylochromis labrodon(69)
+                        |   |                                 /---+----- Tylochromis variabilis(72)
+                   /----+   |                            /----+--------- Tylochromis lateralis(70)
+                   |    |   |                       /----+-------------- Tylochromis jentinki(68)
+                   |    |   |                  /----+------------------- Tylochromis polylepis(71)
+                   |    |   \------------------+------------------------ Boulengerochromis microlepis(9)
+                   |    \----------------------------------------------- Benthochromis tricoti(8)
+                   |                                              /----- Xenotilapia boulengeri(24)
+                   |                                          /---+----- Xenotilapia melanogenys(26)
+                   |                                     /----+   \----- Xenotilapia tenuidentata(27)
+                   |                                /----+    \--------- Xenotilapia leptura(25)
+              /----+                                |    \-------------- Callochromis macrops(16)
+              |    |                                +------------------- Aulonocranus dewindti(15)
+              |    |                                +------------------- Cardiopharynx schoutedeni(17)
+              |    |                           /----+------------------- Cunningtonia longiventralis(18)
+              |    |                           |    +------------------- Cyathopharynx furcifer(19)
+              |    |                           |    +------------------- Ectodus descampsi(20)
+         /----+    |                       /---+    +------------------- Lestradea perspicax(22)
+         |    |    |                       |   |    \------------------- Ophthalmotilapia nasuta(23)
+         |    |    \-----------------------+   \------------------------ Grammatotria lemairii(21)
+         |    |                            |                      /----- Cyprichromis microlepidotus(12)
+     /---+    |                            |                  /---+----- Cyprichromis sp.(13)
+     |   |    |                            \------------------+--------- Paracyprichromis brieni(14)
+     |   |    \--------------------------------------------------------- Hemibates stenosoma(4)
+     |   |                                                        /----- Trematocara marginatum(6)
+/----+   |                                                    /---+----- Trematocara nigrifrons(7)
+|    |   \----------------------------------------------------+--------- Trematocara macrostoma(5)
+|    +------------------------------------------------------------------ Bathybates graueri(2)
+|    \------------------------------------------------------------------ Bathybates minor(3)
+\----------------------------------------------------------------------- Bathybates fasciatus(1)
+
+Consensus tree(s) written to treefile: ~/Documents/Imperial/Morphological Character
+Hierarchies/Data/Takahashi, 2003/Paupcontree-T2003.tre

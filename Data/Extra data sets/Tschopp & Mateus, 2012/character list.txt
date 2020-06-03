@@ -1,0 +1,240 @@
+
+[ File output by Morphobank v3.0 (http://www.morphobank.org); 2020-04-30 04.15.56 ]
+
+Phenotypic characters (numbered in Nexus format)
+
+Array characters
+  1. Premaxillary anterior margin, shape: without step (0); with marked step, anterior portion of skull sharply demarcated (1). [[Ma1, Upchurch 1995, 1998 (modified); Wilson & Sereno 1998]] State 0 (0); State 1 (1).
+  2. Premaxilla, external surface: without anteroventrally orientated vascular grooves originating from an opening in the maxillary contact (0); vascular grooves present (1). [[Wilson 2002; Sereno et al. 2007]] State 0 (0); State 1 (1).
+  3. Premaxilla, ascending process, shape in lateral view: convex (0); concave, with a large dorsal projection (1); subrectilinear and directed posterodorsally (2). [[Whitlock 2011, wording modified]] State 0 (0); State 1 (1); State 2 (2).
+  4. Premaxilla, angle between lateral and medial margins of premaxilla as seen in dorsal view: greater than 20° (0); less than or equal to 20° (1). [[Upchurch 1999]] State 0 (0); State 1 (1).
+  5. Premaxilla, shape in dorsal view: main body is massive, with proportionally short ascending process distinct (0); single elongate unit, distinction between body and process absent (1). [[Upchurch 1998]] State 0 (0); State 1 (1).
+  6. Premaxilla, posterolateral process and the lateral process of the maxillary, shape: with midline contact forming a marked narial depression, subnarial foramen not visible laterally (0); without midline contact (1). [[Upchurch 1995; Wilson & Sereno 1998; wording modified]] State 0 (0); State 1 (1).
+  7. Subnarial foramen and anterior maxillary foramen, position: well distanced from one another (0); separated by narrow bony isthmus (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  8. Maxilla, dorsal process, posterior extent: anterior to or even with posterior process (0); extending posterior to posterior process (1). [[Whitlock 2011, wording modified]] State 0 (0); State 1 (1).
+  9. Maxilla-quadratojugal contact: absent or small (0); broad (1). [[Upchurch 1995]] State 0 (0); State 1 (1).
+  10. Preantorbital fossa: absent (0); present (1). [[]] State 0 (0); State 1 (1).
+  11. Preantorbital fenestra: absent (0); present without sharply defined fossa (1); present within sharply defined fossa (2). [[Whitlock 2011, modified]] State 0 (0); State 1 (1); State 2 (2).
+  12. Antorbital fenestra, maximum diameter: much shorter than orbital maximum diameter, less than 85% of orbit (0); subequal to orbital maximum diameter, greater than 85% orbit (1). [[Wilson 2002; Whitlock (2011) defined a modified quantitative state boundary]] State 0 (0); State 1 (1).
+  13. Antorbital fenestra, shape of dorsal margin: straight or convex (0); concave (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  14. External nares, position: retracted to level of orbit, facing laterally (0); retracted to position between orbits, facing dorsally or dorsolaterally (1). [[McIntosh 1990a; Upchurch 1995; modified by Whitlock (2011)]] State 0 (0); State 1 (1).
+  15. External nares, maximum diameter: shorter than orbital maximum diameter (0); longer than orbital maximum diameter (1). [[Upchurch 1995; state definitions modified by Wilson & Sereno (1998)]] State 0 (0); State 1 (1).
+  16. Prefrontal, posterior process size: small, not projecting far posterior of frontal-nasal suture (0); elongate, approaching parietal (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  17. Prefrontal, posterior process shape: flat (0); hooked (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  18. Frontals, midline contact (symphysis): patent suture (0); fused in adult individuals (1). [[Salgado & Calvo 1992; Upchurch 1995]] State 0 (0); State 1 (1).
+  19. Frontal, anteroposterior length: subequal to longer than transverse breadth (0); considerably less than transverse breadth (1). [[Whitlock 2011, modified]] State 0 (0); State 1 (1).
+  20. Frontal-nasal suture, shape: flat or slightly bowed anteriorly (0); v-shaped, pointing posteriorly (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  21. Frontals, dorsal surface: without paired grooves facing anterodorsally (0); grooves present, extend on to nasal (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  22. Frontal, contribution to dorsal margin of orbit: less than 1.5 times the contribution of prefrontal (0); at least 1.5 times the contribution of prefrontal (1). [[Whitlock 2011, modified by Mannion et al. (2011)]] State 0 (0); State 1 (1).
+  23. Frontal, free lateral margin: rugose (for attaching palpebral elements) (0); smooth (1). [[check for plesiomorphic]] State 0 (0); State 1 (1).
+  24. Frontal, contribution to margin of supratemporal fenestra/fossa: present (0); absent, frontal excluded from anterior margin of fenestra/fossa (1). [[Wilson & Sereno 1998]] State 0 (0); State 1 (1).
+  25. Frontals, distinct anterior U-shaped notch medially between the two elements: absent (0); present (1). [[]] State 0 (0); State 1 (1).
+  26. Frontal-parietal suture, position relative to supratemporal finestra: close to anterior extension (0); around the center of the supratemporal finestra (1); close to the posterior extension (2). [[]] State 0 (0); State 1 (1); State 2 (2).
+  27. Orbit, anterior-most point: anterior to the anterior extremity of lateral temporal fenestra (0); roughly even with or posterior to anterior extent of lateral temporal fenestra (1). [[Whitlock 2011, modified from Gauthier 1986; Upchurch 1995]] State 0 (0); State 1 (1).
+  28. Orbital ventral margin, anteroposterior length: broad, with subcircular orbital margin (0); reduced, with acute orbital margin (1). [[Wilson & Sereno 1998]] State 0 (0); State 1 (1).
+  29. Postorbital, posterior process: present (0); absent (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  30. Jugal, contribution to antorbital fenestra: very reduced or absent (0); large, bordering approximately one-third of its perimeter (1). [[modified from Berman & McIntosh 1978 and Upchurch 1995; Whitlock (2011) added quantitative state boundary definition]] State 0 (0); State 1 (1).
+  31. Jugal, contact with ectopterygoid: present (0); absent (1). [[Upchurch 1995]] State 0 (0); State 1 (1).
+  32. Quadratojugal, position of anterior terminus: posterior to middle of orbit (0); anterior margin of orbit or beyond (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  33. Quadratojugal, angle between anterior and dorsal processes: less than or equal to 90°, so that the quadrate shaft is directed dorsally (0); greater than 90°, approaching130°, so that the quadrate shaft slants posterodorsally (1) [[Gauthier 1986; Upchurch 1995]] State 0 (0); State 1 (1).
+  34. Lacrimal, dorsal portion of lateral edge: flat (0); bears dorsoventrally elongate, shallow ridge (1); bears a dorsoventrally short laterally projecting spur (2). [[]] State 0 (0); State 1 (1); State 2 (2).
+  35. Quadrate, articular surface shape: quadrangular in ventral view, orientated transversely (0); roughly triangular in shape (1); thin, crescent-shaped surface with anteriorly directed medial process (2). [[Whitlock 2011]] State 0 (0); State 1 (1); State 2 (2).
+  36. Quadrate fossa, depth: shallow (0); deeply invaginated (1). [[Upchurch 1998]] State 0 (0); State 1 (1).
+  37. Quadrate, shallow, second fossa on medial side of the winglike anterodorsal ramus (not the quadrate fossa): absent (0); present, becoming deeper towards its anterior end (1). [[]] State 0 (0); State 1 (1).
+  38. Squamosal, anterior extent: restricted to postorbital region (0); extends well past posterior margin of orbit (1); extends beyond anterior margin of orbit (2). [[Whitlock 2011]] State 0 (0); State 1 (1); State 2 (2).
+  39. Squamosal-quadratojugal contact: present (0); absent (1). [[Upchurch 1995]] State 0 (0); State 1 (1).
+  40. Squamosal, posteroventral margin: smooth (0); with prominent, ventrally directed 'prong' (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  41. Parietal, contribution to post-temporal fenestra: present (0); absent (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  42. Parietal, distance separating supratemporal fenestrae: less than 1.5 times the width of the long axis of the supratemporal fenestra (0); at least 1.5 times the length of the long axis of the supratemporal fenestra (1) [[Wilson 2002, modified by Mannion et al. (2011)]] State 0 (0); State 1 (1).
+  43. Parietal, posterolateral process, dorsal edge in posterior view: straight, and ventrolaterally oriented, so that the supratemporal fenestra is slightly facing posteriorly as well (0); convex, so that the postorbital and thus the supratemporal fenestra are not visible (1). [[]] State 0 (0); State 1 (1).
+  44. Parietal, distinct horizontal ridge separating dorsal from posterior portion: absent, transition more or less confluent (0); present, creating a distinct fossa below the ridge on posterior portion of parietal (1). [[]] State 0 (0); State 1 (1).
+  45. Postparietal foramen: absent (0); present (1). [[Upchurch 1995]] State 0 (0); State 1 (1).
+  46. Paroccipital process (popr), posterior face: smooth/flat (0); with longitudinal ridge along popr body extending from dorsomedial to ventrolateral corners (1). [[]] State 0 (0); State 1 (1).
+  47. Paroccipital process distal terminus: expanded vertically (0); not expanded (dorsal and ventral edges are subparallel) (1). [[modified from Upchurch 1995]] State 0 (0); State 1 (1).
+  48. Supratemporal fenestra: present, relatively large (anteroposterior diameter is at least 5% of occiput width) (0); absent, or greatly reduced (so that anteroposterior diameter is less than 5% of occipital width) (1). [[Wilson 2002, modified by Mannion et al. (2011)]] State 0 (0); State 1 (1).
+  49. Supratemporal fenestra, maximum diameter: more than 1.2 times greatest diameter of foramen magnum (0); less than 1.2 times the greatest length of foramen magnum (1). [[Wilson 2002, modified by Mannion et al. (2011)]] State 0 (0); State 1 (1).
+  50. Supraoccipital: sagittal nuchal crest: broad, weakly developed (0); narrow, sharp, and distinct (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  51. Supraoccipital, height: more than 1.5 times height of foramen magnum (0); less than 1.5 times height of foramen magnum (1). [[Wilson 2002, modified by Mannion et al. (2011)]] State 0 (0); State 1 (1).
+  52. Supraoccipital, foramen close to contact with parietal: absent (0); present (1). [[]] State 0 (0); State 1 (1).
+  53. Crista prootica, size: rudimentary (0); expanded laterally into dorsolateral process (1). [[Salgado & Calvo 1992; Upchurch 1995]] State 0 (0); State 1 (1).
+  54. Basioccipital, distance from base of occipital condyle to base of basal tubera (best visible in lateral view): equal to or shorter than the posterior height of the basal tubera, so that area is gently curved in lateral view (0); longer than posterior height of basal tubera, with a flat portion between occipital condyle and basal tubera (1). [[]] State 0 (0); State 1 (1).
+  55. Basipterygoid processes, shape: thin (0); massive (1). [[Upchurch 1995, modified]] State 0 (0); State 1 (1).
+  56. Basipterygoid processes: widely diverging (more than 41°) (0); including an angle between 25° and 41° (1); narrowly diverging (less than 25°) (2). [[Upchurch 1995, 1998, modified]] State 0 (0); State 1 (1); State 2 (2).
+  57. Basipterygoid processes, orientation: directed more than 70° to skull roof (normally perpendicular) (0); angled less than 70° to skull roof (normally approximately 45°) (1). [[McIntosh 1990a, modified by Mannion et al. (2011)]] State 0 (0); State 1 (1).
+  58. Basipterygoid processes, ratio of length:maximum basal diameter: < or = 2 (0); 2.01-3.99 (1); = or > 4.0 (2). [[Harris 2006c]] State 0 (0); State 1 (1); State 2 (2).
+  59. Basipterygoid, area between the basipterygoid processes and parasphenoid rostrum: is a mildly concave subtriangular region (0); forms a deep slot-like cavity that passes posteriorly between the bases of the basipterygoid processes (1). [[Upchurch 1995, 1998]] State 0 (0); State 1 (1).
+  60. Basal tubera, anteroposterior depth: approximately 33%, or more, of dorsoventral height (0); sheetlike, less than 33% (normally around 20%) dorsoventral height (1). [[Wilson 2002, modified by Mannion et al. (2011)]] State 0 (0); State 1 (1).
+  61. Basal tubera, breadth: much broader than occipital condyle (0); narrower than occipital condyle (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  62. Basal tubera: distinct from basipterygoid (0); reduced to slight swelling on ventral surface of basipterygoid (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  63. Basal tubera, shape of posterior face: convex (0); flat (1); slightly concave (2). [[Whitlock 2011, modified]] State 0 (0); State 1 (1); State 2 (2).
+  64. Paired basal tubera, anterior edge in ventral view: transversely straight (0); V-shaped, pointing posteriorly (1); U-shaped, pointing posteriorly (2). [[]] State 0 (0); State 1 (1); State 2 (2).
+  65. Basal tubera ventral margin in posterior view: round or V-shaped (0); forming a straight horizontal line (1). [[]] State 0 (0); State 1 (1).
+  66. Basal tubera, foramen in notch that separates the two tubera: absent (0); present (1). [[]] State 0 (0); State 1 (1).
+  67. Palatobasal contact, shape: pterygoid with small facet (0); dorsomedially orientated hook (1). [[Wilson & Sereno 1998; Wilson 2002]] State 0 (0); State 1 (1).
+  68. Pterygoid, transverse flange (i.e. ectopterygoid process) position: between orbit and antorbital fenestra (0); anterior to antorbital fenestra (1). [[Upchurch 1995]] State 0 (0); State 1 (1).
+  69. Pterygoid position relative to ectopterygoid on transverse palatal hook: lateral (0);medial (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  70. Dentary, anteroventral margin shape: gently rounded (0); sharply projecting triangular process or 'chin' (1). [[Upchurch 1998]] State 0 (0); State 1 (1).
+  71. Dentary, cross-sectional shape of symphysis: oblong or rectangular (0); subtriangular, tapering sharply towards ventral extreme (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  72. Dentary, tuberosity on labial surface near symphysis:absent (0); present (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  73. Mandible, coronoid eminence: strongly expressed, clearly rising above plane of dentigerous portion (0); absent (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  74. Splenial posterior process, position: overlapping angular (0); separating anteriorportions of prearticular and angular (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  75. Snout shape in dorsal view: rounded/pointed, premaxilla-maxilla index (PMI; Whitlock et al.2010) below 70% (0); square/blunt, PMI above 75% (1). [[Upchurch 1998, modified by Whitlock 2011]] State 0 (0); State 1 (1).
+  76. Tooth rows, length: extending to nearly to or past antorbital fenestra (0); restricted to the jaw anterior of the antorbital fenestra (1); restricted anterior to subnarial foramen (2). [[Upchurch 1995]] State 0 (0); State 1 (1); State 2 (2).
+  77. Teeth, crown-to-crown occlusion: present (0); absent (1). [[Wilson & Sereno 1998; polarity reversed by Whitlock 2011]] State 0 (0); State 1 (1).
+  78. Occlusal pattern: V-shaped, paired wear facets (0); 1 or 2 planar facets on crown apex (1). [[Wilson & Sereno 1998, modified by Mannion et al. (2011)]] State 0 (0); State 1 (1).
+  79. Occlusal pattern: V-shaped or single planar apical wear facet (0); paired planar facets (1). [[Wilson & Sereno 1998, modified by Mannion et al. (2011)]] State 0 (0); State 1 (1).
+  80. Tooth crowns, orientation: aligned slightly anterolingually, tooth crowns overlap (0); aligned along jaw axis, crowns do not overlap (1). [[Wilson & Sereno 1998; polarity reversed by Whitlock 2011]] State 0 (0); State 1 (1).
+  81. Tooth crowns, cross-sectional shape at midcrown: D-shaped (0); cylindrical (1). [[Wilson & Sereno 1998]] State 0 (0); State 1 (1).
+  82. Dentary teeth, number: greater than 17 (0); 17 or fewer (1). [[Wilson & Sereno 1998]] State 1 (0).
+  83. Replacement teeth per alveolus, number: three or fewer (0); four or more (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  84. Shape of tooth row in occlusal view: follows curvature of dentary (0); anterolateral corner of tooth row displaced labially (1). [[Whitlock & Harris 2010]] State 0 (0); State 1 (1).
+  85. Teeth, orientation relative to long axis of jaw: perpendicular (0); inclined anteriorly (1). [[Upchurch 1998]] State 0 (0); State 1 (1).
+  86. Teeth, longitudinal grooves on lingual aspect: absent (0); present (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  87. Teeth, thickness of enamel asymmetric labiolingually: absent (0); present (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  88. Teeth, marginal denticles: present (0); absent (1). [[McIntosh 1990a]] State 0 (0); State 1 (1).
+  89. Presacral bone texture: solid (0); spongy, with large internal cells (camellate) (1). [[Upchurch 1998; Wilson & Sereno 1998]] State 0 (0).
+  90. Number of cervical vertebrae: 11 (0); 12 (1); 13 (2); 15 (3); 16 (4); 17 (5). [[McIntosh 1990a]] State 0 (0); State 1 (1); State 3 (2); State 4 (3); State 5 (4).
+  91. Cervical pneumatopores (pleurocoels): absent (0); present (1). [[McIntosh 1990a; Upchurch 1995]] State 1 (0).
+  92. Cervical vertebrae, small fossa on posteroventral corner: absent (0); shallow, anteroposteriorly elongate fossa present, posteroventral to pleurocoel (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  93. Cervical vertebrae, epipophyseal-prezygapophyseal lamina (eprl): absent (0); present (1). [[Sereno et al. 2007; Wilson & Upchurch 2009]] State 0 (0).
+  94. Cervical vertebrae, longitudinal ridge on ventral surface: absent (0); present (1). [[Upchurch 1995]] State 0 (0); State 1 (1).
+  95. Cervical vertebrae, longitudinal sulcus on ventral surface: absent (0); present (1). [[Upchurch 1995, 1998]] State 0 (0); State 1 (1).
+  96. Cervical vertebra, posterior projection on cervical transverse processes: absent (0); present (1). [[]] State 0 (0); State 1 (1).
+  97. Cervical vertebrae, bifurcation of neural spines in adults: absent (0); present only on posterior cervicals (1); present on middle cervicals (to C6) (2); present on anterior cervicals (anterior to C6) (3). [[Harris 2006, modified]] State 0 (0); State 1 (1); State 2 (2); State 3 (3).
+  98. Atlantal intercentrum, occipital facet shape: rectangular in lateral view, length of dorsal aspect subequal to that of ventral aspect (0); expanded anteroventrally in lateral view, anteroposterior length of dorsal aspect shorter than that of ventral aspect (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  99. Atlantal neural arch: without foramen (0); with foramen (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  100. Anterior cervical vertebrae, height/length ratio: height less than or roughly equal to 1.3 times the length of centrum (0); height greater than 1.3 (usually around 1.5) times length of centrum (1). [[Wilson 2002, modified by Mannion et al. (2011)]] State 0 (0); State 1 (1).
+  101. Anterior cervical vertebrae, pleurocoel extending [[Upchurch 1998, modified by Whitlock 2011]] State 0 (0); State 1 (1).
+  102. Anterior cervicals, paired pneumatic fossae on ventral surface: absent (0); present (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  103. Anterior and mid-cervicals, spinoprezygapophyseal lamina: continuous as a lamina (0); reduced to ridge or totally interrupted in the middle (at base of prezygapohysis) (1). [[]] State 0 (0); State 1 (1).
+  104. Mid-cervical vertebrae, number of eye-shaped pleurocoels: 1 (0); 2, well separated by a central bony shelf (1). [[Upchurch 1995, 1998; Wilson 2002, modified]] State 0 (0); State 1 (1).
+  105. Mid-cervical centra, anteroposterior length/height of posterior face: 2.5-3 (0); 3.1-3.9 (1); 4-4.8 (2); 4.9 + (3). [[Upchurch 1994, 1995, modified]] State 0 (0); State 1 (1); State 2 (2); State 3 (3).
+  106. Mid-cervical vertebrae, angle between postzygodiapophyseal and spinopostzygapophyseal laminae: acute (0); right angle (1). [[Rauhut et al. 2005]] State 0 (0); State 1 (1).
+  107. Mid-cervical neural spines, orientation: vertical (0); anteriorly inclined (1). [[Rauhut et al. 2005]] State 0 (0); State 1 (1).
+  108. Mid-cervical neural spines: less than or approximately equal in height to neural arch (distance centrum-postzygapophysis) (0); considerably higher than neural arch (1). [[Rauhut et al. 2005, modified by Whitlock 2011]] State 0 (0); State 1 (1).
+  109. Mid- and posterior cervical vertebrae, pneumatization of lateral surface of centra: large, divided pleurocoel over approximately half of centrum (0); reduced, large fossa but sharp-bordered coel, if present, restricted to area above parapophysis (1). [[Whitlock 2011, modified]] State 0 (0); State 1 (1).
+  110. Mid- and posterior cervicals, pre-epipophysis: absent (0); present (1). [[Wilson & Upchurch 2009]] State 0 (0); State 1 (1).
+  111. Mid-cervical prezygapophyses anterior-most point: is always the articular facet (0); is often an anterior extension of the pre-epipophysis, which projects considerably anterior to the articular facet (1). [[Sereno et al. 1999; Remes 2007; modified]] State 0 (0); State 1 (1).
+  112. Mid- and posterior cervical prezygapophyses, articular surfaces flat (0); articular surfaces strongly convex transversely (1). [[Upchurch 1995, 1998]] State 0 (0); State 1 (1).
+  113. Mid- and posterior cervical centra with longitudinal flanges in the lateroventral edge on the posterior part of the centrum: absent (0); present (1). [[]] State 0 (0); State 1 (1).
+  114. Mid- and posterior cervical neural arches, centroprezygapophyseal lamina (cprl), shape: single (0); divided (1). [[Upchurch 1995]] State 0 (0); State 1 (1).
+  115. Mid- and posterior cervical vertebrae, pleurocoel extending onto dorsal surface of parapophysis: present (0); absent (1). [[Upchurch 1998, modified by Whitlock 2011]] State 0 (0); State 1 (1).
+  116. Mid- and posterior cervical vertebrae, posterior centrodiapophyseal lamina: is single (0); bifurcates towards its anterior end (1). [[Upchurch et al. 2004b, modified]] State 0 (0); State 1 (1).
+  117. Cervical vertebrae 10 to 13, spinoprezygapophyseal lamina, anterior end: remains vertical, with the free edge facing dorsally (0); is strongly inclined laterally (sometimes roofing a lateral fossa in the prezygapophyseal process (1). [[]] State 0 (0); State 1 (1).
+  118. Cervical vertebrae 10 to 13, lateral fossa at the base of the prezygapophyseal process, roofed by sprl: absent (0); present (1). [[]] State 0 (0); State 1 (1).
+  119. Posterior cervical vertebrae, Elongation Index (cervical centrum length, excluding condyle, divided by posterior centrum height): less than 2.0 (0); 2.0 - 2.6 (1); higher than 2.6 (2). [[Mannion et al. (in review), modified]] State 0 (0); State 1 (1); State 2 (2).
+  120. Posterior cervical vertebrae, rugose tuberosity on anterodorsal corner of lateral side: absent (0); present (1). [[]] State 0 (0); State 1 (1).
+  121. Posterior cervical vertebrae, prezygapophysis articular facet posterior margin: confluent with prezygapophyseal process (0); bordered posteriorly by conspicuous transverse sulcus (1). [[]] State 0 (0); State 1 (1).
+  122. Posterior cervical vertebrae, subvertical lamina extending between the ventral surface of the postzygodiapophyseal lamina and the dorsal surface of the posterior centrodiapophyseal lamina: absent (0); present (1). [[Mannion et al. 2011]] State 0 (0); State 1 (1).
+  123. Posterior cervical vertebrae, accessory lateral lamina connecting postzygodiapophyseal and spinoprezygapophyseal laminae: absent (0); present (1). [[Gallina & Apesteguía 2005]] State 0 (0); State 1 (1).
+  124. Posterior cervical vertebrae, spinoprezygapophyseal lamina: continuous (0); developing an anterior projection (just beneath but independent from the spine summit) (1). [[]] State 0 (0); State 1 (1).
+  125. Posterior cervical neural arches, accessory spinal lamina: absent (0); present, running vertically just posterior to spinoprezygapophyseal lamina (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  126. Posterior cervical neural spines, dorsoventrally elongate coel on lateral surface: absent (0); present (1). [[Mannion etal. 2011]] State 0 (0); State 1 (1).
+  127. Posterior cervical neural spine, horizontal, rugose ridge right below spine summit on lateral surface: absent (0); present, serves as distinct dorsal edge of the spinodiapophyseal fossa (1). [[]] State 0 (0); State 1 (1).
+  128. Posterior cervical vertebrae, epipophysis: reduced to absent (0); pronounced, often reaching posterior edge of or even overhanging postzygapophysis posteriorly (1). [[]] State 0 (0); State 1 (1).
+  129. Posterior cervical postzygapophyses: terminate at or beyond the posterior edge of the centrum (0); terminate in front of the posterior edge of the centrum (1). [[Upchurch et al. 2004b, modified]] State 0 (0); State 1 (1).
+  130. Posterior cervical neural and/or anteriormost dorsal neural spines, orientation: vertical (0); inclined anteriorly (1). [[Rauhut et al. 2005]] State 0 (0); State 1 (1).
+  131. Posterior cervical and anterior dorsal bifid neural spines, median tubercle: absent (0); present (1). [[McIntosh 1990a; Upchurch 1995]] State 0 (0); State 1 (1).
+  132. Posterior cervical and anterior dorsal bifid neural spines: widely diverging (0) narrow, parallel to converging (1). [[Rauhut et al. 2005]] State 0 (0); State 1 (1).
+  133. Posterior cervical and anterior dorsal vertebrae, roughened lateral aspect of prezygodiapophyseal lamina: absent (0); present (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  134. Anterior and mid-cervical ribs, tuberculum in lateral view: is directed nearly vertically (0); is directed upwards and backwards (1). [[Upchurch et al. 2004b, modified]] State 0 (0); State 1 (1).
+  135. Cervical ribs, length: overlapping several centra posterior (0); overlapping no more than the next cervical vertebra in sequence (1); shorter than or roughly equivalent to centrum length (2). [[Whitlock 2011, modified]] State 0 (0); State 1 (1); State 2 (2).
+  136. Cervical ribs, position relative to centrum: not projecting far beneath centrum (0); projecting well beneath centrum, such that height of vertebra exceeds length (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  137. Cervical ribs, length of posterior process: greater than length of fused diapophysis/tuberculum (0); subequal in length to fused diapophysis/tuberculum (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  138. Number of dorsal vertebrae: 13 (0); 12 (1); 11 (2); 10 (3); 9 (4). [[McIntosh 1990a; Upchurch 1998; Wilson & Sereno 1998]] State 1 (0); State 3 (1); State 4 (2).
+  139. Dorsal pneumatopores (pleurocoels): present (0); absent (1). [[Gauthier 1986; McIntosh 1990a; Upchurch 1995]] State 0 (0); State 1 (1).
+  140. Dorsal centrum length (excluding articular 'ball'), remains approximately the same along the sequence (0); shortens from anterior to posterior dorsal vertebrae (1). [[Mannion et al. 2011]] State 0 (0); State 1 (1).
+  141. Dorsal vertebrae, spinodiapophyseal webbing: laminae follow curvature of neural spine and diapophysis in anterior view (0); laminae 'festooned' from spine, dorsal margin does not closely follow shape of neural spine and diapophysis (1). [[Sereno et al. 2007]] State 0 (0); State 1 (1).
+  142. Dorsal transverse processes, orientation: horizontalor only slightly inclined dorsally (0); more than 30° inclined dorsally from the horizontal (1). [[Calvo & Salgado 1995; Upchurch 1998]] State 0 (0); State 1 (1).
+  143. Dorsal vertebrae, single (not bifid) neural spines, spinoprezygapophyseal laminae: separate along entire length (0); joined distally, forming single prespinal lamina (1). [[Upchurch 1995, modified by Whitlock 2011]] State 0 (0); State 1 (1).
+  144. Dorsal and/or sacral neural spines (not including arch), height: less than 2 times centrum length (0); 2 to 4 times centrum length (1); more than 4 times centrum length (2). [[Mannion et al. 2011, modified]] State 0 (0); State 1 (1); State 2 (2).
+  145. Dorsal vertebrae, hyposphene first appears: on D3 (0); on D4 (1); absent in all dorsal vertebrae (2). [[Upchurch et al. 2004b, modified]] State 0 (0); State 1 (1); State 2 (2).
+  146. Anterior dorsal vertebrae, ventral keel: absent (0); present (1). [[Mannion et al. 2011]] State 0 (0); State 1 (1).
+  147. Mid-dorsal neural spines, form: single, bifid form (if present) does not extend past the second or third dorsal (0); bifid, inclusive of at least the fifth dorsal vertebrae (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  148. Mid- and posterior dorsal vertebrae, height of neural arch below the postzygapophyses (pedicel): less than height of centrum (0); subequal to or greater than height of centrum (1). [[Gallina & Apesteguía 2005, modified by Whitlock 2011]] State 0 (0); State 1 (1).
+  149. Mid- and posterior dorsal neural spines: without laterally flared, triangular lateral processes (0); with laterally flared, distal triangular processes (1). [[Upchurch 1995, 1998]] State 0 (0); State 1 (1).
+  150. Mid- and posterior dorsal vertebrae, lateral pleurocoels present in centra: absent (0); present (1). [[Gauthier 1986; McIntosh 1990a; Upchurch 1995, modified by Whitlock 2011]] State 0 (0); State 1 (1).
+  151. Mid- and posterior dorsal vertebrae, vertically oriented rod-like struts divide thelateral pneumatic foramina: absent (0); present (1). [[Mannion et al. 2011]] State 0 (0); State 1 (1).
+  152. Mid- and posterior dorsal vertebrae, accessory laminae in the region between the posterior centrodiapophyseal lamina (PCDL) and posterior centroparapophyseal lamina (PCPL): absent (0); present (1). [[Mannion et al. 2011]] State 0 (0); State 1 (1).
+  153. Mid- and posterior dorsal neural arches, centropostzygapophyseal lamina (cpol), shape: single (0); divided, left and right medial cpols uniting beneath hyposphene (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  154. Mid- and posterior dorsal neural arches, posterior centroparapophyseal lamina: absent (0); present (1). [[Upchurch 1998]] State 0 (0); State 1 (1).
+  155. Mid- and posterior dorsal neural arches: height above postzygapophyses (neural spine) equal to height below (pedicel) (0); neural spine much taller than pedicel (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  156. Mid- and posterior dorsal neural arches, prezygoparapophyseal lamina (prpl): present (0); absent (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  157. Mid- and posterior dorsal neural spines, midline cleft along the dorsal surface:absent (0); present (1). [[Mannion et al. 2011]] State 0 (0); State 1 (1).
+  158. Posterior dorsal neural arches: spinopostzygapophyseal lamina (spol) single (0); spol divided near postzygapophyses (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  159. Posterior dorsal centra, articular face shape: amphicoelous (0); opisthocoelous (1). [[Wilson & Sereno 1998]] State 0 (0); State 1 (1).
+  160. Caudal neural spines, elliptical depression between spinodiapophyseal lamina and postspinal lamina on lateral neural spine: absent (0); present (1). [[Sereno et al. 2007]] State 0 (0).
+  161. Caudal neural spines with triangular lateral processes: absent (0); present (1) [[Sereno et al. 2007]] State 0 (0).
+  162. First caudal centrum, articular face shape: flat (0); procoelous (1). [[Wilson 2002, modified by Mannion et al. 2011]] State 0 (0); State 1 (1).
+  163. Anterior caudal vertebrae, transverse processes: ventral surface directed laterally or slightly ventrally (0); directed dorsally (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  164. Anterior caudal neural spine (not including arch), height: less than 1.5 times centrum height (0); 1.5 times centrum height or more (1). [[Upchurch & Mannion 2009]] State 0 (0); State 1 (1).
+  165. Posterior dorsal, sacral and anterior caudal neural spines, shape in anterior/posterior view: rectangular through most of length (0); 'petal' shaped, expanding transversely through 75% of its length and then tapering (1) [[Calvo & Salgado 1995; Upchurch 1998]] State 0 (0); State 1 (1).
+  166. Anterior caudal neural spines, transverse breadth: approximately 50% of anteroposterior length (0); greater than 50% anteroposterior length (transverse width equals or exceeds the anteroposterior length) (1). [[Upchurch 1998, modified by Mannion et al. 2011]] State 0 (0); State 1 (1).
+  167. Anterior caudal neural arches, prespinal lamina: absent (0); present (1). [[Upchurch 1995]] State 0 (0); State 1 (1).
+  168. Anterior caudal neural arches, postspinal lamina: absent (0); present (1). [[Upchurch 1995]] State 0 (0); State 1 (1).
+  169. Anterior caudal neural spines, prespinal and postspinal laminae: terminate at or beneath dorsal margin of neural spine (0); project dorsally above neural spine (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  170. Anterior caudal centra (excluding the first), articular face shape: amphiplatyan (0); procoelous (1). [[McIntosh 1990a; Upchurch 1995]] State 0 (0); State 1 (1).
+  171. Anterior caudal centra, ventral surface: without irregularly placed foramina (0); irregular foramina present on some anterior caudals (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  172. Anterior caudal centra, pneumatopores (pleurocoels): absent (0); present (1). [[McIntosh 1990a, Upchurch 1995, modified]] State 0 (0); State 1 (1).
+  173. Anterior caudal centra, pneumatopores: absent or restricted to foramina (0); large coels present (1). [[]] State 0 (0); State 1 (1).
+  174. Anterior caudal centra, length: subequal amongst first 20 (0); doubling over first 20 (1). [[Upchurch 1998]] State 0 (0); State 1 (1).
+  175. Anterior caudal vertebrae, anterior face shape: cylindrical (0); quadrangular (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  176. Anterior caudal neural arches; hyposphenal ridge on posterior face of neural arch; present (0); absent (1). [[Mannion et al. 2011]] State 0 (0); State 1 (1).
+  177. Anterior caudal neural spines, expanded boss-like area on anterior margin of spinoprezygapophyseal laminae (SPRL): absent (0); present (1). [[Mannion et al. 2011]] State 0 (0).
+  178. Anterior caudal neural spines, spinoprezygapophyseal laminae (sprl)-spol contact: absent (0); present (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  179. Anterior caudal neural spines, SPRL: absent, or present as small short ridges that rapidly fade out into the anterolateral margin of the spine (0); present, extending onto lateral aspect of neural spine (1). [[Wilson 2002, modified by Mannion et al. 2011]] State 0 (0); State 1 (1).
+  180. Anterior caudal neural spines, shape: single (0); slightly bifurcate anteriorly (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  181. Anterior caudal neural spines, lateral expansion at distal extremity: absent (0); present, distolateral margins flared slightly over last third without tapering (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  182. Anterior caudal transverse processes, shape: triangular, tapering distally (0); wing-like (1). [[McIntosh 1990a, Upchurch 1995]] State 0 (0); State 1 (1).
+  183. Anterior caudal transverse processes, diapophyseal laminae (acdl, pcdl, prdl, podl): absent (0); all present, well defined (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  184. Anterior caudal vertebrae, concavo-convex zygapophyseal articulation: absent (0); present (1). [[Wilson 2002; Whitlock 2011]] State 0 (0); State 1 (1).
+  185. Anterior and mid-caudal centra, ventral longitudinal hollow: absent (0); present (1). [[McIntosh 1990a, Upchurch 1995]] State 0 (0); State 1 (1).
+  186. Anterior and mid-caudal neural spines, shape: rectangular in anterior/posterior view (0); with distinct distal swelling in anterior/posterior view (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  187. Mid-caudal vertebrae, ratio of centrum length to height: less than 2:1 (0); greater than or equal to 2:1 (1). [[Upchurch & Martin 2003]] State 0 (0); State 1 (1).
+  188. Mid-caudal vertebrae, lateral surface of centra: without longitudinal ridge at mid-height (0); longitudinal ridge present, centra hexagonal in anterior/posterior view (1). [[Upchurch & Martin 2002]] State 0 (0); State 1 (1).
+  189. Mid-caudal centra, articular surface shape: cylindrical or quadrangular (0); subtriangular, with transversely wide ventral margin (1). [[Wilson 2002; Gallina & Apesteguía 2005]] State 0 (0); State 1 (1).
+  190. Mid-caudal neural spines, orientation: posterodorsally inclined (0); vertical (1). [[McIntosh 1990b; Salgado et al. 1997]] State 0 (0); State 1 (1).
+  191. Distal-most caudal centra, articular face shape: platycoelous (0); biconvex (1). [[Wilson et al. 1999]] State 0 (0); State 1 (1).
+  192. Distalmost caudal centra, length-to-height ratio: less than 5.0 (0); greaterthan 5.0 (1). [[Upchurch 1998, modified by Mannion et al. 2011]] State 0 (0); State 1 (1).
+  193. Distal-most biconvex caudal centra, number: ten or fewer (0); more than 30 (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  194. Chevrons, 'crus' bridging haemal canal: present in all (0); present in proximal ones but absent in middle and posterior chevrons (1); absent on all (2). [[Whitlock 2011]] State 0 (0); State 1 (1); State 2 (2).
+  195. Scapular acromion process, dorsal part of posterior margin: convex or straight (0); U-shaped concavity (1). [[Wilson 2002, modified by Whitlock 2011]] State 0 (0); State 1 (1).
+  196. Scapular acromion length: 1/3 or less the scapular length (0); 1/3 to 1/2 scapular length (1); greater than 1/2 scapular length (2). [[Gallina & Apesteguía 2005, modified]] State 0 (0); State 1 (1); State 2 (2).
+  197. Scapular blade, shape: acromial edge straight, without rounded expansion (0); rounded expansionon acromial side (1); racquet-shaped (2). [[Wilson 2002]] State 0 (0); State 1 (1); State 2 (2).
+  198. Scapula: without semi-ovate, flat muscle scar just distal to glenoid on scapular shaft (0); scar present (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  199. Scapular glenoid, orientation: relatively flat or laterally facing (0); strongly bevelled medially (1). [[Wilson & Sereno 1998]] State 0 (0); State 1 (1).
+  200. Sternal plates, shape: ovate (0); crescentic (1). [[Calvo & Salgado 1995]] State 0 (0); State 1 (1).
+  201. Forelimb: hindlimb length ratio: 0.75 or higher (0); less than 0.75 (1) [[Upchurch 1995, 1998]] State 0 (0); State 1 (1).
+  202. Humerus, midshaft cross-section, shape: circular, transverse diameter:anteroposterior diameter ratio is 1.5 or lower (usually close to 1.3) (0); elliptical, transverse diameter: anteroposterior diameter ratio is greater than 1.5 (usually close to 1.8) (1). [[Wilson 2002, modified by Mannion et al. 2011]] State 0 (0); State 1 (1).
+  203. Humerus, pronounced proximolateral corner: absent (0); present (1). [[Upchurch 1998]] State 0 (0); State 1 (1).
+  204. Humerus, proximal end expanded laterally in anterior/proximal view: not expanded (0); expanded, lateral margin concave in anterior/posterior view (1). [[Curry Rogers 2005]] State 0 (0); State 1 (1).
+  205. Ulna, proximal condylar processes: subequal in length (0); anterior arm longer (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  206. Carpus, number of carpal bones: more than two (0); two or fewer (1). [[McIntosh 1990a, Upchurch 1998]] State 0 (0); State 1 (1).
+  207. Metacarpus, ratio of longest metacarpal to radius: less than 0.45 (0); equal .to or greater than 0.45 (1). [[Wilson & Sereno 1998, modified by Mannion et al. 2011]] State 0 (0); State 1 (1).
+  208. Metacarpal I, length: shorter than IV (0); longer than IV (1). [[Wilson & Sereno 1998, Wilson 2002]] State 0 (0).
+  209. Iliac preacetabular process, shape: sharply pointed (0); blunt to semicircular anterior margin (1). [[Salgado et al. 1997]] State 0 (0).
+  210. Pubis, ambiens process development: small, confluent with anterior margin of pubis (0); prominent, projecting anteriorly (1). [[McIntosh 1990a, Upcchurch 1998]] State 0 (0); State 1 (1).
+  211. Pubis, length of puboischial contact: less than 0.45 total length of pubis (0); 0.45 or more of total length of pubis (1). [[Salgado et al. 1997, modified by Mannion et al. 2011]] State 0 (0); State 1 (1).
+  212. Ischium, acetabular articular surface: maintains approximately the same transverse width throughout its length (0); is transversely narrower in its central portion and strongly expanded as it approaches the iliac and pubic articulations (1). [[Mannion et al. 2011]] State 0 (0); State 1 (1).
+  213. Ischial distal shaft, shape: blade-like, medial and lateral depths subequal (0); triangular, depth of ischial shaft increases medially (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  214. Ischial distal shafts, cross-sectional shape: V-shaped, forming an angle of nearly 50° with each other (0); flat, nearly coplanar (1). [[Upchurch 1998; Wilson & Sereno 1998]] State 0 (0); State 1 (1).
+  215. Ischium, iliac peduncle: iliac peduncle straight or widening in smooth curve distally (0); narrow,with distinct 'neck' (1). [[Sereno et al. 2007]] State 0 (0); State 1 (1).
+  216. Ischium, elongate muscle scar on proximal end: absent (0); present (1). [[Sereno et al. 2007]] State 0 (0).
+  217. Ischial shaft, transverse distal expansion: absent (0); present (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  218. Ischium, posterodorsal expansion of distal end: absent (0); present (1). [[Lovelace et al. 2007]] State 0 (0).
+  219. Ischium, lateral fossa at base of shaft: absent (0); present (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  220. Femur, fourth trochanter: prominent, visible in anterior view (0); not visible in anterior view (1). [[Gallina & Apesteguía 2005, modified by Whitlock 2011]] State 0 (0); State 1 (1).
+  221. Femoral fourth trochanter, present as low rounded ridge (0); greatly reduced so that it is virtually absent (1). [[Mannion et al. 2011]] State 0 (0); State 1 (1).
+  222. Femur, greatest anteroposterior thickness of shaft: less than or approximately equal to half the anteroposterior depth of the distal articular condyles (0); much greater than half the anteroposterior depth of the distal articular condyles (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  223. Femur, shape of distal condyles: articular surface restricted to distal portion of femur (0); expanded onto anterior portion of femoral shaft (1). [[Wilson & Carrano 1999; Wilson 2002]] State 0 (0); State 1 (1).
+  224. Femur, pronounced ridge on posterior surface between greater trochanter and head: absent (0); present (1). [[Sereno et al. 2007]] State 0 (0).
+  225. Femur, large nutrient foramen opening midshaft anteriorly on femur: absent (0), present (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  226. Fibula, insertion of the M. iliofibularis: located approximately at mid-shaft (0); proximal, located above midshaft (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  227. Astragalus, shape: rectangular (0); wedge-shaped, with reduced anteromedial corner (1). [[Upchurch 1995, 1998]] State 0 (0); State 1 (1).
+  228. Astragalus, ascending process length: limited to anterior two-thirds of astragalus anteroposterior width (0); extends beyond two-thirds of astragalus anteroposterior width (normally to posterior margin of astragalus) (1). [[Wilson & Sereno 1998, Wilson 2002, modified by Mannion et al. 2011]] State 0 (0); State 1 (1).
+  229. Astragalus, fibular facet: faces laterally (0); faces posterolaterally, anterior margin visible in posterior view (1). [[Whitlock 2011]] State 0 (0); State 1 (1).
+  230. Metatarsal I distal condyle, posterolateral projection: absent (0); present (1). [[Berman & McIntosh 1978]] State 0 (0); State 1 (1).
+  231. Metatarsal I, transverse axis of proximal and distal condyles: at an angle to the axis of the shaft (0); perpendicular to the axis of the shaft (1). [[Wilson 2002]] State 0 (0); State 1 (1).
+  232. Metatarsals I-III, rugosities on dorsolateral margins near distal ends: absent (0); present (1). [[Upchurch 1995]] State 0 (0); State 1 (1).
+  233. Pes, phalanx I-1: proximal and ventral surfaces meet at approximately 90° (0); proximoventral corner drawn out into thin plate underlying metatarsal I (1). [[McIntosh et al. 1992]] State 0 (0); State 1 (1).
+  234. Pes, phalanx II-2: well developed and subrectangular in dorsal view (0); reduced,with an irregular D-shaped outline and proximal and distal articular surfaces that meet virtually along the dorsal and plantar margins (1). [[McIntosh et al. 1992]] State 0 (0); State 1 (1).

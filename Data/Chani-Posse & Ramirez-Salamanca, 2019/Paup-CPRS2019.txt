@@ -1,0 +1,301 @@
+
+P A U P *
+Version 4.0a (build 166) for macOS (built on Sep  1 2019 at 23:02:50)
+Fri May 22 09:19:11 2020
+
+
+paup> execute CPRS2019.nex
+
+Processing of file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Chani-Posse & Ramirez-Salamanca,
+2019/CPRS2019.nex" begins...
+
+Data matrix has 79 taxa, 138 characters
+Valid character-state symbols: 012345
+Missing data identified by '?'
+Gaps identified by '-'
+
+Character types changed:
+  Of 138 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+
+*** Skipping "MESQUITECHARMODELS" block
+
+*** Skipping "MESQUITE" block
+
+Processing of input file "CPRS2019.nex" completed.
+
+paup> tstatus
+
+Taxon-status summary:
+   Original data matrix contains 79 taxa
+   No taxa have been deleted
+   No taxa have been assigned to the outgroup: outgroup defaults to first taxon (Arrowinus minutus)
+
+paup> cstatus
+
+Character-status summary:
+  Current optimality criterion = parsimony
+  No characters are excluded
+  Of 138 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+    18 characters are parsimony-uninformative
+    Number of parsimony-informative characters = 120
+
+paup> pset collapse=no
+
+paup> hsearch reconlimit=0 addseq=random hold=10 nreps=50
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 138 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        18 characters are parsimony-uninformative
+        Number of parsimony-informative characters = 120
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 50
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+The limit of 100 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)y
+
+Enter new value for 'Maxtrees' (200):10000
+
+Action if limit is hit:
+   (1) Prompt for new value
+   (2) Automatically increase by 100 (= AUTOINC)
+   (3) Leave unchanged, and don't prompt
+(1)>1
+
+The limit of 10000 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)n
+
+    'Maxtrees' limit (10000) hit while swapping on tree #5370 (score=637)
+
+Heuristic search completed
+  Total number of rearrangements tried = 2.1886e+10
+  Score of best tree(s) found = 635
+  Number of trees retained = 3216
+  Note: Effectiveness of search may have been diminished due to tree-buffer overflow.
+  Time used = 00:44:55 (CPU time = 00:43:41.2)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1       480      2161      2640             635           15       3
+     2       576      1585      2160             635           10       2
+     3       576      2641      3216             635           24       3
+     4      1584         1      1584             635            1       7
+     5        60         -         -             636           29       2*
+     6        72         -         -             636            2       1
+     7       384         -         -             637           34       1
+     8       576         -         -             637           36       2*
+     9       792         -         -             637            6       1
+    10      2304         -         -             637           46       1
+    11      6784         -         -             637           26       9*
+    12      7360         -         -             637           18       2*
+    13      7840         -         -             637           14       1
+    14      8416         -         -             637            3       3*
+    15        48         -         -             638           13       1
+    16       576         -         -             638           20       2*
+    17       768         -         -             638           17       1
+    18      2880         -         -             638            8       1
+    19      6784         -         -             638           40       1
+    20      7360         -         -             638           22       1
+    21      8416         -         -             638            7       1
+    22       192         -         -             639           11       1
+    23      6784         -         -             639           27       1
+    24       528         -         -             640           23       1
+    25      6020         -         -             640           47       1
+
+Note(s):
+    * Multiple hits on islands of unsaved trees may in fact represent different islands
+
+paup> savetrees file=Pauptrees-CPRS2019.tre
+
+3216 trees saved to file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Chani-Posse & Ramirez-
+Salamanca, 2019/Pauptrees-CPRS2019.tre"
+
+paup> contree / file=Paupcontree-CPRS2019.tre
+
+OK to replace file "Paupcontree-CPRS2019.tre"? (Y/n)y
+
+Strict consensus of 3216 trees:
+
+/------------------------------------------------------------------------------------- Arrowinus minutus
+|
+|                                                                               /----- Amblyopinus emarginatus
+|    /--------------------------------------------------------------------------+
+|    |                                                                          \----- Holisus prolixus
+|    |
+|    |    /--------------------------------------------------------------------------- Cyrtoquedius frenatus group
+\----+    |
+     |    |    /---------------------------------------------------------------------- Creophilus maxillosus
+     |    |    |
+     |    |    +---------------------------------------------------------------------- Platydracus chrysotrichopterus
+     \----+    |
+          |    |                                                           /---------- Misantlius gebieni
+          |    |                                                           |
+          |    |    /------------------------------------------------------+    /----- Philothalpus bilobus
+          |    |    |                                                      \----+
+          \----+    |                                                           \----- Philothalpus falini
+               |    |
+               |    |                                                           /----- Xenopygus analis
+               |    |    /------------------------------------------------------+
+               |    |    |                                                      \----- Nordus elytisi
+               |    |    |
+               |    |    |                                                      /----- Actinus imperialis
+               |    |    |                                                 /----+
+               |    |    |                                                 |    \----- Hesperus baltimorensis
+               \----+    |    /--------------------------------------------+
+                    |    |    |                                            \---------- Laetulonthus laetulus
+                    |    |    |
+                    |    |    |                                                 /----- Agacerus pectinatus
+                    |    |    |    /--------------------------------------------+
+                    |    |    |    |                                            \----- Trapeziderus diversus
+                    |    |    |    |
+                    |    |    |    |                                       /---------- Belonuchus atticida
+                    |    |    |    |                                       |
+                    |    |    |    |                                       |    /----- Hesperus argentinus
+                    |    |    |    |                                       |    |
+                    \----+    |    |                                       +----+----- Hesperus bruchi
+                         |    |    |                        /--------------+    |
+                         |    |    |                        |              |    \----- Hesperus tremolerasi
+                         |    |    |                        |              |
+                         |    |    |                        |              +---------- Hesperus ferrugineus
+                         |    |    |                        |              |
+                         |    |    |                        |              \---------- Hesperus zitschkai
+                         |    |    |                        |
+                         |    |    |                        |                   /----- Belonuchus barbicornis
+                         |    |    |                        |              /----+
+                         |    |    |                        |              |    \----- Ophionthus serpentinus
+                         |    |    |                        |              |
+                         |    |    |                        |              |    /----- Belonuchus cephalotes
+                         |    |    |                        |              +----+
+                         |    |    |                        |              |    \----- Belonuchus gracilis
+                         |    |    |                        |              |
+                         |    |    |                        |              |    /----- Belonuchus albovariegatus
+                         \----+    |                        |              +----+
+                              |    |                        |              |    \----- Paederomimus nigrinus
+                              |    |                        |              |
+                              |    |                        |         /----+---------- Belonuchus subaeneus
+                              |    |                        |         |    |
+                              |    |                        |         |    +---------- Linoderus gracilipes
+                              |    |                        |         |    |
+                              |    |                        |         |    +---------- Neopescolinus nevermanni
+                              |    |                        |         |    |
+                              |    |                        |         |    |    /----- Paederomimus nobilis
+                              |    |                        |         |    +----+
+                              |    |                        |         |    |    \----- Paederomimus salvini
+                              |    |                        |         |    |
+                              |    |                        |         |    \---------- Pescolinus palmatus
+                              |    |                        |         |
+                              |    |                        |         |         /----- Hesperus novo-teutonicus
+                              |    |                        |         |         |
+                              |    |                        |         |         +----- Paederomimus angusticollis
+                              |    |                        |         +---------+
+                              |    |                        +---------+         +----- Paederomimus cf contractus
+                              |    |                        |         |         |
+                              |    |                        |         |         \----- Paederomimus difformiceps
+                              |    |                        |         |
+                              |    |                        |         +--------------- Hesperus ornaticornis
+                              |    |                        |         |
+                              |    |                   /----+         +--------------- Odontolinus fasciatus
+                              |    |                   |    |         |
+                              |    |                   |    |         +--------------- Paederomimus aeneiceps
+                              \----+                   |    |         |
+                                   |                   |    |         |         /----- Paederomimus capitalis group
+                                   |                   |    |         +---------+
+                                   |                   |    |         |         \----- Paederomimus pectoralis
+                                   |                   |    |         |
+                                   |                   |    |         +--------------- Paederomimus gentilis
+                                   |                   |    |         |
+                                   |                   |    |         \--------------- Paederomimus lustrator group
+                                   |                   |    |
+                                   |                   |    |                   /----- Belonuchus cognatus
+                                   |                   |    |              /----+
+                                   |                   |    |              |    \----- Belonuchus haemorrhoidalis
+                                   |                   |    |         /----+
+                                   |                   |    |         |    \---------- Belonuchus mordens
+                                   |                   |    +---------+
+                                   |                   |    |         |         /----- Belonuchus pollens
+                                   |                   |    |         \---------+
+                                   |                   |    |                   \----- Belonuchus rufipennis
+                                   |                   |    |
+                                   |              /----+    +------------------------- Chroaptomus flagrans
+                                   |              |    |    |
+                                   |              |    |    |              /---------- Delgadobius amazonensis
+                                   |              |    |    |              |
+                                   |              |    |    |         /----+    /----- Philonthus callosipennis
+                                   |              |    |    |         |    \----+
+                                   |              |    |    |    /----+         \----- Philonthus diamantinus
+                                   |              |    |    |    |    |
+                                   |              |    |    +----+    \--------------- Phileciton badariottii
+                                   |              |    |    |    |
+                                   |              |    |    |    |              /----- Philonthus fulgipennides
+                                   |              |    |    |    \--------------+
+                                   |         /----+    |    |                   \----- Philonthus laetipennis
+                                   |         |    |    |    |
+                                   |         |    |    |    |                   /----- Ecitophytes coniceps
+                                   |         |    |    |    +-------------------+
+                                   |         |    |    |    |                   \----- Paederallus sp undescribed
+                                   |         |    |    |    |
+                                   |         |    |    |    \------------------------- Proxenobius borgmeieri
+                                   |         |    |    |
+                                   |    /----+    |    +------------------------------ Leptopeltoides columbiensis
+                                   |    |    |    |    |
+                                   |    |    |    |    \------------------------------ Leptopeltus flavipennis
+                                   |    |    |    |
+                                   |    |    |    |                             /----- Bisnius sordidus
+                                   |    |    |    \-----------------------------+
+                                   |    |    |                                  \----- Gabrius picipennis
+                                   |    |    |
+                                   |    |    \---------------------------------------- Flohria subcoerulea
+                                   |    |
+                                   |    |                                       /----- Cafius seminitens
+                                   |    |                        /--------------+
+                                   |    |                        |              \----- Cafius xantholoma
+                                   |    |                        |
+                                   \----+                        |              /----- Philonthus bicoloristylus
+                                        |                   /----+         /----+
+                                        |                   |    |         |    \----- Philonthus lynchi
+                                        |                   |    |    /----+
+                                        |              /----+    \----+    \---------- Philonthus bonariensis
+                                        |              |    |         |
+                                        |              |    |         \--------------- Philonthus flavolimbatus
+                                        |              |    |
+                                        |         /----+    \------------------------- Philonthus rectangulus
+                                        |         |    |
+                                        |         |    |                        /----- Philonthus figulus
+                                        |         |    |                   /----+
+                                        |         |    |                   |    \----- Philonthus longicornis
+                                        |         |    \-------------------+
+                                        \---------+                        \---------- Philonthus sericans
+                                                  |
+                                                  |                             /----- Philonthus caeruleipennis
+                                                  |                        /----+
+                                                  |                        |    \----- Philonthus cyanipennis
+                                                  \------------------------+
+                                                                           |    /----- Philonthus nitidus
+                                                                           \----+
+                                                                                \----- Philonthus splendens
+
+Consensus tree(s) written to treefile: ~/Documents/Imperial/Morphological Character Hierarchies/Data/Chani-Posse &
+Ramirez-Salamanca, 2019/Paupcontree-CPRS2019.tre

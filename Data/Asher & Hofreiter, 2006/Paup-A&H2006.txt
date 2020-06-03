@@ -1,0 +1,9 @@
+branchswap=TBR
+gap=Inapp
+ratchet=yes
+addseq=random
+hold=20
+nreps=50
+heuristic
+ratchet=no
+heuristic

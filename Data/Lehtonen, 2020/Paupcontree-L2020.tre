@@ -1,0 +1,39 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Sat May 30 12:48:06 2020]
+[!
+>Consensus of 1512 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 79 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        19 characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 60
+>    Gaps are treated as "missing"
+>    Multistate taxa interpreted as uncertainty
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 50
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 10
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 5015124307
+>  Score of best tree(s) found = 209
+>  Number of trees retained = 1512
+>  Note: Effectiveness of search may have been diminished due to tree-buffer overflow.
+>  Time used = 00:19:29 (CPU time = 00:17:17.4)
+]
+	tree Strict = [&U] (Osmundastrum_cinnamomeum,((((((Angiopteris_evecta,Angiopteris_angustifolia,Angiopteris_blackii),(((((Eupodium_kaulfussii,Marattiopsis_vodrazkae),Marattia_cicutifolia),Ptisana_novoguineensis),Marattia_laxa),Marattiopsis_patagonica),Marattiopsis_aganzhenensis,Marattiopsis_asiatica,Marattiopsis_anglica),Christensenia_aesculifolia),Danaea_sellowiana),(Qasimia_schyfsmae,Qasimia_lanceolata)),(((((Scolecopteris_minor,Scolecopteris_majopsis,Scolecopteris_illinoensis,Acaulangium_bulbaceum,(((Scolecopteris_latifolia,Scolecopteris_calicifolia),Scolecopteris_mamayi),Scolecopteris_gnoma),Scolecopteris_antarctica,Scolecopteris_globiforma,Eoangiopteris_goodii,Eoangiopteris_andrewsii,(Acitheca_polymorpha,Acitheca_adaensis),(Zhutheca_densata,Taiyuanitheca_tetralinea),Grandeuryella_renaultii,Araiangium_pygmaeum),Pectinangium_lanceolatum),Buritiranopteris_costata,Gemellitheca_saudica),(Millaya_tularosana,Danaeites_rigida)),(Radstockia_kidstonii,Sydneia_manleyi))),((Danaeopsis_fecunda,Marantoidea_acara),Danaeopsis_marantacea));
+end;

@@ -1,0 +1,78 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Wed May 13 12:51:08 2020]
+[!
+>Data file = asher-hofreiter-morph-2.nex
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 128 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        2 characters are constant (proportion = 0.015625)
+>        14 variable characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 112
+>    Gaps are treated as "missing"
+>    Multistate taxa interpreted as uncertainty
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 50
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 10
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 2651475
+>  Score of best tree(s) found = 343
+>  Number of trees retained = 17
+>  Time used = 0.66 sec (CPU time = 0.66 sec)
+]
+	Translate
+		1 Didelphis,
+		2 Blarina,
+		3 Canis,
+		4 Chrysochloris,
+		5 Crocidura,
+		6 Echinops,
+		7 Elephantulus,
+		8 Erinaceus,
+		9 Erythrozootes,
+		10 Geogale,
+		11 Hemicentetes,
+		12 Limnogale,
+		13 Microgale,
+		14 Micropotamogale,
+		15 Orycteropus,
+		16 Oryzorictes,
+		17 Parageogale,
+		18 Potamogale,
+		19 Procavia,
+		20 Protenrec,
+		21 Setifer,
+		22 Sorex,
+		23 Tenrec
+		;
+tree 'PAUP_1' = [&U] (1,((((((((2,22),5),4),13),(((9,((10,17),20)),(14,18)),12)),16),(((6,21),23),11)),((3,19),(7,8))),15);
+tree 'PAUP_2' = [&U] (1,((((((((2,22),5),4),13),(((9,20),(10,17)),(12,(14,18)))),16),(((6,21),23),11)),((3,19),(7,8))),15);
+tree 'PAUP_3' = [&U] (1,(((((((2,22),5),4),((((9,((10,17),20)),(14,18)),12),13)),16),(((6,21),23),11)),((3,19),(7,8))),15);
+tree 'PAUP_4' = [&U] (1,(((((((2,22),5),4),((((9,20),(10,17)),(12,(14,18))),13)),16),(((6,21),23),11)),((3,19),(7,8))),15);
+tree 'PAUP_5' = [&U] (1,(((((((2,22),5),4),((((9,20),(10,17)),13),(12,(14,18)))),16),(((6,21),23),11)),((3,19),(7,8))),15);
+tree 'PAUP_6' = [&U] (1,(((((((((2,22),5),4),(12,(14,18))),((9,20),(10,17))),13),16),(((6,21),23),11)),((3,19),(7,8))),15);
+tree 'PAUP_7' = [&U] (1,(((((((((2,22),5),4),((9,20),(10,17))),(12,(14,18))),13),16),(((6,21),23),11)),((3,19),(7,8))),15);
+tree 'PAUP_8' = [&U] (1,((((((((2,22),5),4),(12,(14,18))),(((9,20),(10,17)),13)),16),(((6,21),23),11)),((3,19),(7,8))),15);
+tree 'PAUP_9' = [&U] (1,(((((((((((2,22),5),4),(12,(14,18))),13),16),((9,20),(10,17))),(6,21)),23),11),15),(3,((7,8),19)));
+tree 'PAUP_10' = [&U] (1,(((((((((((((2,22),5),4),(12,(14,18))),13),16),(10,17)),20),9),(6,21)),23),11),15),(3,((7,8),19)));
+tree 'PAUP_11' = [&U] (1,(((((((((((2,22),5),4),16),(12,(14,18))),13),((9,20),(10,17))),(6,21)),23),11),15),(3,((7,8),19)));
+tree 'PAUP_12' = [&U] (1,((((((((((((2,22),5),4),(12,(14,18))),13),16),((10,17),20)),9),(6,21)),23),11),15),(3,((7,8),19)));
+tree 'PAUP_13' = [&U] (1,(((((((((((((2,22),5),4),(12,(14,18))),13),16),20),(10,17)),9),(6,21)),23),11),15),(3,((7,8),19)));
+tree 'PAUP_14' = [&U] (1,(((((((((((((2,22),5),4),16),(12,(14,18))),13),(10,17)),20),9),(6,21)),23),11),15),(3,((7,8),19)));
+tree 'PAUP_15' = [&U] (1,((((((((((((2,22),5),4),16),(12,(14,18))),13),((10,17),20)),9),(6,21)),23),11),15),(3,((7,8),19)));
+tree 'PAUP_16' = [&U] (1,(((((((((((((2,22),5),4),16),(12,(14,18))),13),20),(10,17)),9),(6,21)),23),11),15),(3,((7,8),19)));
+tree 'PAUP_17' = [&U] (1,((((((((((2,22),5),4),(12,(14,18))),((9,20),(10,17))),13),16),((6,21),23)),11),15),(3,((7,8),19)));
+End;

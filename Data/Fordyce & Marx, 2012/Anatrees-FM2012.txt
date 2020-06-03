@@ -1,0 +1,93 @@
+tread
+'trees from anagallis'
+(((Piscobalaena_nana(Caperea_marginata(Herpetocetus_transatlanticus(Nannocetus_eremus Herpetocetus_bramblei))))(Cetotherium_rathkii(((Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaenula_astensis Balaena_mysticetus))))(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))))(Diorocetus_hiatus(Pelocetus_calvertensis((Eschrichtius_robustus Megaptera_miocaena)(Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae))))))))Metopocetus_durinasus)*
+
+
+(((Diorocetus_hiatus((((((Balaenula_astensis Balaena_mysticetus)Eubalaena_spp.)Balaenella_brachyrhynus)Morenocetus_parvus)(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))))(Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana(Caperea_marginata((Herpetocetus_transatlanticus Herpetocetus_bramblei)Nannocetus_eremus)))))))Pelocetus_calvertensis)((Megaptera_miocaena Eschrichtius_robustus)(Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae))))*
+
+
+(((Diorocetus_hiatus((((((Balaenula_astensis Balaena_mysticetus)Eubalaena_spp.)Balaenella_brachyrhynus)Morenocetus_parvus)(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))))(Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana(Caperea_marginata((Herpetocetus_transatlanticus Herpetocetus_bramblei)Nannocetus_eremus)))))))Pelocetus_calvertensis)((Megaptera_miocaena Eschrichtius_robustus)(Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae))))*
+
+
+(Megaptera_miocaena((((Diorocetus_hiatus(((Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaenula_astensis Balaena_mysticetus))))(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))))(Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana(Caperea_marginata(Herpetocetus_transatlanticus(Nannocetus_eremus Herpetocetus_bramblei))))))))Pelocetus_calvertensis)(Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae)))Eschrichtius_robustus))*
+
+
+(((Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae))((Diorocetus_hiatus(((Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii)))(Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaenula_astensis Balaena_mysticetus)))))(Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana(Caperea_marginata(Herpetocetus_transatlanticus(Nannocetus_eremus Herpetocetus_bramblei))))))))Pelocetus_calvertensis))(Megaptera_miocaena Eschrichtius_robustus))*
+
+
+(Megaptera_miocaena(Eschrichtius_robustus(((Diorocetus_hiatus(((Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii)))(Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaenula_astensis Balaena_mysticetus)))))(Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana(Caperea_marginata(Nannocetus_eremus(Herpetocetus_transatlanticus Herpetocetus_bramblei))))))))Pelocetus_calvertensis)(Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae)))))*
+
+
+((Eubalaena_spp.(Balaenella_brachyrhynus(Morenocetus_parvus(((Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana(Caperea_marginata(Herpetocetus_transatlanticus(Nannocetus_eremus Herpetocetus_bramblei))))))(Diorocetus_hiatus(((Eschrichtius_robustus Megaptera_miocaena)(Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae)))Pelocetus_calvertensis)))(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii)))))))(Balaenula_astensis Balaena_mysticetus))*
+
+
+((((Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaena_mysticetus Balaenula_astensis))))(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))))(Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana((Herpetocetus_transatlanticus(Nannocetus_eremus Herpetocetus_bramblei))Caperea_marginata)))))((((Megaptera_miocaena Eschrichtius_robustus)(Plesiobalaenoptera_quarantellii(Megaptera_novaeangliae Balaenoptera_bonaerensis)))Pelocetus_calvertensis)Diorocetus_hiatus))*
+
+
+(Pelocetus_calvertensis((Diorocetus_hiatus(((Morenocetus_parvus((Eubalaena_spp.(Balaena_mysticetus Balaenula_astensis))Balaenella_brachyrhynus))(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))))(Cetotherium_rathkii((Piscobalaena_nana((Herpetocetus_transatlanticus(Nannocetus_eremus Herpetocetus_bramblei))Caperea_marginata))Metopocetus_durinasus))))((Plesiobalaenoptera_quarantellii(Megaptera_novaeangliae Balaenoptera_bonaerensis))(Megaptera_miocaena Eschrichtius_robustus))))*
+
+
+(((Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana(Caperea_marginata((Nannocetus_eremus Herpetocetus_bramblei)Herpetocetus_transatlanticus)))))((((Megaptera_miocaena Eschrichtius_robustus)(Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae)))Pelocetus_calvertensis)Diorocetus_hiatus))((Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii)))(Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaenula_astensis Balaena_mysticetus))))))*
+
+
+((Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana((Herpetocetus_transatlanticus(Nannocetus_eremus Herpetocetus_bramblei))Caperea_marginata))))(((Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii)))(Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaenula_astensis Balaena_mysticetus)))))(Diorocetus_hiatus(((Megaptera_miocaena Eschrichtius_robustus)(Plesiobalaenoptera_quarantellii(Megaptera_novaeangliae Balaenoptera_bonaerensis)))Pelocetus_calvertensis))))*
+
+
+(Piscobalaena_nana((Caperea_marginata(Herpetocetus_transatlanticus(Herpetocetus_bramblei Nannocetus_eremus)))(Metopocetus_durinasus(Cetotherium_rathkii((((((Balaenula_astensis Balaena_mysticetus)Eubalaena_spp.)Balaenella_brachyrhynus)Morenocetus_parvus)(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))))(Diorocetus_hiatus(Pelocetus_calvertensis((Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae))(Megaptera_miocaena Eschrichtius_robustus)))))))))*
+
+
+((Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaenula_astensis Balaena_mysticetus))))((Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii)))((Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana(Caperea_marginata(Nannocetus_eremus(Herpetocetus_transatlanticus Herpetocetus_bramblei))))))(Diorocetus_hiatus(Pelocetus_calvertensis((Megaptera_miocaena Eschrichtius_robustus)(Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae))))))))*
+
+
+(Morenocetus_parvus((((Balaenula_astensis Balaena_mysticetus)Eubalaena_spp.)Balaenella_brachyrhynus)((Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii)))(((Pelocetus_calvertensis((Eschrichtius_robustus Megaptera_miocaena)(Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae))))Diorocetus_hiatus)((Metopocetus_durinasus((((Nannocetus_eremus Herpetocetus_bramblei)Herpetocetus_transatlanticus)Caperea_marginata)Piscobalaena_nana))Cetotherium_rathkii)))))*
+
+
+((Plesiobalaenoptera_quarantellii(((Diorocetus_hiatus(((Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii)))(Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaenula_astensis Balaena_mysticetus)))))(Cetotherium_rathkii((Piscobalaena_nana(Caperea_marginata(Herpetocetus_transatlanticus(Nannocetus_eremus Herpetocetus_bramblei))))Metopocetus_durinasus))))Pelocetus_calvertensis)(Megaptera_miocaena Eschrichtius_robustus)))(Balaenoptera_bonaerensis Megaptera_novaeangliae))*
+
+
+((Piscobalaena_nana(Metopocetus_durinasus(Cetotherium_rathkii((((((Balaenula_astensis Balaena_mysticetus)Eubalaena_spp.)Balaenella_brachyrhynus)Morenocetus_parvus)(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))))(Diorocetus_hiatus(((Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae))(Megaptera_miocaena Eschrichtius_robustus))Pelocetus_calvertensis))))))(Caperea_marginata(Herpetocetus_transatlanticus(Herpetocetus_bramblei Nannocetus_eremus))))*
+
+
+((Eschrichtius_robustus((Pelocetus_calvertensis(Diorocetus_hiatus(((Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaenula_astensis Balaena_mysticetus))))(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))))(Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana(Caperea_marginata((Nannocetus_eremus Herpetocetus_bramblei)Herpetocetus_transatlanticus))))))))(Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae))))Megaptera_miocaena)*
+
+
+(Piscobalaena_nana((Caperea_marginata(Herpetocetus_bramblei(Herpetocetus_transatlanticus Nannocetus_eremus)))((Cetotherium_rathkii(((Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaenula_astensis Balaena_mysticetus))))(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))))(Diorocetus_hiatus(((Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae))(Megaptera_miocaena Eschrichtius_robustus))Pelocetus_calvertensis))))Metopocetus_durinasus)))*
+
+
+(Pelocetus_calvertensis(((Megaptera_miocaena Eschrichtius_robustus)((Megaptera_novaeangliae Balaenoptera_bonaerensis)Plesiobalaenoptera_quarantellii))(Diorocetus_hiatus(((((Eubalaena_spp.(Balaena_mysticetus Balaenula_astensis))Balaenella_brachyrhynus)Morenocetus_parvus)(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))))(Cetotherium_rathkii(Metopocetus_durinasus((Caperea_marginata((Herpetocetus_transatlanticus Herpetocetus_bramblei)Nannocetus_eremus))Piscobalaena_nana)))))))*
+
+
+(Metopocetus_durinasus((Cetotherium_rathkii((Diorocetus_hiatus(Pelocetus_calvertensis((Megaptera_miocaena Eschrichtius_robustus)(Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae)))))((Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaenula_astensis Balaena_mysticetus))))(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))))))(Piscobalaena_nana(Caperea_marginata(Herpetocetus_transatlanticus(Nannocetus_eremus Herpetocetus_bramblei))))))*
+
+
+((Morenocetus_parvus((Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii)))((Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana(Caperea_marginata(Nannocetus_eremus(Herpetocetus_transatlanticus Herpetocetus_bramblei))))))(Diorocetus_hiatus(Pelocetus_calvertensis((Megaptera_miocaena Eschrichtius_robustus)(Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae))))))))(((Balaenula_astensis Balaena_mysticetus)Eubalaena_spp.)Balaenella_brachyrhynus))*
+
+
+((Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaenula_astensis Balaena_mysticetus))))(((Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana(Caperea_marginata(Herpetocetus_transatlanticus(Nannocetus_eremus Herpetocetus_bramblei))))))(Diorocetus_hiatus(Pelocetus_calvertensis((Megaptera_miocaena Eschrichtius_robustus)(Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae))))))(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii)))))*
+
+
+(((((Diorocetus_hiatus(((Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii)))((((Balaenula_astensis Balaena_mysticetus)Eubalaena_spp.)Balaenella_brachyrhynus)Morenocetus_parvus))(Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana(Caperea_marginata(Herpetocetus_transatlanticus(Nannocetus_eremus Herpetocetus_bramblei))))))))Pelocetus_calvertensis)(Megaptera_miocaena Eschrichtius_robustus))(Balaenoptera_bonaerensis Megaptera_novaeangliae))Plesiobalaenoptera_quarantellii)*
+
+
+(Megaptera_miocaena(Eschrichtius_robustus(((Diorocetus_hiatus(((Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii)))(Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaenula_astensis Balaena_mysticetus)))))(Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana(Caperea_marginata(Nannocetus_eremus(Herpetocetus_transatlanticus Herpetocetus_bramblei))))))))Pelocetus_calvertensis)(Plesiobalaenoptera_quarantellii(Balaenoptera_bonaerensis Megaptera_novaeangliae)))))*
+
+
+(Eschrichtius_robustus(Megaptera_miocaena(((Megaptera_novaeangliae Balaenoptera_bonaerensis)Plesiobalaenoptera_quarantellii)((Diorocetus_hiatus((((((Balaena_mysticetus Balaenula_astensis)Eubalaena_spp.)Balaenella_brachyrhynus)Morenocetus_parvus)((Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))Eomysticetus_whitmorei))(Cetotherium_rathkii((Piscobalaena_nana(((Nannocetus_eremus Herpetocetus_bramblei)Herpetocetus_transatlanticus)Caperea_marginata))Metopocetus_durinasus))))Pelocetus_calvertensis))))*
+
+
+(((Herpetocetus_transatlanticus(Nannocetus_eremus Herpetocetus_bramblei))Caperea_marginata)(Piscobalaena_nana(Metopocetus_durinasus(Cetotherium_rathkii(((Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii)))(Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaena_mysticetus Balaenula_astensis)))))(Diorocetus_hiatus(Pelocetus_calvertensis((Megaptera_miocaena Eschrichtius_robustus)((Balaenoptera_bonaerensis Megaptera_novaeangliae)Plesiobalaenoptera_quarantellii)))))))))*
+
+
+((((Cetotherium_rathkii(Metopocetus_durinasus(Piscobalaena_nana((Herpetocetus_bramblei(Nannocetus_eremus Herpetocetus_transatlanticus))Caperea_marginata))))((Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaenula_astensis Balaena_mysticetus))))(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii)))))(Pelocetus_calvertensis((Megaptera_miocaena Eschrichtius_robustus)(Plesiobalaenoptera_quarantellii(Megaptera_novaeangliae Balaenoptera_bonaerensis)))))Diorocetus_hiatus)*
+
+
+((Caperea_marginata(Nannocetus_eremus(Herpetocetus_transatlanticus Herpetocetus_bramblei)))(Piscobalaena_nana(((((Morenocetus_parvus(((Balaena_mysticetus Balaenula_astensis)Eubalaena_spp.)Balaenella_brachyrhynus))(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))))((((Megaptera_miocaena Eschrichtius_robustus)((Megaptera_novaeangliae Balaenoptera_bonaerensis)Plesiobalaenoptera_quarantellii))Pelocetus_calvertensis)Diorocetus_hiatus))Cetotherium_rathkii)Metopocetus_durinasus)))*
+
+
+(Piscobalaena_nana((Caperea_marginata((Nannocetus_eremus Herpetocetus_bramblei)Herpetocetus_transatlanticus))((Cetotherium_rathkii(((Morenocetus_parvus(Balaenella_brachyrhynus(Eubalaena_spp.(Balaena_mysticetus Balaenula_astensis))))(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))))(Diorocetus_hiatus(Pelocetus_calvertensis((Megaptera_miocaena Eschrichtius_robustus)(Plesiobalaenoptera_quarantellii(Megaptera_novaeangliae Balaenoptera_bonaerensis)))))))Metopocetus_durinasus)))*
+
+
+(Pelocetus_calvertensis((Diorocetus_hiatus(((Morenocetus_parvus(((Balaena_mysticetus Balaenula_astensis)Eubalaena_spp.)Balaenella_brachyrhynus))(Eomysticetus_whitmorei(Aetiocetus_cotylalveus(Physeter_catodon Zygorhiza_kochii))))((Metopocetus_durinasus((Caperea_marginata((Nannocetus_eremus Herpetocetus_bramblei)Herpetocetus_transatlanticus))Piscobalaena_nana))Cetotherium_rathkii)))((Plesiobalaenoptera_quarantellii(Megaptera_novaeangliae Balaenoptera_bonaerensis))(Megaptera_miocaena Eschrichtius_robustus))))*
+
+
+(((Diorocetus_hiatus(((((Eubalaena_spp.(Balaena_mysticetus Balaenula_astensis))Balaenella_brachyrhynus)Morenocetus_parvus)(((Physeter_catodon Zygorhiza_kochii)Aetiocetus_cotylalveus)Eomysticetus_whitmorei))(((Piscobalaena_nana(((Herpetocetus_transatlanticus Herpetocetus_bramblei)Nannocetus_eremus)Caperea_marginata))Metopocetus_durinasus)Cetotherium_rathkii)))Pelocetus_calvertensis)(((Megaptera_novaeangliae Balaenoptera_bonaerensis)Plesiobalaenoptera_quarantellii)(Megaptera_miocaena Eschrichtius_robustus)));

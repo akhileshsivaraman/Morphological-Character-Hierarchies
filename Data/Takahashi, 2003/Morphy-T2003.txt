@@ -1,0 +1,15 @@
+branchswap-tbr
+branchswap=tbr
+open
+Takahashi2003.nex
+branchswap
+branchswap=tbr
+gap=inapp
+rachet =yes
+ratchet=yes
+addseq=random
+hold=10
+nreps=50
+heuristic
+save
+Morphy-T2003.tre

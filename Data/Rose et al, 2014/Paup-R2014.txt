@@ -1,0 +1,288 @@
+
+P A U P *
+Version 4.0a (build 166) for macOS (built on Sep  1 2019 at 23:02:50)
+Wed May 27 08:24:20 2020
+
+
+paup> cstatus
+
+Character-status summary:
+  Current optimality criterion = parsimony
+  No characters are excluded
+  Of 245 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+    6 characters are constant (proportion = 0.0244898)
+    12 variable characters are parsimony-uninformative
+    Number of parsimony-informative characters = 227
+
+paup> tstatus
+
+Taxon-status summary:
+   Original data matrix contains 53 taxa
+   No taxa have been deleted
+   No taxa have been assigned to the outgroup: outgroup defaults to first taxon (Eotitanops)
+
+paup> pset collapse=no
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nreps=50
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 245 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        6 characters are constant (proportion = 0.0244898)
+        12 variable characters are parsimony-uninformative
+        Number of parsimony-informative characters = 227
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 50
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+Heuristic search completed
+  Total number of rearrangements tried = 24107470
+  Score of best tree(s) found = 1203
+  Number of trees retained = 2
+  Time used = 5.25 sec (CPU time = 5.22 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1         1         1         1            1203            3      16
+     2         1         2         2            1203            9       6
+     3         9         -         -            1204            1      23*
+     4         3         -         -            1206           17       1
+     5         2         -         -            1207           35       2*
+     6         4         -         -            1207           48       1
+     7         4         -         -            1209           22       1
+
+Note(s):
+    * Multiple hits on islands of unsaved trees may in fact represent different islands
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nreps=75
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 245 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        6 characters are constant (proportion = 0.0244898)
+        12 variable characters are parsimony-uninformative
+        Number of parsimony-informative characters = 227
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 75
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+Heuristic search completed
+  Total number of rearrangements tried = 30096206
+  Score of best tree(s) found = 1203
+  Number of trees retained = 2
+  Time used = 6.85 sec (CPU time = 6.82 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1         1         1         1            1203            3      25
+     2         1         2         2            1203            8       8
+     3         9         -         -            1204            1      31*
+     4         3         -         -            1206            7       5*
+     5         2         -         -            1207           33       1
+     6         4         -         -            1207            4       3*
+     7        14         -         -            1207           65       1
+     8         2         -         -            1208           58       1
+
+Note(s):
+    * Multiple hits on islands of unsaved trees may in fact represent different islands
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nreps=100
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 245 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        6 characters are constant (proportion = 0.0244898)
+        12 variable characters are parsimony-uninformative
+        Number of parsimony-informative characters = 227
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 100
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+Heuristic search completed
+  Total number of rearrangements tried = 50670625
+  Score of best tree(s) found = 1203
+  Number of trees retained = 2
+  Time used = 10.82 sec (CPU time = 10.79 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1         1         1         1            1203            2      30
+     2         1         2         2            1203            6      12
+     3         9         -         -            1204            5      44*
+     4         3         -         -            1206           20       5*
+     5         2         -         -            1207           63       1
+     6         4         -         -            1207           67       2*
+     7        14         -         -            1207           29       4*
+     8         3         -         -            1208            9       1
+     9         2         -         -            1210            1       1
+
+Note(s):
+    * Multiple hits on islands of unsaved trees may in fact represent different islands
+
+paup> savetrees file=Pauptrees-R2014.tre
+
+2 trees saved to file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Rose et al,
+2014/Pauptrees-R2014.tre"
+
+paup> contree / file=Paupcontree-R2014.tre
+
+Strict consensus of 2 trees:
+
+/--------------------------------------------------------------------------- Eotitanops
+|
+|    /---------------------------------------------------------------------- Palaeosyops
+|    |
+|    |                                                            /--------- Orohippus
+|    |                                                            |
+|    |                                                       /----+   /----- Epihippus
+|    |                                                       |    \---+
+|    |                                                       |        \----- Mesohippus
+|    |                                                  /----+
+|    |                                                  |    |    /--------- Palaeotherium
+|    |                                                  |    |    |
+|    |                                              /---+    \----+   /----- Plagiolophus
+|    |                                              |   |         \---+
+|    |                                              |   |             \----- Leptolophus
+|    |                                         /----+   |
+|    |                                         |    |   \------------------- Propalaeotherium
+|    |                                         |    |
+|    |                                    /----+    \----------------------- Propachynolophus
+|    |                                    |    |
+|    |                                    |    \---------------------------- Hyracotherium
+|    |                                    |
+|    |                                /---+                           /----- Eohippus
+|    |                                |   |                       /---+
+|    |                                |   |                       |   \----- Protorohippus
+|    |                                |   |                  /----+
+|    |                           /----+   \------------------+    \--------- Xenicohippus
+|    |                           |    |                      |
+|    |                           |    |                      \-------------- Pliolophus
+|    |                 /---------+    |
+|    |                 |         |    \------------------------------------- Sifrippus
+|    |                 |         |
+|    |                 |         \------------------------------------------ Hallensia
+|    |                 |
+|    |                 |                  /--------------------------------- Phenacodus
+|    |                 |                  |
+|    |                 |                  |         /----------------------- Ectocion
+|    |                 |                  |         |
+|    |                 |                  |         +----------------------- Meniscotherium
+|    |                 |                  |         |
+|    |                 |                  |         |   /------------------- Phenacolophus
+|    |                 |                  |         |   |
+|    |                 |                  |    /----+   |    /-------------- Eritherium
+|    |                 |              /---+    |    |   |    |
+|    |                 |              |   |    |    |   |    |    /--------- Phosphatherium
+|    |                 |              |   |    |    |   |    |    |
+\----+                 |              |   |    |    |   |    +----+   /----- Moeritherium
+     |                 |              |   |    |    |   +----+    \---+
+     |             /---+              |   |    |    |   |    |        \----- Numidotherium
+     |             |   |              |   |    |    \---+    |
+     |             |   |              |   |    |        |    |    /--------- Dimaitherium
+     |             |   |              |   |    |        |    |    |
+     |             |   |              |   \----+        |    \----+   /----- Microhyrax
+     |             |   |              |        |        |         \---+
+     |             |   |         /----+        |        |             \----- Saghatherium
+     |             |   |         |    |        |        |
+     |             |   |         |    |        |        |         /--------- Diacodexis
+     |             |   |         |    |        |        |         |
+     |             |   |         |    |        |        \---------+   /----- Asioryctes
+     |             |   |         |    |        |                  \---+
+     |             |   |         |    |        |                      \----- Didelphis
+     |             |   |    /----+    |        |
+     |        /----+   |    |    |    |        \---------------------------- Tetraclaenodon
+     |        |    |   |    |    |    |
+     |        |    |   |    |    |    |                               /----- Cambaytherium
+     |        |    |   |    |    |    \-------------------------------+
+     |        |    |   |    |    |                                    \----- Nakusia
+     |        |    |   \----+    |
+     |        |    |        |    \------------------------------------------ Radinskya
+     |        |    |        |
+     |        |    |        |                                         /----- Anthracobune (no astragalus)
+     |        |    |        |                                     /---+
+     |        |    |        |                                     |   \----- Anthracobune
+     |        |    |        \-------------------------------------+
+     |        |    |                                              \--------- Pilgrimella
+     |   /----+    |
+     |   |    |    |                                                  /----- Homogalax
+     |   |    |    \--------------------------------------------------+
+     |   |    |                                                       \----- Cardiolophus
+     |   |    |
+     |   |    |                                                       /----- Eomoropus
+     |   |    |                                                   /---+
+     |   |    |                                                   |   \----- Moropus
+     |   |    |                                              /----+
+     |   |    |                           /------------------+    \--------- Litolophus
+     |   |    |                           |                  |
+     |   |    |                           |                  \-------------- Lophiodon
+     |   |    \---------------------------+
+     |   |                                |    /---------------------------- Isectolophus
+     \---+                                |    |
+         |                                \----+    /----------------------- Heptodon
+         |                                     |    |
+         |                                     |    |   /------------------- Helaletes
+         |                                     \----+   |
+         |                                          |   |             /----- Lophialetes
+         |                                          |   |         /---+
+         |                                          \---+         |   \----- Schlosseria
+         |                                              |    /----+
+         |                                              |    |    |   /----- Deperetella
+         |                                              |    |    \---+
+         |                                              \----+        \----- Teleolophus
+         |                                                   |
+         |                                                   \-------------- Hyrachyus
+         |
+         \------------------------------------------------------------------ Lambdotherium
+
+Consensus tree(s) written to treefile: ~/Documents/Imperial/Morphological Character Hierarchies/Data/Rose
+et al, 2014/Paupcontree-R2014.tre

@@ -1,0 +1,386 @@
+#NEXUS
+
+[ File output by Morphobank v3.0 (http://www.morphobank.org); 2020-03-20 15.48.55 ]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX=30;
+	TAXLABELS
+		'Hexanchidae'
+		'Pristiophorus'
+		'Sclerorhychus'
+		'Spathobatis'
+		'Pristis'
+		'Torpedo'
+		'Narcine'
+		'Narke'
+		'Iansan'
+		'Rhynchobatus'
+		'''Rhinobatos'' tenuirostris'
+		'''Rhinobatos'' maronita'
+		'Aptychotrema'
+		'Zapteryx'
+		'Trygonorrhina'
+		'''Rhinobatos'' hakelensis'
+		'Raja'
+		'Rhombopterygia'
+		'''Rhinobatos'' whitfieldi'
+		'Zanobatos'
+		'Myliobatis'
+		'Urolophus'
+		'Rhinobatos'
+		'''Rhinobatos'' latus'
+		'''Rhinobatos'' intermedius'
+		'Britobatos primarmatus'
+		'Tethybatis'
+		'Platyrhina'
+		'Platyrhinoidis'
+		'Tingitanius tenuimandibulus'
+	;
+ENDBLOCK;
+
+
+
+BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=53;
+	FORMAT DATATYPE=STANDARD MISSING=? GAP=- SYMBOLS="01234";
+
+	CHARLABELS
+		 [1] 'Rostral cartilage Shape (BD2004, char1)'
+		 [2] 'Rostral cartilage (MA2004, char24)'
+		 [3] 'Rostral appendix (MA2004, char25)'
+		 [4] 'Precerebral fossa (BD2004, char11)'
+		 [5] 'Antorbital cartilage (BD2004, char2)'
+		 [6] 'Antorbital cartilage shape'
+		 [7] 'Antorbital cartilage projection direction'
+		 [8] 'Antorbital-propterygium connection (BD2004, char4; MA2004, char7)'
+		 [9] 'Nasal capsules (BD2004, char5)'
+		 [10] 'Nasal capsule (MA2004, char27)'
+		 [11] 'Supraorbital crest (BD2004, char6; MA2004, char30)'
+		 [12] 'Postorbital process (BD2004, char7; MA2004, char32)'
+		 [13] 'Location of postorbital process (MA2004, char32)'
+		 [14] 'Jugal arch (MA2004, char35)'
+		 [15] 'Basal angle of neurocranium (BS1996, char 12; MA2004, char28)'
+		 [16] 'Relation between palatoquadrate and neurocranium (BD2004, char8; MA2004, char2)'
+		 [17] 'Labial cartilages (MA2004, char38)'
+		 [18] 'Jaw shape'
+		 [19] 'Osteodentine in tooth root (MA2004, char17)'
+		 [20] 'Pulp cavity of tooth root (MA2004, char16)'
+		 [21] 'Lingual uvula on teeth'
+		 [22] 'Differentiated lateral uvulae on teeth'
+		 [23] 'Tooth root main vascularisation'
+		 [24] 'Lingual projection of root lob median to paired lingual foramina'
+		 [25] 'Dorsal groundmass dentcles (Deynat 2005)'
+		 [26] 'Medial part of hyomandibular (MA2004, char39)'
+		 [27] 'Basihyal and first hypobranchial (MA2004, char43)'
+		 [28] 'Ceratohyal (MA2004, char44)'
+		 [29] 'Distal tip of last ceratobranchial (BD2004, char9; MA2004 char4)'
+		 [30] 'Pseudohyoid bar (BD2004, char10; MA2004, char3)'
+		 [31] 'Paired fins (BD2004, char13 and char19; MA2004, char60)'
+		 [32] 'Form of pectoral fin (BD2004, char14)'
+		 [33] 'Pectoral propterygium (BD2004, char15; MA2004, char55)'
+		 [34] 'Pectoral radials (BD2004, char16)'
+		 [35] 'Posterior corner of the pectoral fin (BD2004, char17)'
+		 [36] 'Electric ampullae on the pectoral fins (BD2004, char18)'
+		 [37] 'Postpelvic process (BD2004, char20)'
+		 [38] 'Synarcual (BD2004, char23;'
+		 [39] 'Extent of Synarcual Lip (new)'
+		 [40] 'Suprascapulae (BD2004, char24+25; MA2004, char6; new observations)'
+		 [41] 'Scapular process (BD2004, char26;MA2004, char49)'
+		 [42] 'Ball and socket articulation (MA2004, char46)'
+		 [43] 'Mesocondyle (MDM1996, char48)'
+		 [44] 'Posterior section of propterygium (MA2004, char56)'
+		 [45] 'Mesoptergium (MA2004, char58)'
+		 [46] 'Shape of puboischadic bar (MA2004, char62)'
+		 [47] 'Pectoral radials (BD2004, char28; MA2004, char57)'
+		 [48] 'Alar thorns (BD2004, char21, MD1998)'
+		 [49] 'Parallel rows of enlarged thorns over the posterior part of the disc and tail (BD2004, char22)'
+		 [50] 'Serrated tail spine (MA2004, char13)'
+		 [51] 'Placoid scales (MA2004, char14)'
+		 [52] 'Large placoid scales or thorns (MA2004, char15)'
+		 [53] 'Clasper length (MA2004, char64)'
+	;
+
+	STATELABELS
+		1
+		'stout'
+		'filamentous'
+		'absent'
+		'subtriangular: a tapered rostrum that fails to reach the anterior margin of the snout'
+		,
+		2
+		'complete'
+		'fails to reach tip of the snout'
+		'absent'
+		,
+		3
+		'absent'
+		'present'
+		,
+		4
+		'present as a circular ovoid concavity'
+		'extending anteriorly and roofed to form a tube'
+		,
+		5
+		'absent'
+		'present'
+		,
+		6
+		'unbranched and narrow, tapering distally'
+		'long and branched'
+		'plate-like'
+		,
+		7
+		'postero-laterally'
+		'anteriorly'
+		,
+		8
+		'free'
+		'directly jointing'
+		,
+		9
+		'with a straight and or blunt anterior margin'
+		'witha horn-like anterior process'
+		,
+		10
+		'laterally expanded'
+		'ventrolaterally expanded'
+		,
+		11
+		'present'
+		'absent'
+		,
+		12
+		'present'
+		'absent'
+		,
+		13
+		'narrow and in otic region'
+		'absent'
+		'broad and shelflike and in otic region'
+		'broad and shelf like in orbital region'
+		,
+		14
+		'absent'
+		'present'
+		,
+		15
+		'present'
+		'absent'
+		,
+		16
+		'articulated'
+		'loss of orbital articulation'
+		,
+		17
+		'present'
+		'absent'
+		,
+		18
+		'straight'
+		'with sigmoidal curvature'
+		,
+		19
+		'absent'
+		'present in roots of large teeth only'
+		'widespread occurence in tooth roots'
+		,
+		20
+		'large'
+		'roots with large pulp cavities'
+		'tooth roots with small pulp cavities'
+		'roots that lack pulp cavities'
+		,
+		21
+		'absent'
+		'incipient or poorly developed'
+		'well developed'
+		,
+		22
+		'absent'
+		'incipient'
+		'well developed'
+		,
+		23
+		'multiple, irreular (anaulacorhizous)'
+		'single paired opening (hemiaulacorhizous)'
+		'open or secondarily roofed (holoaulacorhizous)'
+		'fused teeth that are polyaulacorhizous'
+		,
+		24
+		'paired foramina absent'
+		'lingual projection present'
+		'lingual projection absent'
+		,
+		25
+		'ribbed'
+		'smooth, arrowhead shaped'
+		'smooth, oval'
+		'absent'
+		,
+		26
+		'narrow'
+		'expanded'
+		,
+		27
+		'both present and unsegmented'
+		'basihyal is segmented'
+		'basihyal is absent'
+		'basihyal and first hypobranchial cartilages are absent'
+		,
+		28
+		'fully developed'
+		'reduced or absent'
+		,
+		29
+		'independent of scapulocoracoid'
+		'articulating with scapulocoracoid'
+		,
+		30
+		'absent'
+		'present'
+		,
+		31
+		'aplesodic'
+		'plesodic'
+		,
+		32
+		'not elongated anteriorly'
+		'anteriorly elongated'
+		,
+		33
+		'not reaching the nasal capsules'
+		'extending as far as the nasal capsules'
+		'extending far beyond the nasal capsules'
+		,
+		34
+		'not reaching the nasal capsules'
+		'extending as far as the nasal capsules'
+		'extending far beyond the nasal capsules'
+		,
+		35
+		'not reaching the pelvic fin'
+		'extending to the pelvic fin origin'
+		,
+		36
+		'absent'
+		'present'
+		,
+		37
+		'absent'
+		'present'
+		,
+		38
+		'absent'
+		'present'
+		,
+		39
+		'short'
+		'long'
+		,
+		40
+		'free of vertebral column'
+		'articulated with vertebral column'
+		'Fused to vertebral column (new)'
+		,
+		41
+		'long'
+		'short'
+		,
+		42
+		'absent'
+		'present'
+		,
+		43
+		'equidistant'
+		'Scapulocoracoid is elongated between mesocondyle and metacondyle'
+		'Scapulocoracoid is elongated  between procondyle and mesocondyle'
+		'replaced with a ridge'
+		,
+		44
+		'does not extend posterior to procondyle'
+		'extends behind procondyle'
+		,
+		45
+		'present and single'
+		'fragmented or absent'
+		,
+		46
+		'platelike'
+		'narrow and strongly arched without distinct prepelvic processes'
+		'narrow, strongly arched with a triangular medial prepelvic process'
+		'narrow, moderately arched with barlike medial prepelvic process'
+		,
+		47
+		'all articulating with the propterygium, mesopterygium, and metapterygium'
+		'some articulating directly withteh scapulocoracoid, between the meso and the metapterygium'
+		'many articulating iwth the scapulocoracoid due to the lack of mesopterygium'
+		,
+		48
+		'absent'
+		'present'
+		,
+		49
+		'absent'
+		'present'
+		,
+		50
+		'absent'
+		'present'
+		,
+		51
+		'uniformly present'
+		'sparsly to densly covered with placoid scales on the dorsal surface only'
+		'free of denticles'
+		,
+		52
+		'absent'
+		'present'
+		,
+		53
+		'short'
+		'long'
+		
+	;
+
+	MATRIX
+	'Hexanchidae'		                          00000---00000000000?000000000000000000-00000000000000
+	'Pristiophorus'		                        0001101000000000100?1010000?0000000000-00000000000000
+	'Sclerorhychus'		                        0001100000000??1100?102100??1?110000?11000000?000000?
+	'Spathobatis'		                          000?100000???0?1100?20210(0,1)?01001000001000000001000011
+	'Pristis'		                              00011000000001011002212100011101000001010000000000001
+	'Torpedo'		                              000011100011-0111000002231211111011111001000000000200
+	'Narcine'		                              000011100111-0110000002230211111011101101000000000200
+	'Narke'		                                000011100111-01100000022302011110111011010000?0000200
+	'Iansan'		                               00?0100000000111100?22210001111101100111002000000001?
+	'Rhynchobatus'		                         00111000100001110100202100011111000001110000010000011
+	'''Rhinobatos'' tenuirostris'		          001010001?000??1?0??222100??111100?001?100????000?01?
+	'''Rhinobatos'' maronita'		              0010100010000??1?0??1021?0??111100000101000100000001?
+	'Aptychotrema'		                         00101000000101111001212100?111110110?11100100?100001?
+	'Zapteryx'		                             00101001000001111002212100011111121001110010001000011
+	'Trygonorrhina'		                        0010100100000111?000212100011111121001110010001000011
+	'''Rhinobatos'' hakelensis'		            00101001000001?1?00?1021?0??111112100111001100100001?
+	'Raja'		                                 10101001000001111010102130011111121001120010001100111
+	'Rhombopterygia'		                       0010100100000?11?00?1021?0??1111121001?1001001100001?
+	'''Rhinobatos'' whitfieldi'		            00101001000001?1?00?1021?0??111112100111000111100001?
+	'Zanobatos'		                            2200100100000111?002102200011111221011110001112000010
+	'Myliobatis'		                           22001001010030111023003230211111220001020131122001200
+	'Urolophus'		                            22001001010020111001002230011111220001020121110001200
+	'Rhinobatos'		                           00101001000001110102102100011111011001110010001000011
+	'''Rhinobatos'' latus'		                 0010100110000??1?0??102100??111111100101000000100001?
+	'''Rhinobatos'' intermedius'		           001010011?000??1?0??202100??1111111001?1000000000001?
+	'Britobatos primarmatus'		               00101001100000?1000?222100??11111210?101001100001001?
+	'Tethybatis'		                           31???---00?00?11?0-------0????1122100101?0??000000011
+	'Platyrhina'		                           31001201100001110002222120011111221011?10001000010011
+	'Platyrhinoidis'		                       31001201100001111002212120011111221011010001000010010
+	'Tingitanius tenuimandibulus'		          3?00120?10000111100?212110--1--1---011010011000010011
+	;
+ENDBLOCK;
+
+BEGIN NOTES;
+	[Taxon comments]
+
+	[Attribute comments]
+ENDBLOCK;
+BEGIN ASSUMPTIONS;
+TYPESET * UNTITLED = unord: 1 - 53;
+ENDBLOCK;

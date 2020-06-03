@@ -1,0 +1,257 @@
+#NEXUS
+[written Wed May 27 21:56:29 BST 2020 by Mesquite  version 3.40 (build 877) at Akhileshs-MacBook-Air.local/192.168.0.26]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=49;
+	TAXLABELS
+		Aglaia_elaeagnoidea Ailanthus_altissima Anthocarapa_nitidula Aphanamixis_polystachya Astrotrichilia_sp Azadirachta_indica Cabralea_canjerana Calodecaryia_crassifolia Capuronianthus_mahafalensis Carapa_guianensis Cedrela_odorata Chisocheton_macrophyllus Chukrasia_tabularis Cipadessa_baccifera Dysoxylum_gaudichaudianum Ekebergia_capensis Guarea_glabra Heckeldora_staudtii Humbertioturraea_sp Khaya_anthotheca Lansium_domesticum Lepidotrichilia_volkensii Lovoa_swynnertonii Malleastrum_mandenense Melia_azedarach Melia_yakimaensis Munronia_humilis Naregamia_alata Nymania_capensis Owenia_vernicosa Manchestercarpa_vancouverensis Pseudobersama_mossambicensis Pseudocedrela_kotschyi Pseudoclausena_chrysogyne Quassia_amara Quivisianthe_papinae Reinwardtiodendron_kinabaluense Ruagea_pubescens Sandoricum_cf_koetijape Schmardaea_microphylla Simarouba_glauca Swietenia_macrophylla Synoum_glandulosum Toona_sp Trichilia_emetica Turraea_sericea Vavaea_amicorum Walsura_tubulata Xylocarpus_mekongensis 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  'Matrix in file "Atkinson, 2019.nex"';
+	DIMENSIONS  NCHAR=19;
+	FORMAT DATATYPE = STANDARD GAP = - MISSING = ? SYMBOLS = "  0 1 2";
+	CHARSTATELABELS 
+		1 Carpel_fusion /  syncarpous 'apocarpous/weakly syncarpous',
+		2 Fruit_type /  fully_dehiscent indehiscent,
+		3 Mericarpy /  present absent,
+		4 Exocarp_consistency /  woody 'fleshy/succulent/leathery',
+		5 Conspicuous_endocarp /  present absent,
+		6 Center_of_fruit /  solid hollow,
+		7 Fruit_dehiscence /  loculicidal septifragal,
+		8 Columella_length /  full_length extending_only_halfway_up_fruit,
+		9 Endocarp_consistency /  'thick and woody/corky' cartilaginous,
+		10 Number_of_locules /  one_to_five more_than_five,
+		11 Number_of_mature_seeds_per_locule /  one_to_two three_or_more,
+		12 Seed_wings /  present absent,
+		13 Wing_attachment_to_seeds /  terminal entire,
+		14 'Wings attached to collumella/central axis' /  seed_body_end wing_end,
+		15 'Sarcotesta or fleshy/corky/woody seed coat' /  present absent,
+		16 Arillode /  present absent,
+		17 Endosperm /  present absent,
+		18 Amount_of_endosperm /  abundant residual,
+		19 Seed_wings_and_columella /  absent present ; 
+	MATRIX
+	Aglaia_elaeagnoidea              0011100--001--{0 1}{0 1}1-0
+	Ailanthus_altissima              11011?---001--111-0
+	Anthocarapa_nitidula             0010100--001--011-0
+	Aphanamixis_polystachya          0011100--001--101-0
+	Astrotrichilia_sp                011100--0001--01000
+	Azadirachta_indica               011100--1001--01000
+	Cabralea_canjerana               0011100--001--101-0
+	Calodecaryia_crassifolia         0011100--000?-01000
+	Capuronianthus_mahafalensis      0011000-1001--111-0
+	Carapa_guianensis                001{0 1}101?-011--011-0
+	Cedrela_odorata                  00101010-0100011011
+	Chisocheton_macrophyllus         001{0 1}100--001--{0 1}{0 1}1-0
+	Chukrasia_tabularis              00101010-0100?110?1
+	Cipadessa_baccifera              01010?--{0 1}001--11000
+	Dysoxylum_gaudichaudianum        0011100--001--{0 1}{0 1}1-0
+	Ekebergia_capensis               010100--{0 1}001--11000
+	Guarea_glabra                    001{0 1}{0 1}00-1{0 1}01--011-0
+	Heckeldora_staudtii              011110---0{0 1}1--011-0
+	Humbertioturraea_sp              0111?0---101--01000
+	Khaya_anthotheca                 00101011-1101111011
+	Lansium_domesticum               011110---001--101-0
+	Lepidotrichilia_volkensii        011100--1001--111-0
+	Lovoa_swynnertonii               00101010-0100111011
+	Malleastrum_mandenense           011110---001--111-0
+	Melia_azedarach                  010101--0101--01010
+	Melia_yakimaensis                010101--0101--?1??0
+	Munronia_humilis                 011110---001--010{0 1}0
+	Naregamia_alata                  001?100--001--10000
+	Nymania_capensis                 011110---001--01010
+	Owenia_vernicosa                 011100--0001--01010
+	Manchestercarpa_vancouverensis   01?101--0101--01??0
+	Pseudobersama_mossambicensis     001{0 1}100--001--00010
+	Pseudocedrela_kotschyi           00101010-0100011011
+	Pseudoclausena_chrysogyne        011110---001--11??0
+	Quassia_amara                    11010---?001--111-0
+	Quivisianthe_papinae             0010100--0000-11010
+	Reinwardtiodendron_kinabaluense  011110---001--011-0
+	Ruagea_pubescens                 001{0 1}100--001--011-0
+	Sandoricum_cf_koetijape          010100--1001--011-0
+	Schmardaea_microphylla           0010101?-0100111001
+	Simarouba_glauca                 11010---?001--111-0
+	Swietenia_macrophylla            00101010-0100111011
+	Synoum_glandulosum               0011100--001--101-0
+	Toona_sp                         00101010-0100{0 1}11011
+	Trichilia_emetica                001{0 1}100--001--0{0 1}000
+	Turraea_sericea                  001{0 1}100--{0 1}01--11000
+	Vavaea_amicorum                  011{0 1}10---{0 1}{0 1}1--01010
+	Walsura_tubulata                 011110---001--101-0
+	Xylocarpus_mekongensis           0011101?-011--011-0
+
+;
+
+END;
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1 -  19;
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Mk1 (est.)':  1 -  19;
+END;
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1590612989864;
+		linkFile 'Anatrees-A2019.nex';
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 7561902390560396537;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 2637580523766251046;
+			mqVersion 340;
+			checksumv 0 3 1457230447 null  getNumChars 19 numChars 19 getNumTaxa 49 numTaxa 49   short true   bits 2305843009213693955   states 3   sumSquaresStatesOnly 1849.0 sumSquares -1.152921504606847E20 longCompressibleToShort false usingShortMatrix true   NumFiles 2 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 13;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1274 764;
+			setLocation 0 23;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #2637580523766251046 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1261 692;
+					setLocation 0 23;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					endTell;
+					setActive;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					colorCells  #mesquite.charMatrices.NoColor.NoColor;
+					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges on;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleAutoWCharNames on;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					toggleShowPaleExcluded off;
+					togglePaleInapplicable on;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize on;
+					toggleColorsPanel off;
+					toggleDiagonal on;
+					setDiagonalHeight 80;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.AlterData.AlterData;
+				tell It;
+					toggleBySubmenus off;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesEditor.StateNamesEditor;
+				tell It;
+					makeWindow;
+					tell It;
+						setExplanationSize 30;
+						setAnnotationSize 20;
+						setFontIncAnnot 0;
+						setFontIncExp 0;
+						setSize 1261 692;
+						setLocation 0 23;
+						setFont SanSerif;
+						setFontSize 10;
+						getToolPalette;
+						tell It;
+							setTool mesquite.categ.StateNamesEditor.StateNamesWindow.ibeam;
+						endTell;
+						rowsAreCharacters on;
+						toggleConstrainChar on;
+						toggleConstrainCharNum 3;
+						togglePanel off;
+						toggleSummaryPanel off;
+					endTell;
+					showWindow;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor;
+				tell It;
+					panelOpen true;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

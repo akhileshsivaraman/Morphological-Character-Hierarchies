@@ -1,0 +1,36 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Fri May 22 09:24:15 2020]
+[!
+>Consensus of 10000 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 19 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        2 characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 17
+>    Gaps are treated as "missing"
+>    Multistate taxa interpreted as uncertainty
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 100
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 10
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 10000
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Search terminated prematurely (no room to store new trees)
+>   10000 trees retained
+>  Time used = 00:01:25 (CPU time = 00:01:22.5)
+]
+	tree Strict = [&U] (Aglaia_elaeagnoidea,(Ailanthus_altissima,Quassia_amara,Simarouba_glauca),Anthocarapa_nitidula,Aphanamixis_polystachya,Astrotrichilia_sp,Azadirachta_indica,Cabralea_canjerana,(Calodecaryia_crassifolia,((Cedrela_odorata,Chukrasia_tabularis,Khaya_anthotheca,Lovoa_swynnertonii,Pseudocedrela_kotschyi,Schmardaea_microphylla,Swietenia_macrophylla,Toona_sp),Quivisianthe_papinae)),Capuronianthus_mahafalensis,(Carapa_guianensis,Xylocarpus_mekongensis),Chisocheton_macrophyllus,Cipadessa_baccifera,Dysoxylum_gaudichaudianum,Ekebergia_capensis,Guarea_glabra,Heckeldora_staudtii,Humbertioturraea_sp,Lansium_domesticum,Lepidotrichilia_volkensii,Malleastrum_mandenense,(Melia_azedarach,Melia_yakimaensis,Manchestercarpa_vancouverensis),Munronia_humilis,Naregamia_alata,Nymania_capensis,Owenia_vernicosa,(Pseudobersama_mossambicensis,Trichilia_emetica),Pseudoclausena_chrysogyne,Reinwardtiodendron_kinabaluense,Ruagea_pubescens,Sandoricum_cf_koetijape,Synoum_glandulosum,Turraea_sericea,Vavaea_amicorum,Walsura_tubulata);
+end;

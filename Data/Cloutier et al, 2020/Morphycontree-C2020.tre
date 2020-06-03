@@ -1,0 +1,13 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Tue May 19 18:49:29 2020]
+[!
+>Consensus of 238 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Tree(s) input to PAUP* as user-defined tree(s)
+>
+>238 trees read from TREES block; time used = 6.85 sec (CPU time = 0.01 sec)
+]
+	tree Strict = [&U] (Youngolepis,Diabolepis,((Powichthys,(Porolepis,Glyptolepis)),(Tungsenia,Kenichthys,((Hongyu,(Gooloogongia,Sauripterus,Barameda,Screbinodus,(Rhizodus,Strepsodus))),((Gyroptychius,Osteolepis),Medoevia,Gogonasus,(Megalichthys,Cladarosymblema,Ectosteorhachis),Beelarongia,Koharalepis,Canowindra,Marsdenichthys,(Spodichthys,(Tristichopterus,(Eusthenopteron,(Jarvikina,((Cabonnichthys,(Platycephalichthys,(Mandageria,Eusthenodon))),(Tinirau,(Bruehnopteron,(Panderichthys,(Elpistostege,(Tiktaalik,(Ventastega,(Acanthostega,(Ichthyostega,Tulerpeton))))))))))))))))));
+end;

@@ -1,0 +1,34 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Wed May 13 16:38:10 2020]
+[!
+>Consensus of 10000 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 40 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        All characters are parsimony-informative
+>    Gaps are treated as "missing"
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 75
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 10
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>  'Maxtrees' setting = 10000 (will not be increased)
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Search terminated prematurely (no room to store new trees)
+>   10000 trees retained
+>  Time used = 00:02:02 (CPU time = 00:02:00.9)
+]
+	tree Strict = [&U] (Bathybates_fasciatus,Bathybates_graueri,Bathybates_minor,((Hemibates_stenosoma,((Benthochromis_tricoti,((Boulengerochromis_microlepis,((Tylochromis_jentinki,((Tylochromis_labrodon,Tylochromis_variabilis),Tylochromis_lateralis)),Tylochromis_polylepis)),(((((Cyphotilapia_frontosa,Cyphotilapia_sp.),((((Eretmodus_cyanostictus,Spathodus_marlieri),Tanganicodus_irsacae),((Altolamprologus_compressiceps,Neolamprologus_fasciatus),(Chalinochromis_brichardi,Julidochromis_ornatus),Lamprologus_lemairii,Lepidiolamprologus_attenuatus,Lepidiolamprologus_elongatus,Neolamprologus_tetracanthus,Telmatochromis_temporalis,Variabilichromis_moorii)),Ctenochromis_benthicola),(Astatoreochromis_straeleni,Astatotilapia_burtoni,(Oreochromis_karomo,Oreochromis_niloticus_eduardianus,Oreochromis_tanganicae,Tilapia_rendalli),Ctenochromis_horei,Gnathochromis_pfefferi,Interochromis_loocki,Limnotilapia_dardennii,Lobochilotes_labiatus,Petrochromis_fasciolatus,Pseudosimochromis_curvifrons,Simochromis_diagramma,Tropheus_moorii)),((Baileychromis_centropomoides,Reganochromis_calliurus),((Gnathochromis_permaxillaris,Triglachromis_otostigma),Tangachromis_dhanisi),Limnochromis_auritus)),Greenwoodochromis_christyi),(Haplotaxodon_microlepis,((Perissodus_microlepis,Plecodus_paradoxus),Xenochromis_hecqui))))),(((Cyprichromis_microlepidotus,Cyprichromis_sp.),Paracyprichromis_brieni),((Aulonocranus_dewindti,(Callochromis_macrops,((Xenotilapia_boulengeri,Xenotilapia_melanogenys,Xenotilapia_tenuidentata),Xenotilapia_leptura)),Cardiopharynx_schoutedeni,Cunningtonia_longiventralis,Cyathopharynx_furcifer,Ectodus_descampsi,Lestradea_perspicax,Ophthalmotilapia_nasuta),Grammatotria_lemairii)))),(Trematocara_macrostoma,(Trematocara_marginatum,Trematocara_nigrifrons))));
+end;

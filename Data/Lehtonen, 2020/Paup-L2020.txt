@@ -1,0 +1,263 @@
+
+P A U P *
+Version 4.0a (build 166) for macOS (built on Sep  1 2019 at 23:02:50)
+Sat May 30 12:23:20 2020
+
+
+paup> execute Lehtonen2020.nex
+
+Processing of file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Lehtonen,
+2020/Lehtonen2020.nex" begins...
+
+Error(#328): Character-state symbol 'a' appears more than once in the SYMBOLS list.
+
+Error occurred while processing line 17 of file Lehtonen2020.nex
+
+Processing of input file "Lehtonen2020.nex" terminated due to errors.
+
+paup> execute Lehtonen2020.nex
+
+Processing of file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Lehtonen,
+2020/Lehtonen2020.nex" begins...
+
+Are you sure you want to reset the active datafile? (Y/n)y
+
+Error(#316): The "punctuation" character ';' may not be included in the SYMBOLS list.
+                 Delete the character from the list of symbols (and make sure the list is embedded in
+                 double quotes).
+
+Error occurred while processing line 17 of file Lehtonen2020.nex
+
+Processing of input file "Lehtonen2020.nex" terminated due to errors.
+
+paup> execute Lehtonen2020.nex
+
+Processing of file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Lehtonen,
+2020/Lehtonen2020.nex" begins...
+
+Are you sure you want to reset the active datafile? (Y/n)y
+
+Data matrix has 45 taxa, 79 characters
+Valid character-state symbols: 0123456789
+Missing data identified by '?'
+Gaps identified by '-'
+
+Character types changed:
+  Of 79 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+
+*** Skipping "MESQUITECHARMODELS" block
+
+*** Skipping "MESQUITE" block
+
+Processing of input file "Lehtonen2020.nex" completed.
+
+paup> cstatus
+
+Character-status summary:
+  Current optimality criterion = parsimony
+  No characters are excluded
+  Of 79 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+    19 characters are parsimony-uninformative
+    Number of parsimony-informative characters = 60
+
+paup> tstatus
+
+Taxon-status summary:
+   Original data matrix contains 45 taxa
+   No taxa have been deleted
+   No taxa have been assigned to the outgroup: outgroup defaults to first taxon (Osmundastrum
+      cinnamomeum)
+
+paup> pset collapse=no
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nreps=50
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 79 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        19 characters are parsimony-uninformative
+        Number of parsimony-informative characters = 60
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 50
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+The limit of 100 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)y
+
+Enter new value for 'Maxtrees' (200):1000
+
+Action if limit is hit:
+   (1) Prompt for new value
+   (2) Automatically increase by 100 (= AUTOINC)
+   (3) Leave unchanged, and don't prompt
+(1)>1
+
+The limit of 1000 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)y
+
+Enter new value for 'Maxtrees' (1100):5000
+
+Action if limit is hit:
+   (1) Prompt for new value
+   (2) Automatically increase by 100 (= AUTOINC)
+   (3) Leave unchanged, and don't prompt
+(1)>1
+
+The limit of 5000 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)y
+
+Enter new value for 'Maxtrees' (5100):10000
+
+Action if limit is hit:
+   (1) Prompt for new value
+   (2) Automatically increase by 100 (= AUTOINC)
+   (3) Leave unchanged, and don't prompt
+(1)>1
+
+The limit of 10000 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)n
+
+    'Maxtrees' limit (10000) hit while swapping on tree #1926 (score=211)
+
+Heuristic search completed
+  Total number of rearrangements tried = 5015124307
+  Score of best tree(s) found = 209
+  Number of trees retained = 1512
+  Note: Effectiveness of search may have been diminished due to tree-buffer overflow.
+  Time used = 00:19:29 (CPU time = 00:17:17.4)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1      1512         1      1512             209            1      39
+     2       792         -         -             210           30       1
+     3      8488         -         -             210            5       9*
+     4       108         -         -             212           34       1
+
+Note(s):
+    * Multiple hits on islands of unsaved trees may in fact represent different islands
+
+paup> savetrees file=Pauptrees-L2020.tre
+
+1512 trees saved to file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Lehtonen,
+2020/Pauptrees-L2020.tre"
+
+paup> contree / file=Paupcontree-L2020.tre
+
+Strict consensus of 1512 trees:
+
+/----------------------------------------------------------------------------- Osmundastrum cinnamomeum
+|
+|                                                                      /------ Angiopteris evecta
+|                                                                      |
+|                                      /-------------------------------+------ Angiopteris angustifolia
+|                                      |                               |
+|                                      |                               \------ Angiopteris blackii
+|                                      |
+|                                      |                               /------ Eupodium kaulfussii
+|                                      |                        /------+
+|                                      |                        |      \------ Marattiopsis vodrazkae
+|                                      |                  /-----+
+|                                      |           /------+     \------------- Marattia cicutifolia
+|                                      |           |      |
+|                               /------+     /-----+      \------------------- Ptisana novoguineensis
+|                               |      |     |     |
+|                               |      +-----+     \-------------------------- Marattia laxa
+|                               |      |     |
+|                               |      |     \-------------------------------- Marattiopsis patagonica
+|                               |      |
+|                         /-----+      +-------------------------------------- Marattiopsis aganzhenensis
+|                         |     |      |
+|                         |     |      +-------------------------------------- Marattiopsis asiatica
+|                         |     |      |
+|                  /------+     |      \-------------------------------------- Marattiopsis anglica
+|                  |      |     |
+|                  |      |     \--------------------------------------------- Christensenia aesculifolia
+|                  |      |
+|            /-----+      \--------------------------------------------------- Danaea sellowiana
+|            |     |
+|            |     |                                                   /------ Qasimia schyfsmae
+|            |     \---------------------------------------------------+
+|            |                                                         \------ Qasimia lanceolata
+|            |
+|            |                                     /-------------------------- Scolecopteris minor
+|            |                                     |
+|            |                                     +-------------------------- Scolecopteris majopsis
+|            |                                     |
+|            |                                     +-------------------------- Scolecopteris illinoensis
+|            |                                     |
+|            |                                     +-------------------------- Acaulangium bulbaceum
+|            |                                     |
+|            |                                     |                   /------ Scolecopteris latifolia
+|            |                                     |            /------+
+|            |                                     |            |      \------ Scolecopteris calicifolia
+|            |                                     |      /-----+
+|            |                                     +------+     \------------- Scolecopteris mamayi
+|            |                                     |      |
+|            |                                     |      \------------------- Scolecopteris gnoma
+|            |                                     |
+|            |                                     +-------------------------- Scolecopteris antarctica
+|            |                               /-----+
+|     /------+                               |     +-------------------------- Scolecopteris globiforma
+|     |      |                               |     |
+|     |      |                               |     +-------------------------- Eoangiopteris goodii
+|     |      |                               |     |
+|     |      |                               |     +-------------------------- Eoangiopteris andrewsii
+|     |      |                               |     |
+|     |      |                               |     |                   /------ Acitheca polymorpha
+|     |      |                               |     +-------------------+
+|     |      |                               |     |                   \------ Acitheca adaensis
+|     |      |                         /-----+     |
+|     |      |                         |     |     |                   /------ Zhutheca densata
+|     |      |                         |     |     +-------------------+
+|     |      |                         |     |     |                   \------ Taiyuanitheca tetralinea
+|     |      |                         |     |     |
+|     |      |                         |     |     +-------------------------- Grandeuryella renaultii
+|     |      |                  /------+     |     |
+|     |      |                  |      |     |     \-------------------------- Araiangium pygmaeum
+\-----+      |                  |      |     |
+      |      |                  |      |     \-------------------------------- Pectinangium lanceolatum
+      |      |                  |      |
+      |      |            /-----+      +-------------------------------------- Buritiranopteris costata
+      |      |            |     |      |
+      |      |            |     |      \-------------------------------------- Gemellitheca saudica
+      |      |            |     |
+      |      |            |     |                                      /------ Millaya tularosana
+      |      \------------+     \--------------------------------------+
+      |                   |                                            \------ Danaeites rigida
+      |                   |
+      |                   |                                            /------ Radstockia kidstonii
+      |                   \--------------------------------------------+
+      |                                                                \------ Sydneia manleyi
+      |
+      |                                                                /------ Danaeopsis fecunda
+      |                                                         /------+
+      |                                                         |      \------ Marantoidea acara
+      \---------------------------------------------------------+
+                                                                \------------- Danaeopsis marantacea
+
+Consensus tree(s) written to treefile: ~/Documents/Imperial/Morphological Character
+Hierarchies/Data/Lehtonen, 2020/Paupcontree-L2020.tre

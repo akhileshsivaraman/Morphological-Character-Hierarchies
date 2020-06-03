@@ -1,0 +1,11 @@
+open
+dL2020.nex
+branchswap=tbr
+gap=inapp
+ratchet=ye
+addseq=random
+hold=20
+nreps=100
+heuristic
+save
+Morphy-dL2020.tre

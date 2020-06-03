@@ -1,0 +1,372 @@
+
+P A U P *
+Version 4.0a (build 166) for macOS (built on Sep  1 2019 at 23:02:50)
+Fri May 22 09:12:58 2020
+
+
+paup> execute Atkinson2019.nex
+
+Processing of file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Atkinson, 2019/Atkinson2019.nex"
+begins...
+
+Data matrix has 49 taxa, 19 characters
+Valid character-state symbols: 012
+Missing data identified by '?'
+Gaps identified by '-'
+
+Character types changed:
+  Of 19 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+
+*** Skipping "MESQUITECHARMODELS" block
+
+*** Skipping "MESQUITE" block
+
+Processing of input file "Atkinson2019.nex" completed.
+
+paup> cstatus
+
+Character-status summary:
+  Current optimality criterion = parsimony
+  No characters are excluded
+  Of 19 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+    2 characters are parsimony-uninformative
+    Number of parsimony-informative characters = 17
+
+paup> tstatus
+
+Taxon-status summary:
+   Original data matrix contains 49 taxa
+   No taxa have been deleted
+   No taxa have been assigned to the outgroup: outgroup defaults to first taxon (Aglaia elaeagnoidea)
+
+paup> pset collapse=no
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nrep=50
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 19 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        2 characters are parsimony-uninformative
+        Number of parsimony-informative characters = 17
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 50
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+The limit of 100 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)y
+
+Enter new value for 'Maxtrees' (200):10000
+
+Action if limit is hit:
+   (1) Prompt for new value
+   (2) Automatically increase by 100 (= AUTOINC)
+   (3) Leave unchanged, and don't prompt
+(1)>1
+
+The limit of 10000 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)y
+
+Enter new value for 'Maxtrees' (10100):15000
+
+Action if limit is hit:
+   (1) Prompt for new value
+   (2) Automatically increase by 100 (= AUTOINC)
+   (3) Leave unchanged, and don't prompt
+(1)>1
+
+The limit of 15000 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)y
+
+Enter new value for 'Maxtrees' (15100):20000
+
+Action if limit is hit:
+   (1) Prompt for new value
+   (2) Automatically increase by 100 (= AUTOINC)
+   (3) Leave unchanged, and don't prompt
+(1)>1
+
+The limit of 20000 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)n
+
+    'Maxtrees' limit (20000) hit while swapping on tree #33 (score=42)
+
+Search terminated prematurely (no room to store new trees)
+   20000 trees retained
+  Time used = 00:03:06 (CPU time = 00:02:39.8)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1     20000         1     20000              40            1       1
+
+paup> set maxtrees=10000
+
+Do you really want to discard 10000 trees? (Y/n)y
+
+Maxtrees reset to 10000
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nrep=75
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 19 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        2 characters are parsimony-uninformative
+        Number of parsimony-informative characters = 17
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 75
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 10000
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+The limit of 10000 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)n
+
+    'Maxtrees' limit (10000) hit while swapping on tree #25 (score=42)
+
+Search terminated prematurely (no room to store new trees)
+   10000 trees retained
+  Time used = 00:01:01 (CPU time = 59.68 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1     10000         1     10000              40            1       1
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nrep=100
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 19 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        2 characters are parsimony-uninformative
+        Number of parsimony-informative characters = 17
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 100
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 10000
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+The limit of 10000 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)n
+
+    'Maxtrees' limit (10000) hit while swapping on tree #21 (score=41)
+
+    Elapsed AddSeq   Taxa      Rearr.  -- Number of trees --    ------ Best trees -----
+       time    rep  added      tried      saved   to swap       this rep        overall
+  -------------------------------------------------------------------------------------
+    0:01:02      1      -  348851198      10000      2490             41             41
+
+Search terminated prematurely (no room to store new trees)
+   10000 trees retained
+  Time used = 00:01:23 (CPU time = 00:01:20.7)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1     10000         1     10000              41            1       1
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nrep=100
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 19 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        2 characters are parsimony-uninformative
+        Number of parsimony-informative characters = 17
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 100
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 10000
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+The limit of 10000 trees (= 'Maxtrees') has been reached.  Do you want to increase Maxtrees?
+
+Do you want to increase 'Maxtrees'? (Y/n)n
+
+    'Maxtrees' limit (10000) hit while swapping on tree #21 (score=40)
+
+    Elapsed AddSeq   Taxa      Rearr.  -- Number of trees --    ------ Best trees -----
+       time    rep  added      tried      saved   to swap       this rep        overall
+  -------------------------------------------------------------------------------------
+    0:01:03      1      -  330456619      10000      2670             40             40
+
+Search terminated prematurely (no room to store new trees)
+   10000 trees retained
+  Time used = 00:01:25 (CPU time = 00:01:22.5)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1     10000         1     10000              40            1       1
+
+paup> savetrees file=Pauptrees-A2019.tre
+
+10000 trees saved to file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Atkinson, 2019/Pauptrees-
+A2019.tre"
+
+paup> contree / file=Paupcontree-A2019.tre
+
+Strict consensus of 10000 trees:
+
+/------------------------------------------------------------------------------------ Aglaia elaeagnoidea
+|
+|                                                                  /----------------- Ailanthus altissima
+|                                                                  |
+|                /-------------------------------------------------+----------------- Quassia amara
+|                |                                                 |
+|                |                                                 \----------------- Simarouba glauca
+|                |
+|                +------------------------------------------------------------------- Anthocarapa nitidula
+|                |
+|                +------------------------------------------------------------------- Aphanamixis polystachya
+|                |
+|                +------------------------------------------------------------------- Astrotrichilia sp
+|                |
+|                +------------------------------------------------------------------- Azadirachta indica
+|                |
+|                +------------------------------------------------------------------- Cabralea canjerana
+|                |
+|                |                /-------------------------------------------------- Calodecaryia crassifolia
+|                |                |
+|                |                |                                /----------------- Cedrela odorata
+|                |                |                                |
+|                |                |                                +----------------- Chukrasia tabularis
+|                |                |                                |
+|                |                |                                +----------------- Khaya anthotheca
+|                +----------------+                                |
+|                |                |                                +----------------- Lovoa swynnertonii
+|                |                |               /----------------+
+|                |                |               |                +----------------- Pseudocedrela kotschyi
+|                |                |               |                |
+|                |                |               |                +----------------- Schmardaea microphylla
+|                |                |               |                |
+|                |                \---------------+                +----------------- Swietenia macrophylla
+|                |                                |                |
+|                |                                |                \----------------- Toona sp
+|                |                                |
+|                |                                \---------------------------------- Quivisianthe papinae
+|                |
+|                +------------------------------------------------------------------- Capuronianthus mahafalensis
+|                |
+|                |                                                 /----------------- Carapa guianensis
+|                +-------------------------------------------------+
+|                |                                                 \----------------- Xylocarpus mekongensis
+|                |
+|                +------------------------------------------------------------------- Chisocheton macrophyllus
+|                |
+|                +------------------------------------------------------------------- Cipadessa baccifera
+|                |
+|                +------------------------------------------------------------------- Dysoxylum gaudichaudianum
+|                |
+\----------------+------------------------------------------------------------------- Ekebergia capensis
+                 |
+                 +------------------------------------------------------------------- Guarea glabra
+                 |
+                 +------------------------------------------------------------------- Heckeldora staudtii
+                 |
+                 +------------------------------------------------------------------- Humbertioturraea sp
+                 |
+                 +------------------------------------------------------------------- Lansium domesticum
+                 |
+                 +------------------------------------------------------------------- Lepidotrichilia volkensii
+                 |
+                 +------------------------------------------------------------------- Malleastrum mandenense
+                 |
+                 |                                                 /----------------- Melia azedarach
+                 |                                                 |
+                 +-------------------------------------------------+----------------- Melia yakimaensis
+                 |                                                 |
+                 |                                                 \----------------- Manchestercarpa vancouverensis
+                 |
+                 +------------------------------------------------------------------- Munronia humilis
+                 |
+                 +------------------------------------------------------------------- Naregamia alata
+                 |
+                 +------------------------------------------------------------------- Nymania capensis
+                 |
+                 +------------------------------------------------------------------- Owenia vernicosa
+                 |
+                 |                                                 /----------------- Pseudobersama mossambicensis
+                 +-------------------------------------------------+
+                 |                                                 \----------------- Trichilia emetica
+                 |
+                 +------------------------------------------------------------------- Pseudoclausena chrysogyne
+                 |
+                 +------------------------------------------------------------------- Reinwardtiodendron kinabaluense
+                 |
+                 +------------------------------------------------------------------- Ruagea pubescens
+                 |
+                 +------------------------------------------------------------------- Sandoricum cf koetijape
+                 |
+                 +------------------------------------------------------------------- Synoum glandulosum
+                 |
+                 +------------------------------------------------------------------- Turraea sericea
+                 |
+                 +------------------------------------------------------------------- Vavaea amicorum
+                 |
+                 \------------------------------------------------------------------- Walsura tubulata
+
+Consensus tree(s) written to treefile: ~/Documents/Imperial/Morphological Character Hierarchies/Data/Atkinson,
+2019/Paupcontree-A2019.tre

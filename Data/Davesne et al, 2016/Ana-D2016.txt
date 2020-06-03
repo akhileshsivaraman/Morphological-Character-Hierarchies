@@ -1,0 +1,391 @@
+# logfile from anagallis - 2020-5-4 15:15:13
+>-< import tnt> importing from TNT file 'Davesne2016.tnt'
+xread> reading data...
+xread> 26 terminals and 66 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 Ascending_process_of_the_premaxilla shorter_than_the_alveolar_process equal_to_or_longer_than_the_alveolar_process>
+>skipping unsupported (or wrong) TNT command  <{1 Premaxilla_postmaxillary_process absent present>
+>skipping unsupported (or wrong) TNT command  <{2 Posterior_margin_of_the_premaxilla_postmaxillary_process straight notched>
+>skipping unsupported (or wrong) TNT command  <{3 Anterior_supramaxilla present absent>
+>skipping unsupported (or wrong) TNT command  <{4 Posterior_supramaxilla present absent>
+>skipping unsupported (or wrong) TNT command  <{5 Supraorbital present absent>
+>skipping unsupported (or wrong) TNT command  <{6 Antorbital present absent>
+>skipping unsupported (or wrong) TNT command  <{7 Lateral_ethmoid not_in_contact_with_the_vomer in_direct_contact_with_the_vomer>
+>skipping unsupported (or wrong) TNT command  <{8 Mesethmoid anterior_to_the_lateral_ethmoid median_or_posterior_to_the_lateral_ethmoid>
+>skipping unsupported (or wrong) TNT command  <{9 Orbitosphenoid present absent>
+>skipping unsupported (or wrong) TNT command  <{10 Basisphenoid present absent>
+>skipping unsupported (or wrong) TNT command  <{11 Intercalar small_and_not_containing_the_foramen_for_cranial_nerve_IX large_and_containing_the_foramen_for_cranial_nerve_IX>
+>skipping unsupported (or wrong) TNT command  <{12 Epioccipital not_firmly_bound_to_the_dorsal_limb_of_the_posttemporal firmly_bound_to_the_dorsal_limb_of_the_posttemporal epioccipital_and_posttemporal_fused>
+>skipping unsupported (or wrong) TNT command  <{13 Frontal not_forming_part_of_the_sagittal_crest forming_part_of_the_sagittal_crest>
+>skipping unsupported (or wrong) TNT command  <{14 Frontal_vault_or_cradle absent present>
+>skipping unsupported (or wrong) TNT command  <{15 Spina_occipitalis absent present>
+>skipping unsupported (or wrong) TNT command  <{16 Cranio-hyomandibular_articulation two-headed single-headed>
+>skipping unsupported (or wrong) TNT command  <{17 Metapterygoid in_contact_(or_close_approximation)_with_the_quadrate small_and_not_in_contact_with_the_quadrate>
+>skipping unsupported (or wrong) TNT command  <{18 Anterior_palatine_process present,_palatine_articulates_with_the_maxilla absent,_no_palate-maxillary_connexion absent,_no_palatine-maxillary_connexion>
+>skipping unsupported (or wrong) TNT command  <{19 Palatine_teeth present absent>
+>skipping unsupported (or wrong) TNT command  <{20 Posterior_and_anterior_ceratohyals separated_with_cartilage sutured>
+>skipping unsupported (or wrong) TNT command  <{21 Articulation_between_the_anterior_ceratohyal_and_the_ventral_hypohyal straight condylar>
+>skipping unsupported (or wrong) TNT command  <{22 Anterior_branchiostegals subequal_in_length_to_the_posterior_ones smaller_than_the_posterior_ones>
+>skipping unsupported (or wrong) TNT command  <{23 Median_fusion_of_neural_spines at_least_one_paired_neural_spine all_neural_spines_fused_medially,_unpaired>
+>skipping unsupported (or wrong) TNT command  <{24 Proximal_insertion_of_Baudelot"s_ligament on_abdominal_vertebrae on_basioccipital on_exoccipitals split_between_the_first_abdominal_vertebra_and_the_exoccipitals>
+>skipping unsupported (or wrong) TNT command  <{25 Insertion_of_epineurals all_on_neural_arches_or_spines at_least_partly_below_neural_arches at_least_partly_on_ribs>
+>skipping unsupported (or wrong) TNT command  <{26 Epipleurals present absent>
+>skipping unsupported (or wrong) TNT command  <{27 First_vertebral_centrum no_facets facets_articulating_with_exoccipital_condyles>
+>skipping unsupported (or wrong) TNT command  <{28 First_neural_spine separated_from_the_neurocranium closely_associated_or_sutured_with_the_neurocranium>
+>skipping unsupported (or wrong) TNT command  <{29 Second_vertebral_centrum subequal_in_length_to_the_others abbreviated_in_length>
+>skipping unsupported (or wrong) TNT command  <{30 Number_of_ossified_supraneurals three_or_more two one none>
+>skipping unsupported (or wrong) TNT command  <{31 Position_of_supraneurals at_least_one_posterior_to_the_first_neural_spine all_anterior_to_the_first_neural_spine>
+>skipping unsupported (or wrong) TNT command  <{32 Insertion_of_the_first_dorsal_pterygiophore posterior_to_the_neural_spine_4 between_the_neural_spines_2_and_4 between_the_neural_spines_1_and_2 anterior_to_the_first_neural_spine>
+>skipping unsupported (or wrong) TNT command  <{33 Distal_end_of_the_first_dorsal_pterygiophore oriented_posteriorly oriented_anteriorly>
+>skipping unsupported (or wrong) TNT command  <{34 Dorsal_fin_spines absent present>
+>skipping unsupported (or wrong) TNT command  <{35 "Chain-link"_articulation_of_dorsal_fin_spines absent present no_distal_radials>
+>skipping unsupported (or wrong) TNT command  <{36 Spinous_first_dorsal_fin continuous_dorsal_fin absent dorsal_fin_subdivised_-_or_deeply_notched_-_with_an_anterior_part_entirely_spinous present dorsal_fin_subdivided_with_an_anterior_part_composed_of_soft_rays>
+>skipping unsupported (or wrong) TNT command  <{37 Elongated_and_unbranched_first_soft_ray_of_the_dorsal_fin absent present>
+>skipping unsupported (or wrong) TNT command  <{38 Adipose_fin present absent>
+>skipping unsupported (or wrong) TNT command  <{39 Anal_fin_spines absent present>
+>skipping unsupported (or wrong) TNT command  <{40 Soft_rays_of_the_unpaired_fins at_least_some_branched_distally all_unbranched>
+>skipping unsupported (or wrong) TNT command  <{41 Second_ural_vertebral_centrum_and_upper_hypurals autogenous fused>
+>skipping unsupported (or wrong) TNT command  <{42 Second_ural_vertebral_centrum_and_first_ural_centrum autogenous fused>
+>skipping unsupported (or wrong) TNT command  <{43 Neural_spine_of_the_second_preural_vertebra short_and_leaf-shaped long_and_spine-like>
+>skipping unsupported (or wrong) TNT command  <{44 First_uroneural autogenous fused_to_the_terminal_centrum>
+>skipping unsupported (or wrong) TNT command  <{45 Number_of_epurals three two one none>
+>skipping unsupported (or wrong) TNT command  <{46 Y_bone absent present>
+>skipping unsupported (or wrong) TNT command  <{47 Parhypural articulated_or_fused_to_the_first_preural_centrum truncated_proximally_by_the_loss_of_the_haemal_arch_and_separated_from_the_first_preural_centrum>
+>skipping unsupported (or wrong) TNT command  <{48 Number_of_discrete_hypurals six less_than_six>
+>skipping unsupported (or wrong) TNT command  <{49 Overlap_of_the_caudal_skeleton_by_the_caudal_fin_rays little_to_no_overlap extensive_overlap_or_hypurostegy>
+>skipping unsupported (or wrong) TNT command  <{50 Number_of_principal_caudal_fin_rays 19_or_more 18 17_or_less>
+>skipping unsupported (or wrong) TNT command  <{51 Scapular_foramen in_scapula between_scapula_and_coracoid>
+>skipping unsupported (or wrong) TNT command  <{52 Postcleithra two_or_more_separated_bones only_one_bone>
+>skipping unsupported (or wrong) TNT command  <{53 Insertion_of_the_pectoral_fin vertical_or_oblique horizontal>
+>skipping unsupported (or wrong) TNT command  <{54 Number_of_autogenous_pectoral_radials four three>
+>skipping unsupported (or wrong) TNT command  <{55 Pectoral_fin_soft_rays at_least_some_branched_distally all_unbranched>
+>skipping unsupported (or wrong) TNT command  <{56 Anterior_tip_of_the_pelvic_girdle posterior_to_the_distal_postcleithrum anterior_to_the_distal_postcleithrum>
+>skipping unsupported (or wrong) TNT command  <{57 Contact_between_pectoral_and_pelvic_girdles no_contact,_with_pelvic_girdle_posterior_to_the_pectoral_girdle contact_at_the_level_of_the_cleithrum contact_at_the_level_of_the_coracoid pelvic_girdle_anterior_to_the_pectoral_girdle>
+>skipping unsupported (or wrong) TNT command  <{58 Antero-median_pelvic_process absent present>
+>skipping unsupported (or wrong) TNT command  <{59 External_dorsal_pelvic_wing shorter_than_the_external_ventral_wing equal_in_size_to_the_external_ventral_wing>
+>skipping unsupported (or wrong) TNT command  <{60 Internal_wings_of_the_pelvic_bone separated joined_medially>
+>skipping unsupported (or wrong) TNT command  <{61 Median_processes_of_the_pelvic_bones non-overlapping overlapping_medially>
+>skipping unsupported (or wrong) TNT command  <{62 Autogenous_pelvic_radials present absent>
+>skipping unsupported (or wrong) TNT command  <{63 Number_of_soft_rays_of_the_pelvic_fin six_or_more five_or_less>
+>skipping unsupported (or wrong) TNT command  <{64 Pelvic_fin_spine absent present>
+>skipping unsupported (or wrong) TNT command  <{65 Base_of_the_pelvic_fin_spine symmetrical asymmetrical>
+>skipping unsupported (or wrong) TNT command  <proc />
+>skipping unsupported (or wrong) TNT command  <comments 0>
+import tnt> closing TNT file 'Davesne2016.tnt'
+
+current dataset has 66 characters and 26 terminals
+>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set
+  [-/1 1.66;
+characters properties set
+  <2 3>
+  <35 36>
+  <65 66>;
+>-< import tnt> importing from TNT file 'Davesne2016.tnt'
+xread> reading data...
+xread> current data matrix and tree buffer are cleared
+xread> new matrix has 26 terminals and 67 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 Ascending_process_of_the_premaxilla shorter_than_the_alveolar_process equal_to_or_longer_than_the_alveolar_process>
+>skipping unsupported (or wrong) TNT command  <{1 Premaxilla_postmaxillary_process absent present>
+>skipping unsupported (or wrong) TNT command  <{2 Posterior_margin_of_the_premaxilla_postmaxillary_process straight notched>
+>skipping unsupported (or wrong) TNT command  <{3 Anterior_supramaxilla present absent>
+>skipping unsupported (or wrong) TNT command  <{4 Posterior_supramaxilla present absent>
+>skipping unsupported (or wrong) TNT command  <{5 Supraorbital present absent>
+>skipping unsupported (or wrong) TNT command  <{6 Antorbital present absent>
+>skipping unsupported (or wrong) TNT command  <{7 Lateral_ethmoid not_in_contact_with_the_vomer in_direct_contact_with_the_vomer>
+>skipping unsupported (or wrong) TNT command  <{8 Mesethmoid anterior_to_the_lateral_ethmoid median_or_posterior_to_the_lateral_ethmoid>
+>skipping unsupported (or wrong) TNT command  <{9 Orbitosphenoid present absent>
+>skipping unsupported (or wrong) TNT command  <{10 Basisphenoid present absent>
+>skipping unsupported (or wrong) TNT command  <{11 Intercalar small_and_not_containing_the_foramen_for_cranial_nerve_IX large_and_containing_the_foramen_for_cranial_nerve_IX>
+>skipping unsupported (or wrong) TNT command  <{12 Epioccipital not_firmly_bound_to_the_dorsal_limb_of_the_posttemporal firmly_bound_to_the_dorsal_limb_of_the_posttemporal epioccipital_and_posttemporal_fused>
+>skipping unsupported (or wrong) TNT command  <{13 Frontal not_forming_part_of_the_sagittal_crest forming_part_of_the_sagittal_crest>
+>skipping unsupported (or wrong) TNT command  <{14 Frontal_vault_or_cradle absent present>
+>skipping unsupported (or wrong) TNT command  <{15 Spina_occipitalis absent present>
+>skipping unsupported (or wrong) TNT command  <{16 Cranio-hyomandibular_articulation two-headed single-headed>
+>skipping unsupported (or wrong) TNT command  <{17 Metapterygoid in_contact_(or_close_approximation)_with_the_quadrate small_and_not_in_contact_with_the_quadrate>
+>skipping unsupported (or wrong) TNT command  <{18 Anterior_palatine_process present,_palatine_articulates_with_the_maxilla absent,_no_palate-maxillary_connexion absent,_no_palatine-maxillary_connexion>
+>skipping unsupported (or wrong) TNT command  <{19 Palatine_teeth present absent>
+>skipping unsupported (or wrong) TNT command  <{20 Posterior_and_anterior_ceratohyals separated_with_cartilage sutured>
+>skipping unsupported (or wrong) TNT command  <{21 Articulation_between_the_anterior_ceratohyal_and_the_ventral_hypohyal straight condylar>
+>skipping unsupported (or wrong) TNT command  <{22 Anterior_branchiostegals subequal_in_length_to_the_posterior_ones smaller_than_the_posterior_ones>
+>skipping unsupported (or wrong) TNT command  <{23 Median_fusion_of_neural_spines at_least_one_paired_neural_spine all_neural_spines_fused_medially,_unpaired>
+>skipping unsupported (or wrong) TNT command  <{24 Proximal_insertion_of_Baudelot"s_ligament on_abdominal_vertebrae on_basioccipital on_exoccipitals split_between_the_first_abdominal_vertebra_and_the_exoccipitals>
+>skipping unsupported (or wrong) TNT command  <{25 Insertion_of_epineurals all_on_neural_arches_or_spines at_least_partly_below_neural_arches at_least_partly_on_ribs>
+>skipping unsupported (or wrong) TNT command  <{26 Epipleurals present absent>
+>skipping unsupported (or wrong) TNT command  <{27 First_vertebral_centrum no_facets facets_articulating_with_exoccipital_condyles>
+>skipping unsupported (or wrong) TNT command  <{28 First_neural_spine separated_from_the_neurocranium closely_associated_or_sutured_with_the_neurocranium>
+>skipping unsupported (or wrong) TNT command  <{29 Second_vertebral_centrum subequal_in_length_to_the_others abbreviated_in_length>
+>skipping unsupported (or wrong) TNT command  <{30 Number_of_ossified_supraneurals three_or_more two one none>
+>skipping unsupported (or wrong) TNT command  <{31 Position_of_supraneurals at_least_one_posterior_to_the_first_neural_spine all_anterior_to_the_first_neural_spine>
+>skipping unsupported (or wrong) TNT command  <{32 Insertion_of_the_first_dorsal_pterygiophore posterior_to_the_neural_spine_4 between_the_neural_spines_2_and_4 between_the_neural_spines_1_and_2 anterior_to_the_first_neural_spine>
+>skipping unsupported (or wrong) TNT command  <{33 Distal_end_of_the_first_dorsal_pterygiophore oriented_posteriorly oriented_anteriorly>
+>skipping unsupported (or wrong) TNT command  <{34 Dorsal_fin_spines absent present>
+>skipping unsupported (or wrong) TNT command  <{35 "Chain-link"_articulation_of_dorsal_fin_spines absent present no_distal_radials>
+>skipping unsupported (or wrong) TNT command  <{36 Spinous_first_dorsal_fin continuous_dorsal_fin absent dorsal_fin_subdivised_-_or_deeply_notched_-_with_an_anterior_part_entirely_spinous present dorsal_fin_subdivided_with_an_anterior_part_composed_of_soft_rays>
+>skipping unsupported (or wrong) TNT command  <{37 Elongated_and_unbranched_first_soft_ray_of_the_dorsal_fin absent present>
+>skipping unsupported (or wrong) TNT command  <{38 Adipose_fin present absent>
+>skipping unsupported (or wrong) TNT command  <{39 Anal_fin_spines absent present>
+>skipping unsupported (or wrong) TNT command  <{40 Soft_rays_of_the_unpaired_fins at_least_some_branched_distally all_unbranched>
+>skipping unsupported (or wrong) TNT command  <{41 Second_ural_vertebral_centrum_and_upper_hypurals autogenous fused>
+>skipping unsupported (or wrong) TNT command  <{42 Second_ural_vertebral_centrum_and_first_ural_centrum autogenous fused>
+>skipping unsupported (or wrong) TNT command  <{43 Neural_spine_of_the_second_preural_vertebra short_and_leaf-shaped long_and_spine-like>
+>skipping unsupported (or wrong) TNT command  <{44 First_uroneural autogenous fused_to_the_terminal_centrum>
+>skipping unsupported (or wrong) TNT command  <{45 Number_of_epurals three two one none>
+>skipping unsupported (or wrong) TNT command  <{46 Y_bone absent present>
+>skipping unsupported (or wrong) TNT command  <{47 Parhypural articulated_or_fused_to_the_first_preural_centrum truncated_proximally_by_the_loss_of_the_haemal_arch_and_separated_from_the_first_preural_centrum>
+>skipping unsupported (or wrong) TNT command  <{48 Number_of_discrete_hypurals six less_than_six>
+>skipping unsupported (or wrong) TNT command  <{49 Overlap_of_the_caudal_skeleton_by_the_caudal_fin_rays little_to_no_overlap extensive_overlap_or_hypurostegy>
+>skipping unsupported (or wrong) TNT command  <{50 Number_of_principal_caudal_fin_rays 19_or_more 18 17_or_less>
+>skipping unsupported (or wrong) TNT command  <{51 Scapular_foramen in_scapula between_scapula_and_coracoid>
+>skipping unsupported (or wrong) TNT command  <{52 Postcleithra two_or_more_separated_bones only_one_bone>
+>skipping unsupported (or wrong) TNT command  <{53 Insertion_of_the_pectoral_fin vertical_or_oblique horizontal>
+>skipping unsupported (or wrong) TNT command  <{54 Number_of_autogenous_pectoral_radials four three>
+>skipping unsupported (or wrong) TNT command  <{55 Pectoral_fin_soft_rays at_least_some_branched_distally all_unbranched>
+>skipping unsupported (or wrong) TNT command  <{56 Anterior_tip_of_the_pelvic_girdle posterior_to_the_distal_postcleithrum anterior_to_the_distal_postcleithrum>
+>skipping unsupported (or wrong) TNT command  <{57 Contact_between_pectoral_and_pelvic_girdles no_contact,_with_pelvic_girdle_posterior_to_the_pectoral_girdle contact_at_the_level_of_the_cleithrum contact_at_the_level_of_the_coracoid pelvic_girdle_anterior_to_the_pectoral_girdle>
+>skipping unsupported (or wrong) TNT command  <{58 Antero-median_pelvic_process absent present>
+>skipping unsupported (or wrong) TNT command  <{59 External_dorsal_pelvic_wing shorter_than_the_external_ventral_wing equal_in_size_to_the_external_ventral_wing>
+>skipping unsupported (or wrong) TNT command  <{60 Internal_wings_of_the_pelvic_bone separated joined_medially>
+>skipping unsupported (or wrong) TNT command  <{61 Median_processes_of_the_pelvic_bones non-overlapping overlapping_medially>
+>skipping unsupported (or wrong) TNT command  <{62 Autogenous_pelvic_radials present absent>
+>skipping unsupported (or wrong) TNT command  <{63 Number_of_soft_rays_of_the_pelvic_fin six_or_more five_or_less>
+>skipping unsupported (or wrong) TNT command  <{64 Pelvic_fin_spine absent present>
+>skipping unsupported (or wrong) TNT command  <{65 Base_of_the_pelvic_fin_spine symmetrical asymmetrical>
+>skipping unsupported (or wrong) TNT command  <{66 Ossified_supraneurals absent present>
+>skipping unsupported (or wrong) TNT command  <proc />
+>skipping unsupported (or wrong) TNT command  <comments 0>
+import tnt> closing TNT file 'Davesne2016.tnt'
+
+current dataset has 67 characters and 26 terminals
+>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set> state distribution error in terminal 12 between subordinate character 31 and root character 67: a feature that is absent or inapplicable in the root character must be inapplicable in the subordinate character
+characters properties set> state distribution error in terminal 13 between subordinate character 31 and root character 67: a feature that is absent or inapplicable in the root character must be inapplicable in the subordinate character
+characters properties set> state distribution error in terminal 17 between subordinate character 31 and root character 67: a feature that is absent or inapplicable in the root character must be inapplicable in the subordinate character
+characters properties set> state distribution error in terminal 18 between subordinate character 31 and root character 67: a feature that is absent or inapplicable in the root character must be inapplicable in the subordinate character
+characters properties set> state distribution error in terminal 19 between subordinate character 31 and root character 67: a feature that is absent or inapplicable in the root character must be inapplicable in the subordinate character
+characters properties set> state distribution error in terminal 20 between subordinate character 31 and root character 67: a feature that is absent or inapplicable in the root character must be inapplicable in the subordinate character
+characters properties set> state distribution error in terminal 22 between subordinate character 31 and root character 67: a feature that is absent or inapplicable in the root character must be inapplicable in the subordinate character
+characters properties set>-< ==> no character codes have been changed
+characters properties set
+  [-/1 1.67;
+>-< import tnt> importing from TNT file 'Davesne2016.tnt'
+xread> reading data...
+xread> current data matrix and tree buffer are cleared
+xread> new matrix has 26 terminals and 67 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 Ascending_process_of_the_premaxilla shorter_than_the_alveolar_process equal_to_or_longer_than_the_alveolar_process>
+>skipping unsupported (or wrong) TNT command  <{1 Premaxilla_postmaxillary_process absent present>
+>skipping unsupported (or wrong) TNT command  <{2 Posterior_margin_of_the_premaxilla_postmaxillary_process straight notched>
+>skipping unsupported (or wrong) TNT command  <{3 Anterior_supramaxilla present absent>
+>skipping unsupported (or wrong) TNT command  <{4 Posterior_supramaxilla present absent>
+>skipping unsupported (or wrong) TNT command  <{5 Supraorbital present absent>
+>skipping unsupported (or wrong) TNT command  <{6 Antorbital present absent>
+>skipping unsupported (or wrong) TNT command  <{7 Lateral_ethmoid not_in_contact_with_the_vomer in_direct_contact_with_the_vomer>
+>skipping unsupported (or wrong) TNT command  <{8 Mesethmoid anterior_to_the_lateral_ethmoid median_or_posterior_to_the_lateral_ethmoid>
+>skipping unsupported (or wrong) TNT command  <{9 Orbitosphenoid present absent>
+>skipping unsupported (or wrong) TNT command  <{10 Basisphenoid present absent>
+>skipping unsupported (or wrong) TNT command  <{11 Intercalar small_and_not_containing_the_foramen_for_cranial_nerve_IX large_and_containing_the_foramen_for_cranial_nerve_IX>
+>skipping unsupported (or wrong) TNT command  <{12 Epioccipital not_firmly_bound_to_the_dorsal_limb_of_the_posttemporal firmly_bound_to_the_dorsal_limb_of_the_posttemporal epioccipital_and_posttemporal_fused>
+>skipping unsupported (or wrong) TNT command  <{13 Frontal not_forming_part_of_the_sagittal_crest forming_part_of_the_sagittal_crest>
+>skipping unsupported (or wrong) TNT command  <{14 Frontal_vault_or_cradle absent present>
+>skipping unsupported (or wrong) TNT command  <{15 Spina_occipitalis absent present>
+>skipping unsupported (or wrong) TNT command  <{16 Cranio-hyomandibular_articulation two-headed single-headed>
+>skipping unsupported (or wrong) TNT command  <{17 Metapterygoid in_contact_(or_close_approximation)_with_the_quadrate small_and_not_in_contact_with_the_quadrate>
+>skipping unsupported (or wrong) TNT command  <{18 Anterior_palatine_process present,_palatine_articulates_with_the_maxilla absent,_no_palate-maxillary_connexion absent,_no_palatine-maxillary_connexion>
+>skipping unsupported (or wrong) TNT command  <{19 Palatine_teeth present absent>
+>skipping unsupported (or wrong) TNT command  <{20 Posterior_and_anterior_ceratohyals separated_with_cartilage sutured>
+>skipping unsupported (or wrong) TNT command  <{21 Articulation_between_the_anterior_ceratohyal_and_the_ventral_hypohyal straight condylar>
+>skipping unsupported (or wrong) TNT command  <{22 Anterior_branchiostegals subequal_in_length_to_the_posterior_ones smaller_than_the_posterior_ones>
+>skipping unsupported (or wrong) TNT command  <{23 Median_fusion_of_neural_spines at_least_one_paired_neural_spine all_neural_spines_fused_medially,_unpaired>
+>skipping unsupported (or wrong) TNT command  <{24 Proximal_insertion_of_Baudelot"s_ligament on_abdominal_vertebrae on_basioccipital on_exoccipitals split_between_the_first_abdominal_vertebra_and_the_exoccipitals>
+>skipping unsupported (or wrong) TNT command  <{25 Insertion_of_epineurals all_on_neural_arches_or_spines at_least_partly_below_neural_arches at_least_partly_on_ribs>
+>skipping unsupported (or wrong) TNT command  <{26 Epipleurals present absent>
+>skipping unsupported (or wrong) TNT command  <{27 First_vertebral_centrum no_facets facets_articulating_with_exoccipital_condyles>
+>skipping unsupported (or wrong) TNT command  <{28 First_neural_spine separated_from_the_neurocranium closely_associated_or_sutured_with_the_neurocranium>
+>skipping unsupported (or wrong) TNT command  <{29 Second_vertebral_centrum subequal_in_length_to_the_others abbreviated_in_length>
+>skipping unsupported (or wrong) TNT command  <{30 Number_of_ossified_supraneurals three_or_more two one none>
+>skipping unsupported (or wrong) TNT command  <{31 Position_of_supraneurals at_least_one_posterior_to_the_first_neural_spine all_anterior_to_the_first_neural_spine>
+>skipping unsupported (or wrong) TNT command  <{32 Insertion_of_the_first_dorsal_pterygiophore posterior_to_the_neural_spine_4 between_the_neural_spines_2_and_4 between_the_neural_spines_1_and_2 anterior_to_the_first_neural_spine>
+>skipping unsupported (or wrong) TNT command  <{33 Distal_end_of_the_first_dorsal_pterygiophore oriented_posteriorly oriented_anteriorly>
+>skipping unsupported (or wrong) TNT command  <{34 Dorsal_fin_spines absent present>
+>skipping unsupported (or wrong) TNT command  <{35 "Chain-link"_articulation_of_dorsal_fin_spines absent present no_distal_radials>
+>skipping unsupported (or wrong) TNT command  <{36 Spinous_first_dorsal_fin continuous_dorsal_fin absent dorsal_fin_subdivised_-_or_deeply_notched_-_with_an_anterior_part_entirely_spinous present dorsal_fin_subdivided_with_an_anterior_part_composed_of_soft_rays>
+>skipping unsupported (or wrong) TNT command  <{37 Elongated_and_unbranched_first_soft_ray_of_the_dorsal_fin absent present>
+>skipping unsupported (or wrong) TNT command  <{38 Adipose_fin present absent>
+>skipping unsupported (or wrong) TNT command  <{39 Anal_fin_spines absent present>
+>skipping unsupported (or wrong) TNT command  <{40 Soft_rays_of_the_unpaired_fins at_least_some_branched_distally all_unbranched>
+>skipping unsupported (or wrong) TNT command  <{41 Second_ural_vertebral_centrum_and_upper_hypurals autogenous fused>
+>skipping unsupported (or wrong) TNT command  <{42 Second_ural_vertebral_centrum_and_first_ural_centrum autogenous fused>
+>skipping unsupported (or wrong) TNT command  <{43 Neural_spine_of_the_second_preural_vertebra short_and_leaf-shaped long_and_spine-like>
+>skipping unsupported (or wrong) TNT command  <{44 First_uroneural autogenous fused_to_the_terminal_centrum>
+>skipping unsupported (or wrong) TNT command  <{45 Number_of_epurals three two one none>
+>skipping unsupported (or wrong) TNT command  <{46 Y_bone absent present>
+>skipping unsupported (or wrong) TNT command  <{47 Parhypural articulated_or_fused_to_the_first_preural_centrum truncated_proximally_by_the_loss_of_the_haemal_arch_and_separated_from_the_first_preural_centrum>
+>skipping unsupported (or wrong) TNT command  <{48 Number_of_discrete_hypurals six less_than_six>
+>skipping unsupported (or wrong) TNT command  <{49 Overlap_of_the_caudal_skeleton_by_the_caudal_fin_rays little_to_no_overlap extensive_overlap_or_hypurostegy>
+>skipping unsupported (or wrong) TNT command  <{50 Number_of_principal_caudal_fin_rays 19_or_more 18 17_or_less>
+>skipping unsupported (or wrong) TNT command  <{51 Scapular_foramen in_scapula between_scapula_and_coracoid>
+>skipping unsupported (or wrong) TNT command  <{52 Postcleithra two_or_more_separated_bones only_one_bone>
+>skipping unsupported (or wrong) TNT command  <{53 Insertion_of_the_pectoral_fin vertical_or_oblique horizontal>
+>skipping unsupported (or wrong) TNT command  <{54 Number_of_autogenous_pectoral_radials four three>
+>skipping unsupported (or wrong) TNT command  <{55 Pectoral_fin_soft_rays at_least_some_branched_distally all_unbranched>
+>skipping unsupported (or wrong) TNT command  <{56 Anterior_tip_of_the_pelvic_girdle posterior_to_the_distal_postcleithrum anterior_to_the_distal_postcleithrum>
+>skipping unsupported (or wrong) TNT command  <{57 Contact_between_pectoral_and_pelvic_girdles no_contact,_with_pelvic_girdle_posterior_to_the_pectoral_girdle contact_at_the_level_of_the_cleithrum contact_at_the_level_of_the_coracoid pelvic_girdle_anterior_to_the_pectoral_girdle>
+>skipping unsupported (or wrong) TNT command  <{58 Antero-median_pelvic_process absent present>
+>skipping unsupported (or wrong) TNT command  <{59 External_dorsal_pelvic_wing shorter_than_the_external_ventral_wing equal_in_size_to_the_external_ventral_wing>
+>skipping unsupported (or wrong) TNT command  <{60 Internal_wings_of_the_pelvic_bone separated joined_medially>
+>skipping unsupported (or wrong) TNT command  <{61 Median_processes_of_the_pelvic_bones non-overlapping overlapping_medially>
+>skipping unsupported (or wrong) TNT command  <{62 Autogenous_pelvic_radials present absent>
+>skipping unsupported (or wrong) TNT command  <{63 Number_of_soft_rays_of_the_pelvic_fin six_or_more five_or_less>
+>skipping unsupported (or wrong) TNT command  <{64 Pelvic_fin_spine absent present>
+>skipping unsupported (or wrong) TNT command  <{65 Base_of_the_pelvic_fin_spine symmetrical asymmetrical>
+>skipping unsupported (or wrong) TNT command  <{66 Ossified_supraneurals absent present>
+>skipping unsupported (or wrong) TNT command  <proc />
+>skipping unsupported (or wrong) TNT command  <comments 0>
+import tnt> closing TNT file 'Davesne2016.tnt'
+
+current dataset has 67 characters and 26 terminals
+>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set>-< characters properties set
+  [-/1 1.67;
+characters properties set
+  <2 3>
+  <35 36>
+  <65 66>
+  <67 31 32>;
+>-< trees search mult> doing 50 replicates with tbr swapping
+rep 1    score 205   (random addition sequence, seed 0)                      [1 tree, best score 205, 1 rep hit 205]
+rep 2    score 206   (random addition sequence, seed 675891343)              [1 tree, best score 205, 1 rep hit 205]
+rep 3    score 205   (random addition sequence, seed 1213565331)             [1 tree, best score 205, 2 reps hit 205]
+rep 4    score 205   (random addition sequence, seed 1364891690)             [1 tree, best score 205, 3 reps hit 205]
+rep 5    score 205   (random addition sequence, seed 1847200038)             [1 tree, best score 205, 4 reps hit 205]
+rep 6    score 205   (random addition sequence, seed 739151374)              [1 tree, best score 205, 5 reps hit 205]
+rep 7    score 205   (random addition sequence, seed 1119982082)             [1 tree, best score 205, 6 reps hit 205]
+rep 8    score 205   (random addition sequence, seed 1890449481)             [1 tree, best score 205, 7 reps hit 205]
+rep 9    score 205   (random addition sequence, seed 31087654)               [1 tree, best score 205, 8 reps hit 205]
+rep 10   score 205   (random addition sequence, seed 1245094679)             [1 tree, best score 205, 9 reps hit 205]
+rep 11   score 211   (random addition sequence, seed 660454458)              [1 tree, best score 205, 9 reps hit 205]
+rep 12   score 205   (random addition sequence, seed 558849596)              [1 tree, best score 205, 10 reps hit 205]
+rep 13   score 205   (random addition sequence, seed 1452126384)             [1 tree, best score 205, 11 reps hit 205]
+rep 14   score 205   (random addition sequence, seed 384840894)              [1 tree, best score 205, 12 reps hit 205]
+rep 15   score 206   (random addition sequence, seed 1404093678)             [1 tree, best score 205, 12 reps hit 205]
+rep 16   score 205   (random addition sequence, seed 938269558)              [1 tree, best score 205, 13 reps hit 205]
+rep 17   score 205   (random addition sequence, seed 727072473)              [1 tree, best score 205, 14 reps hit 205]
+rep 18   score 205   (random addition sequence, seed 750867379)              [1 tree, best score 205, 15 reps hit 205]
+rep 19   score 205   (random addition sequence, seed 76185795)               [1 tree, best score 205, 16 reps hit 205]
+rep 20   score 205   (random addition sequence, seed 2018718317)             [1 tree, best score 205, 17 reps hit 205]
+rep 21   score 205   (random addition sequence, seed 1170515195)             [1 tree, best score 205, 18 reps hit 205]
+rep 22   score 205   (random addition sequence, seed 1857305281)             [1 tree, best score 205, 19 reps hit 205]
+rep 23   score 205   (random addition sequence, seed 474848753)              [1 tree, best score 205, 20 reps hit 205]
+rep 24   score 205   (random addition sequence, seed 66797268)               [1 tree, best score 205, 21 reps hit 205]
+rep 25   score 205   (random addition sequence, seed 2049514239)             [1 tree, best score 205, 22 reps hit 205]
+rep 26   score 205   (random addition sequence, seed 1469404020)             [1 tree, best score 205, 23 reps hit 205]
+rep 27   score 205   (random addition sequence, seed 479126301)              [1 tree, best score 205, 24 reps hit 205]
+rep 28   score 205   (random addition sequence, seed 454289812)              [1 tree, best score 205, 25 reps hit 205]
+rep 29   score 205   (random addition sequence, seed 324512838)              [1 tree, best score 205, 26 reps hit 205]
+rep 30   score 205   (random addition sequence, seed 6# logfile from anagallis - 2020-5-19 14:28:54
+>-< import tnt> importing from TNT file 'Davesne2016.tnt'
+xread> reading data...
+xread> 26 terminals and 67 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 Ascending_process_of_the_premaxilla shorter_than_the_alveolar_process equal_to_or_longer_than_the_alveolar_process>
+>skipping unsupported (or wrong) TNT command  <{1 Premaxilla_postmaxillary_process absent present>
+>skipping unsupported (or wrong) TNT command  <{2 Posterior_margin_of_the_premaxilla_postmaxillary_process straight notched>
+>skipping unsupported (or wrong) TNT command  <{3 Anterior_supramaxilla present absent>
+>skipping unsupported (or wrong) TNT command  <{4 Posterior_supramaxilla present absent>
+>skipping unsupported (or wrong) TNT command  <{5 Supraorbital present absent>
+>skipping unsupported (or wrong) TNT command  <{6 Antorbital present absent>
+>skipping unsupported (or wrong) TNT command  <{7 Lateral_ethmoid not_in_contact_with_the_vomer in_direct_contact_with_the_vomer>
+>skipping unsupported (or wrong) TNT command  <{8 Mesethmoid anterior_to_the_lateral_ethmoid median_or_posterior_to_the_lateral_ethmoid>
+>skipping unsupported (or wrong) TNT command  <{9 Orbitosphenoid present absent>
+>skipping unsupported (or wrong) TNT command  <{10 Basisphenoid present absent>
+>skipping unsupported (or wrong) TNT command  <{11 Intercalar small_and_not_containing_the_foramen_for_cranial_nerve_IX large_and_containing_the_foramen_for_cranial_nerve_IX>
+>skipping unsupported (or wrong) TNT command  <{12 Epioccipital not_firmly_bound_to_the_dorsal_limb_of_the_posttemporal firmly_bound_to_the_dorsal_limb_of_the_posttemporal epioccipital_and_posttemporal_fused>
+>skipping unsupported (or wrong) TNT command  <{13 Frontal not_forming_part_of_the_sagittal_crest forming_part_of_the_sagittal_crest>
+>skipping unsupported (or wrong) TNT command  <{14 Frontal_vault_or_cradle absent present>
+>skipping unsupported (or wrong) TNT command  <{15 Spina_occipitalis absent present>
+>skipping unsupported (or wrong) TNT command  <{16 Cranio-hyomandibular_articulation two-headed single-headed>
+>skipping unsupported (or wrong) TNT command  <{17 Metapterygoid in_contact_(or_close_approximation)_with_the_quadrate small_and_not_in_contact_with_the_quadrate>
+>skipping unsupported (or wrong) TNT command  <{18 Anterior_palatine_process present,_palatine_articulates_with_the_maxilla absent,_no_palate-maxillary_connexion absent,_no_palatine-maxillary_connexion>
+>skipping unsupported (or wrong) TNT command  <{19 Palatine_teeth present absent>
+>skipping unsupported (or wrong) TNT command  <{20 Posterior_and_anterior_ceratohyals separated_with_cartilage sutured>
+>skipping unsupported (or wrong) TNT command  <{21 Articulation_between_the_anterior_ceratohyal_and_the_ventral_hypohyal straight condylar>
+>skipping unsupported (or wrong) TNT command  <{22 Anterior_branchiostegals subequal_in_length_to_the_posterior_ones smaller_than_the_posterior_ones>
+>skipping unsupported (or wrong) TNT command  <{23 Median_fusion_of_neural_spines at_least_one_paired_neural_spine all_neural_spines_fused_medially,_unpaired>
+>skipping unsupported (or wrong) TNT command  <{24 Proximal_insertion_of_Baudelot"s_ligament on_abdominal_vertebrae on_basioccipital on_exoccipitals split_between_the_first_abdominal_vertebra_and_the_exoccipitals>
+>skipping unsupported (or wrong) TNT command  <{25 Insertion_of_epineurals all_on_neural_arches_or_spines at_least_partly_below_neural_arches at_least_partly_on_ribs>
+>skipping unsupported (or wrong) TNT command  <{26 Epipleurals present absent>
+>skipping unsupported (or wrong) TNT command  <{27 First_vertebral_centrum no_facets facets_articulating_with_exoccipital_condyles>
+>skipping unsupported (or wrong) TNT command  <{28 First_neural_spine separated_from_the_neurocranium closely_associated_or_sutured_with_the_neurocranium>
+>skipping unsupported (or wrong) TNT command  <{29 Second_vertebral_centrum subequal_in_length_to_the_others abbreviated_in_length>
+>skipping unsupported (or wrong) TNT command  <{30 Number_of_ossified_supraneurals three_or_more two one none>
+>skipping unsupported (or wrong) TNT command  <{31 Position_of_supraneurals at_least_one_posterior_to_the_first_neural_spine all_anterior_to_the_first_neural_spine>
+>skipping unsupported (or wrong) TNT command  <{32 Insertion_of_the_first_dorsal_pterygiophore posterior_to_the_neural_spine_4 between_the_neural_spines_2_and_4 between_the_neural_spines_1_and_2 anterior_to_the_first_neural_spine>
+>skipping unsupported (or wrong) TNT command  <{33 Distal_end_of_the_first_dorsal_pterygiophore oriented_posteriorly oriented_anteriorly>
+>skipping unsupported (or wrong) TNT command  <{34 Dorsal_fin_spines absent present>
+>skipping unsupported (or wrong) TNT command  <{35 "Chain-link"_articulation_of_dorsal_fin_spines absent present no_distal_radials>
+>skipping unsupported (or wrong) TNT command  <{36 Spinous_first_dorsal_fin continuous_dorsal_fin absent dorsal_fin_subdivised_-_or_deeply_notched_-_with_an_anterior_part_entirely_spinous present dorsal_fin_subdivided_with_an_anterior_part_composed_of_soft_rays>
+>skipping unsupported (or wrong) TNT command  <{37 Elongated_and_unbranched_first_soft_ray_of_the_dorsal_fin absent present>
+>skipping unsupported (or wrong) TNT command  <{38 Adipose_fin present absent>
+>skipping unsupported (or wrong) TNT command  <{39 Anal_fin_spines absent present>
+>skipping unsupported (or wrong) TNT command  <{40 Soft_rays_of_the_unpaired_fins at_least_some_branched_distally all_unbranched>
+>skipping unsupported (or wrong) TNT command  <{41 Second_ural_vertebral_centrum_and_upper_hypurals autogenous fused>
+>skipping unsupported (or wrong) TNT command  <{42 Second_ural_vertebral_centrum_and_first_ural_centrum autogenous fused>
+>skipping unsupported (or wrong) TNT command  <{43 Neural_spine_of_the_second_preural_vertebra short_and_leaf-shaped long_and_spine-like>
+>skipping unsupported (or wrong) TNT command  <{44 First_uroneural autogenous fused_to_the_terminal_centrum>
+>skipping unsupported (or wrong) TNT command  <{45 Number_of_epurals three two one none>
+>skipping unsupported (or wrong) TNT command  <{46 Y_bone absent present>
+>skipping unsupported (or wrong) TNT command  <{47 Parhypural articulated_or_fused_to_the_first_preural_centrum truncated_proximally_by_the_loss_of_the_haemal_arch_and_separated_from_the_first_preural_centrum>
+>skipping unsupported (or wrong) TNT command  <{48 Number_of_discrete_hypurals six less_than_six>
+>skipping unsupported (or wrong) TNT command  <{49 Overlap_of_the_caudal_skeleton_by_the_caudal_fin_rays little_to_no_overlap extensive_overlap_or_hypurostegy>
+>skipping unsupported (or wrong) TNT command  <{50 Number_of_principal_caudal_fin_rays 19_or_more 18 17_or_less>
+>skipping unsupported (or wrong) TNT command  <{51 Scapular_foramen in_scapula between_scapula_and_coracoid>
+>skipping unsupported (or wrong) TNT command  <{52 Postcleithra two_or_more_separated_bones only_one_bone>
+>skipping unsupported (or wrong) TNT command  <{53 Insertion_of_the_pectoral_fin vertical_or_oblique horizontal>
+>skipping unsupported (or wrong) TNT command  <{54 Number_of_autogenous_pectoral_radials four three>
+>skipping unsupported (or wrong) TNT command  <{55 Pectoral_fin_soft_rays at_least_some_branched_distally all_unbranched>
+>skipping unsupported (or wrong) TNT command  <{56 Anterior_tip_of_the_pelvic_girdle posterior_to_the_distal_postcleithrum anterior_to_the_distal_postcleithrum>
+>skipping unsupported (or wrong) TNT command  <{57 Contact_between_pectoral_and_pelvic_girdles no_contact,_with_pelvic_girdle_posterior_to_the_pectoral_girdle contact_at_the_level_of_the_cleithrum contact_at_the_level_of_the_coracoid pelvic_girdle_anterior_to_the_pectoral_girdle>
+>skipping unsupported (or wrong) TNT command  <{58 Antero-median_pelvic_process absent present>
+>skipping unsupported (or wrong) TNT command  <{59 External_dorsal_pelvic_wing shorter_than_the_external_ventral_wing equal_in_size_to_the_external_ventral_wing>
+>skipping unsupported (or wrong) TNT command  <{60 Internal_wings_of_the_pelvic_bone separated joined_medially>
+>skipping unsupported (or wrong) TNT command  <{61 Median_processes_of_the_pelvic_bones non-overlapping overlapping_medially>
+>skipping unsupported (or wrong) TNT command  <{62 Autogenous_pelvic_radials present absent>
+>skipping unsupported (or wrong) TNT command  <{63 Number_of_soft_rays_of_the_pelvic_fin six_or_more five_or_less>
+>skipping unsupported (or wrong) TNT command  <{64 Pelvic_fin_spine absent present>
+>skipping unsupported (or wrong) TNT command  <{65 Base_of_the_pelvic_fin_spine symmetrical asymmetrical>
+>skipping unsupported (or wrong) TNT command  <{66 Ossified_supraneurals absent present>
+>skipping unsupported (or wrong) TNT command  <proc />
+>skipping unsupported (or wrong) TNT command  <comments 0>
+import tnt> closing TNT file 'Davesne2016.tnt'
+
+current dataset has 67 characters and 26 terminals
+>-< characters properties set>-< characters properties set
+  [-/1 1.67;
+characters properties set
+  <2 3>
+  <35 36>
+  <65 66>
+  <67 31 32>;
+>-< trees search mult> doing 50 replicates with tbr swapping
+rep 1    score 205   (random addition sequence, seed 0)                      [1 tree, best score 205, 1 rep hit 205]
+rep 2    score 206   (random addition sequence, seed 675891343)              [1 tree, best score 205, 1 rep hit 205]
+rep 3    score 205   (random addition sequence, seed 1213565331)             [1 tree, best score 205, 2 reps hit 205]
+rep 4    score 205   (random addition sequence, seed 1364891690)             [1 tree, best score 205, 3 reps hit 205]
+rep 5    score 205   (random addition sequence, seed 1847200038)             [1 tree, best score 205, 4 reps hit 205]
+rep 6    score 205   (random addition sequence, seed 739151374)              [1 tree, best score 205, 5 reps hit 205]
+rep 7    score 205   (random addition sequence, seed 1119982082)             [1 tree, best score 205, 6 reps hit 205]
+rep 8    score 205   (random addition sequence, seed 1890449481)             [1 tree, best score 205, 7 reps hit 205]
+rep 9    score 205   (random addition sequence, seed 31087654)               [1 tree, best score 205, 8 reps hit 205]
+rep 10   score 205   (random addition sequence, seed 1245094679)             [1 tree, best score 205, 9 reps hit 205]
+rep 11   score 211   (random addition sequence, seed 660454458)              [1 tree, best score 205, 9 reps hit 205]
+rep 12   score 205   (random addition sequence, seed 558849596)              [1 tree, best score 205, 10 reps hit 205]
+rep 13   score 205   (random addition sequence, seed 1452126384)             [1 tree, best score 205, 11 reps hit 205]
+rep 14   score 205   (random addition sequence, seed 384840894)              [1 tree, best score 205, 12 reps hit 205]
+rep 15   score 206   (random addition sequence, seed 1404093678)             [1 tree, best score 205, 12 reps hit 205]
+rep 16   score 205   (random addition sequence, seed 938269558)              [1 tree, best score 205, 13 reps hit 205]
+rep 17   score 205   (random addition sequence, seed 727072473)              [1 tree, best score 205, 14 reps hit 205]
+rep 18   score 205   (random addition sequence, seed 750867379)              [1 tree, best score 205, 15 reps hit 205]
+rep 19   score 205   (random addition sequence, seed 76185795)               [1 tree, best score 205, 16 reps hit 205]
+rep 20   score 205   (random addition sequence, seed 2018718317)             [1 tree, best score 205, 17 reps hit 205]
+rep 21   score 205   (random addition sequence, seed 1170515195)             [1 tree, best score 205, 18 reps hit 205]
+rep 22   score 205   (random addition sequence, seed 1857305281)             [1 tree, best score 205, 19 reps hit 205]
+rep 23   score 205   (random addition sequence, seed 474848753)              [1 tree, best score 205, 20 reps hit 205]
+rep 24   score 205   (random addition sequence, seed 66797268)               [1 tree, best score 205, 21 reps hit 205]
+rep 25   score 205   (random addition sequence, seed 2049514239)             [1 tree, best score 205, 22 reps hit 205]
+rep 26   score 205   (random addition sequence, seed 1469404020)             [1 tree, best score 205, 23 reps hit 205]
+rep 27   score 205

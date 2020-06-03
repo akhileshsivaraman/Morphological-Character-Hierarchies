@@ -1,0 +1,13 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Mon May 11 06:08:23 2020]
+[!
+>Consensus of 253 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Tree(s) input to PAUP* as user-defined tree(s)
+>
+>253 trees read from TREES block; time used = 11.83 sec (CPU time = 0.03 sec)
+]
+	tree Strict = [&U] (Zygorhiza_kochii,((Olympicetus_avitus,(Albertocetus_meffordorum,Archaeodelphis_patrius),(Waipatia_maerewhenua,Physeter_macrocephalus)),(Coronodon_havensteini,OU_gs10897,OCPC_1178,(Aetiocetus_weltoni,(Aetiocetus_cotylalveus,Aetiocetus_polydentatus)),(Fucaia_buelli,Fucaia_goedertorum),Chonecetus_sookensis,Morawanocetus_yabukii,((Whakakai_waipata,(Horopeta_umarere,Mauicetus_parki,Aglaocetus_moreni,ZMT_67,OU_22705,Aglaocetus_patulus,(Pelocetus_calvertensis,Uranocetus_gramensis,(Megaptera_miocaena,(Balaenoptera_ryani,(Parabalaenoptera_baulinensis,Archaebalaenoptera_castriarquati,Balaenoptera_bertae,Incakujira_anillodefuego,Balaenoptera_siberi,(Megaptera_novaeangliae,(Balaenoptera_omurai,(Balaenoptera_borealis,(Balaenoptera_acutorostrata,Balaenoptera_bonaerensis),Balaenoptera_physalus,Balaenoptera_musculus,NMNZ_mm001630))),(Balaenoptera_portisi,(Gricetoides_aurorae,(Eschrichtioides_gastaldii,Eschrichtius_robustus))),Fragilicetus_velponi,Diunatans_luctoretemergo,(Megaptera_hubachi,Plesiobalaenoptera_quarantellii))))),(Diorocetus_hiatus,Thinocetus_arthritus),Diorocetus_shobarensis,(Isanacetus_laticephalus,(Parietobalaena_yamaokai,Diorocetus_chichibuensis,((Parietobalaena_campiniana,(Parietobalaena_sp.,Tiphyocetus_temblorensis)),(Parietobalaena_palmeri,Pinocetus_polonicus)))),(Tiucetus_rosae,(Joumocetus_shimizui,(Ciuciulea_davidi,(Titanocetus_sammarinensis,((Cephalotropis_coronatus,(((Herentalia_nigra,Piscobalaena_nana,(Aulocetus_latus,(Cetotherium_megalophysum,Metopocetus_vandelli))),(Cetotherium_rathkii,(Kurdalagonus_mchedlidzei,Brandtocetus_chongulek,Cetotherium_riabinini))),((Caperea_marginata,Miocaperea_pulchra),(Nannocetus_eremus,(Herpetocetus_transatlanticus,((Herpetocetus_bramblei,Herpetocetus_morrowi),(Herpetocetus_sp.,NMNS_pv19540))))))),((Metopocetus_durinasus,Metopocetus_hunteri),(Tranatocetus_argillarius,Tranatocetus_maregermanicum))))))),OU_22224,(Morenocetus_parvus,Peripolocetus_vexillifer,(Balaenula_sp.,(Balaenella_brachyrhynus,(Balaenula_astensis,(Balaena_ricei,Antwerpibalaena_liberatlas,Balaena_montalionis,Balaena_mysticetus,Eubalaena_ianitrix,(Eubalaena_shinshuensis,Eubalaena_spp.)))))))),(Yamatocetus_canaliculatus,Eomysticetus_whitmorei,Micromysticetus_rothauseni,(Matapanui_waihao,(Waharoa_ruwhenua,Tohoraata_raekohao,Tokarahia_kauaeroa)))),(Janjucetus_hunderi,(Mammalodon_colliveri,Mammalodon_hakataramea)))),(Llanocetus_denticrenatus,Mystacodon_selenensis));
+end;

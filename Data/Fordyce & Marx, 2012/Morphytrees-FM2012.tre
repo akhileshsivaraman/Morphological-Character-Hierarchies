@@ -1,0 +1,32 @@
+#NEXUS
+BEGIN TREES;
+	TRANSLATE
+		1 Zygorhiza_kochii,
+		2 Physeter_catodon,
+		3 Aetiocetus_cotylalveus,
+		4 Balaena_mysticetus,
+		5 Balaenella_brachyrhynus,
+		6 Balaenoptera_bonaerensis,
+		7 Balaenula_astensis,
+		8 Caperea_marginata,
+		9 Cetotherium_rathkii,
+		10 Diorocetus_hiatus,
+		11 Eomysticetus_whitmorei,
+		12 Eschrichtius_robustus,
+		13 Eubalaena_spp.,
+		14 Herpetocetus_bramblei,
+		15 Herpetocetus_transatlanticus,
+		16 Megaptera_miocaena,
+		17 Megaptera_novaeangliae,
+		18 Metopocetus_durinasus,
+		19 Morenocetus_parvus,
+		20 Nannocetus_eremus,
+		21 Pelocetus_calvertensis,
+		22 Piscobalaena_nana,
+		23 Plesiobalaenoptera_quarantellii
+		;
+
+		TREE Morphy_1 = [&U] (1,(2,(3,(11,((19,(5,(13,(4,7)))),((10,(21,((23,(6,17)),(12,16)))),(9,(18,(22,(8,(20,(14,15))))))))))));
+		TREE Morphy_2 = [&U] (1,(2,(3,(11,((19,(5,(13,(4,7)))),((10,(21,((23,(6,17)),(12,16)))),(9,(18,(22,(8,(14,(15,20))))))))))));
+		TREE Morphy_3 = [&U] (1,(2,(3,(11,((19,(5,(13,(4,7)))),((10,(21,((23,(6,17)),(12,16)))),(9,(18,(22,(8,(15,(14,20))))))))))));
+END;

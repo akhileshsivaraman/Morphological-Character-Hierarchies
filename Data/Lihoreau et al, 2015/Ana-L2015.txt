@@ -1,0 +1,499 @@
+# logfile from anagallis - 2020-5-25 18:26:16
+>-< import tnt> importing from TNT file 'L2015.tnt'
+xread> reading data...
+xread> 54 terminals and 176 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 number_of_lower_incisors three two one>
+>skipping unsupported (or wrong) TNT command  <{1 lower_incisor_morphology not_caniniform at_least_one_caniniform_lower_incisor>
+>skipping unsupported (or wrong) TNT command  <{2 relative_dimensions_of_lower_incisors all_of_equal_size one_or_two_more_developped>
+>skipping unsupported (or wrong) TNT command  <{3 most_developped_incisor I/2 I/3 I/1>
+>skipping unsupported (or wrong) TNT command  <{4 transverse_section_of_lower_incisors_crowns strongly_irregular about_rounded>
+>skipping unsupported (or wrong) TNT command  <{5 lower_incisor_cervix_morphology no_deep_indentation indented_cervix,_indentation_as_long_as_the_root_diameter_on_the_cervix deep_identation_longer_than_the_root_diameter_at_cervix>
+>skipping unsupported (or wrong) TNT command  <{6 crown_of_lower_I1 straight spatulate_(with_convex_mesial_and_distal_border)>
+>skipping unsupported (or wrong) TNT command  <{7 presence_of_a_median_lingual_pillar_(lingual_rib)_on_lower_i1 yes no>
+>skipping unsupported (or wrong) TNT command  <{8 Lower_canine_cross_setcion_at_cervix subcircular elliptical>
+>skipping unsupported (or wrong) TNT command  <{9 cristids_on_lower_canine_enamel_caps none one_distal two,_one_mesial_and_one_distal one_mesial>
+>skipping unsupported (or wrong) TNT command  <{10 wear_on_lower_canine distal_wear_facet_contact_with_canine mesial_wear_facet_contact_with_I3>
+>skipping unsupported (or wrong) TNT command  <{11 groove_on_labial_side_of_lower_canine no yes>
+>skipping unsupported (or wrong) TNT command  <{12 groove_on_lingual_side_of_lower_canine no yes>
+>skipping unsupported (or wrong) TNT command  <{13 lower_canine_in_male fang-like premolariform incisiform>
+>skipping unsupported (or wrong) TNT command  <{14 crown_of_lower_canine_in_male small_near_premolar_size at_least_twice_the_premolar_size prolonged_growth_to_ever-growing>
+>skipping unsupported (or wrong) TNT command  <{15 p/1_roots one two>
+>skipping unsupported (or wrong) TNT command  <{16 paraconid_on_lower_premolars no yes>
+>skipping unsupported (or wrong) TNT command  <{17 elongated_p/3 no_(shorter_or_equal_than_M/1_lenght) yes_(longer_than_M/1_lenght)>
+>skipping unsupported (or wrong) TNT command  <{18 three_lobed_P/3 no yes>
+>skipping unsupported (or wrong) TNT command  <{19 accessory_cusp_on_the_preprotocristid_of_lower_premolars none one_or_more>
+>skipping unsupported (or wrong) TNT command  <{20 lingual_contour_at_cervix_of__P/4_in_occlusal_view convex_to_straight concave>
+>skipping unsupported (or wrong) TNT command  <{21 labial_wall_on_P/3_or_P/4 convex concave>
+>skipping unsupported (or wrong) TNT command  <{22 Orientation_of_postprotocristid_on_P/3 distal distolingual distolabial>
+>skipping unsupported (or wrong) TNT command  <{23 high_cingulid_on_labial_face_of_P/3 no yes>
+>skipping unsupported (or wrong) TNT command  <{24 preprotocristid_mesiolingualy_curved_on_P/3 no yes>
+>skipping unsupported (or wrong) TNT command  <{25 mesial_accessory_cusp_on_preprotocristid_on_P/3 no Shoulder_like_structure_on_lateral_view_of_preprotocristid_of_lower_premolars complete_accessory_cusp>
+>skipping unsupported (or wrong) TNT command  <{26 Change_in_the_orientation_of_the_preprotocristid_mesialy_to_the_junction_of_accessory_mesiolingual_crest_on_lower_premolars no yes>
+>skipping unsupported (or wrong) TNT command  <{27 Orientation_of_the_endoprotocristid_on_P/4 absent separated_from_postprotocristid_at_the_protoconid_apex_and_then_strait_and_distolingual fused_with_postprotocristid_in_part_and_then_curved_mesiolingually>
+>skipping unsupported (or wrong) TNT command  <{28 entoconid_on_P/3 never at_least_on_some_specimen>
+>skipping unsupported (or wrong) TNT command  <{29 P/3_hypoconid no yes>
+>skipping unsupported (or wrong) TNT command  <{30 distolingual_cingulid_on_P/4_in_lingual_view forming_a_continuous_wall_lingually_until_the_distostylid reaching_the_level_of_the_distal_basin_and_keeping_be_shallow_until_the_distostylid reaching_the_level_of_distal_basin_and_then_being_high_when_joigning_the_distostylid_(distolingual_notch_of_cingulid)>
+>skipping unsupported (or wrong) TNT command  <{31 presence_of_a_preentocristid_on_P/3_and/or_on_P/4 no yes>
+>skipping unsupported (or wrong) TNT command  <{32 mesiolingual_secondary_cristid__on_P/4_(cristid_connecting_lingual_margin_and_preprotocristid) no yes>
+>skipping unsupported (or wrong) TNT command  <{33 labial_cingulid_form_a_V_(indentated)_on_P/4_before_to_reach_the_distal_cingulid no yes>
+>skipping unsupported (or wrong) TNT command  <{34 marked_postprotofossid_on_P/4 absent present>
+>skipping unsupported (or wrong) TNT command  <{35 postectoprotocristid_on_P/4 no yes>
+>skipping unsupported (or wrong) TNT command  <{36 hypoconid_on_P/4 no yes_(even_incipient)>
+>skipping unsupported (or wrong) TNT command  <{37 ectoprotofossid_on_p/4 absent frequent>
+>skipping unsupported (or wrong) TNT command  <{38 premetacristid_on_lower_molars strong reduced_or_missing>
+>skipping unsupported (or wrong) TNT command  <{39 paraconid_on_lower_molars,_almost_on_unworn_specimens yes no>
+>skipping unsupported (or wrong) TNT command  <{40 lower_molar_trigonid equal_in_height_with_talonid higher_than_talonid>
+>skipping unsupported (or wrong) TNT command  <{41 connection_between_premetacristid_and_preprotocristid_on_lower_molars yes no>
+>skipping unsupported (or wrong) TNT command  <{42 postectoprotocristid__on_lower_molars absent reduced_in_the_valley_to_fully_developped_at_least_on_M/1>
+>skipping unsupported (or wrong) TNT command  <{43 postprotofossid_on_lower_molars_at_least_on_m/3 no yes>
+>skipping unsupported (or wrong) TNT command  <{44 postmetacristid_on_M1-2 curving_toward_postprotocristid_forming_a_transverse_bridge_with_it orientated_toward_the_centre_of_the_tooth forming_a_rounded_postmetaconulid_not_preferentiallyorientated joins_prehypocristid>
+>skipping unsupported (or wrong) TNT command  <{45 ectoprotofossid_on_lower_molars absent present>
+>skipping unsupported (or wrong) TNT command  <{46 Ectometafossid__on_lower_molars yes no>
+>skipping unsupported (or wrong) TNT command  <{47 endometacristid__on_lower_molars no_or_slightly_expressed_much_more_like_an_enamel_fold present>
+>skipping unsupported (or wrong) TNT command  <{48 postectometacristid_on_lower_molars lightly_marked_to_absent always_present_and_well_marked>
+>skipping unsupported (or wrong) TNT command  <{49 premetafossid_on_lower_molars present absent>
+>skipping unsupported (or wrong) TNT command  <{50 preentocristid absent present>
+>skipping unsupported (or wrong) TNT command  <{51 preentocristid_connects endohypocristid prehypocristid__toward_the_cuspid_apex prehypocristid_toward_its_mesial_extremity>
+>skipping unsupported (or wrong) TNT command  <{52 postectoentocristid__on_lower_molars absent present_but_more_like_a_keel_on_cusp present_and_well_individualized_from_the_cusp>
+>skipping unsupported (or wrong) TNT command  <{53 ectoentocristid present absent>
+>skipping unsupported (or wrong) TNT command  <{54 postentocristid__on_lower_molars absent present>
+>skipping unsupported (or wrong) TNT command  <{55 prehypocristid_dividing_in_two_mesial__arms_on_lower_molars yes no>
+>skipping unsupported (or wrong) TNT command  <{56 prehypocristid_inflated_(not_sallient_when_unworn)_)_in_transverse_valley__of_lower_molars no yes_(even_to_form_a_conulid)>
+>skipping unsupported (or wrong) TNT command  <{57 prehypocristid_reaches median_part_of_transverse_valley_(eventually_labial) lingual_part_of_transverse_valley labial_part_of_the_transverse_valley>
+>skipping unsupported (or wrong) TNT command  <{58 main_arm_of_prehypocristid_connects trigonid_distal_walls_(junction_between_cristids_from_metaconid_and_protoconid) postmetafossid lingual_margin_of_transverse_valley postmetacristid>
+>skipping unsupported (or wrong) TNT command  <{59 posthypocristid_joins nothing_or_distostyle postentocristid postectoentocristid>
+>skipping unsupported (or wrong) TNT command  <{60 endohypocristid_on_lower_molars absent present>
+>skipping unsupported (or wrong) TNT command  <{61 posthypofossid_on_lower_molars absent present>
+>skipping unsupported (or wrong) TNT command  <{62 entostylid__on_lower_molars_that_could_sometimes_be_linked_to_an_entocristylid never frequently_present>
+>skipping unsupported (or wrong) TNT command  <{63 ectostylid__on_lower_molars no_cingulid a_shallow_and_constant_cingulid_in_front_of_the_transverse_valley frequently_developped_cingulid_in_a_/some_stylid_at_least_on_m1>
+>skipping unsupported (or wrong) TNT command  <{64 ectocrystilid__on_lower_molars no yes_even_if_variable>
+>skipping unsupported (or wrong) TNT command  <{65 cingulid_surrounding_m/3_hypoconulid no_specimen_exhibiting_such_extension occasionally_bordering_the_labial_wall>
+>skipping unsupported (or wrong) TNT command  <{66 ectohypocristulid_on_M/3 absent not_complete present_joigning_the_summit_of_hypoconulid>
+>skipping unsupported (or wrong) TNT command  <{67 distostylid__on_M/1-M/2 median lingual none>
+>skipping unsupported (or wrong) TNT command  <{68 mesial_part_of_Loop-like_hypoconulid open pinched>
+>skipping unsupported (or wrong) TNT command  <{69 entoconulid no yes>
+>skipping unsupported (or wrong) TNT command  <{70 Number_of_upper_incisors 3 2>
+>skipping unsupported (or wrong) TNT command  <{71 central_upper_incisor morphologically_similar_to_I2/I3 peg-like,_morphologically_different_from_others caniniform>
+>skipping unsupported (or wrong) TNT command  <{72 I3/_reduced_in_size_compared_to_I1/ no yes>
+>skipping unsupported (or wrong) TNT command  <{73 upper_canine_morphology strong_with_circular_or_elliptic_cross_section strong_and_laterally_compressed__(blade-like) premolariform>
+>skipping unsupported (or wrong) TNT command  <{74 canine_size_root equivalent_to_slightly_longer_than_the_crown at_least_twice_the_size_of_the_crown prolonged_to_continous_growth_of_root prolonged_and_continuous_growth_of_crown>
+>skipping unsupported (or wrong) TNT command  <{75 dimorphic_upper_canine no yes>
+>skipping unsupported (or wrong) TNT command  <{76 diastem_C-P1/ yes no>
+>skipping unsupported (or wrong) TNT command  <{77 diastem_P1/-P2/ no yes>
+>skipping unsupported (or wrong) TNT command  <{78 number_of_upper_premolar 4 5 3>
+>skipping unsupported (or wrong) TNT command  <{79 distolabial_crests_of_upper_premolars simple with_a_maximum_of_two_accessory_cusps with_more_than_two_accessory_cusps_at_least_on_one_premolar>
+>skipping unsupported (or wrong) TNT command  <{80 number_of_mesial_crests_on_P1-3 one two>
+>skipping unsupported (or wrong) TNT command  <{81 disto-lingual_basin_in_P2 yes no>
+>skipping unsupported (or wrong) TNT command  <{82 accessory_cusp_on_disto-lingual_cingulum_of_P3/ none one_cingular_style protocone_(surrounded_by_a_cingulum)>
+>skipping unsupported (or wrong) TNT command  <{83 Metacone_on_P3/ no yes>
+>skipping unsupported (or wrong) TNT command  <{84 P3_root_pattern one_mesial_root,_two_distal_root_not_fused one_mesial_root_and_fused_distal_ones>
+>skipping unsupported (or wrong) TNT command  <{85 P4_paracone simple_with_crest complex_with_fossa very_complex_with_more_fossae>
+>skipping unsupported (or wrong) TNT command  <{86 orientation_of_preparacrista_on_P4/ mesial labial>
+>skipping unsupported (or wrong) TNT command  <{87 postprotocrista_on_P4/ absent present>
+>skipping unsupported (or wrong) TNT command  <{88 Postprotocrista_on_P4/_joins base_of_paracone distostyle metastyle>
+>skipping unsupported (or wrong) TNT command  <{89 preprotocrista_on_P4/_joins?? mesiostyle base_of_the_paracone_then_mesiostyle parastyle>
+>skipping unsupported (or wrong) TNT command  <{90 postectoprotocrista_on_P4/ absent present>
+>skipping unsupported (or wrong) TNT command  <{91 P4_protocone rounded crescentic>
+>skipping unsupported (or wrong) TNT command  <{92 in_lingual_view_protocone_of_P4/_is displaced_mesially median>
+>skipping unsupported (or wrong) TNT command  <{93 P4/_mesial_margin concave convexe>
+>skipping unsupported (or wrong) TNT command  <{94 strong_development_of_distostyle_on_P4/ no yes>
+>skipping unsupported (or wrong) TNT command  <{95 mesial_accessory_cusp_on_P4/_that_can_be_linked_to_mesiostyle no yes>
+>skipping unsupported (or wrong) TNT command  <{96 P4_metacone absence presence>
+>skipping unsupported (or wrong) TNT command  <{97 P4_paracone_higher_than_the_protocone slightly_higher_than_protocone much_higher_than_protocone>
+>skipping unsupported (or wrong) TNT command  <{98 P4_endoparacrista absence presence>
+>skipping unsupported (or wrong) TNT command  <{99 distal_accessory_cusp_on_postprotocrista_of_P4/_that_can_be_linked_to_distostyle no yes>
+>skipping unsupported (or wrong) TNT command  <{100 height_of_lingual_cingulum_compared_to_unworn_protocone_height__on_upper_molars one_third half no_cingulum>
+>skipping unsupported (or wrong) TNT command  <{101 mesio-distal_ribs_development_of_labial_cusps_of_upper_molars almost_half_the_molar_lenght pinched_(inferior_to_one_third__of_molar_lenght) enlarged_(superior_to_half_the_molar_lenght)>
+>skipping unsupported (or wrong) TNT command  <{102 postectoprotocrista absent pr??sent>
+>skipping unsupported (or wrong) TNT command  <{103 postprotocrista present absent>
+>skipping unsupported (or wrong) TNT command  <{104 Protocone_and_metaconule_junction_on_upper_molars none premetaconule-postectoprotocrista premetaconule-postprotocrista postprotocrista_and_lingual_part_of_metaconule>
+>skipping unsupported (or wrong) TNT command  <{105 Premetacristule_divided_in_two_mesial_arms no yes>
+>skipping unsupported (or wrong) TNT command  <{106 ectometacristule_on_upper_molars absent present_at_least_on_M1 not_frequent_and_only_on_M2_or_M3>
+>skipping unsupported (or wrong) TNT command  <{107 postmetafossule absent present>
+>skipping unsupported (or wrong) TNT command  <{108 secondary_cristule_labial_to_metaconule_eventually_an_endometacristule_or_enamel_knob no yes>
+>skipping unsupported (or wrong) TNT command  <{109 Distostyle_on_upper_molar yes no>
+>skipping unsupported (or wrong) TNT command  <{110 distostyle_position_on_upper_molars_levels metaconule metacone>
+>skipping unsupported (or wrong) TNT command  <{111 secondary_ectometafossule_lingual_to_ectometacristule absent_or_very_light present_mesially_at_least_on_M1_linked_to_ectometacristule>
+>skipping unsupported (or wrong) TNT command  <{112 paraconule_on_upper_molars present absent>
+>skipping unsupported (or wrong) TNT command  <{113 M2/_paraconule_when_present similar_in_size_with_protocone smaller_than_protocone>
+>skipping unsupported (or wrong) TNT command  <{114 postparacristule_extend_to_connect none base_of_the_paracone transverse_valley>
+>skipping unsupported (or wrong) TNT command  <{115 preparacrista_connects_the_parastyle no,_separated_by_a_groove yes_lingually yes_labially>
+>skipping unsupported (or wrong) TNT command  <{116 endoparacrista_on_upper_molars absence presence>
+>skipping unsupported (or wrong) TNT command  <{117 ectoparafossa_on_upper_molars no yes>
+>skipping unsupported (or wrong) TNT command  <{118 Ectocristyle frequently_present absent>
+>skipping unsupported (or wrong) TNT command  <{119 premetacrista_and_postparacrista_connect no_connection_or_via_an_intercaled_ectocristyle yes_(can_form_a_centrocrista,_a_V-shaped_mesostyle_or_a_loop-like_mesostyle)>
+>skipping unsupported (or wrong) TNT command  <{120 endometacrista_and_endometacristule_forming_a_transverse_crest absence presence>
+>skipping unsupported (or wrong) TNT command  <{121 parastyle_development enamel_knob smaller_or_equal_than_mesostyle larger_than_mesostyle>
+>skipping unsupported (or wrong) TNT command  <{122 premetacristule_invade_labial_part_of_the_transverse_valley no yes>
+>skipping unsupported (or wrong) TNT command  <{123 position_of_metaconule_on_upper_molar labial_side_of_the_protocone distal_side_of_the_protocone>
+>skipping unsupported (or wrong) TNT command  <{124 M2/_metaconule similar_in_size_with_protocone smaller_than_protocone>
+>skipping unsupported (or wrong) TNT command  <{125 mesostyle_on_upper_molars no yes>
+>skipping unsupported (or wrong) TNT command  <{126 mesostyle enamel_knob half_to_the_size_of_labial_cusp larger_than_labial_cusp>
+>skipping unsupported (or wrong) TNT command  <{127 metastyle reduced_to_enamel_knob_or_absent fully_developped>
+>skipping unsupported (or wrong) TNT command  <{128 root_fusion_on_upper_molars four_roots_with_occasional_fusion_close_to_cervix_the_apices_always_remaining_free fully_fused_lingual_roots three_roots>
+>skipping unsupported (or wrong) TNT command  <{129 lingual_cingulum_on_upper_molars no yes developped_in_entostyle>
+>skipping unsupported (or wrong) TNT command  <{130 hypocone_on_upper_molars_(at_least_M2/ yes no>
+>skipping unsupported (or wrong) TNT command  <{131 shape_of_M1/ triangular quadrate>
+>skipping unsupported (or wrong) TNT command  <{132 shape_of_M3/ triangular quadrate>
+>skipping unsupported (or wrong) TNT command  <{133 M3/_size Larger_than_M2/ equal_in_size_with_M2/ reduced_(less_than_60%)>
+>skipping unsupported (or wrong) TNT command  <{134 Mesiolingual_style_on_upper_molar_mesial_cingulum no yes>
+>skipping unsupported (or wrong) TNT command  <{135 symphysis_morphology_in_sagittal_section elliptic dorsally_concave ventrally_concave>
+>skipping unsupported (or wrong) TNT command  <{136 diastem_C-P/1 absent pr??sent>
+>skipping unsupported (or wrong) TNT command  <{137 bone_fusion_at_symphysis_in_adult_specimens no yes>
+>skipping unsupported (or wrong) TNT command  <{138 maximal_thickness_of_the_symphysis_in_sagittal_section in_the_middle_part in_the_rostral_part in_the_nucal_part>
+>skipping unsupported (or wrong) TNT command  <{139 symphysis_extension extends_nuchally_between_C_and_P/1 extend_nuchally_between_P/1_and_P/3 extends_nuchally_to_P/3>
+>skipping unsupported (or wrong) TNT command  <{140 number_and_position_of_main_external_foramen numerous only_one_below_the_anterior_part_of_of_the_premolar_row two,_one_below_the_anterior_part_and_the_other_below_the_posterior>
+>skipping unsupported (or wrong) TNT command  <{141 transverse_constriction_of_mandible_at_C-p/1_diastema no yes>
+>skipping unsupported (or wrong) TNT command  <{142 P/1-P/2_diastema absent present>
+>skipping unsupported (or wrong) TNT command  <{143 P/2-P/3_diastema yes no>
+>skipping unsupported (or wrong) TNT command  <{144 Opening_of_internal_choanes at_M3/ nucal_to_M3/>
+>skipping unsupported (or wrong) TNT command  <{145 enamel_ornementation no yes>
+>skipping unsupported (or wrong) TNT command  <{146 Schmelzmuster_composed_of two_layers three_layers one_layer>
+>skipping unsupported (or wrong) TNT command  <{147 inner_radial_enamel absent present>
+>skipping unsupported (or wrong) TNT command  <{148 HSB_percent_of_Schmelzmuster absent less_than_75% more_than_76%>
+>skipping unsupported (or wrong) TNT command  <{149 Outer_radial_enamel less_or_equal_to_20% more_than_20%>
+>skipping unsupported (or wrong) TNT command  <{150 Hsb_zone thin_with_bands_always_less_than_100??m large_(equal_or_more_than_100??m)>
+>skipping unsupported (or wrong) TNT command  <{151 regular_aspect_(constant_width) yes no>
+>skipping unsupported (or wrong) TNT command  <{152 HSB_varaible_(SD>20) no yes>
+>skipping unsupported (or wrong) TNT command  <{153 HSB_angle_with_EDJ >70?? <70_????>
+>skipping unsupported (or wrong) TNT command  <{154 orientation_of_HSB straight bent>
+>skipping unsupported (or wrong) TNT command  <{155 HSB_definition_(decussation_angle_and_size_of_transition_zone) clear blurry>
+>skipping unsupported (or wrong) TNT command  <{156 division_of_HSB anastomosis bifurcation no_division>
+>skipping unsupported (or wrong) TNT command  <{157 HSB_configuration curved transverse>
+>skipping unsupported (or wrong) TNT command  <{158 synchronous_prism_undulation_on_horizontal_section no yes_but_few yes_but_more_or_equal_to_4>
+>skipping unsupported (or wrong) TNT command  <{159 IPM_in_inner_portion closed_sheath Inter_row_sheets>
+>skipping unsupported (or wrong) TNT command  <{160 IPM_in_middle_portion closed_sheath Inter_row_sheets no_IPM>
+>skipping unsupported (or wrong) TNT command  <{161 IPM_in_outer_portion closed_sheath no_IPM>
+>skipping unsupported (or wrong) TNT command  <{162 prism_angle_with_EDJ equal_or_more_than_60?? less# logfile from anagallis - 2020-5-25 18:33:19
+>-< import tnt> importing from TNT file 'L2015.tnt'
+xread> reading data...
+xread> 54 terminals and 176 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 number_of_lower_incisors three two one>
+>skipping unsupported (or wrong) TNT command  <{1 lower_incisor_morphology not_caniniform at_least_one_caniniform_lower_incisor>
+>skipping unsupported (or wrong) TNT command  <{2 relative_dimensions_of_lower_incisors all_of_equal_size one_or_two_more_developped>
+>skipping unsupported (or wrong) TNT command  <{3 most_developped_incisor I/2 I/3 I/1>
+>skipping unsupported (or wrong) TNT command  <{4 transverse_section_of_lower_incisors_crowns strongly_irregular about_rounded>
+>skipping unsupported (or wrong) TNT command  <{5 lower_incisor_cervix_morphology no_deep_indentation indented_cervix,_indentation_as_long_as_the_root_diameter_on_the_cervix deep_identation_longer_than_the_root_diameter_at_cervix>
+>skipping unsupported (or wrong) TNT command  <{6 crown_of_lower_I1 straight spatulate_(with_convex_mesial_and_distal_border)>
+>skipping unsupported (or wrong) TNT command  <{7 presence_of_a_median_lingual_pillar_(lingual_rib)_on_lower_i1 yes no>
+>skipping unsupported (or wrong) TNT command  <{8 Lower_canine_cross_setcion_at_cervix subcircular elliptical>
+>skipping unsupported (or wrong) TNT command  <{9 cristids_on_lower_canine_enamel_caps none one_distal two,_one_mesial_and_one_distal one_mesial>
+>skipping unsupported (or wrong) TNT command  <{10 wear_on_lower_canine distal_wear_facet_contact_with_canine mesial_wear_facet_contact_with_I3>
+>skipping unsupported (or wrong) TNT command  <{11 groove_on_labial_side_of_lower_canine no yes>
+>skipping unsupported (or wrong) TNT command  <{12 groove_on_lingual_side_of_lower_canine no yes>
+>skipping unsupported (or wrong) TNT command  <{13 lower_canine_in_male fang-like premolariform incisiform>
+>skipping unsupported (or wrong) TNT command  <{14 crown_of_lower_canine_in_male small_near_premolar_size at_least_twice_the_premolar_size prolonged_growth_to_ever-growing>
+>skipping unsupported (or wrong) TNT command  <{15 p/1_roots one two>
+>skipping unsupported (or wrong) TNT command  <{16 paraconid_on_lower_premolars no yes>
+>skipping unsupported (or wrong) TNT command  <{17 elongated_p/3 no_(shorter_or_equal_than_M/1_lenght) yes_(longer_than_M/1_lenght)>
+>skipping unsupported (or wrong) TNT command  <{18 three_lobed_P/3 no yes>
+>skipping unsupported (or wrong) TNT command  <{19 accessory_cusp_on_the_preprotocristid_of_lower_premolars none one_or_more>
+>skipping unsupported (or wrong) TNT command  <{20 lingual_contour_at_cervix_of__P/4_in_occlusal_view convex_to_straight concave>
+>skipping unsupported (or wrong) TNT command  <{21 labial_wall_on_P/3_or_P/4 convex concave>
+>skipping unsupported (or wrong) TNT command  <{22 Orientation_of_postprotocristid_on_P/3 distal distolingual distolabial>
+>skipping unsupported (or wrong) TNT command  <{23 high_cingulid_on_labial_face_of_P/3 no yes>
+>skipping unsupported (or wrong) TNT command  <{24 preprotocristid_mesiolingualy_curved_on_P/3 no yes>
+>skipping unsupported (or wrong) TNT command  <{25 mesial_accessory_cusp_on_preprotocristid_on_P/3 no Shoulder_like_structure_on_lateral_view_of_preprotocristid_of_lower_premolars complete_accessory_cusp>
+>skipping unsupported (or wrong) TNT command  <{26 Change_in_the_orientation_of_the_preprotocristid_mesialy_to_the_junction_of_accessory_mesiolingual_crest_on_lower_premolars no yes>
+>skipping unsupported (or wrong) TNT command  <{27 Orientation_of_the_endoprotocristid_on_P/4 absent separated_from_postprotocristid_at_the_protoconid_apex_and_then_strait_and_distolingual fused_with_postprotocristid_in_part_and_then_curved_mesiolingually>
+>skipping unsupported (or wrong) TNT command  <{28 entoconid_on_P/3 never at_least_on_some_specimen>
+>skipping unsupported (or wrong) TNT command  <{29 P/3_hypoconid no yes>
+>skipping unsupported (or wrong) TNT command  <{30 distolingual_cingulid_on_P/4_in_lingual_view forming_a_continuous_wall_lingually_until_the_distostylid reaching_the_level_of_the_distal_basin_and_keeping_be_shallow_until_the_distostylid reaching_the_level_of_distal_basin_and_then_being_high_when_joigning_the_distostylid_(distolingual_notch_of_cingulid)>
+>skipping unsupported (or wrong) TNT command  <{31 presence_of_a_preentocristid_on_P/3_and/or_on_P/4 no yes>
+>skipping unsupported (or wrong) TNT command  <{32 mesiolingual_secondary_cristid__on_P/4_(cristid_connecting_lingual_margin_and_preprotocristid) no yes>
+>skipping unsupported (or wrong) TNT command  <{33 labial_cingulid_form_a_V_(indentated)_on_P/4_before_to_reach_the_distal_cingulid no yes>
+>skipping unsupported (or wrong) TNT command  <{34 marked_postprotofossid_on_P/4 absent present>
+>skipping unsupported (or wrong) TNT command  <{35 postectoprotocristid_on_P/4 no yes>
+>skipping unsupported (or wrong) TNT command  <{36 hypoconid_on_P/4 no yes_(even_incipient)>
+>skipping unsupported (or wrong) TNT command  <{37 ectoprotofossid_on_p/4 absent frequent>
+>skipping unsupported (or wrong) TNT command  <{38 premetacristid_on_lower_molars strong reduced_or_missing>
+>skipping unsupported (or wrong) TNT command  <{39 paraconid_on_lower_molars,_almost_on_unworn_specimens yes no>
+>skipping unsupported (or wrong) TNT command  <{40 lower_molar_trigonid equal_in_height_with_talonid higher_than_talonid>
+>skipping unsupported (or wrong) TNT command  <{41 connection_between_premetacristid_and_preprotocristid_on_lower_molars yes no>
+>skipping unsupported (or wrong) TNT command  <{42 postectoprotocristid__on_lower_molars absent reduced_in_the_valley_to_fully_developped_at_least_on_M/1>
+>skipping unsupported (or wrong) TNT command  <{43 postprotofossid_on_lower_molars_at_least_on_m/3 no yes>
+>skipping unsupported (or wrong) TNT command  <{44 postmetacristid_on_M1-2 curving_toward_postprotocristid_forming_a_transverse_bridge_with_it orientated_toward_the_centre_of_the_tooth forming_a_rounded_postmetaconulid_not_preferentiallyorientated joins_prehypocristid>
+>skipping unsupported (or wrong) TNT command  <{45 ectoprotofossid_on_lower_molars absent present>
+>skipping unsupported (or wrong) TNT command  <{46 Ectometafossid__on_lower_molars yes no>
+>skipping unsupported (or wrong) TNT command  <{47 endometacristid__on_lower_molars no_or_slightly_expressed_much_more_like_an_enamel_fold present>
+>skipping unsupported (or wrong) TNT command  <{48 postectometacristid_on_lower_molars lightly_marked_to_absent always_present_and_well_marked>
+>skipping unsupported (or wrong) TNT command  <{49 premetafossid_on_lower_molars present absent>
+>skipping unsupported (or wrong) TNT command  <{50 preentocristid absent present>
+>skipping unsupported (or wrong) TNT command  <{51 preentocristid_connects endohypocristid prehypocristid__toward_the_cuspid_apex prehypocristid_toward_its_mesial_extremity>
+>skipping unsupported (or wrong) TNT command  <{52 postectoentocristid__on_lower_molars absent present_but_more_like_a_keel_on_cusp present_and_well_individualized_from_the_cusp>
+>skipping unsupported (or wrong) TNT command  <{53 ectoentocristid present absent>
+>skipping unsupported (or wrong) TNT command  <{54 postentocristid__on_lower_molars absent present>
+>skipping unsupported (or wrong) TNT command  <{55 prehypocristid_dividing_in_two_mesial__arms_on_lower_molars yes no>
+>skipping unsupported (or wrong) TNT command  <{56 prehypocristid_inflated_(not_sallient_when_unworn)_)_in_transverse_valley__of_lower_molars no yes_(even_to_form_a_conulid)>
+>skipping unsupported (or wrong) TNT command  <{57 prehypocristid_reaches median_part_of_transverse_valley_(eventually_labial) lingual_part_of_transverse_valley labial_part_of_the_transverse_valley>
+>skipping unsupported (or wrong) TNT command  <{58 main_arm_of_prehypocristid_connects trigonid_distal_walls_(junction_between_cristids_from_metaconid_and_protoconid) postmetafossid lingual_margin_of_transverse_valley postmetacristid>
+>skipping unsupported (or wrong) TNT command  <{59 posthypocristid_joins nothing_or_distostyle postentocristid postectoentocristid>
+>skipping unsupported (or wrong) TNT command  <{60 endohypocristid_on_lower_molars absent present>
+>skipping unsupported (or wrong) TNT command  <{61 posthypofossid_on_lower_molars absent present>
+>skipping unsupported (or wrong) TNT command  <{62 entostylid__on_lower_molars_that_could_sometimes_be_linked_to_an_entocristylid never frequently_present>
+>skipping unsupported (or wrong) TNT command  <{63 ectostylid__on_lower_molars no_cingulid a_shallow_and_constant_cingulid_in_front_of_the_transverse_valley frequently_developped_cingulid_in_a_/some_stylid_at_least_on_m1>
+>skipping unsupported (or wrong) TNT command  <{64 ectocrystilid__on_lower_molars no yes_even_if_variable>
+>skipping unsupported (or wrong) TNT command  <{65 cingulid_surrounding_m/3_hypoconulid no_specimen_exhibiting_such_extension occasionally_bordering_the_labial_wall>
+>skipping unsupported (or wrong) TNT command  <{66 ectohypocristulid_on_M/3 absent not_complete present_joigning_the_summit_of_hypoconulid>
+>skipping unsupported (or wrong) TNT command  <{67 distostylid__on_M/1-M/2 median lingual none>
+>skipping unsupported (or wrong) TNT command  <{68 mesial_part_of_Loop-like_hypoconulid open pinched>
+>skipping unsupported (or wrong) TNT command  <{69 entoconulid no yes>
+>skipping unsupported (or wrong) TNT command  <{70 Number_of_upper_incisors 3 2>
+>skipping unsupported (or wrong) TNT command  <{71 central_upper_incisor morphologically_similar_to_I2/I3 peg-like,_morphologically_different_from_others caniniform>
+>skipping unsupported (or wrong) TNT command  <{72 I3/_reduced_in_size_compared_to_I1/ no yes>
+>skipping unsupported (or wrong) TNT command  <{73 upper_canine_morphology strong_with_circular_or_elliptic_cross_section strong_and_laterally_compressed__(blade-like) premolariform>
+>skipping unsupported (or wrong) TNT command  <{74 canine_size_root equivalent_to_slightly_longer_than_the_crown at_least_twice_the_size_of_the_crown prolonged_to_continous_growth_of_root prolonged_and_continuous_growth_of_crown>
+>skipping unsupported (or wrong) TNT command  <{75 dimorphic_upper_canine no yes>
+>skipping unsupported (or wrong) TNT command  <{76 diastem_C-P1/ yes no>
+>skipping unsupported (or wrong) TNT command  <{77 diastem_P1/-P2/ no yes>
+>skipping unsupported (or wrong) TNT command  <{78 number_of_upper_premolar 4 5 3>
+>skipping unsupported (or wrong) TNT command  <{79 distolabial_crests_of_upper_premolars simple with_a_maximum_of_two_accessory_cusps with_more_than_two_accessory_cusps_at_least_on_one_premolar>
+>skipping unsupported (or wrong) TNT command  <{80 number_of_mesial_crests_on_P1-3 one two>
+>skipping unsupported (or wrong) TNT command  <{81 disto-lingual_basin_in_P2 yes no>
+>skipping unsupported (or wrong) TNT command  <{82 accessory_cusp_on_disto-lingual_cingulum_of_P3/ none one_cingular_style protocone_(surrounded_by_a_cingulum)>
+>skipping unsupported (or wrong) TNT command  <{83 Metacone_on_P3/ no yes>
+>skipping unsupported (or wrong) TNT command  <{84 P3_root_pattern one_mesial_root,_two_distal_root_not_fused one_mesial_root_and_fused_distal_ones>
+>skipping unsupported (or wrong) TNT command  <{85 P4_paracone simple_with_crest complex_with_fossa very_complex_with_more_fossae>
+>skipping unsupported (or wrong) TNT command  <{86 orientation_of_preparacrista_on_P4/ mesial labial>
+>skipping unsupported (or wrong) TNT command  <{87 postprotocrista_on_P4/ absent present>
+>skipping unsupported (or wrong) TNT command  <{88 Postprotocrista_on_P4/_joins base_of_paracone distostyle metastyle>
+>skipping unsupported (or wrong) TNT command  <{89 preprotocrista_on_P4/_joins?? mesiostyle base_of_the_paracone_then_mesiostyle parastyle>
+>skipping unsupported (or wrong) TNT command  <{90 postectoprotocrista_on_P4/ absent present>
+>skipping unsupported (or wrong) TNT command  <{91 P4_protocone rounded crescentic>
+>skipping unsupported (or wrong) TNT command  <{92 in_lingual_view_protocone_of_P4/_is displaced_mesially median>
+>skipping unsupported (or wrong) TNT command  <{93 P4/_mesial_margin concave convexe>
+>skipping unsupported (or wrong) TNT command  <{94 strong_development_of_distostyle_on_P4/ no yes>
+>skipping unsupported (or wrong) TNT command  <{95 mesial_accessory_cusp_on_P4/_that_can_be_linked_to_mesiostyle no yes>
+>skipping unsupported (or wrong) TNT command  <{96 P4_metacone absence presence>
+>skipping unsupported (or wrong) TNT command  <{97 P4_paracone_higher_than_the_protocone slightly_higher_than_protocone much_higher_than_protocone>
+>skipping unsupported (or wrong) TNT command  <{98 P4_endoparacrista absence presence>
+>skipping unsupported (or wrong) TNT command  <{99 distal_accessory_cusp_on_postprotocrista_of_P4/_that_can_be_linked_to_distostyle no yes>
+>skipping unsupported (or wrong) TNT command  <{100 height_of_lingual_cingulum_compared_to_unworn_protocone_height__on_upper_molars one_third half no_cingulum>
+>skipping unsupported (or wrong) TNT command  <{101 mesio-distal_ribs_development_of_labial_cusps_of_upper_molars almost_half_the_molar_lenght pinched_(inferior_to_one_third__of_molar_lenght) enlarged_(superior_to_half_the_molar_lenght)>
+>skipping unsupported (or wrong) TNT command  <{102 postectoprotocrista absent pr??sent>
+>skipping unsupported (or wrong) TNT command  <{103 postprotocrista present absent>
+>skipping unsupported (or wrong) TNT command  <{104 Protocone_and_metaconule_junction_on_upper_molars none premetaconule-postectoprotocrista premetaconule-postprotocrista postprotocrista_and_lingual_part_of_metaconule>
+>skipping unsupported (or wrong) TNT command  <{105 Premetacristule_divided_in_two_mesial_arms no yes>
+>skipping unsupported (or wrong) TNT command  <{106 ectometacristule_on_upper_molars absent present_at_least_on_M1 not_frequent_and_only_on_M2_or_M3>
+>skipping unsupported (or wrong) TNT command  <{107 postmetafossule absent present>
+>skipping unsupported (or wrong) TNT command  <{108 secondary_cristule_labial_to_metaconule_eventually_an_endometacristule_or_enamel_knob no yes>
+>skipping unsupported (or wrong) TNT command  <{109 Distostyle_on_upper_molar yes no>
+>skipping unsupported (or wrong) TNT command  <{110 distostyle_position_on_upper_molars_levels metaconule metacone>
+>skipping unsupported (or wrong) TNT command  <{111 secondary_ectometafossule_lingual_to_ectometacristule absent_or_very_light present_mesially_at_least_on_M1_linked_to_ectometacristule>
+>skipping unsupported (or wrong) TNT command  <{112 paraconule_on_upper_molars present absent>
+>skipping unsupported (or wrong) TNT command  <{113 M2/_paraconule_when_present similar_in_size_with_protocone smaller_than_protocone>
+>skipping unsupported (or wrong) TNT command  <{114 postparacristule_extend_to_connect none base_of_the_paracone transverse_valley>
+>skipping unsupported (or wrong) TNT command  <{115 preparacrista_connects_the_parastyle no,_separated_by_a_groove yes_lingually yes_labially>
+>skipping unsupported (or wrong) TNT command  <{116 endoparacrista_on_upper_molars absence presence>
+>skipping unsupported (or wrong) TNT command  <{117 ectoparafossa_on_upper_molars no yes>
+>skipping unsupported (or wrong) TNT command  <{118 Ectocristyle frequently_present absent>
+>skipping unsupported (or wrong) TNT command  <{119 premetacrista_and_postparacrista_connect no_connection_or_via_an_intercaled_ectocristyle yes_(can_form_a_centrocrista,_a_V-shaped_mesostyle_or_a_loop-like_mesostyle)>
+>skipping unsupported (or wrong) TNT command  <{120 endometacrista_and_endometacristule_forming_a_transverse_crest absence presence>
+>skipping unsupported (or wrong) TNT command  <{121 parastyle_development enamel_knob smaller_or_equal_than_mesostyle larger_than_mesostyle>
+>skipping unsupported (or wrong) TNT command  <{122 premetacristule_invade_labial_part_of_the_transverse_valley no yes>
+>skipping unsupported (or wrong) TNT command  <{123 position_of_metaconule_on_upper_molar labial_side_of_the_protocone distal_side_of_the_protocone>
+>skipping unsupported (or wrong) TNT command  <{124 M2/_metaconule similar_in_size_with_protocone smaller_than_protocone>
+>skipping unsupported (or wrong) TNT command  <{125 mesostyle_on_upper_molars no yes>
+>skipping unsupported (or wrong) TNT command  <{126 mesostyle enamel_knob half_to_the_size_of_labial_cusp larger_than_labial_cusp>
+>skipping unsupported (or wrong) TNT command  <{127 metastyle reduced_to_enamel_knob_or_absent fully_developped>
+>skipping unsupported (or wrong) TNT command  <{128 root_fusion_on_upper_molars four_roots_with_occasional_fusion_close_to_cervix_the_apices_always_remaining_free fully_fused_lingual_roots three_roots>
+>skipping unsupported (or wrong) TNT command  <{129 lingual_cingulum_on_upper_molars no yes developped_in_entostyle>
+>skipping unsupported (or wrong) TNT command  <{130 hypocone_on_upper_molars_(at_least_M2/ yes no>
+>skipping unsupported (or wrong) TNT command  <{131 shape_of_M1/ triangular quadrate>
+>skipping unsupported (or wrong) TNT command  <{132 shape_of_M3/ triangular quadrate>
+>skipping unsupported (or wrong) TNT command  <{133 M3/_size Larger_than_M2/ equal_in_size_with_M2/ reduced_(less_than_60%)>
+>skipping unsupported (or wrong) TNT command  <{134 Mesiolingual_style_on_upper_molar_mesial_cingulum no yes>
+>skipping unsupported (or wrong) TNT command  <{135 symphysis_morphology_in_sagittal_section elliptic dorsally_concave ventrally_concave>
+>skipping unsupported (or wrong) TNT command  <{136 diastem_C-P/1 absent pr??sent>
+>skipping unsupported (or wrong) TNT command  <{137 bone_fusion_at_symphysis_in_adult_specimens no yes>
+>skipping unsupported (or wrong) TNT command  <{138 maximal_thickness_of_the_symphysis_in_sagittal_section in_the_middle_part in_the_rostral_part in_the_nucal_part>
+>skipping unsupported (or wrong) TNT command  <{139 symphysis_extension extends_nuchally_between_C_and_P/1 extend_nuchally_between_P/1_and_P/3 extends_nuchally_to_P/3>
+>skipping unsupported (or wrong) TNT command  <{140 number_and_position_of_main_external_foramen numerous only_one_below_the_anterior_part_of_of_the_premolar_row two,_one_below_the_anterior_part_and_the_other_below_the_posterior>
+>skipping unsupported (or wrong) TNT command  <{141 transverse_constriction_of_mandible_at_C-p/1_diastema no yes>
+>skipping unsupported (or wrong) TNT command  <{142 P/1-P/2_diastema absent present>
+>skipping unsupported (or wrong) TNT command  <{143 P/2-P/3_diastema yes no>
+>skipping unsupported (or wrong) TNT command  <{144 Opening_of_internal_choanes at_M3/ nucal_to_M3/>
+>skipping unsupported (or wrong) TNT command  <{145 enamel_ornementation no yes>
+>skipping unsupported (or wrong) TNT command  <{146 Schmelzmuster_composed_of two_layers three_layers one_layer>
+>skipping unsupported (or wrong) TNT command  <{147 inner_radial_enamel absent present>
+>skipping unsupported (or wrong) TNT command  <{148 HSB_percent_of_Schmelzmuster absent less_than_75% more_than_76%>
+>skipping unsupported (or wrong) TNT command  <{149 Outer_radial_enamel less_or_equal_to_20% more_than_20%>
+>skipping unsupported (or wrong) TNT command  <{150 Hsb_zone thin_with_bands_always_less_than_100??m large_(equal_or_more_than_100??m)>
+>skipping unsupported (or wrong) TNT command  <{151 regular_aspect_(constant_width) yes no>
+>skipping unsupported (or wrong) TNT command  <{152 HSB_varaible_(SD>20) no yes>
+>skipping unsupported (or wrong) TNT command  <{153 HSB_angle_with_EDJ >70?? <70_????>
+>skipping unsupported (or wrong) TNT command  <{154 orientation_of_HSB straight bent>
+>skipping unsupported (or wrong) TNT command  <{155 HSB_definition_(decussation_angle_and_size_of_transition_zone) clear blurry>
+>skipping unsupported (or wrong) TNT command  <{156 division_of_HSB anastomosis bifurcation no_division>
+>skipping unsupported (or wrong) TNT command  <{157 HSB_configuration curved transverse>
+>skipping unsupported (or wrong) TNT command  <{158 synchronous_prism_undulation_on_horizontal_section no yes_but_few yes_but_more_or_equal_to_4>
+>skipping unsupported (or wrong) TNT command  <{159 IPM_in_inner_portion closed_sheath Inter_row_sheets>
+>skipping unsupported (or wrong) TNT command  <{160 IPM_in_middle_portion closed_sheath Inter_row_sheets no_IPM>
+>skipping unsupported (or wrong) TNT command  <{161 IPM_in_outer_portion closed_sheath no_IPM>
+>skipping unsupported (or wrong) TNT command  <{162 prism_angle_with_EDJ equal_or_more_than_60?? less# logfile from anagallis - 2020-5-31 9:23:50
+>-< import tnt> importing from TNT file 'L2015.tnt'
+xread> reading data...
+xread> 54 terminals and 176 characters
+>skipping unsupported (or wrong) TNT command  <cnames{0 number_of_lower_incisors three two one>
+>skipping unsupported (or wrong) TNT command  <{1 lower_incisor_morphology not_caniniform at_least_one_caniniform_lower_incisor>
+>skipping unsupported (or wrong) TNT command  <{2 relative_dimensions_of_lower_incisors all_of_equal_size one_or_two_more_developped>
+>skipping unsupported (or wrong) TNT command  <{3 most_developped_incisor I/2 I/3 I/1>
+>skipping unsupported (or wrong) TNT command  <{4 transverse_section_of_lower_incisors_crowns strongly_irregular about_rounded>
+>skipping unsupported (or wrong) TNT command  <{5 lower_incisor_cervix_morphology no_deep_indentation indented_cervix,_indentation_as_long_as_the_root_diameter_on_the_cervix deep_identation_longer_than_the_root_diameter_at_cervix>
+>skipping unsupported (or wrong) TNT command  <{6 crown_of_lower_I1 straight spatulate_(with_convex_mesial_and_distal_border)>
+>skipping unsupported (or wrong) TNT command  <{7 presence_of_a_median_lingual_pillar_(lingual_rib)_on_lower_i1 yes no>
+>skipping unsupported (or wrong) TNT command  <{8 Lower_canine_cross_setcion_at_cervix subcircular elliptical>
+>skipping unsupported (or wrong) TNT command  <{9 cristids_on_lower_canine_enamel_caps none one_distal two,_one_mesial_and_one_distal one_mesial>
+>skipping unsupported (or wrong) TNT command  <{10 wear_on_lower_canine distal_wear_facet_contact_with_canine mesial_wear_facet_contact_with_I3>
+>skipping unsupported (or wrong) TNT command  <{11 groove_on_labial_side_of_lower_canine no yes>
+>skipping unsupported (or wrong) TNT command  <{12 groove_on_lingual_side_of_lower_canine no yes>
+>skipping unsupported (or wrong) TNT command  <{13 lower_canine_in_male fang-like premolariform incisiform>
+>skipping unsupported (or wrong) TNT command  <{14 crown_of_lower_canine_in_male small_near_premolar_size at_least_twice_the_premolar_size prolonged_growth_to_ever-growing>
+>skipping unsupported (or wrong) TNT command  <{15 p/1_roots one two>
+>skipping unsupported (or wrong) TNT command  <{16 paraconid_on_lower_premolars no yes>
+>skipping unsupported (or wrong) TNT command  <{17 elongated_p/3 no_(shorter_or_equal_than_M/1_lenght) yes_(longer_than_M/1_lenght)>
+>skipping unsupported (or wrong) TNT command  <{18 three_lobed_P/3 no yes>
+>skipping unsupported (or wrong) TNT command  <{19 accessory_cusp_on_the_preprotocristid_of_lower_premolars none one_or_more>
+>skipping unsupported (or wrong) TNT command  <{20 lingual_contour_at_cervix_of__P/4_in_occlusal_view convex_to_straight concave>
+>skipping unsupported (or wrong) TNT command  <{21 labial_wall_on_P/3_or_P/4 convex concave>
+>skipping unsupported (or wrong) TNT command  <{22 Orientation_of_postprotocristid_on_P/3 distal distolingual distolabial>
+>skipping unsupported (or wrong) TNT command  <{23 high_cingulid_on_labial_face_of_P/3 no yes>
+>skipping unsupported (or wrong) TNT command  <{24 preprotocristid_mesiolingualy_curved_on_P/3 no yes>
+>skipping unsupported (or wrong) TNT command  <{25 mesial_accessory_cusp_on_preprotocristid_on_P/3 no Shoulder_like_structure_on_lateral_view_of_preprotocristid_of_lower_premolars complete_accessory_cusp>
+>skipping unsupported (or wrong) TNT command  <{26 Change_in_the_orientation_of_the_preprotocristid_mesialy_to_the_junction_of_accessory_mesiolingual_crest_on_lower_premolars no yes>
+>skipping unsupported (or wrong) TNT command  <{27 Orientation_of_the_endoprotocristid_on_P/4 absent separated_from_postprotocristid_at_the_protoconid_apex_and_then_strait_and_distolingual fused_with_postprotocristid_in_part_and_then_curved_mesiolingually>
+>skipping unsupported (or wrong) TNT command  <{28 entoconid_on_P/3 never at_least_on_some_specimen>
+>skipping unsupported (or wrong) TNT command  <{29 P/3_hypoconid no yes>
+>skipping unsupported (or wrong) TNT command  <{30 distolingual_cingulid_on_P/4_in_lingual_view forming_a_continuous_wall_lingually_until_the_distostylid reaching_the_level_of_the_distal_basin_and_keeping_be_shallow_until_the_distostylid reaching_the_level_of_distal_basin_and_then_being_high_when_joigning_the_distostylid_(distolingual_notch_of_cingulid)>
+>skipping unsupported (or wrong) TNT command  <{31 presence_of_a_preentocristid_on_P/3_and/or_on_P/4 no yes>
+>skipping unsupported (or wrong) TNT command  <{32 mesiolingual_secondary_cristid__on_P/4_(cristid_connecting_lingual_margin_and_preprotocristid) no yes>
+>skipping unsupported (or wrong) TNT command  <{33 labial_cingulid_form_a_V_(indentated)_on_P/4_before_to_reach_the_distal_cingulid no yes>
+>skipping unsupported (or wrong) TNT command  <{34 marked_postprotofossid_on_P/4 absent present>
+>skipping unsupported (or wrong) TNT command  <{35 postectoprotocristid_on_P/4 no yes>
+>skipping unsupported (or wrong) TNT command  <{36 hypoconid_on_P/4 no yes_(even_incipient)>
+>skipping unsupported (or wrong) TNT command  <{37 ectoprotofossid_on_p/4 absent frequent>
+>skipping unsupported (or wrong) TNT command  <{38 premetacristid_on_lower_molars strong reduced_or_missing>
+>skipping unsupported (or wrong) TNT command  <{39 paraconid_on_lower_molars,_almost_on_unworn_specimens yes no>
+>skipping unsupported (or wrong) TNT command  <{40 lower_molar_trigonid equal_in_height_with_talonid higher_than_talonid>
+>skipping unsupported (or wrong) TNT command  <{41 connection_between_premetacristid_and_preprotocristid_on_lower_molars yes no>
+>skipping unsupported (or wrong) TNT command  <{42 postectoprotocristid__on_lower_molars absent reduced_in_the_valley_to_fully_developped_at_least_on_M/1>
+>skipping unsupported (or wrong) TNT command  <{43 postprotofossid_on_lower_molars_at_least_on_m/3 no yes>
+>skipping unsupported (or wrong) TNT command  <{44 postmetacristid_on_M1-2 curving_toward_postprotocristid_forming_a_transverse_bridge_with_it orientated_toward_the_centre_of_the_tooth forming_a_rounded_postmetaconulid_not_preferentiallyorientated joins_prehypocristid>
+>skipping unsupported (or wrong) TNT command  <{45 ectoprotofossid_on_lower_molars absent present>
+>skipping unsupported (or wrong) TNT command  <{46 Ectometafossid__on_lower_molars yes no>
+>skipping unsupported (or wrong) TNT command  <{47 endometacristid__on_lower_molars no_or_slightly_expressed_much_more_like_an_enamel_fold present>
+>skipping unsupported (or wrong) TNT command  <{48 postectometacristid_on_lower_molars lightly_marked_to_absent always_present_and_well_marked>
+>skipping unsupported (or wrong) TNT command  <{49 premetafossid_on_lower_molars present absent>
+>skipping unsupported (or wrong) TNT command  <{50 preentocristid absent present>
+>skipping unsupported (or wrong) TNT command  <{51 preentocristid_connects endohypocristid prehypocristid__toward_the_cuspid_apex prehypocristid_toward_its_mesial_extremity>
+>skipping unsupported (or wrong) TNT command  <{52 postectoentocristid__on_lower_molars absent present_but_more_like_a_keel_on_cusp present_and_well_individualized_from_the_cusp>
+>skipping unsupported (or wrong) TNT command  <{53 ectoentocristid present absent>
+>skipping unsupported (or wrong) TNT command  <{54 postentocristid__on_lower_molars absent present>
+>skipping unsupported (or wrong) TNT command  <{55 prehypocristid_dividing_in_two_mesial__arms_on_lower_molars yes no>
+>skipping unsupported (or wrong) TNT command  <{56 prehypocristid_inflated_(not_sallient_when_unworn)_)_in_transverse_valley__of_lower_molars no yes_(even_to_form_a_conulid)>
+>skipping unsupported (or wrong) TNT command  <{57 prehypocristid_reaches median_part_of_transverse_valley_(eventually_labial) lingual_part_of_transverse_valley labial_part_of_the_transverse_valley>
+>skipping unsupported (or wrong) TNT command  <{58 main_arm_of_prehypocristid_connects trigonid_distal_walls_(junction_between_cristids_from_metaconid_and_protoconid) postmetafossid lingual_margin_of_transverse_valley postmetacristid>
+>skipping unsupported (or wrong) TNT command  <{59 posthypocristid_joins nothing_or_distostyle postentocristid postectoentocristid>
+>skipping unsupported (or wrong) TNT command  <{60 endohypocristid_on_lower_molars absent present>
+>skipping unsupported (or wrong) TNT command  <{61 posthypofossid_on_lower_molars absent present>
+>skipping unsupported (or wrong) TNT command  <{62 entostylid__on_lower_molars_that_could_sometimes_be_linked_to_an_entocristylid never frequently_present>
+>skipping unsupported (or wrong) TNT command  <{63 ectostylid__on_lower_molars no_cingulid a_shallow_and_constant_cingulid_in_front_of_the_transverse_valley frequently_developped_cingulid_in_a_/some_stylid_at_least_on_m1>
+>skipping unsupported (or wrong) TNT command  <{64 ectocrystilid__on_lower_molars no yes_even_if_variable>
+>skipping unsupported (or wrong) TNT command  <{65 cingulid_surrounding_m/3_hypoconulid no_specimen_exhibiting_such_extension occasionally_bordering_the_labial_wall>
+>skipping unsupported (or wrong) TNT command  <{66 ectohypocristulid_on_M/3 absent not_complete present_joigning_the_summit_of_hypoconulid>
+>skipping unsupported (or wrong) TNT command  <{67 distostylid__on_M/1-M/2 median lingual none>
+>skipping unsupported (or wrong) TNT command  <{68 mesial_part_of_Loop-like_hypoconulid open pinched>
+>skipping unsupported (or wrong) TNT command  <{69 entoconulid no yes>
+>skipping unsupported (or wrong) TNT command  <{70 Number_of_upper_incisors 3 2>
+>skipping unsupported (or wrong) TNT command  <{71 central_upper_incisor morphologically_similar_to_I2/I3 peg-like,_morphologically_different_from_others caniniform>
+>skipping unsupported (or wrong) TNT command  <{72 I3/_reduced_in_size_compared_to_I1/ no yes>
+>skipping unsupported (or wrong) TNT command  <{73 upper_canine_morphology strong_with_circular_or_elliptic_cross_section strong_and_laterally_compressed__(blade-like) premolariform>
+>skipping unsupported (or wrong) TNT command  <{74 canine_size_root equivalent_to_slightly_longer_than_the_crown at_least_twice_the_size_of_the_crown prolonged_to_continous_growth_of_root prolonged_and_continuous_growth_of_crown>
+>skipping unsupported (or wrong) TNT command  <{75 dimorphic_upper_canine no yes>
+>skipping unsupported (or wrong) TNT command  <{76 diastem_C-P1/ yes no>
+>skipping unsupported (or wrong) TNT command  <{77 diastem_P1/-P2/ no yes>
+>skipping unsupported (or wrong) TNT command  <{78 number_of_upper_premolar 4 5 3>
+>skipping unsupported (or wrong) TNT command  <{79 distolabial_crests_of_upper_premolars simple with_a_maximum_of_two_accessory_cusps with_more_than_two_accessory_cusps_at_least_on_one_premolar>
+>skipping unsupported (or wrong) TNT command  <{80 number_of_mesial_crests_on_P1-3 one two>
+>skipping unsupported (or wrong) TNT command  <{81 disto-lingual_basin_in_P2 yes no>
+>skipping unsupported (or wrong) TNT command  <{82 accessory_cusp_on_disto-lingual_cingulum_of_P3/ none one_cingular_style protocone_(surrounded_by_a_cingulum)>
+>skipping unsupported (or wrong) TNT command  <{83 Metacone_on_P3/ no yes>
+>skipping unsupported (or wrong) TNT command  <{84 P3_root_pattern one_mesial_root,_two_distal_root_not_fused one_mesial_root_and_fused_distal_ones>
+>skipping unsupported (or wrong) TNT command  <{85 P4_paracone simple_with_crest complex_with_fossa very_complex_with_more_fossae>
+>skipping unsupported (or wrong) TNT command  <{86 orientation_of_preparacrista_on_P4/ mesial labial>
+>skipping unsupported (or wrong) TNT command  <{87 postprotocrista_on_P4/ absent present>
+>skipping unsupported (or wrong) TNT command  <{88 Postprotocrista_on_P4/_joins base_of_paracone distostyle metastyle>
+>skipping unsupported (or wrong) TNT command  <{89 preprotocrista_on_P4/_joins?? mesiostyle base_of_the_paracone_then_mesiostyle parastyle>
+>skipping unsupported (or wrong) TNT command  <{90 postectoprotocrista_on_P4/ absent present>
+>skipping unsupported (or wrong) TNT command  <{91 P4_protocone rounded crescentic>
+>skipping unsupported (or wrong) TNT command  <{92 in_lingual_view_protocone_of_P4/_is displaced_mesially median>
+>skipping unsupported (or wrong) TNT command  <{93 P4/_mesial_margin concave convexe>
+>skipping unsupported (or wrong) TNT command  <{94 strong_development_of_distostyle_on_P4/ no yes>
+>skipping unsupported (or wrong) TNT command  <{95 mesial_accessory_cusp_on_P4/_that_can_be_linked_to_mesiostyle no yes>
+>skipping unsupported (or wrong) TNT command  <{96 P4_metacone absence presence>
+>skipping unsupported (or wrong) TNT command  <{97 P4_paracone_higher_than_the_protocone slightly_higher_than_protocone much_higher_than_protocone>
+>skipping unsupported (or wrong) TNT command  <{98 P4_endoparacrista absence presence>
+>skipping unsupported (or wrong) TNT command  <{99 distal_accessory_cusp_on_postprotocrista_of_P4/_that_can_be_linked_to_distostyle no yes>
+>skipping unsupported (or wrong) TNT command  <{100 height_of_lingual_cingulum_compared_to_unworn_protocone_height__on_upper_molars one_third half no_cingulum>
+>skipping unsupported (or wrong) TNT command  <{101 mesio-distal_ribs_development_of_labial_cusps_of_upper_molars almost_half_the_molar_lenght pinched_(inferior_to_one_third__of_molar_lenght) enlarged_(superior_to_half_the_molar_lenght)>
+>skipping unsupported (or wrong) TNT command  <{102 postectoprotocrista absent pr??sent>
+>skipping unsupported (or wrong) TNT command  <{103 postprotocrista present absent>
+>skipping unsupported (or wrong) TNT command  <{104 Protocone_and_metaconule_junction_on_upper_molars none premetaconule-postectoprotocrista premetaconule-postprotocrista postprotocrista_and_lingual_part_of_metaconule>
+>skipping unsupported (or wrong) TNT command  <{105 Premetacristule_divided_in_two_mesial_arms no yes>
+>skipping unsupported (or wrong) TNT command  <{106 ectometacristule_on_upper_molars absent present_at_least_on_M1 not_frequent_and_only_on_M2_or_M3>
+>skipping unsupported (or wrong) TNT command  <{107 postmetafossule absent present>
+>skipping unsupported (or wrong) TNT command  <{108 secondary_cristule_labial_to_metaconule_eventually_an_endometacristule_or_enamel_knob no yes>
+>skipping unsupported (or wrong) TNT command  <{109 Distostyle_on_upper_molar yes no>
+>skipping unsupported (or wrong) TNT command  <{110 distostyle_position_on_upper_molars_levels metaconule metacone>
+>skipping unsupported (or wrong) TNT command  <{111 secondary_ectometafossule_lingual_to_ectometacristule absent_or_very_light present_mesially_at_least_on_M1_linked_to_ectometacristule>
+>skipping unsupported (or wrong) TNT command  <{112 paraconule_on_upper_molars present absent>
+>skipping unsupported (or wrong) TNT command  <{113 M2/_paraconule_when_present similar_in_size_with_protocone smaller_than_protocone>
+>skipping unsupported (or wrong) TNT command  <{114 postparacristule_extend_to_connect none base_of_the_paracone transverse_valley>
+>skipping unsupported (or wrong) TNT command  <{115 preparacrista_connects_the_parastyle no,_separated_by_a_groove yes_lingually yes_labially>
+>skipping unsupported (or wrong) TNT command  <{116 endoparacrista_on_upper_molars absence presence>
+>skipping unsupported (or wrong) TNT command  <{117 ectoparafossa_on_upper_molars no yes>
+>skipping unsupported (or wrong) TNT command  <{118 Ectocristyle frequently_present absent>
+>skipping unsupported (or wrong) TNT command  <{119 premetacrista_and_postparacrista_connect no_connection_or_via_an_intercaled_ectocristyle yes_(can_form_a_centrocrista,_a_V-shaped_mesostyle_or_a_loop-like_mesostyle)>
+>skipping unsupported (or wrong) TNT command  <{120 endometacrista_and_endometacristule_forming_a_transverse_crest absence presence>
+>skipping unsupported (or wrong) TNT command  <{121 parastyle_development enamel_knob smaller_or_equal_than_mesostyle larger_than_mesostyle>
+>skipping unsupported (or wrong) TNT command  <{122 premetacristule_invade_labial_part_of_the_transverse_valley no yes>
+>skipping unsupported (or wrong) TNT command  <{123 position_of_metaconule_on_upper_molar labial_side_of_the_protocone distal_side_of_the_protocone>
+>skipping unsupported (or wrong) TNT command  <{124 M2/_metaconule similar_in_size_with_protocone smaller_than_protocone>
+>skipping unsupported (or wrong) TNT command  <{125 mesostyle_on_upper_molars no yes>
+>skipping unsupported (or wrong) TNT command  <{126 mesostyle enamel_knob half_to_the_size_of_labial_cusp larger_than_labial_cusp>
+>skipping unsupported (or wrong) TNT command  <{127 metastyle reduced_to_enamel_knob_or_absent fully_developped>
+>skipping unsupported (or wrong) TNT command  <{128 root_fusion_on_upper_molars four_roots_with_occasional_fusion_close_to_cervix_the_apices_always_remaining_free fully_fused_lingual_roots three_roots>
+>skipping unsupported (or wrong) TNT command  <{129 lingual_cingulum_on_upper_molars no yes developped_in_entostyle>
+>skipping unsupported (or wrong) TNT command  <{130 hypocone_on_upper_molars_(at_least_M2/ yes no>
+>skipping unsupported (or wrong) TNT command  <{131 shape_of_M1/ triangular quadrate>
+>skipping unsupported (or wrong) TNT command  <{132 shape_of_M3/ triangular quadrate>
+>skipping unsupported (or wrong) TNT command  <{133 M3/_size Larger_than_M2/ equal_in_size_with_M2/ reduced_(less_than_60%)>
+>skipping unsupported (or wrong) TNT command  <{134 Mesiolingual_style_on_upper_molar_mesial_cingulum no yes>
+>skipping unsupported (or wrong) TNT command  <{135 symphysis_morphology_in_sagittal_section elliptic dorsally_concave ventrally_concave>
+>skipping unsupported (or wrong) TNT command  <{136 diastem_C-P/1 absent pr??sent>
+>skipping unsupported (or wrong) TNT command  <{137 bone_fusion_at_symphysis_in_adult_specimens no yes>
+>skipping unsupported (or wrong) TNT command  <{138 maximal_thickness_of_the_symphysis_in_sagittal_section in_the_middle_part in_the_rostral_part in_the_nucal_part>
+>skipping unsupported (or wrong) TNT command  <{139 symphysis_extension extends_nuchally_between_C_and_P/1 extend_nuchally_between_P/1_and_P/3 extends_nuchally_to_P/3>
+>skipping unsupported (or wrong) TNT command  <{140 number_and_position_of_main_external_foramen numerous only_one_below_the_anterior_part_of_of_the_premolar_row two,_one_below_the_anterior_part_and_the_other_below_the_posterior>
+>skipping unsupported (or wrong) TNT command  <{141 transverse_constriction_of_mandible_at_C-p/1_diastema no yes>
+>skipping unsupported (or wrong) TNT command  <{142 P/1-P/2_diastema absent present>
+>skipping unsupported (or wrong) TNT command  <{143 P/2-P/3_diastema yes no>
+>skipping unsupported (or wrong) TNT command  <{144 Opening_of_internal_choanes at_M3/ nucal_to_M3/>
+>skipping unsupported (or wrong) TNT command  <{145 enamel_ornementation no yes>
+>skipping unsupported (or wrong) TNT command  <{146 Schmelzmuster_composed_of two_layers three_layers one_layer>
+>skipping unsupported (or wrong) TNT command  <{147 inner_radial_enamel absent present>
+>skipping unsupported (or wrong) TNT command  <{148 HSB_percent_of_Schmelzmuster absent less_than_75% more_than_76%>
+>skipping unsupported (or wrong) TNT command  <{149 Outer_radial_enamel less_or_equal_to_20% more_than_20%>
+>skipping unsupported (or wrong) TNT command  <{150 Hsb_zone thin_with_bands_always_less_than_100??m large_(equal_or_more_than_100??m)>
+>skipping unsupported (or wrong) TNT command  <{151 regular_aspect_(constant_width) yes no>
+>skipping unsupported (or wrong) TNT command  <{152 HSB_varaible_(SD>20) no yes>
+>skipping unsupported (or wrong) TNT command  <{153 HSB_angle_with_EDJ >70?? <70_????>
+>skipping unsupported (or wrong) TNT command  <{154 orientation_of_HSB straight bent>
+>skipping unsupported (or wrong) TNT command  <{155 HSB_definition_(decussation_angle_and_size_of_transition_zone) clear blurry>
+>skipping unsupported (or wrong) TNT command  <{156 division_of_HSB anastomosis bifurcation no_division>
+>skipping unsupported (or wrong) TNT command  <{157 HSB_configuration curved transverse>
+>skipping unsupported (or wrong) TNT command  <{158 synchronous_prism_undulation_on_horizontal_section no yes_but_few yes_but_more_or_equal_to_4>
+>skipping unsupported (or wrong) TNT command  <{159 IPM_in_inner_portion closed_sheath Inter_row_sheets>
+>skipping unsupported (or wrong) TNT command  <{160 IPM_in_middle_portion closed_sheath Inter_row_sheets no_IPM>
+>skipping unsupported (or wrong) TNT command  <{161 IPM_in_outer_portion closed_sheath no_IPM>
+>skipping unsupported (or wrong) TNT command  <{162 prism_angle_with_EDJ equal_or_more_than_60?? less_

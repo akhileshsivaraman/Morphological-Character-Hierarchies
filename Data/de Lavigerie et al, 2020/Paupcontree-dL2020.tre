@@ -1,0 +1,38 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Wed May 20 16:32:55 2020]
+[!
+>Consensus of 20000 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 282 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        All characters are parsimony-informative
+>    Gaps are treated as "missing"
+>    Multistate taxa interpreted as uncertainty
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 100
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 10
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 10000
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 6467937139
+>  Score of best tree(s) found = 1389
+>  Number of trees retained = 20000
+>  Note: Effectiveness of search may have been diminished due to tree-buffer overflow.
+>  Time used = 00:14:18 (CPU time = 00:13:08.1)
+]
+	tree Strict = [&U] (Zygorhiza_kochii,((Albertocetus_meffordorum,Archaeodelphis_patrius),Olympicetus_avitus,(Waipatia_maerewhenua,Physeter_macrocephalus)),((Aetiocetus_cotylalveus,Aetiocetus_polydentatus),Aetiocetus_weltoni),(((((((((Aglaocetus_moreni,(((Diorocetus_chichibuensis,((Parietobalaena_campiniana,(Parietobalaena_sp.,Tiphyocetus_temblorensis)),(Parietobalaena_palmeri,Pinocetus_polonicus)),Parietobalaena_yamaokai),(Isanacetus_laticephalus,OU_22705)),Diorocetus_shobarensis)),(((((((Archaebalaenoptera_castriarquati,(Megaptera_hubachi,Plesiobalaenoptera_quarantellii)),((((Balaenoptera_acutorostrata,Balaenoptera_bonaerensis),(Balaenoptera_borealis,(Balaenoptera_musculus,Balaenoptera_physalus))),NMNZ_mm001630),Balaenoptera_omurai),Balaenoptera_bertae,Balaenoptera_siberi,Diunatans_luctoretemergo,Fragilicetus_velponi,Incakujira_anillodefuego,Megaptera_novaeangliae),(Balaenoptera_portisi,((Eschrichtioides_gastaldii,Eschrichtius_robustus),Gricetoides_aurorae)),Parabalaenoptera_baulinensis),Megaptera_miocaena),Balaenoptera_ryani),Uranocetus_gramensis),Pelocetus_calvertensis),Titanocetus_sammarinensis),Aglaocetus_patulus),(((((((((Aulocetus_latus,(Cetotherium_megalophysum,Metopocetus_vandelli)),Piscobalaena_nana),(Ciuciulea_davidi,(Metopocetus_durinasus,Metopocetus_hunteri))),(((Brandtocetus_chongulek,(Cetotherium_rathkii,Cetotherium_riabinini)),Kurdalagonus_mchedlidzei),(((Caperea_marginata,Miocaperea_pulchra),((((Herpetocetus_bramblei,Herpetocetus_morrowi),(Herpetocetus_sp.,NMNS_pv19540)),Herpetocetus_transatlanticus),Nannocetus_eremus)),Cephalotropis_coronatus))),(Tranatocetus_argillarius,Tranatocetus_maregermanicum)),Herentalia_nigra),Joumocetus_shimizui),Tiucetus_rosae),(Diorocetus_hiatus,Thinocetus_arthritus))),(((((Antwerpibalaena_liberatlas,(Balaena_montalionis,Balaena_mysticetus,Balaena_ricei,Eubalaena_ianitrix,(Eubalaena_shinshuensis,Eubalaena_spp.))),Balaenula_astensis),Balaenella_brachyrhynus),Balaenula_sp.),Morenocetus_parvus,Peripolocetus_vexillifer)),(Mauicetus_parki,ZMT_67)),Horopeta_umarere),OU_22224,Whakakai_waipata),((Eomysticetus_whitmorei,Yamatocetus_canaliculatus),(Matapanui_waihao,Tohoraata_raekohao,Tokarahia_kauaeroa,Waharoa_ruwhenua),Micromysticetus_rothauseni)),(Chonecetus_sookensis,Morawanocetus_yabukii),Coronodon_havensteini,(Fucaia_buelli,Fucaia_goedertorum),(Janjucetus_hunderi,(Mammalodon_colliveri,Mammalodon_hakataramea)),(Llanocetus_denticrenatus,Mystacodon_selenensis),OCPC_1178,OU_gs10897);
+end;

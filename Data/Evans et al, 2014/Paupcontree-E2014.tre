@@ -1,0 +1,36 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Wed May 13 15:56:40 2020]
+[!
+>Consensus of 5000 trees
+>
+>Source of trees from which consensus(es) calculated...
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 75 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        1 character is parsimony-uninformative
+>        Number of parsimony-informative characters = 74
+>    Gaps are treated as "missing"
+>    Multistate taxa interpreted as uncertainty
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 50
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 10
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+>    Steepest descent option not in effect
+>  'Maxtrees' setting = 5000 (will not be increased)
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Search terminated prematurely (no room to store new trees)
+>   5000 trees retained
+>  Time used = 00:22:14 (CPU time = 00:21:15.8)
+]
+	tree Strict = [&U] (Alytes_obstetricans,(((Arariphrynus_placidoi,Arthroleptis_adolphifriederic,(((((Ceratophrys_ornata,(Lepidobatrachus_laevis,Beelzebufo_ampinga)),(Chacophrys_pierottii,Baurubatrachus_pricei,Wawelia_gerholdi)),Hemiphractus),Calyptocephalella_gayi,Osteopilus,Triprion_petasatus),Thaumastosaurus_sulcatus),Chiromantis_rufescens,((Conraua_crassipes,(Ptychadena_mascareniensis,Rana_temporaria)),Phrynobatrachus_acutirostris),Cratia_gracilis,((Dermatonotus_muelleri,Phrynomantis_bifasciatus),Callulops_kopsteini),Eurycephalella_alcinae,Gastrotheca_gracilis,Guibemantis_liber,Heleophryne_natalensis,Hylarana_albolabris,Hyperolius_kivuensis,Hypsiboas_andinus,Leptodactylus_ocellatus,Leptopelis_christyi,Litoria_lesueurii,((Megophrys_nasuta,Sooglossus_sechellensis),Telmatobufo_venustus),Melanophryniscus_stelzneri,(Mixophyes_schevilli,Platyplectrum_ornatum),Nannophryne_variegatus,Phlyctimantis_verrucosus,Phyllomedusa_sauvagii,Pleurodema_thaul,Pristimantis_huicundo,Scinax_jolyi,Telmatobius_scrocchii,Thoropa_miliaris,Uberabatrachus_carvalhoi,((Afrana_angolensis,(((Aubria_subsigillata,Pyxicephalus_adspersus),Ceratobatrachus_guentheri),Hoplobatrachus_occipitalis)),Amnirana_albolabris),(Afrixalus_fulvovittatus,Kassina_senegalensis),(Allophryne_ruthveni,Rhinoderma_darwinii),(Astylosternus_diadematus,(Cardioglossa_cyaneospila,(Hymenochirus_boettgeri,Schoutedenella_sylvatica))),(Batrachophrynus,Bufo_granulosus,Bufo_viridis),Cyclorana_australis,(Dendrosophus_nanus,(Flectonotus_fitzgeraldi,Isthmohyla_rivularis)),Dyscophus,Heleioporus_eyeri,Limnodynastes_dorsalis,Odontophrynus_americanus,Opisthohylax_immaculatus,Physalaemus_biligonigerus,Pseudis_paradoxa),(Pelobates_cultripes,Scaphiopus_couchii),Pelodytes_punctatus,Spea_bombifrons),Bombina_variegata),Discoglossus_pictus,Xenopus_laevis);
+end;

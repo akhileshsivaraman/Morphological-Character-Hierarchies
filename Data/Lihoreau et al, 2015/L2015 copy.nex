@@ -1,0 +1,608 @@
+#NEXUS
+[written Mon May 11 19:17:57 BST 2020 by Mesquite  version 3.40 (build 877) at Akhileshs-MacBook-Air.local/127.0.0.1]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=54;
+	TAXLABELS
+		Dichobune_leporina Cebochoerus_campichii Cebochoerus_depereti Siamotherium_krabiense Anthracokeryx_tenuis Anthracokeryx_thailandicus Microbunodon_minimum H_occidentalis Anthracotherium_chaimanei Anthracotherium_magnum Myaingtherium_kenyapotamoides Bothriogenys_orientalis Bothriogenys_fraasi Bothriogenys_gorringei Bothriogenys_andrewsi Brachyodus_aequatorialis Brachyodus_onoideus Brachyodus_depereti Bothriodon_velaunus Aepinacodon Elomeryx_crispus Elomeryx_borbonicus Afromeryx_zelteni Sivameryx_paleindicus Merycopotamus_nanus Merycopotamus_dissimilis Libycosaurus_anisae Libycosaurus_bahri Lokone Morotochoerus_ugandanensis Kenyapotamus_coryndonae Archaeopotamus_harvardi Hexaprotodon_garyam Palaeochoerus Kenyasus Perchoerus Amphimeryx_murinus Khirtaria Gobiohyus Mixtotherium Lophiomeryx_chalanati Homacodon Xiphodon_castrense Diplobune_minor Gujaratia B_lysitensis Dacrytherium_ovinum Paroxacron_valdense Entelodon Indohyus Merycoidon Archeomeryx Amphiragha Hallebune 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  'Matrix in file "L2015.nex"';
+	DIMENSIONS  NCHAR=175;
+	FORMAT DATATYPE = STANDARD GAP = - MISSING = ? SYMBOLS = "  0 1 2 3 4";
+	CHARSTATELABELS 
+		1 number_of_lower_incisors /  three two one,
+		2 lower_incisor_morphology /  not_caniniform at_least_one_caniniform_lower_incisor,
+		3 relative_dimensions_of_lower_incisors /  all_of_equal_size one_or_two_more_developped,
+		4 most_developped_incisor /  'I/2' 'I/3' 'I/1',
+		5 transverse_section_of_lower_incisors_crowns /  strongly_irregular about_rounded,
+		6 lower_incisor_cervix_morphology /  no_deep_indentation 'indented cervix, indentation as long as the root diameter on the cervix' deep_identation_longer_than_the_root_diameter_at_cervix,
+		7 crown_of_lower_I1 /  straight 'spatulate (with convex mesial and distal border)',
+		8 'presence of a median lingual pillar (lingual rib) on lower i1' /  yes no,
+		9 Lower_canine_cross_setcion_at_cervix /  subcircular elliptical,
+		10 cristids_on_lower_canine_enamel_caps /  none one_distal 'two, one mesial and one distal' one_mesial,
+		11 wear_on_lower_canine /  distal_wear_facet_contact_with_canine mesial_wear_facet_contact_with_I3,
+		12 groove_on_labial_side_of_lower_canine /  no yes,
+		13 groove_on_lingual_side_of_lower_canine /  no yes,
+		14 lower_canine_in_male /  'fang-like' premolariform incisiform,
+		15 crown_of_lower_canine_in_male /  small_near_premolar_size at_least_twice_the_premolar_size 'prolonged growth to ever-growing',
+		16 'p/1 roots' /  one two,
+		17 paraconid_on_lower_premolars /  no yes,
+		18 'elongated p/3' /  'no (shorter or equal than M/1 lenght)' 'yes (longer than M/1 lenght)',
+		19 'three lobed P/3' /  no yes,
+		20 accessory_cusp_on_the_preprotocristid_of_lower_premolars /  none one_or_more,
+		21 'lingual contour at cervix of  P/4 in occlusal view' /  convex_to_straight concave,
+		22 'labial wall on P/3 or P/4' /  convex concave,
+		23 'Orientation of postprotocristid on P/3' /  distal distolingual distolabial,
+		24 'high cingulid on labial face of P/3' /  no yes,
+		25 'preprotocristid mesiolingualy curved on P/3' /  no yes,
+		26 'mesial accessory cusp on preprotocristid on P/3' /  no Shoulder_like_structure_on_lateral_view_of_preprotocristid_of_lower_premolars complete_accessory_cusp,
+		27 Change_in_the_orientation_of_the_preprotocristid_mesialy_to_the_junction_of_accessory_mesiolingual_crest_on_lower_premolars /  no yes,
+		28 'Orientation of the endoprotocristid on P/4' /  absent separated_from_postprotocristid_at_the_protoconid_apex_and_then_strait_and_distolingual fused_with_postprotocristid_in_part_and_then_curved_mesiolingually,
+		29 'entoconid on P/3' /  never at_least_on_some_specimen,
+		30 'P/3 hypoconid' /  no yes,
+		31 'distolingual cingulid on P/4 in lingual view' /  forming_a_continuous_wall_lingually_until_the_distostylid reaching_the_level_of_the_distal_basin_and_keeping_be_shallow_until_the_distostylid 'reaching the level of distal basin and then being high when joigning the distostylid (distolingual notch of cingulid)',
+		32 'presence of a preentocristid on P/3 and/or on P/4' /  no yes,
+		33 'mesiolingual secondary cristid  on P/4 (cristid connecting lingual margin and preprotocristid)' /  no yes,
+		34 'labial cingulid form a V (indentated) on P/4 before to reach the distal cingulid' /  no yes,
+		35 'marked postprotofossid on P/4' /  absent present,
+		36 'postectoprotocristid on P/4' /  no yes,
+		37 'hypoconid on P/4' /  no 'yes (even incipient)',
+		38 'ectoprotofossid on p/4' /  absent frequent,
+		39 premetacristid_on_lower_molars /  strong reduced_or_missing,
+		40 'paraconid on lower molars, almost on unworn specimens' /  yes no,
+		41 lower_molar_trigonid /  equal_in_height_with_talonid higher_than_talonid,
+		42 connection_between_premetacristid_and_preprotocristid_on_lower_molars /  yes no,
+		43 postectoprotocristid__on_lower_molars /  absent 'reduced in the valley to fully developped at least on M/1',
+		44 'postprotofossid on lower molars at least on m/3' /  no yes,
+		45 'postmetacristid on M1-2' /  curving_toward_postprotocristid_forming_a_transverse_bridge_with_it orientated_toward_the_centre_of_the_tooth forming_a_rounded_postmetaconulid_not_preferentiallyorientated joins_prehypocristid,
+		46 ectoprotofossid_on_lower_molars /  absent present,
+		47 Ectometafossid__on_lower_molars /  yes no,
+		48 endometacristid__on_lower_molars /  no_or_slightly_expressed_much_more_like_an_enamel_fold present,
+		49 postectometacristid_on_lower_molars /  lightly_marked_to_absent always_present_and_well_marked,
+		50 premetafossid_on_lower_molars /  present absent,
+		51 preentocristid /  absent present,
+		52 preentocristid_connects /  endohypocristid prehypocristid__toward_the_cuspid_apex prehypocristid_toward_its_mesial_extremity,
+		53 postectoentocristid__on_lower_molars /  absent present_but_more_like_a_keel_on_cusp present_and_well_individualized_from_the_cusp,
+		54 ectoentocristid /  present absent,
+		55 postentocristid__on_lower_molars /  absent present,
+		56 prehypocristid_dividing_in_two_mesial__arms_on_lower_molars /  yes no,
+		57 'prehypocristid inflated (not sallient when unworn) ) in transverse valley  of lower molars' /  no 'yes (even to form a conulid)',
+		58 prehypocristid_reaches /  'median part of transverse valley (eventually labial)' lingual_part_of_transverse_valley labial_part_of_the_transverse_valley,
+		59 main_arm_of_prehypocristid_connects /  'trigonid distal walls (junction between cristids from metaconid and protoconid)' postmetafossid lingual_margin_of_transverse_valley postmetacristid,
+		60 posthypocristid_joins /  nothing_or_distostyle postentocristid postectoentocristid,
+		61 endohypocristid_on_lower_molars /  absent present,
+		62 posthypofossid_on_lower_molars /  absent present,
+		63 entostylid__on_lower_molars_that_could_sometimes_be_linked_to_an_entocristylid /  never frequently_present,
+		64 ectostylid__on_lower_molars /  no_cingulid a_shallow_and_constant_cingulid_in_front_of_the_transverse_valley 'frequently developped cingulid in a /some stylid at least on m1',
+		65 ectocrystilid__on_lower_molars /  no yes_even_if_variable,
+		66 'cingulid surrounding m/3 hypoconulid' /  no_specimen_exhibiting_such_extension occasionally_bordering_the_labial_wall,
+		67 'ectohypocristulid on M/3' /  absent not_complete present_joigning_the_summit_of_hypoconulid,
+		68 'distostylid  on M/1-M/2' /  median lingual none,
+		69 'mesial part of Loop-like hypoconulid' /  open pinched,
+		70 entoconulid /  no yes,
+		71 Number_of_upper_incisors /  3 2,
+		72 central_upper_incisor /  'morphologically similar to I2/I3' 'peg-like, morphologically different from others' caniniform,
+		73 'I3/ reduced in size compared to I1/' /  no yes,
+		74 upper_canine_morphology /  strong_with_circular_or_elliptic_cross_section 'strong and laterally compressed  (blade-like)' premolariform,
+		75 canine_size_root /  equivalent_to_slightly_longer_than_the_crown at_least_twice_the_size_of_the_crown prolonged_to_continous_growth_of_root prolonged_and_continuous_growth_of_crown,
+		76 dimorphic_upper_canine /  no yes,
+		77 'diastem C-P1/' /  yes no,
+		78 'diastem P1/-P2/' /  no yes,
+		79 number_of_upper_premolar /  4 5 3,
+		80 distolabial_crests_of_upper_premolars /  simple with_a_maximum_of_two_accessory_cusps with_more_than_two_accessory_cusps_at_least_on_one_premolar,
+		81 'number of mesial crests on P1-3' /  one two,
+		82 'disto-lingual basin in P2' /  yes no,
+		83 'accessory cusp on disto-lingual cingulum of P3/' /  none one_cingular_style 'protocone (surrounded by a cingulum)',
+		84 'Metacone on P3/' /  no yes,
+		85 P3_root_pattern /  'one mesial root, two distal root not fused' one_mesial_root_and_fused_distal_ones,
+		86 P4_paracone /  simple_with_crest complex_with_fossa very_complex_with_more_fossae,
+		87 'orientation of preparacrista on P4/' /  mesial labial,
+		88 'postprotocrista on P4/' /  absent present,
+		89 'Postprotocrista on P4/ joins' /  base_of_paracone distostyle metastyle,
+		90 'preprotocrista on P4/ joins¤' /  mesiostyle base_of_the_paracone_then_mesiostyle parastyle,
+		91 'postectoprotocrista on P4/' /  absent present,
+		92 P4_protocone /  rounded crescentic,
+		93 'in lingual view protocone of P4/ is' /  displaced_mesially median,
+		94 'P4/ mesial margin' /  concave convexe,
+		95 'strong development of distostyle on P4/' /  no yes,
+		96 'mesial accessory cusp on P4/ that can be linked to mesiostyle' /  no yes,
+		97 P4_metacone /  absence presence,
+		98 P4_paracone_higher_than_the_protocone /  slightly_higher_than_protocone much_higher_than_protocone,
+		99 P4_endoparacrista /  absence presence,
+		100 'distal accessory cusp on postprotocrista of P4/ that can be linked to distostyle' /  no yes,
+		101 height_of_lingual_cingulum_compared_to_unworn_protocone_height__on_upper_molars /  one_third half no_cingulum,
+		102 'mesio-distal ribs development of labial cusps of upper molars' /  almost_half_the_molar_lenght 'pinched (inferior to one third  of molar lenght)' 'enlarged (superior to half the molar lenght)',
+		103 postectoprotocrista /  absent présent,
+		104 postprotocrista /  present absent,
+		105 Protocone_and_metaconule_junction_on_upper_molars /  none 'premetaconule-postectoprotocrista' 'premetaconule-postprotocrista' postprotocrista_and_lingual_part_of_metaconule,
+		106 Premetacristule_divided_in_two_mesial_arms /  no yes,
+		107 ectometacristule_on_upper_molars /  absent present_at_least_on_M1 not_frequent_and_only_on_M2_or_M3,
+		108 postmetafossule /  absent present,
+		109 secondary_cristule_labial_to_metaconule_eventually_an_endometacristule_or_enamel_knob /  no yes,
+		110 Distostyle_on_upper_molar /  yes no,
+		111 distostyle_position_on_upper_molars_levels /  metaconule metacone,
+		112 secondary_ectometafossule_lingual_to_ectometacristule /  absent_or_very_light present_mesially_at_least_on_M1_linked_to_ectometacristule,
+		113 paraconule_on_upper_molars /  present absent,
+		114 'M2/ paraconule when present' /  similar_in_size_with_protocone smaller_than_protocone,
+		115 postparacristule_extend_to_connect /  none base_of_the_paracone transverse_valley,
+		116 preparacrista_connects_the_parastyle /  'no, separated by a groove' yes_lingually yes_labially,
+		117 endoparacrista_on_upper_molars /  absence presence,
+		118 ectoparafossa_on_upper_molars /  no yes,
+		119 Ectocristyle /  frequently_present absent,
+		120 premetacrista_and_postparacrista_connect /  no_connection_or_via_an_intercaled_ectocristyle 'yes (can form a centrocrista, a V-shaped mesostyle or a loop-like mesostyle)',
+		121 endometacrista_and_endometacristule_forming_a_transverse_crest /  absence presence,
+		122 parastyle_development /  enamel_knob smaller_or_equal_than_mesostyle larger_than_mesostyle,
+		123 premetacristule_invade_labial_part_of_the_transverse_valley /  no yes,
+		124 position_of_metaconule_on_upper_molar /  labial_side_of_the_protocone distal_side_of_the_protocone,
+		125 'M2/ metaconule' /  similar_in_size_with_protocone smaller_than_protocone,
+		126 mesostyle_on_upper_molars /  no yes,
+		127 mesostyle /  enamel_knob half_to_the_size_of_labial_cusp larger_than_labial_cusp,
+		128 metastyle /  reduced_to_enamel_knob_or_absent fully_developped,
+		129 root_fusion_on_upper_molars /  four_roots_with_occasional_fusion_close_to_cervix_the_apices_always_remaining_free fully_fused_lingual_roots three_roots,
+		130 lingual_cingulum_on_upper_molars /  no yes developped_in_entostyle,
+		131 'hypocone on upper molars (at least M2/' /  yes no,
+		132 'shape of M1/' /  triangular quadrate,
+		133 'shape of M3/' /  triangular quadrate,
+		134 'M3/ size' /  'Larger than M2/' 'equal in size with M2/' 'reduced (less than 60%)',
+		135 Mesiolingual_style_on_upper_molar_mesial_cingulum /  no yes,
+		136 symphysis_morphology_in_sagittal_section /  elliptic dorsally_concave ventrally_concave,
+		137 'diastem C-P/1' /  absent présent,
+		138 bone_fusion_at_symphysis_in_adult_specimens /  no yes,
+		139 maximal_thickness_of_the_symphysis_in_sagittal_section /  in_the_middle_part in_the_rostral_part in_the_nucal_part,
+		140 symphysis_extension /  'extends nuchally between C and P/1' 'extend nuchally between P/1 and P/3' 'extends nuchally to P/3',
+		141 number_and_position_of_main_external_foramen /  numerous only_one_below_the_anterior_part_of_of_the_premolar_row 'two, one below the anterior part and the other below the posterior',
+		142 'transverse constriction of mandible at C-p/1 diastema' /  no yes,
+		143 'P/1-P/2 diastema' /  absent present,
+		144 'P/2-P/3 diastema' /  yes no,
+		145 Opening_of_internal_choanes /  'at M3/' 'nucal to M3/',
+		146 enamel_ornementation /  no yes,
+		147 Schmelzmuster_composed_of /  two_layers three_layers one_layer,
+		148 inner_radial_enamel /  absent present,
+		149 HSB_percent_of_Schmelzmuster /  absent less_than_75% more_than_76%,
+		150 Outer_radial_enamel /  less_or_equal_to_20% more_than_20%,
+		151 Hsb_zone /  thin_with_bands_always_less_than_100µm 'large (equal or more than 100µm)',
+		152 'regular aspect (constant width)' /  yes no,
+		153 'HSB varaible (SD>20)' /  no yes,
+		154 HSB_angle_with_EDJ /  '>70°' '<70 ¨°',
+		155 orientation_of_HSB /  straight bent,
+		156 'HSB definition (decussation angle and size of transition zone)' /  clear blurry,
+		157 division_of_HSB /  anastomosis bifurcation no_division,
+		158 HSB_configuration /  curved transverse,
+		159 synchronous_prism_undulation_on_horizontal_section /  no yes_but_few yes_but_more_or_equal_to_4,
+		160 IPM_in_inner_portion /  closed_sheath Inter_row_sheets,
+		161 IPM_in_middle_portion /  closed_sheath Inter_row_sheets no_IPM,
+		162 IPM_in_outer_portion /  closed_sheath no_IPM,
+		163 prism_angle_with_EDJ /  equal_or_more_than_60° less_than_60_° tend_to_diminish_in_the_inner_part,
+		164 prism_diameter /  mean_between_3_and_3.9_µm small_diameter_mean_below_3_µm large_diameter_mean_above_or_equal_to_4,
+		165 'mesial accessory cusp on preprotocristid on P/3' /  absent present,
+		166 postectoentocristid__on_lower_molars /  absent present,
+		167 ectostylid__on_lower_molars /  absent present,
+		168 'ectohypocristulid on M/3' /  absent present ; 
+	MATRIX
+	Dichobune_leporina             000-00??12?0010010000010020000000000100010000000010--0010000100200-000???????1000?1?0000-0001100000000010000000001010011020010-02001020000?120100001200110010??0??021010???????
+	Cebochoerus_campichii          000-000?10?00201000000000-0001000000100100010100000-100100000102002000???20001000020010110000100000002002001000001010001020100-0001111020121?011000020000000000000010111???????
+	Cebochoerus_depereti           000-???????0020001000000010100000010000100001000000--0100000001200-000???0????000100?0011001010010000100201110000110010101010111?111110010010011?10011111000010000021010???????
+	Siamotherium_krabiense         0???00??0000?000000000000-0100000010010100000000001010010000110-00200000001?0?0001(0 1)01100-0000100000010002100001001110101000101000111100000212001010020000000010000020101???????
+	Anthracokeryx_tenuis           000-00001?100000010000000-0100100000000101000001101010010000100-0020000001(2 3)?01000100?10????10???00000010111000100111010102010110??11100?1021(1 2)11001??????????????????0101???????
+	Anthracokeryx_thailandicus     ???????????????0000000000-01001000100001000000011012100100000001002000????????????00?101000100000000?00021(0 1)000100121010101010111011110011021211101??????????????????0111???????
+	Microbunodon_minimum           000-000011100000010000100-0100100000000100000001101211010000000100200000013110000100?11100010100000001002000001001210101010101110111100111212111010021010000000000000111???????
+	H_occidentalis                 000-????11000010000000200-0100000010101100000001101011110001100-00-0000?001110000110?1111011000000000010101000110111010002010121?211101001211001?1??????????????????0100???????
+	Anthracotherium_chaimanei      ?0100101????????0?0000000-0100001010100100110001101010101001111-001001???01101000110?1111011000?000000101110101101210101010101110211101????(0 1)???101??????????????????0101???????
+	Anthracotherium_magnum         0010010000000010000000000-010000101010010011000110102010100(0 1)110-00200100001?110001101111111?000000000010111010(0 1)101210100020101110211101001012011010020000000012000000101???????
+	Myaingtherium_kenyapotamoides  000-000?0?????11000000000-0100?00010100100110000111010010000100-002001???????????????101001100000000?2101110000001100111000101001211101010?2?101?1??????????????????0101???????
+	Bothriogenys_orientalis        ???????????????0000011201211001010100001000001011011101100010102101100??????0000(0 1)000?11100011010000000101110?00001110100010101100111100010211?1111??????????????????1111???????
+	Bothriogenys_fraasi            ??????????0????0000010201112001?1010001100000001101110110001100111-100???20?00001000?11101010000000?0010111000100121010102010111?11110011020111011??????????????????1110???????
+	Bothriogenys_gorringei         (0 1)00-0011120001000000110012120010101000110000001(0 1)10122001000(1 2)011111-100000????????????1110101000000001110(1 2)1100010011101000201011101111001102121101111100001102??01?101110???????
+	Bothriogenys_andrewsi          ??????????????????????????????????????0101000010001121010012000111-?00??????????????????????????????0?????00???00??1?101?2???111?1????0??????????1???????????????????110???????
+	Brachyodus_aequatorialis       11110?1?1?0??1000000111011020011(0 1)0100011010000101111200000(0 1)200011111001212000000(0 1)000?1110101000000010111001000100121010002010111011111011120110111??????????????????1111???????
+	Brachyodus_onoideus            111100111200010000000100110200101010001101000010111121010112000-11-10012120000001000?111010100000001011100000010012101000201011101111(0 1)0111201101112020000110012010101100???????
+	Brachyodus_depereti            21110?--?????10000000000110200110010001101000010111220010112000-11-100???????00????0?1111001000000000100000(0 1)00100121010002010111?11?1?0111?0?101?1??????????????????1100???????
+	Bothriodon_velaunus            0010000012000100000010001201000000100011000000011012200100120001?0-11000020001000100?1111001010000000110011000000022011101010120011110011121111001??????????????????1110???????
+	Aepinacodon                    0?10?0??????00100000100011010020011001110100001110122001011200011??1??00020001000100?111000111000000011000000000002201110101011(0 1)?11110011121101001??????????????????111????????
+	Elomeryx_crispus               0010001012000100000(0 1)10101-0100111010000100000001101020010112100111-1(0 1)(0 1)00011100000000?111100100000000011011110010012201100201011101111002101?111111??????????????????0110???????
+	Elomeryx_borbonicus            00100010120001000001101012010011101000110000001(0 1)111220010112000211-11000011100000000?111(0 1)0010000000001(0 1)01001001001220111010101110211100210211111111120000110011111101110???????
+	Afromeryx_zelteni              (0 2)???????1????010000110101201001?011000110100000110122001000000011?-1100?0?1100011000?1111001000000000110000000101--10111020101110211100210212101110011000110111011111110???????
+	Sivameryx_paleindicus          000-????110?00110001101012010010001000010000010110122001012(0 2)010111-110??????00?11000?1110001000000000110000000100112011101010111?211100210202101?1210---------1121101110???????
+	Merycopotamus_nanus            000-0???110100110001101012010010001010110100001011121(0 1)010120000211-11000001?0001100011111001010000000100000000101--20111010101111211100210011101110011111111211111?21110???????
+	Merycopotamus_dissimilis       000-0???1101002100011010120100100010101101000010111210010120000211-110???0110001100011111001010000000100002000101--20111010101111211100211012001111111111111211121121110???????
+	Libycosaurus_anisae            (0 1)012100(0 1)1101002100011010120100100010101101000010111210010120000211-110???020?0121000?1111001110000000100002000101--20111010101111?11100210202101111111111111211121101110???????
+	Libycosaurus_bahri             201210011101002100011010120100100010101101000010111210010120000211-11000102?0012100011111001010000000100002000101--201110101011111111002112021(0 1)111210---------1121201110???????
+	Lokone                         ????0111????????0?00010111-100211111100100(0 1)(0 1)00011012100010000112?1?100???????????????1111001101100011010(1 2)11010010120010001010110?111100??????????1002000011021101110111????????
+	Morotochoerus_ugandanensis     ????????????????0???01????-1??2?0(0 1)11?11101111101101(0 1)100110000112102000??????????????????????????????(0 1)200201100000110010000010100?111100??????????1???????????????????111???????
+	Kenyapotamus_coryndonae        ?0??12011?00102?000?11211--11121011(0 1)110100(0 1)111011012101110000112112000?????????10?10110110011011001112(0 1)020(0 1)100(0 1)101101100000101000211100??1?2?0?0?120201011100121101(0 2)0111???????
+	Archaeopotamus_harvardi        000-12011-001020000011211--1112101101101001111000012-1(0 1)1100001121120000000310101002012011001101100110200200100(0 1)01--0(0 1)10000010100021111021102201(0 1)11??????????????????0011???????
+	Hexaprotodon_garyam            001212011-001020000011211--111210110110100111100001(1 2)-1(0 1)11000(0 1)1121120000000310(0 1)01002012011001101100110200200100(0 1)01--0(0 1)10000010100021111021102201(0 1)111111111111212121110011???????
+	Palaeochoerus                  001(0 2)010013011020000000000--000-00000101100110000110-10011010000100-0000?1021(0 1)00000101000-0001101100022010011100001000010100100-01011110211?1?001?00020000000(0 1)00000000110???????
+	Kenyasus                       001(0 2)010013010021000000000--000-00000101100012001000-11110010100100-00001102?01000?00?10110010100100022010011000101001010100100-01011100201?1?001001120000000010010000110???????
+	Perchoerus                     001(0 2)0?0013011020000000?0??-0?0?00000101100110000100-?1?10010100100-0000??02?(0 1)1000?00?000-000010010002201001000?001000010000100-0?011110?11??2?11?0????????????????????10???????
+	Amphimeryx_murinus             0011000110?00200111010200-0001-000001011010030100112-1110131000-00-1100??2???1000?2100012201110000002100200001-00022011101110110201111020001211000210---------0000020000???????
+	Khirtaria                      ????????????????000000000-010000001010111001-0111110-0110200100-001(0 2)0(0 1)??????????????????????????????02000010100001101011100110-02110021??????????1??????????????????0001???????
+	Gobiohyus                      ????????????????100000001-01002001001000100000001110-00100001001001000????????????2?01011001010000001001000001-001010111020100-02111110??????????0??????????????????0011???????
+	Mixtotherium                   ????????12000010111000200-0111-?0000100010000110110-10110001010200-100???01?10000?2101111001000010000100200001-001020000020111112211110?1?????11?011100000000??000020110???????
+	Lophiomeryx_chalanati          001200??1????200111000200-0101-000001011010030100112-1010130000200-110---2?00120011000112201110000000100200001-01--2011101110111?111100010?0201110??????????????????0010???????
+	Homacodon                      ???????????????????0??????????????????10010000100110-0010000100200-000?????????00?10000110001100000000103000000000010001020000-02101020??????????0???????????????????010???????
+	Xiphodon_castrense             ????????????????111010200-0211010000101101000010110-20010110000100-110???????001010111111201010000002100000001-000220011011101102211111???????01?01111000100(0 1)11000120110???????
+	Diplobune_minor                001000011210010001100000110211010000101001000010110-11011122000-00-1000212001000012011112201010000002100000001-001020011011101112011100100012001001111000(0 1)00010000121100???????
+	Gujaratia                      000-000?12100100100000000-0000000000001011000010010--0110000000100100000011?11000120?00112000100010000003000001001101011100010-0201001000011??0100210---------0000010011???????
+	B_lysitensis                   ????????????????100000000-000?200000001011000010110--0110000000100-000???????????????000--001000000002003000001001000011000010-02100020??????????0??????????????????0010???????
+	Dacrytherium_ovinum            0???00??1210020001000000110201210010100111000000010-11010120001-00-1000??20?100000201110-201011000010100000001-001020111021101112011100000?11001?0??????????????????1100???????
+	Paroxacron_valdense            000-000?1????2?1111010200-0201000000100110000010010--1010120000-00-1-1???????000012101111201010001002101000001-00002001101101111201112020011100000210---------0000020000???????
+	Entelodon                      001(0 1)000100000011010000000-00000000001010110010110110-0110000100-00-0-00000??1100012010010-000100000012010-00000001001010000010-0110102020021100001111110000021?000020000???????
+	Indohyus                       ????????????????0??000????01??0000001011100000101110-0010200100-001200?????????00?001000--00000001100200201001-001101011100110-0211?100??????????????????????????????001???????
+	Merycoidon                     ????????010000100000002011011100101010010100-000011221010132001200-1??00001?0000100000112201000000002000200001-01--2001102110111?21110010??1200110??????????????????1110???????
+	Archeomeryx                    000-?0??1??00200111010200-01010000001001000030100112-1010130000-00-1?000010?0120012(0 1)?0110201000000000101200001-01--1010102111111?111100?1??1?011?0??????????????????0000???????
+	Amphiragha                     ????????1????200111000000-00112101101101000000101110-00110001012002000???????0010121010110010010110012102011000001110(0 1)110001010021111000?021201(0 1)?1??????????????????0011???????
+	Hallebune                      ???????????????0111010200-0011?10?001010010000101110-00100001001002000?????????00?21?101100100001?0012103000000001110111000(0 1)10-0?10(0 1)020???????11?0??????????????????0011???????
+
+;
+
+END;
+BEGIN NOTES;
+
+	TEXT  TAXON = 1 TEXT = 'Material in UM collection, but for anterior dentition character state in Sudre 1978 and some character infered from D. Jehenni (lBrunet and Sudre 1980)';
+	TEXT  TAXON = 2 TEXT = 'ISEM and in Sudre 1978 (skull)';
+	TEXT  TAXON = 9 TEXT = 'Materiel de Wai Lek, thailandTF2637 md l P/3-M/3TF2636 holotype skull r and l C, P1/-M3/ Ducrocq 1999';
+	TEXT  TAXON = 10 TEXT = Mandibule_de_MoissacM_sup_de_DigoinM_sup_des_MillesBritish_Museum_palaisLyon_Phosporites_du_QuercyNassiet_Landes;
+	TEXT  TAXON = 12 TEXT = 'Thailand, Bang Pu Dam Eocene supTF 2634TF 2633Ducrocq 1999';
+	TEXT  TAXON = 13 TEXT = 'Schmidt 1917, Ducrocq 1997, material from SNM';
+	TEXT  TAXON = 14 TEXT = 'Schmidt 1917, Ducrocq 1997, material from SNM';
+	TEXT  TAXON = 15 TEXT = 'Schmidt 1917, Ducrocq 1997, material from SNM';
+	TEXT  TAXON = 16 TEXT = 'Mc Innes 1951, Dineur 1981material from KNM';
+	TEXT  TAXON = 17 TEXT = Dineur_1981;
+	TEXT  TAXON = 18 TEXT = 'Pickford 1991, Dineur 1981, material in collection at NHM London';
+	TEXT  TAXON = 20 TEXT = AMNH;
+	TEXT  TAXON = 22 TEXT = 'Geais 1934, Hellmund 1991, Kostopoulos et al. 2012,  Material at FSL';
+	TEXT  TAXON = 25 TEXT = 'Potwar plateau Chinji Fm, Pakistan Lihoreau eta al. 2007';
+	TEXT  TAXON = 34 TEXT = ref__Ginsburg_1974_table_ronde_sur_les_phospho_du_Quercy_Paleovertebrata;
+	TEXT  TAXON = 35 TEXT = 'Photo from Runsinga attention enamel microstructure d"un autre hyotheriinae (Aureliachoerus)';
+	TEXT  TAXON = 38 TEXT = 'casts of specimens of Khirtharia dayi, K. inflatus and K. aurea in UM2ref Orliac and ducrocq 2011and Thewissen et al. 19??';
+	TEXT  TAXON = 40 TEXT = 'Material from UM2 from La defense and Egerkingenref: Erfurt and Metais 2007, Hooker and Wedman 2000';
+	TEXT  TAXON = 41 TEXT = from_material_from_GarouillasBrunet_et_Sudre_1987_Mayence;
+	TEXT  TAXON = 43 TEXT = 'Castrense Material from Robiac RBN5004, 5067 Sudre 1969   et bretou Hartenberger 1974';
+	TEXT  TAXON = 45 TEXT = material_from_Pakistan_at_UM2;
+	TEXT  TAXON = 46 TEXT = 'and B. grangeri for P/3';
+	TEXT  TAXON = 48 TEXT = Material_from_escamps_in_UM2;
+	TEXT  TAXON = 49 TEXT = material_from_villebramar_and_from_Quercy;
+	TEXT  TAXON = 50 TEXT = fromI_indirai_Kunmar_and_Shani_1985;
+	TEXT  TAXON = 51 TEXT = 'Specimen from the Big Badland south Dakotacollection Lavocat UM2 probably bullatuscranium +mandible, palate, P4/-M3/, P/4-M/2 and P/3-M/2';
+	TEXT  TAXON = 52 TEXT = 'moulage d"archeomeryx optatus UM2 from AMNH 20321 and publication of Colbert 1941';
+	TEXT  TAXON = 53 TEXT = A_neumarkensis_from_Geiseltal_and_A_weigelti_also_from_Geiseltal_and_Hooker_et_Thomas_2001;
+
+	TEXT   CHARACTER = 1 TEXT = 1_in_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 2 TEXT = 3_in_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 3 TEXT = modified_from_4_in_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 5 TEXT = 3_in_Orliac_et_al._2010_8_in_Boisserie_et_al._2010;
+
+	TEXT   CHARACTER = 6 TEXT = 4_in_Orliac_et_al._2010;
+
+	TEXT   CHARACTER = 11 TEXT = 5_in_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 12 TEXT = car_14_in_Boisserie_et_al._2010;
+
+	TEXT   CHARACTER = 15 TEXT = 7_in_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 16 TEXT = 13_in_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 20 TEXT = 9_in_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 21 TEXT = 'modified from Orliac 2010, car 52';
+
+	TEXT   CHARACTER = 29 TEXT = 51_in_orliac_et_al._2010;
+
+	TEXT   CHARACTER = 35 TEXT = 59_in_Boisserie_et_al._2010;
+
+	TEXT   CHARACTER = 38 TEXT = 54_in_Orliac_et_al._2010;
+
+	TEXT   CHARACTER = 39 TEXT = 69_Boisserie_et_al._2010;
+
+	TEXT   CHARACTER = 43 TEXT = modified_from_67_in_Boisserie_et_al._2010;
+
+	TEXT   CHARACTER = 45 TEXT = 72_in_boisserie_et_al._2010;
+
+	TEXT   CHARACTER = 46 TEXT = 66_in_Boisserie_et_al._2010;
+
+	TEXT   CHARACTER = 49 TEXT = 71_in_Boisserie_et_al._2010;
+
+	TEXT   CHARACTER = 50 TEXT = 70_in_Orliac_et_al._2010;
+
+	TEXT   CHARACTER = 53 TEXT = modified_from_77_in_Boisserie_et_al._2010;
+
+	TEXT   CHARACTER = 55 TEXT = modified_from_78_in_Boisserie_et_al._2010;
+
+	TEXT   CHARACTER = 61 TEXT = 75_in_Orliac_et_al._2010;
+
+	TEXT   CHARACTER = 62 TEXT = 77_in_Orliac_et_al._2010;
+
+	TEXT   CHARACTER = 63 TEXT = 'seulement sur M/3 de A chaimanee';
+
+	TEXT   CHARACTER = 66 TEXT = 79_in_Boisserie_et_al._2010;
+
+	TEXT   CHARACTER = 67 TEXT = 80_in_Boisserie_et_al._2010;
+
+	TEXT   CHARACTER = 69 TEXT = 29_in_Lihoreau_and_Ducrocq;
+
+	TEXT   CHARACTER = 74 TEXT = 6_in_Lihoreau_and_ducrocq_2007;
+
+	TEXT   CHARACTER = 79 TEXT = 10_modified_from_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 80 TEXT = 11_from_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 81 TEXT = 14_from_Lihoreau_and_Ducrocq;
+
+	TEXT   CHARACTER = 82 TEXT = 12?_in_Orliac_et_al._2010;
+
+	TEXT   CHARACTER = 83 TEXT = 16_in_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 85 TEXT = X_in_Orliac_2010;
+
+	TEXT   CHARACTER = 86 TEXT = a_réecrire_form_Orliac_et_al._in_prep_22;
+
+	TEXT   CHARACTER = 87 TEXT = 20_in_Orliac_et_al._2010;
+
+	TEXT   CHARACTER = 92 TEXT = from_orliac_in_prep_23;
+
+	TEXT   CHARACTER = 97 TEXT = X_in_Orliac_et_al._2010;
+
+	TEXT   CHARACTER = 98 TEXT = Orliac_2012_32;
+
+	TEXT   CHARACTER = 99 TEXT = Orliac_et_Ducrocq_2012_31;
+
+	TEXT   CHARACTER = 107 TEXT = Modified_from_48_in_Boisserie_et_al._2010;
+
+	TEXT   CHARACTER = 112 TEXT = modified_from_47_in_Boisserie_et_al._2010;
+
+	TEXT   CHARACTER = 117 TEXT = 21_in_Orliac_2012;
+
+	TEXT   CHARACTER = 118 TEXT = 36_in_orliac_in_prep;
+
+	TEXT   CHARACTER = 124 TEXT = 27_in_orliac_2012;
+
+	TEXT   CHARACTER = 126 TEXT = 31_in_orliac_in_prep;
+
+	TEXT   CHARACTER = 130 TEXT = 34_in_orliac_in_prep;
+
+	TEXT   CHARACTER = 135 TEXT = 19_in_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 136 TEXT = 38_in_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 137 TEXT = 34_in_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 138 TEXT = modified_from_37_in_Lihoreau_and_Ducocq_2007;
+
+	TEXT   CHARACTER = 139 TEXT = 39_in_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 141 TEXT = 40_in_lihoreau_and_ducrocq_2007;
+
+	TEXT   CHARACTER = 142 TEXT = 33_in_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 143 TEXT = 35_in_Lihoreau_and_Ducrocq;
+
+	TEXT   CHARACTER = 144 TEXT = 6_in_Boisserie_et_al._2010;
+
+	TEXT   CHARACTER = 145 TEXT = 51_in_Lihoreau_and_Ducrocq_2007;
+
+	TEXT   CHARACTER = 146 TEXT = from_orliac_in_prep_26;
+
+	TEXT   CHARACTER = 147 TEXT = 1_in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 148 TEXT = 2_in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 149 TEXT = 3_in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 150 TEXT = 4_in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 151 TEXT = 5__in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 152 TEXT = 6__in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 153 TEXT = 7__in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 154 TEXT = 8__in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 155 TEXT = 9__in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 156 TEXT = 10__in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 157 TEXT = 11__in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 158 TEXT = 12__in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 159 TEXT = 13__in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 160 TEXT = 14__in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 161 TEXT = 15__in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 162 TEXT = 16__in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 163 TEXT = 17__in_Alloing_séguier_et_al._soumis;
+
+	TEXT   CHARACTER = 164 TEXT = 18__in_Alloing_séguier_et_al._soumis;
+
+END;
+
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1 -  175;
+
+END;
+
+BEGIN PAUP;
+ outgroup gujaratia homacodon b_lysitensis;
+
+END;
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Mk1 (est.)':  1 -  175;
+END;
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1589221077578;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 6991584264199911486;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 5435646677373154482;
+			mqVersion 340;
+			checksumv 0 3 3052374275 null  getNumChars 175 numChars 175 getNumTaxa 54 numTaxa 54   short true   bits 15   states 15   sumSquaresStatesOnly 24099.0 sumSquares 24099.0 longCompressibleToShort false usingShortMatrix true   NumFiles 1 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 123;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1432 764;
+			setLocation 8 23;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #5435646677373154482 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					getTable;
+					tell It;
+						columnWidth 164 63;
+						columnWidth 165 43;
+						columnWidth 166 52;
+						columnWidth 167 48;
+					endTell;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1309 692;
+					setLocation 8 23;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					endTell;
+					setActive;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam;
+					colorCells  #mesquite.charMatrices.NoColor.NoColor;
+					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges on;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleAutoWCharNames on;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					toggleShowPaleExcluded off;
+					togglePaleInapplicable on;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize on;
+					toggleColorsPanel off;
+					toggleDiagonal on;
+					setDiagonalHeight 80;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.AlterData.AlterData;
+				tell It;
+					toggleBySubmenus off;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesEditor.StateNamesEditor;
+				tell It;
+					makeWindow;
+					tell It;
+						setExplanationSize 30;
+						setAnnotationSize 20;
+						setFontIncAnnot 0;
+						setFontIncExp 0;
+						setSize 1309 692;
+						setLocation 8 23;
+						setFont SanSerif;
+						setFontSize 10;
+						getToolPalette;
+						tell It;
+							setTool mesquite.categ.StateNamesEditor.StateNamesWindow.ibeam;
+						endTell;
+						rowsAreCharacters on;
+						toggleConstrainChar on;
+						toggleConstrainCharNum 3;
+						togglePanel off;
+						toggleSummaryPanel off;
+					endTell;
+					showWindow;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor;
+				tell It;
+					panelOpen true;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

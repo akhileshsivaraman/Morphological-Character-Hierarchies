@@ -1,0 +1,2278 @@
+#NEXUS
+
+[ File output by Morphobank v3.0 (http://www.morphobank.org); 2020-04-01 14.28.52 ]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX=17;
+	TAXLABELS
+		'Erinaceus sp.'
+		'Nandinia binotata'
+		'Manis crassicaudata'
+		'Manis javanica'
+		'Manis pentadactyla'
+		'Smutsia gigantea'
+		'Smutsia temminckii'
+		'Phataginus tetradactyla'
+		'Phataginus tricuspis'
+		'Patriomanis americana'
+		'Cryptomanis gobiensis'
+		'Necromanis sp.'
+		'Eomanis waldi'
+		'Euromanis krebsi'
+		'Eurotamandua joresi'
+		'Palaeanodon sp.'
+		'Metacheiromys sp.'
+	;
+ENDBLOCK;
+
+
+
+BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=395;
+	FORMAT DATATYPE=STANDARD MISSING=? GAP=- SYMBOLS="0123456";
+
+	CHARLABELS
+		 [1] 'Fissured unguals'
+		 [2] 'Ratio of maximum width vs. maximum height of proximal articular surface on manual and pedal unguals'
+		 [3] 'Manual and pedal unguals in dorsal view'
+		 [4] 'Shape of manual and pedal subungual process in ventral view'
+		 [5] 'Surface of proximal articulation, manual and pedal intermediate phalanges'
+		 [6] 'Width of distal condyles of manual and pedal intermediate phalanges'
+		 [7] 'Distal condyles of manual and pedal proximal phalanges'
+		 [8] 'Distal keel on metatarsals and metacarpals'
+		 [9] 'Width of distal condyles of metatarsals/metacarpals vs. epicondyles'
+		 [10] 'Size of pedal ungual phalanx III (UP III) relative to next largest ungual (UP II or IV)'
+		 [11] 'Size of pedal ungual I'
+		 [12] 'Shape of proximal phalanges (PP) II-V of pes'
+		 [13] 'Relative lengths of proximal (PP) and intermediate (IP) phalanges of pes'
+		 [14] 'Shape of proximal phalanx I of pes '
+		 [15] 'Shape of proximal margin, proximal phalanx I of pes in lateral view'
+		 [16] 'Relative lengths of pedal proximal phalanges'
+		 [17] 'Relative lengths of metatarsals I and V'
+		 [18] 'Relative lengths of metatarsals III and IV'
+		 [19] 'Shape of metatarsals III and IV in dorsal view'
+		 [20] 'Midshaft width versus depth of metatarsals'
+		 [21] 'Length of metatarsals III vs. tibia'
+		 [22] 'Shape of metatarsal I'
+		 [23] 'Medial depression on ventromedial surface of proximal metatarsal II '
+		 [24] 'Proximal end of metatarsal II'
+		 [25] 'Number of contacts between matatarsals II and III, III and IV'
+		 [26] 'Orientation of proximal articular surface of metatarsals III'
+		 [27] 'Shape of proximal articular surface of metatarsal III in proximal view'
+		 [28] 'Proximal contacts of metatarsal IV'
+		 [29] 'Dorsal surface, proximal end of metatarsal IV'
+		 [30] 'Shape of proximal articular surface, metatarsal IV'
+		 [31] 'Shape of lateral flange of metatarsal V'
+		 [32] 'Position of lateral process on metatarsals V'
+		 [33] 'Shape of cuboid facet of metatarsals V'
+		 [34] 'Orientation of cuoid facet of metatarsal V'
+		 [35] 'Articular facets on metatarsals V for cuboid and metatarsal IV'
+		 [36] 'Prehallux'
+		 [37] 'Well-defined articular surface on medial cuneiform for prehallux'
+		 [38] 'Well-defined articular surface on navicular for prehallux'
+		 [39] 'Prehallux shape'
+		 [40] 'Shape of medial cuneiform in medial view'
+		 [41] 'Shape of distal facet for metatarsal I on medial cuneiform '
+		 [42] 'Shape and size of navicular and middle cuneiform facets on medial cuneiform'
+		 [43] 'Position of middle cuneiform facet and facet for metatarsal II on medial cuneiform '
+		 [44] 'Number of facets of middle cuneiform on the lateral surface of medial cuneiform '
+		 [45] 'Dorsal surface of middle cuneifoem '
+		 [46] 'Shape of navicular facet on middle cuneiform '
+		 [47] 'Shape of articulation between middle and lateral cuneiform '
+		 [48] 'Distinct foramen on dorsal surface of tarsus formed between lateral cuneiform and cuboid'
+		 [49] 'shape of dorsal surface of lateral cuneiform '
+		 [50] 'Shape of navicular facet of lateral cuneiform '
+		 [51] 'Shape of metatarsals III facet on lateral cuneifrom'
+		 [52] 'Planter process of lateral cuneiform '
+		 [53] 'Shape of planter process of cuboid in planter view'
+		 [54] 'Orientation of planter process of cuboid in planter view'
+		 [55] 'Distal facet of cuboid'
+		 [56] 'Size of calcaneal facet of cuboid'
+		 [57] 'Shape of navicular facet of cuboid'
+		 [58] 'Relative size of astragalar and calcaneal facets of cuboid'
+		 [59] 'Astragalar facet of navicular '
+		 [60] 'Extent of concavity and convexity on astragalar facet of navicular'
+		 [61] 'Distal articular facets of navicular for cuneiforms'
+		 [62] 'Astragalar canal'
+		 [63] 'Astragalar trochlea shape in dorsal view'
+		 [64] 'Proximal edge (=posterior edge) of astragalar trochlea in dorsal view'
+		 [65] 'Extension of astragalar trochlea onto ventral surface of astragalus'
+		 [66] 'Distinct facet for tendon of m. flexor digitorum fibularis'
+		 [67] 'Proximal extent of ectal facet versus astragalar trochlea'
+		 [68] 'Ratio of maximum dorsoventral depth of astragalus to maximum transverse width'
+		 [69] 'Width of astragalar neck vs. maximum width of astragalus'
+		 [70] 'Position of astragalar head'
+		 [71] 'Shape of astragalar head in distal view'
+		 [72] 'Deep groove for clacaneal-navicular "spring" ligament on ventral margin of astragalar head'
+		 [73] 'Dorsal margin of astragalar head'
+		 [74] 'Shape of ectal facet of astragalus '
+		 [75] 'Orientation of long axis on astragalar ectal facet'
+		 [76] 'Sustentacular facet of astragalus '
+		 [77] 'Shape of sustentacular facet of astragalus'
+		 [78] 'Position of sustentacular facet of astragalus'
+		 [79] 'Shape of medial navicular facet on astragalar neck in medial view'
+		 [80] 'Astragalus/ cuboid contact'
+		 [81] 'Shape of fibular facet of astragalus'
+		 [82] 'Shape of fibular facet of astragalus and position of central concavity '
+		 [83] 'Length of calcaneus vs. tibia'
+		 [84] 'Tuber calcis shape'
+		 [85] 'Dorsal surface of tuber calcis'
+		 [86] 'Length of tuber calcis'
+		 [87] 'Roughened distal surface of tuber calcis (attachment surface for Achilles'' tendon)'
+		 [88] 'Orientation of calcaneal cuboid facet'
+		 [89] 'Position of sustentacular facet on calcaneus'
+		 [90] 'Proximal extent of astragalar and fibular facets of calcaneus'
+		 [91] 'Position of anterior planter tubercle vs. cuboid facet of calcaneus'
+		 [92] 'Shape of cuboid facet of calcaneus '
+		 [93] 'Peroneal process of calcaneus'
+		 [94] 'Shape of fibular shaft'
+		 [95] 'Distinct lateral process on lateral malleolus of fibula'
+		 [96] 'Orientation of tibial facet of distal fibula'
+		 [97] 'Shape of tibial facet of distal fibula'
+		 [98] 'Proximal extent of astragalar and calcaneal facets of fibula in posterior view'
+		 [99] 'Proximal half of astragalar facet of fibula'
+		 [100] 'Development of processes on posterior surface of proximal fibula'
+		 [101] 'Shape of posterior process on proximal fibula'
+		 [102] 'Anterolateral eminence on proximal fibula'
+		 [103] 'Cnemial crest of tibia'
+		 [104] 'Development of anterior distal and anterior lateral distal processes of tibia'
+		 [105] 'TIPosterior distal tibial process'
+		 [106] 'Grooves for tendons of m. tibialis posterior and m. flexor tibialis on medial malleolus of distal tibia'
+		 [107] 'Distal extent of anterior and posterior projections of medial malleolus of distal tibia'
+		 [108] 'Depth of groove for m. tibialis posterior tendon '
+		 [109] 'Tibial torsion'
+		 [110] 'Dorsoventral depth of distal tibial articulation for medial and lateral trochlea of astragalus'
+		 [111] 'Distal tibial articulation for medial trochlea of astragalus overlaps anterior face of medial mallelous'' posterior extension '
+		 [112] 'Distal tibial articulation for fibula'
+		 [113] 'Maximum width vs. anteroposterior depth of distal tibia'
+		 [114] 'Relative size of lateral and medial condyles of tibia in proximal view'
+		 [115] 'shape of tibial lateral condyle in proximal view'
+		 [116] 'Surface contour of tibial lateral condyle'
+		 [117] 'Pit for attachment of meniscal ligament anterior to medial condyle of tibia'
+		 [118] 'Proximal fibular facet of tibia'
+		 [119] 'Facet for tibial sesamoid (cyamelle) on proximal fibula'
+		 [120] 'Anterior surface of patella'
+		 [121] 'Articulations on posterior surface of patella'
+		 [122] 'Surface of confluent medial and lateral patellar articulations'
+		 [123] 'Shape of femoral shaft'
+		 [124] 'Angle between femoral head and shaft'
+		 [125] 'Shape of greater trochanter of femur in proximal view'
+		 [126] 'Orientation of patellar groove of femur in anterior view'
+		 [127] 'Surface contour of patellar groove of femur in distal view'
+		 [128] 'Distance between proximal end of femur and third trochanter'
+		 [129] 'Distance between femoral head (measured from proximal-most point) and tip of lesser trochanter'
+		 [130] 'Orientation of lesser trochanter'
+		 [131] 'Fovea capitis'
+		 [132] 'Trochanteric fossa and intertrochanteric ridge'
+		 [133] 'Maximum depth vs. transverse width of distal femur in distal view'
+		 [134] 'Maximum depth of medial vs. lateral condyle of femur in distal view'
+		 [135] 'Maximum width of medial vs. lateral condyle of femur in distal view'
+		 [136] 'Sacroiliac attachment'
+		 [137] 'Extent of sacroiliac junction '
+		 [138] 'Number of sacral vertebrae'
+		 [139] 'Metapophyses and neural spines of sacral vertebrae'
+		 [140] 'Dorsal spinal nerve foramina of sacral vertebrae'
+		 [141] 'Process for sacrospinous ligament at posteroventral base of transverse process of last sacral vertebra'
+		 [142] 'Shape of transverse process of last sacral vertebrae'
+		 [143] 'Lateral extent of transverse process of last sacral vertebra in dorsal view'
+		 [144] 'Metapophyses of sacral vertebrae'
+		 [145] 'Angle between sacral vertebrae and ilium'
+		 [146] 'Gluteal fossa on ilium'
+		 [147] 'Position of femoral spine (=tuberosity for m. rectus femoris)'
+		 [148] 'Shape of lunate surface of acetabulum '
+		 [149] 'Orientation of acetabular fossa'
+		 [150] 'Size of obturator foramen'
+		 [151] 'Orientation of ischial tuberosities'
+		 [152] 'Development of ischial spine'
+		 [153] 'Position of ischial spine'
+		 [154] 'Position of dorsal edge of ischium'
+		 [155] 'Shape of pubis and position of attachment to ilium'
+		 [156] 'Anterior edge of pubic symphysis in ventral view'
+		 [157] 'Number of thoracic vertebrae'
+		 [158] 'Number of lumbar vertebrae'
+		 [159] 'Number of caudal vertebrae'
+		 [160] 'Position of diaphragmatic vertebrae'
+		 [161] 'Transverse process of last lumbar vertebra'
+		 [162] 'Transverse processes of anterior lumbar vertebrae'
+		 [163] 'Attachment of pedicel to lumbar centra'
+		 [164] 'Shape of centrum of third lumbar vertebra'
+		 [165] 'Neural spine of third lumbar vertrbra'
+		 [166] 'Surface contour of zygapophyses of lumbar vertebrae'
+		 [167] 'Relative heights of neural spines of anterior thoracic vertebrae'
+		 [168] 'Anteriormost thoracic vertebra in which the diapophysis is completely separated posteroventrally from the metapophysis'
+		 [169] 'Anteriormost thoracic vertebra in which the capitular facet is entirely confined to a single centrum '
+		 [170] 'Surface contour of anterior and posterior zygapophyses of cervical vertebrae '
+		 [171] 'cervical anterior and posterior zygapophyses extend far anterior and posterior to centrum'
+		 [172] 'Heights of neural spines in cervical vertebrae 3-7'
+		 [173] 'Inclination of neural spine of C3'
+		 [174] 'Neural spine of C7'
+		 [175] 'Transverse process of C7'
+		 [176] 'Posterior edge of lamina of C4-6 in dorsal view'
+		 [177] 'Posterior extension of neural spine of axis'
+		 [178] 'Anterior extension of neural spine of axis'
+		 [179] 'Ventral surface of transverse process of axis'
+		 [180] 'Ventral surface of axial centrum'
+		 [181] 'Ratio of axial centrum maximum anteroposterior length (including dens) to width (measured immediately behind anterior articular surface)'
+		 [182] 'Surface contour of anterior articular surface of axis'
+		 [183] 'Shape of anterior articular surface of axis'
+		 [184] 'Axial anterior articular surface and articular facet of dens '
+		 [185] 'Transverse foramen of axis in anterior view'
+		 [186] 'Transverse process of atlas'
+		 [187] 'Anterodorsomedial groove connecting transverse canal of atlas with lateral vertebral foramen'
+		 [188] 'Distinct depressions for origin of mm. rectus capitis anterior and lateral to neural spine of atlas'
+		 [189] 'Maximum width vs. maximum anteroposterior length of atlas (excluding transverse processes)'
+		 [190] 'Separation of anterior zygapophyses of atlas'
+		 [191] 'Relationship of sternal ribs and sternum '
+		 [192] 'Shape of manubrium in cross-section '
+		 [193] 'xiphisternum '
+		 [194] 'cartilaginous extension of xiphisternum'
+		 [195] 'Number of true ribs'
+		 [196] 'Shape of first rib'
+		 [197] 'Clavical '
+		 [198] 'Shape of ventral end of scapular spine'
+		 [199] 'Shape of acromion '
+		 [200] 'Coracoid process of scapula '
+		 [201] 'Distance from ventral corner of anterior scapular edge to anterior edge of glenoid'
+		 [202] 'secondary scapular spine'
+		 [203] 'Teres minor fossa on posteroventral edge of scapula '
+		 [204] 'Height of scapular spine in distal view '
+		 [205] 'Orientation of long axis of humeral head in posterior view'
+		 [206] 'Orientation of deltopectoral crest of humerus'
+		 [207] 'Length of deltopectoral crest'
+		 [208] 'Pulley for m.biceps brachii at distal termination of deltopectoral crest'
+		 [209] 'Deep anterior groove between greater tubercle and lesser tubercle of humerus for head of m. biceps brachii'
+		 [210] 'Large distinct deltoid crest extends across lateral surface of humerus'
+		 [211] 'Distince fossa for mm. infraspinatus and teres minor on lateral surface of humerus '
+		 [212] 'Width across humeral epicondyles'
+		 [213] 'Length of entepicondyle'
+		 [214] 'Position of proximal entepicondylar foramen '
+		 [215] 'Entepicondylar notch'
+		 [216] 'Size and proximal extent of supinator crest'
+		 [217] 'Form of supinator crest'
+		 [218] 'Posterior surface of distal hunerus between supinator crest and posterior edge of entepicondyle/entepicondylar foramen, proximalto olecranon fossa'
+		 [219] 'Distal edge of trochlea of humerus in anterior view '
+		 [220] 'Medial lappet of trochlea of humerus extending underneath entepicondyle in distal view'
+		 [221] 'Medial extent of radial fossa of humerus'
+		 [222] 'Size of olecranopn fossa of humerus '
+		 [223] 'Relative proximal extent of greater and lesser tubercle of humerus'
+		 [224] 'Position of proximal portion of lesser tubercle of humerus'
+		 [225] 'Bicipital groove of humerus continuous with well-developed fossa anteromedial to greater tubercle'
+		 [226] 'Orientation of greater tubercle of humerus relative to head in proximal view'
+		 [227] 'Length of olecranon process of ulna'
+		 [228] 'Olecranon process of ulna inflected medially in anterior view'
+		 [229] 'Olecranon process of ulna inflected ventrally in medial view'
+		 [230] 'Maximum width of radiohumeral articular surface of ulna'
+		 [231] 'Width of anconeal process of ulna '
+		 [232] 'Distance between coronoid process and ulnar tubercle of ulna'
+		 [233] 'Relative anterior extent of anconeal and coronoid processes of ulna'
+		 [234] 'Shape of interosseous border of ulna'
+		 [235] 'Medial concavity on distal ulnar shaft'
+		 [236] 'Depth of distal ulnar shaft'
+		 [237] 'Shape of styloid articulation of ulna in distal view'
+		 [238] 'Ratio of ulnar length to humeral length'
+		 [239] 'Ratio of radial length to humeral length'
+		 [240] 'Maximum depth of radial shaft'
+		 [241] 'radial (=bicipital) tuberosity '
+		 [242] 'Size of trochlear facet on radial head'
+		 [243] 'Ulnar facet and sesamoid facet on radial head'
+		 [244] 'sesamios facet on radial head'
+		 [245] 'RCondylar facet of radial head'
+		 [246] 'Styloid and pseudostyloid processes and dorsal tuberosity of distal radius '
+		 [247] 'Orientation of radial styloid process'
+		 [248] 'Orientation of distal radial articular surface'
+		 [249] 'Fused scaphoid and lunate bone'
+		 [250] 'Contact between scapholunar and hamate'
+		 [251] 'Proximodistal depth of palmar tuberosity on scapholunar'
+		 [252] 'Shape of palmar margin of radial articular surface of scapholunar'
+		 [253] 'Triquetral articular surface on scapholunar'
+		 [254] 'Connection between trapezoid and capitular articular surfaces on scapholunar '
+		 [255] 'Shape of ulnar articular facet of triquetrum'
+		 [256] 'Ulnar/pisiform articular facets vs. scapholunar facet on triquetrum'
+		 [257] 'Surface contour of scapholunar facet on trapezium'
+		 [258] 'Extent of scapholunar facet on trapezium '
+		 [259] 'Surface sontour of scapholunar facet on trapezoid'
+		 [260] 'Orientation of scapholunar facet on trapezoid in dorsal view'
+		 [261] 'Orientation of facet for trapezium on trapezoid'
+		 [262] 'Width of proximal articulation on capitate'
+		 [263] 'Shape of proximal articulation on capitate'
+		 [264] 'Relationship of capitate and trapezoid'
+		 [265] 'Shape of distal articulation of capitate'
+		 [266] 'Position of hamate facet of capitate'
+		 [267] 'Unciform process of hamate'
+		 [268] 'Dorsal surface of hamate'
+		 [269] 'Facet for metacarpal IV on hamate'
+		 [270] 'Metacarpal III length vs. humerus'
+		 [271] 'Shortest metacarpal'
+		 [272] 'Longest metacarpal '
+		 [273] 'Relative length of metacarpal II and IV'
+		 [274] 'Width vs. length of metacarpal IV'
+		 [275] 'Cross-section shape of shaft of metacarpals I-V'
+		 [276] 'Articulation between distal metacarpals and proximal phalanges'
+		 [277] 'Shape of metacarpal I in medial view'
+		 [278] 'Shape of proximal articular surface of metacarpals I in proximal view'
+		 [279] 'Distal keel on condyle of metacarpal I'
+		 [280] 'Concavity on dorsal surface of metacarpal II, proximal end'
+		 [281] 'facet for trapezium on metacarpal II'
+		 [282] 'Articulation between metacarpal II and III'
+		 [283] 'Palmar extent of capitular facet on metacarpal III'
+		 [284] 'Shape of capitular facet of metacarpal III n medial view'
+		 [285] 'Dorsal surface of metacarpal III, proximal end'
+		 [286] 'Proximal and lateral extension of shaft of metacarpal III overlapping meracarpal IV proximally, lateral to capitate facet '
+		 [287] 'Hamate facet of metacarpal III'
+		 [288] 'Extensor tubercle on dorsal surface of metacarpals'
+		 [289] 'Dorsal surface of metacarpal IV extended laterally and medially for articulation with metacarpals III and V'
+		 [290] 'Surface contour of proximal articulation of metacarpal IV'
+		 [291] 'Shape of proximal articulation of metacarpal IV'
+		 [292] 'Contour of articular surface for metacarpal III on metacarpal IV'
+		 [293] 'Contour of articular surface for metacarpal V on metacarpal IV'
+		 [294] 'Shape of articular surface for metacarpal V on metacarpal IV'
+		 [295] 'Lateral tubercle and proximal articulation on metacarpal V'
+		 [296] 'Cross-section shape of shaft of proximal and intermediate manual phalanges '
+		 [297] 'Lateral fossae for insertion of tendons on distal end of proximal manual phalanges'
+		 [298] 'Relative lengths of manual proximal (PP) and intermediate  (IP) phalanges '
+		 [299] 'Relative widths of proximal phalanges on digits II and IV'
+		 [300] 'Distal articulation of proximal phalanx on digit III'
+		 [301] 'Proximal articulations of manual intermediate phalanges'
+		 [302] 'Size of manual ungual phalanx (UP) on digit I'
+		 [303] 'Size of ungual phalanx on digit III'
+		 [304] 'Length of metatarsal III + proximal phalanx III + intermediate phalanx III + ungual phalanx III vs. tibial length'
+		 [305] 'Length of metacarpal III + proximal phalanx III + intermediate phalanx III + ungual phalanx III vs. humeral length'
+		 [306] 'Anterior border of nasal '
+		 [307] 'Nasal length '
+		 [308] 'Maxillonasal suture'
+		 [309] 'Dorsal (facial) process of premaxilla'
+		 [310] 'Incisive foramen'
+		 [311] 'Size of palatal process of premaxilla'
+		 [312] 'Vomerine exposure on palate'
+		 [313] 'Maxilla with deep median longitudinal palatal concavity'
+		 [314] 'Alveolar sulcus on maxilla'
+		 [315] 'Maxilla with narrow posterior palatal process extending lateral to palatine'
+		 [316] 'Palatine foramina '
+		 [317] 'Anterolateral shelf of palatine'
+		 [318] 'Palatines within choanae'
+		 [319] 'Lacrimal bone and lacrimal foramen '
+		 [320] 'Lacrimal fenestra'
+		 [321] 'Ethmoidal foramen'
+		 [322] 'Oribitoshpeniod/squamosal contact'
+		 [323] 'Small foramen posterior to optic foramen in orbitosphenoid'
+		 [324] 'Foramen rotundum and sphenorbital fissure'
+		 [325] 'Foramen subovale'
+		 [326] 'Foramen ovale'
+		 [327] 'Flange on pterygoid process behind formen ovale'
+		 [328] 'Pterygoid hamulus'
+		 [329] 'Pterygoid/ectotympanic contact'
+		 [330] 'Ectotympanic inflation '
+		 [331] 'Entotympanic or facet for entotympanic on basioccipital'
+		 [332] 'Course of internal carotid artery'
+		 [333] 'Auditory tube orientation'
+		 [334] 'Promontorium of petrosal '
+		 [335] 'Course of facial nerve'
+		 [336] 'Fusion between distal tip of tympanohyal and lateral surface of promontorium '
+		 [337] 'Position of fenestra cochleae'
+		 [338] 'Shielding of fenestra cochlea'
+		 [339] 'Position of fossa incudis within epitympanic recess'
+		 [340] 'Squamosal participation in roof of epitympanic recess'
+		 [341] 'Surface contour of incudal facet of malleus'
+		 [342] 'Orientation of mallear head/incudal facet'
+		 [343] 'Incus'
+		 [344] 'Stapedial columella'
+		 [345] 'Mastoid/exoccipital contact'
+		 [346] 'Vomer'
+		 [347] 'Tympanic process of pterygoid '
+		 [348] 'Tympanic process of basioccipital '
+		 [349] 'Exoccipital constriction anterior to occipital condyle'
+		 [350] 'Foramen magnum shape'
+		 [351] 'Supraoccipital/parietals suture shape'
+		 [352] 'Nuchal crest'
+		 [353] 'Squamosal inflation posterior to external auditory meatus/porus acoustics'
+		 [354] 'Position of alisphenoid/squamosal suture'
+		 [355] 'Orientation (and size) of zygomatic process of squamosal '
+		 [356] 'Glenoid fossa'
+		 [357] 'Postglenoid foramen'
+		 [358] 'Temporal lines'
+		 [359] 'Postorbital process'
+		 [360] 'Postorbital constriction '
+		 [361] 'Tentorial ossification '
+		 [362] 'Endocranial venous grooves'
+		 [363] 'Floor of middle cranial fossa'
+		 [364] 'Mandibular symphusis length'
+		 [365] 'Mandibualr symphysis shape in lateral view'
+		 [366] 'Anterodorsolaterally directed prongs on outer surface of mandibular symphyseal region'
+		 [367] 'Elongated medial perforation in mandibular canal'
+		 [368] 'Elongated lateral perforation in mandibular canal'
+		 [369] 'Mandibualar condyle'
+		 [370] 'Position of mandibular condyle'
+		 [371] 'Coronoid process of mandible '
+		 [372] 'Angular process of mandible '
+		 [373] 'Length of nasal/premaxillary vs. nasal maxillary suture'
+		 [374] 'Position of infraorbital foramen in lateral view'
+		 [375] 'Position of maxillopalatine suture in ventral midline'
+		 [376] 'Extension of orbital wing of palatine posterior to sphenorbital fissure'
+		 [377] 'Optic foramen size'
+		 [378] 'Position of optic foramen relative to frontal/squamosal suture [or if absent lateral portion of frontal/parietal suture]'
+		 [379] 'Position of foramen ovale'
+		 [380] 'Jugal'
+		 [381] 'Zygomatic arch'
+		 [382] 'Frontal/parietal suture position'
+		 [383] 'Alisphenoid/parietal contact'
+		 [384] 'Temporal fossa on braincase'
+		 [385] 'Length of parietal/squamosal suture'
+		 [386] 'Shape of zygomatic process of squamosal '
+		 [387] 'Lateral exposure of mastoid and posttympanic process of squamosal '
+		 [388] 'Foramen for inferior petrosal sinus separate from jugular foramen'
+		 [389] 'Position of superior petrosal sinus'
+		 [390] 'Position of jugular foramen and hypoglossal foramen '
+		 [391] 'Epitympanic sinus between squamosal and petrosal '
+		 [392] 'Basicranial/basifacial axis'
+		 [393] 'Teeth'
+		 [394] 'Depth of horizontal ramus of mandible '
+		 [395] 'Medial buttress on posterior portion of mandibular ramus'
+	;
+
+	STATELABELS
+		1
+		'absent'
+		'present'
+		,
+		2
+		'width and height roughly equivalent, ratio > or = 1'
+		'manual but not pedal UP compressed mediolaterally, ration< 1'
+		'or manual and pedal UP compressed mediolaterally, ratio < 1'
+		,
+		3
+		'waisted, with distinct constriction distal to base'
+		'manual UP nearly uniform width, constriction rudimentary or absent'
+		'or manual and pedal UP nearly uniform width, constriction rudimentary or absent'
+		,
+		4
+		'rounded triangular platform, perforated by subungual foramina'
+		'triangular platform but lacking perforations for subungual foramina, with grooves along either side of subungual process leading to subungual foramina instead'
+		'narrow subungual process, with grooves on either side leading to subungual foramina'
+		'or triangular or ovate process, unconstricted by grooves, subungual foramina dorsal to subungual process'
+		,
+		5
+		'unpaired, transversely wide fossae'
+		'paired, shallow,ovate fossae only slightly longer dorsoventrally than wide, bordered by well-developedlateral ridges'
+		'or paired fossae deep, elongate dorsoventrally with poorly marked lateral ridges.'
+		,
+		6
+		'Narrows dorsally, lateral fossae for tendinous insertion visible in dorsal view'
+		'or nearly uniform, lateral fossae obscured dorsally by lateral ridges of distal condyles'
+		,
+		7
+		'Swith single, transversely elongate, cylindrical condyles'
+		'or condyles divided into medial and lateral pulleys.'
+		,
+		8
+		'present only as a moderate ridge on ventral half of articulation, distinct fossa on dorsal surface of metacarpal above the condyle'
+		'ventral ridge on ventral half of articulation hypertrophied, distinct fossa on dorsal surface of metacarpal above the condyle still present'
+		'or keel extends along entire dorsoventral length of condyle, dorsal fossa above condyle absent'
+		,
+		9
+		'condyles narrower than epicondyles'
+		'or condyles as wide or wider than epicondyles'
+		,
+		10
+		'Next largest ungual larger than, equal to or only slightly smaller than UP III, grestest length > or = 95% of III'
+		'greatest length of next largest ungual  > or = 80%, < 95% of UP III'
+		'or UP III enlarge, greatest length of next largest <80% of III'
+		,
+		11
+		'not greatly reduced > or = 70% length of UP III'
+		'intermediate, > or = 40%, < 70% length of UP III'
+		'or greatly reduced, < 40% length of UP III'
+		,
+		12
+		'elongate, with cylindrical shaft and narrow distal condyles, ratio of maximum width of condyles to maximum length, ratio of width of condyles to length of PP > or = 0.5, < 0.9'
+		'intermediate length, ratio of width of condyles to length of PP or wide and short, without cylindrical shaft and with wide distal condyles, ratio of width of condyles to length of PP > or = 0.5, < 0.9'
+		'or wide and short, without cylindrical shaft and with wide distal condyles, ratio of width of condyles to length of'
+		,
+		13
+		'Proximal phalanges elognate, ratio of length of IP IV to PP IV < 1.0'
+		'proximal and intermediate phalanges approximately equal in length, ratio of length of IP IV to PP IV  > or = 1.0, < 1.2'
+		'or proximal phalanges greatly shortened, ratio of length of IP IV to PP IV > 1.2'
+		,
+		14
+		'elongate and slender, ratio of maximum length to maximum proximal depth > or = 2.2'
+		'or short and deep, ratio of maximum length to maximum proximal depth < or = 2.0'
+		,
+		15
+		'convex'
+		'or concave'
+		,
+		16
+		'proximal phalanges I - III subequal'
+		'proximal phalanx I is the longest'
+		'proximal phalanx II is the longest'
+		'or proximal phalanx III is the longest'
+		,
+		17
+		'I is shorter'
+		'or V is shorter'
+		,
+		18
+		'III measurably longer, i.e., longer by more than 0.5 mm'
+		'III and IV subequal'
+		'or IV measurably longer'
+		,
+		19
+		'ratio of width at midshaft to maximum length > or = 20%'
+		'ratio of width to length < 20%, > 15%'
+		'or slender, ratio of width to length < or = 15%'
+		,
+		20
+		'all cylindrical or wide and flat, width > or = depth'
+		'all but first wide and flat'
+		'only first and fifth wide and flat, others with depth > width'
+		'only fifth wide and flat, others with depth > width'
+		'or all but third wide and flat'
+		,
+		21
+		'metatarsals III elongate, > or = 30% of tibial length'
+		'or metatarsal III short, < 28% tibial length'
+		,
+		22
+		'straight'
+		'or curved laterally at its distal end'
+		,
+		23
+		'present'
+		' or absent'
+		,
+		24
+		'unexpanded transversely'
+		'or expanded transversely'
+		,
+		25
+		'one, dorsal only'
+		'only dorsal contact between II and III, two separate dorsal and ventral contacts between III and IV'
+		'or two separate contacts present'
+		,
+		26
+		'facet vertical, forms flat contact with lateral cuneiform'
+		'or articular facet overlaps the dorsal sufrace of metatarsal III'
+		,
+		27
+		'roughly dumbbell shape, expanded dorsally and ventrally and constricted in between '
+		'roughly triangular, narrowing ventrally'
+		'or quadrangular, without constriction'
+		,
+		28
+		'contacts cuboid only'
+		'or overlapped by lateral cuneiform, contacts both lateral cuneiform and cuboid'
+		,
+		29
+		'flat'
+		'with narrow proximodistal groove'
+		'or markedly concave'
+		,
+		30
+		'quadrangular or triangular '
+		'triangular or quadrangular with distinct indentation along dorsal margin '
+		'or irregularly shaped, extended dordomedially with strongly indented ventromedial margin.'
+		,
+		31
+		'elongated distally, straight or curved ventrally at distal end, separated from cuboid facet by groove'
+		'elongated distally, curved dorsally at distal end, separated from cuboid facet by groove'
+		'or elongate dorsoventrally, separated from cuboid facet by pit enclosed by dorsal and ventral ridges.'
+		,
+		32
+		'proximal to or at the same level as cuboid articular surface'
+		'or distal to cubois articulation'
+		,
+		33
+		'ovate, transversely compressed, width < depth'
+		'transversely compressed with width < depth, but expanded ventrally'
+		'or triangular or quadrangular, width = depth.'
+		,
+		34
+		'horizontal '
+		'or tilted proximally and medially'
+		,
+		35
+		'surfaces contiguous but distinct, oriented at different angles and separated by distinct ridge'
+		'or surfaces continuous, poorly demarcated'
+		,
+		36
+		'absent'
+		'or present'
+		,
+		37
+		'absent'
+		'or present'
+		,
+		38
+		'absent'
+		'or present'
+		,
+		39
+		'strongly concave laterally, convex medially'
+		'or nearly straight'
+		,
+		40
+		'irregular, elongated proximodistally, compressed dorsoventrally'
+		'triangular, tappered dorsoventrally at its proximal end'
+		'or quadrangular, dorsoventral depth equivalent distally and proximally'
+		,
+		41
+		'oval'
+		'triangular'
+		'or sigmoid or boomerang-shaped'
+		,
+		42
+		'middle cuneiform facet elongated dorsoventrally, larger than navicular facet'
+		'facets circular, nearly equal in size'
+		'or navicular facet elongate dorsoventrally, larger than middle cuneiform facet'
+		,
+		43
+		'contiguous'
+		'or separate'
+		,
+		44
+		'one'
+		'or two'
+		,
+		45
+		'elongated dorsoventrally [ratio of width/height < 0.9]'
+		'nearly square, width = proximodistal height [ratio of width/height > or = 0.9, < or = 1.1]'
+		'or elongated mediolaterally [ratio of width/height > or = 1.2]'
+		,
+		46
+		'ovate'
+		'quadrangular'
+		'elongated dorsoventrally with distinct indentation along the middle of medial edge'
+		'or L-shaped with ventrolateral indentation and elongate dorsoventrally (ratio of maximum dorsoventral depth to greatest width > or = 1.8).'
+		,
+		47
+		'short, occupies less than half of dorsoventral extent of lateral face of middle cuneifom '
+		'or elongated dorsoventrally, occupies > or = 75% of dorsoventral extent of lateral face of middle cuneiform'
+		,
+		48
+		'absent'
+		'or present'
+		,
+		49
+		'elongated proximodistally, ratio of width to height < or = 0.8'
+		'transverse width = proximodistal height, ratio of width to height > or = 1.0, <1.3'
+		'or widened transversely, ratio of width to height > or = 1.4.'
+		,
+		50
+		'triangular or quadrangular'
+		'butterfly-shaped, expanded transversely on dorsal and ventral ends with concave medial and lateral margins '
+		'or extended ventrally onto plantar tubercle'
+		,
+		51
+		'quadrangular or trapezoidal, with relatively straight medial and lateral edges'
+		'expanded dorsally and ventrally with sharp medial and lateral indentations'
+		'or T-shaped'
+		,
+		52
+		'distinctly separate from distal edge of bone in lateral view'
+		'or contiguous with distal edge'
+		,
+		53
+		'elongated transversely'
+		'or round'
+		,
+		54
+		'tilts proximomedially'
+		'horizontal '
+		'or tilts proximolaterally'
+		,
+		55
+		'deepest point lies at or near medial edge'
+		'or portion of distal facet that articulates with metatarsal IV with shallow medial extension, deepest part of distal cuboid facet near midline of facet'
+		,
+		56
+		'large, maximum length > 80% maximum height of cuboid'
+		'or small, maximum length < or = 70% maximum height of cuboid'
+		,
+		57
+		'facet absent'
+		'facet elongated dorsoventrally '
+		'facet elongated proximodistally'
+		'or facet round or triangular'
+		,
+		58
+		'calcaneal facet clearly larger'
+		'or astragalar facet as large or larger than calcaneal facet'
+		,
+		59
+		'facet evenly concave, astragalar head evenly convex'
+		'or facet concave ventromedially, convex dorsollaterally, astragalar head with large corresponding concavity.'
+		,
+		60
+		'concavity extends medial to convexity'
+		'or concavity restricted to ventral side of convexity'
+		,
+		61
+		'medial, middle, and lateral cuneiform facets contiguous, separated by low ridge'
+		'facets for middle and lateral cuneifrom continuous, medial cuneiform facet contiguous, separated by low ridge'
+		'facets for medial, middle, and lateral cuneiforms continuous, medial/middle cuneifrom facet partly separated from lateral cuneiform facet by narrow depression'
+		'or facet for medial, middle, and lateral cuneiform continuous, forming a y-shaped surface with facets partly separated by narrow depression'
+		,
+		62
+		'present'
+		'rudimentary'
+		'or absent'
+		,
+		63
+		'symmetrical, proximodistal depth of medial and lateral trochlea roughly equivalent [ratio of lateral to < 1.2]'
+		'moderately asymmetrical [ratio of lateral to medial depth > or = 1.2, < 1.4]'
+		'or strongly asymmetrical [ratio of lateral to medial depth > or = 1.4]'
+		,
+		64
+		'concave'
+		'or straight or convex'
+		,
+		65
+		'present'
+		'or absent'
+		,
+		66
+		'present'
+		'or absent'
+		,
+		67
+		'ectal facet distal to or even with proximal edge of trochlea'
+		'only slightly extended past proximal edge of trochlea [extension beyond trochlea < 10% of overall proximodistal length of astragalus]'
+		'ectal facet extended proximally [extension beyond trochlea > or = 10%, < 20% length of astragalus]'
+		'or greatly extended proximally [extension beyond trochlea > or = 20% length of astragalus.'
+		,
+		68
+		'< or = 60%'
+		'or > 65%'
+		,
+		69
+		'< 60%'
+		' or > or = 60%'
+		,
+		70
+		'medially situated, distance from lateral edge of head to lateral edge of body > 40% of overall width of body'
+		'distance > 35%, < or = 40%'
+		'distance > 30%, < or = 35%'
+		'distance > 25%, < or = 30%'
+		'or displaced laterally, distance from lateral edge of head to lateral edge of body < or = 25% of overall width of body'
+		,
+		71
+		'head wide, ratio of maximum transverse width to maximum dorsoventral depth > 1.25'
+		'or head almost circular, ratio of width to depth < 1.25'
+		,
+		72
+		'absent'
+		'or present'
+		,
+		73
+		'concave'
+		'or convex'
+		,
+		74
+		'very narrow, maximum length more than twice width measured perpendicular to long axis'
+		'intermediate shape, length less than twice but more than one-and-a- half times width'
+		'or broader, maximum length less than one-and-a-half times width measured perpendicular to long axis'
+		,
+		75
+		'proximodistal'
+		'or proximomedial to distolateral'
+		,
+		76
+		'separate facet centrally lacated'
+		'separate facet, displaced distally'
+		'contiguous with medial navicular and cuboid facet distally'
+		'or absent'
+		,
+		77
+		'quadrangular, width = length'
+		'ovate, elongated proximodistally'
+		'triangular, elongated proximodistally'
+		'or elongated mediolaterally'
+		,
+		78
+		'near lateral edge of astragalar neck'
+		'in midline of astragalar neck'
+		'or near medial edge of astragalar neck'
+		,
+		79
+		'narrow dorsally, extended proximally along ventral edge'
+		'depressed proximodistally along entire length '
+		'or irregular shape, not markedly depressed'
+		,
+		80
+		'absent'
+		'or present'
+		,
+		81
+		'oblique, irregularly triangular or teardrop-shaped, without strong vertical moiety distally'
+		'or crescentic or boomerang-shape, with concavity facing proximoplantarly or plantarly, or horseshoe-shaped, with concavity facing proximally'
+		,
+		82
+		'facet crescentic or boomerang-shaped, with concavity facing proximoplantarly or plantarly'
+		'or facet horseshoe-shaped, with concavity facing proximally'
+		,
+		83
+		'calcaneus elongate, > or = 45% of tibial length'
+		'calcaneus of intermediate length, > or = 30%, < 40% tibial length'
+		'or calcaneus short, < 30% of tibial length'
+		,
+		84
+		'nearly cylindrical, dorsoventral depth > or = transverse width'
+		'expanded transversely'
+		'expanded obliquely, greatest depth lies along dorsomedial to ventrolateral axis'
+		'or expanded obliquely, greatest depth lies along dorsolateral to ventromedial axis'
+		,
+		85
+		'smoothly rounded'
+		'or with sharp dorsal ridge'
+		,
+		86
+		' > or = 50% length of calcaneus'
+		'or < 50% length of calcaneus'
+		,
+		87
+		'vertical or slanted somewhat anteriorly toward planter surface of calcaneus'
+		'or enlarged along planter surface of calcaneus, extends foward more than half calcaneal length.'
+		,
+		88
+		'distal and medial '
+		'or directly distal '
+		,
+		89
+		'Situated directly medial to ectal and fibular facets'
+		'elongated distally, distal portion extends distal to ectal and fibular facets, reaching distal edge of sustentacular flange'
+		'or situated well distal to ectal and fibular facets, contacting distal margin of calcaneus.'
+		,
+		90
+		'astragalar facet extends further proximally'
+		'proximal extent of two facets nearly equal'
+		'or fibular facet extends further proximally'
+		,
+		91
+		'proximal to cuboid facet '
+		'or even with or distal to cuboid facet'
+		,
+		92
+		'transverse width = dorsoventral depth'
+		'or elongated transversely'
+		,
+		93
+		'absent'
+		'present as small knob'
+		'present as low, proximodistally elongated ridge'
+		'or present as laterally or proximally and laterally elongated flange'
+		,
+		94
+		'compressed anteroposteriorly '
+		'cylindrical'
+		'cylindrical distally, compressed mediolaterally in its proximal portion '
+		'or compressed mediolaterally'
+		,
+		95
+		'absent'
+		'or present'
+		,
+		96
+		'medial '
+		'or anteromedial'
+		,
+		97
+		'triangular'
+		'or elongated anteroposteriorly'
+		,
+		98
+		'nearly equal'
+		'or astragalar facet extends further proximally'
+		,
+		99
+		'extended ventrally'
+		'or ventral extension absent'
+		,
+		100
+		'Small, simple posterior process immediately distal to proximal tibial facet'
+		'posterior process immediately distal to proximal tibial facet, process marked by elongated groove(s) bounded by lateral ridges'
+		'posterior process immediately distal to proximal tibial facet, marked by short groove bounded by lateral ridges'
+		'posterior process well separated from proximal tibial facet, process marked by short groove bounded by lateral ridges'
+		'posterior process well separated from proximal tibial facet, unmarked by posterior groves'
+		'or posterior process absent'
+		,
+		101
+		'narrow proximodistally'
+		'or elongate longitudinally'
+		,
+		102
+		'absent'
+		'present, extends anterior to tibial facet'
+		'or present, coincident with tibial facet'
+		,
+		103
+		'sharp, raised, deeply excavated laterally'
+		'moderately developed with weak proximal lateral excavation '
+		'or weak, rounded, lacking lateral excavation '
+		,
+		104
+		'anterior distal process elongated, narrow, anterior lateral distal process absent'
+		'anterior distal process present but shallow, wide, anterior lateral process absent or rudimentary '
+		'strongly reduced anterior distal process, anterior lateral distal process well developed'
+		'or both processes absent'
+		,
+		105
+		'absent'
+		'or present'
+		,
+		106
+		'groove on posterior tibial surface lateral to medial malleolus'
+		'single groove on posterior edge of medial malleolus'
+		'or two grooves, with separate posterior groove for m. tibialis posterior on posterior edge of medial malleolus, and anterior groove delimited by distinct anterior and posterior ridges for m. flexor tibialis on medial surface of medial malleolus'
+		,
+		107
+		'distal extent of two processes nearly equal '
+		'or posterior process extends further distally'
+		,
+		108
+		'Shallow'
+		'or deep, closed over by soft tissue to form tunnel'
+		,
+		109
+		'distal tibial facets rotated clockwise (on L tibia, counterclockwise on R) approximately 45Â° relative to proximal articulation '
+		'moderate tibial torsion, distal facets rotated 15-30Â° '
+		'or little tibial torsion, distal facets rotated 0-5Â°'
+		,
+		110
+		'medial facet depth > lateral facet'
+		'facets of approximately equal depth'
+		'or lateral facet depth > medial facet'
+		,
+		111
+		'absent'
+		'or present'
+		,
+		112
+		'not visible in distal view'
+		'or visible'
+		,
+		113
+		'ratio of width to depth < 1.5'
+		'ratio of width to depth > or = 1.5, < 2'
+		'or distal tibia compressed, ratio of width to depth > or = 2'
+		,
+		114
+		'medial condyles larger than lateral condyle'
+		'subequal'
+		'or lateral condyle larger than medial condyle'
+		,
+		115
+		'elongated transversely '
+		'transverse width and anterposterior depth roughly equivalent'
+		'or elongated anteroposteriorly'
+		,
+		116
+		'concavo-convex'
+		'concave'
+		'convex'
+		'or flat'
+		,
+		117
+		'absent'
+		'or present'
+		,
+		118
+		'not visible in anterior view'
+		'or visible'
+		,
+		119
+		'absent'
+		'or present'
+		,
+		120
+		'rugose '
+		'or with fine longitudinal striations '
+		,
+		121
+		'distinct medial and lateral facets separated by a sharp ridge'
+		'or medial and lateral facets confluent'
+		,
+		122
+		'convex transversely'
+		'or nearly flat'
+		,
+		123
+		'slender, minimum width < 11% of maximum length'
+		'or broadened transversely, minimum width > 13% maximum length'
+		,
+		124
+		'< 130Â°'
+		'130 - 135Â°'
+		'or > 135Â°'
+		,
+		125
+		'anteroposterior depth > transverse width '
+		'L-shaped, slongated both anteroposteriorly and transversely'
+		'or anteroposterior depth < or = transverse width'
+		,
+		126
+		'directed toward greater trochanter, medial edge inclined proximally and laterally'
+		'or directed toward head, medial edge inclined proximally and medially'
+		,
+		127
+		'concave'
+		'or flat'
+		,
+		128
+		'< 50% of maximum length of femur'
+		'> or =50, < 60% of maximum length'
+		' > or = 60, < 70% of maximum length'
+		' > or = 70% of maximum length'
+		,
+		129
+		'lesser trochanter close to head, distance < 25% maximum length of femur '
+		'or lesser trochanter further separated from head, distance > or = 25% maximum length'
+		,
+		130
+		'directed posteriorly, visible posterior to head in proximal view'
+		'directed posteromedially, partially obscured by head but visible posteriorly in proximal view'
+		'or directed medially, largely obscured by head but visible medially in proximal view'
+		,
+		131
+		'present'
+		'or absent'
+		,
+		132
+		'well developed'
+		'rudimentary or absent'
+		'or trochanteric fossa large but intertrochanteric ridge rudimentary or absent'
+		,
+		133
+		'width almost equal to depth, ratio = 1'
+		'width greater than depth, ratio 1.20 - 1.29'
+		'or width greatly exceed depth, ratio > or = 1.30'
+		,
+		134
+		'almost equal, ratio of medial depth to lateral < 1.20'
+		'or medial condyle deeper, ratio > or = 1.20'
+		,
+		135
+		'medial condyle wider, ratio of medial to lateral > or = 1.20'
+		'or almost equal, ratio > 0.9, < 1.20'
+		,
+		136
+		'unfused'
+		'or fused'
+		,
+		137
+		'ends anterior to acetabulum'
+		'extends to midpoint of acetabulum'
+		'or extends past midpoint of acetabulum, sacral vertebrae contact anterior ischium'
+		,
+		138
+		'2, both attached to ilium'
+		'3, 2 attached to ilium'
+		'3, all attached to ilium'
+		'4, 3 attached to ilium'
+		'or 4, 2 attached to illium '
+		,
+		139
+		'unfused'
+		'neural spines of two or more sacral vertebrae fused, but metapophyses unfused'
+		'metapophyses of two or more sacral vertebrae fused, but neural spines unfused'
+		'or metapophyses and neural spines fused'
+		,
+		140
+		'face dorsally, well separated laterally from base of metapophyses'
+		'or face dorsolaterally, situated immediately underneath metapophyses'
+		,
+		141
+		'absent'
+		'or present'
+		,
+		142
+		'wing-like, expanded anteroposteriorly but thin dorsoventrally'
+		'unexpanded, rod-like'
+		'or expanded anteroposteriorly and thick dorsoventrally'
+		,
+		143
+		'does not extend lateral to body of ischium or acetabulum'
+		'or extends lateral to ischium'
+		,
+		144
+		'short, less than half neural spine height'
+		'or elongated, >2/3 neural spine height'
+		,
+		145
+		'< or = 10Â°'
+		'> 20Â°'
+		'or > 35Â°'
+		,
+		146
+		'large, with prominent lateral iliac crest, medial dorsal flange of ilium and caudal dorsal iliac spine'
+		'weak, iliac crest rounded but still well developed, small dorsal iliac spine'
+		'poorly demarcated, iliac crest rounded, weak dorsal flange absent, caudal dorsal iliac spine incorporated in sacroiliac junction'
+		'or poorly demarcated, iliac crest rudimentary but small dorsal flange and caudal dorsal spine present'
+		,
+		147
+		'on acetabular eminence, directly dorsal to iliopubic eminence'
+		'on lateral iliac crest, anterior to acetabular and iliopubic eminence'
+		'or absent'
+		,
+		148
+		'U-shaped, broadly open '
+		'or C-shaped, nearly a closed loop'
+		,
+		149
+		'fossa opens ventrally '
+		'postventrally'
+		'or posteriorly'
+		,
+		150
+		'large maximum diameter of acetabulum < 75% that of obturator foramen'
+		'or small, maximum diameter of acetabulum > or = 75% that of obturator foramen'
+		,
+		151
+		'not flared laterally, or only weakly so'
+		'or flared laterally'
+		,
+		152
+		'small'
+		'or prominent'
+		,
+		153
+		'separated anteriorly from ischial tuberosity, dorsal to anterior portion of obturator foramen'
+		'or close to ischial tuberosity, dorsal to posterior portion of obturator foramen'
+		,
+		154
+		'at same level as transverse processes of sacral and anterior caudal vertebrae'
+		'or ventral to transverse processed of sacral and anterior caudal vertebrae'
+		,
+		155
+		'rod-like, elongated, attached to ilium under anterior edge of acetabulum '
+		'slightly compressed mediolaterally, attached to ilium beneath midpoint of acetabulum'
+		'short, flat, attached to ilium under posterior edge of acetabulum '
+		'or elongated, flat, attached to ilium under anterior edge of acetabulum'
+		,
+		156
+		'forms narrow V'
+		'or forms broad U'
+		,
+		157
+		'11'
+		'12'
+		'13'
+		'14'
+		'15'
+		'or 16'
+		,
+		158
+		'7'
+		'6'
+		'or 5'
+		,
+		159
+		'more than 30'
+		'20 - 30'
+		'or less than 15'
+		,
+		160
+		'T9'
+		'T10'
+		'T11 and T12'
+		'T12'
+		'T12 and T13'
+		'or T13'
+		,
+		161
+		'rodlike, reduced in lateral and anteroposterior extent'
+		'reduced in anteroposterior extent versus that of penultimate lumbar'
+		'reduced in lateral extent versus that of penultimate lumbar'
+		'or unreduced'
+		,
+		162
+		'dirceted anterolaterally'
+		'directed laterally'
+		'or directed posterolaterally'
+		,
+		163
+		'ventrolateral to dorsal edge of centrum, spinal nerves form grooves on posterodorsolateral surface of centrum'
+		'or pedicels attach to dorsal edge of centrum, spinal nerve foramina dorsal to centrum '
+		,
+		164
+		'short anteroposteriorly, length < or = 1.5 times maximum depth '
+		'or elongated anteroposteriorly, length > 1.5 times maximum depth '
+		,
+		165
+		'elongated dorsoventrally, height > 1.5 times anteroposterior length'
+		'low, height 1.0 - 1.5 times anteroposterior length '
+		'or elongated anterposteriorly, height < 0.7 times anteroposterior length'
+		,
+		166
+		'flat or slightly concave'
+		'or embracing'
+		,
+		167
+		'elongated, much longer than in more posterior thoracics'
+		'or not dramatically elongated'
+		,
+		168
+		'T10'
+		'T11'
+		'T12'
+		'T13'
+		'or T14'
+		,
+		169
+		'T10'
+		'T11'
+		'T12'
+		'T13'
+		'T14'
+		'or T15'
+		,
+		170
+		'flat'
+		'or anterior concave, posterior convex'
+		,
+		171
+		'absent '
+		'or present'
+		,
+		172
+		'C3 > C4 > C5 < C6 < C7'
+		'or C3 < or = C4 < or = C5 < C6 < C7'
+		,
+		173
+		'vertical '
+		'weakly inclined posteriorly'
+		'or strongly inclined posteriorly'
+		,
+		174
+		'vertical'
+		'or inclined posteriorly'
+		,
+		175
+		'rectangular'
+		'or flared distally'
+		,
+		176
+		'straight'
+		'concave'
+		'or irregular'
+		,
+		177
+		'absent, posterior surface of neural spine with two oval concavities for attachment of nuchal ligament'
+		'deep, blunt extension over anterior portion of C3'
+		'or elongated, narrow extension to midpoint of C3 or beyond'
+		,
+		178
+		'absent'
+		'present but small, little overlap of posterior edge of atlas'
+		'present, strongly overlaps posterior portion of atlas with surface for ligamentous attachment to arch of atlas'
+		'or present, elongated and narrow with diamond-shaped anterior expansion for ligamentous attachmetn to arch of atlas'
+		,
+		179
+		'flat or convex'
+		'or with longitudinal concavity'
+		,
+		180
+		'with midline crest or eminence and lateral excavations '
+		'or surface relatively smooth, eminence and crest rudimentary or absent'
+		,
+		181
+		'> or = 1.0'
+		'or < 0.85'
+		,
+		182
+		'flat or convex transversely'
+		'convex medially, concave laterally'
+		'or concave transversely'
+		,
+		183
+		'elongated transversely, ratio of width to maximum dorsoventral depth > 1.30'
+		'or ratio of width to depth < 1.25'
+		,
+		184
+		'contiguous'
+		'separate'
+		,
+		185
+		'not visibel, obscured by anterior articular surface'
+		'or visible'
+		,
+		186
+		'broad dorsoventrally'
+		'or shallow dorsoventrally'
+		,
+		187
+		'open'
+		'or closed by contact between anteromedial edge of transverse process and arch of atlas'
+		,
+		188
+		'absent'
+		'or present'
+		,
+		189
+		'narrow transversely, ratio < 1.0'
+		'ratio 1.5 - 2.0'
+		'or widened transversely, ratio > 2.0'
+		,
+		190
+		'widely separate, distance between medial edge of two facets > or = 40% of maximum width of atlas'
+		'or narrowly separated, distance between medial edge of two facets < 40% of maximum width of atlas'
+		,
+		191
+		'ventral surface of sternum flat, sternal ribs articulate with lateral surface of sternebrae '
+		'or ventral surface of sternebrae with large, anteroventral processes, sternal ribs overlap posteroventral surface of sternebrae, contact or nearly contact one another in midline'
+		,
+		192
+		'cylindrical '
+		'or flattened dorsoventrally'
+		,
+		193
+		'short'
+		'elongated'
+		'or elongated and bifurcate'
+		,
+		194
+		'shrot, length much less than issified portion of xiphisternum, shovel shaped at distal end '
+		'elongated, length much greater than ossified portion of xiphisternum, shovel shaped at distal end with central perforation '
+		'or greatly elongated, extending posteriorly to pelvis, then curling dorsally toward vertebral column at its distal end'
+		'New state'
+		,
+		195
+		'6'
+		'7'
+		'8'
+		'or 9'
+		,
+		196
+		'shaft expanded mediolaterally'
+		'or unexpanded, or only slightly expanded at distal end'
+		,
+		197
+		'present'
+		'or absent'
+		,
+		198
+		'elongated acromion process present'
+		'or acromion rudimentary'
+		,
+		199
+		'blunt, without any indication of bifurcation '
+		'weakly bifurcated'
+		'or strongly bifurcated with well developed metacromion process'
+		,
+		200
+		'present, robust'
+		'rudimentary'
+		'or absent'
+		,
+		201
+		'close, distance < 15% of maximum length of scapula [measured from ventral edge of glenoid to dorsal edge of scapula]'
+		'distance > or = 15%, < 20%'
+		'distance > or = 25%, < 35%'
+		'or widely separated, distance > or = 55% of maximum length of scapula'
+		,
+		202
+		'sharp crest'
+		'rounded crest'
+		'or absent or rudimentary'
+		,
+		203
+		'present'
+		'or absent'
+		,
+		204
+		'elongated, height roughly equivalent to mediolateral width of glenoid '
+		'or reduced in height, < 85% of mediolateral width of glenoid '
+		,
+		205
+		'oriented proximodistally, or somewhat distolateral '
+		'or oriented distomedially'
+		,
+		206
+		'canted medially at its distal end'
+		'extends straight down shaft'
+		'or canted laterally at its distal end'
+		,
+		207
+		'extends > 75% of length of the humerus'
+		'extends > 65, < or = 75% of the length of the humerus'
+		'extends > 55, < or = 65% of the length of the humerus'
+		'or extends < or = 55% of the length of the humerus'
+		,
+		208
+		'present'
+		'or absent'
+		,
+		209
+		'present'
+		'or groove shallow or absent altogether'
+		,
+		210
+		'present'
+		'or absent'
+		,
+		211
+		'absent'
+		'or present'
+		,
+		212
+		'relatively narrow, < 40% of length of humerus '
+		'intermediate width, 40 - 50% of length of humerus'
+		'or wide > 50% of length of humerus'
+		,
+		213
+		'short, > 30% of epicondylar width of humerus '
+		'intermediate length, 30 - 40% of epicondylar width of humerus '
+		'or elongated, > 40% of epicondylar width of humerus'
+		,
+		214
+		'visible in anterior view'
+		'or visible in posterior view'
+		,
+		215
+		'absent'
+		'weak'
+		'or present'
+		,
+		216
+		'greatly enlarged, with free-standing proximal extension reaching to middle region of humeral shaft'
+		'well-develpoed but lacking free-standing proximal extension, extends proximal to proximal openign of entepicondylar foramen and extends far lateral to humeral shaft'
+		'moderately developed, extends proximal to proximal opening of entepicondylar foramen but weakly flared laterally'
+		'or reduced, ends at level of proximal opening of entepicondylar foramen'
+		,
+		217
+		'flared laterally at its distal end, with well-developed anterior concavity'
+		'or extends nearly straight distally, anterior concavity poorly marked or absent'
+		,
+		218
+		'flat'
+		'or concave'
+		,
+		219
+		'straight or slightly concave'
+		'or convex'
+		,
+		220
+		'present'
+		'or absent'
+		,
+		221
+		'extends over lateral half of trochlea'
+		'or situated directly above capitulum, does not extend medially over trochlea'
+		,
+		222
+		'large, wider transversely than trochlea in posterior view'
+		'or small, narrower transversely than trochlea'
+		,
+		223
+		'greater tubercle extends proximal to lesser'
+		'or proximal extent of greater and lesser tubercle roughly equivalent '
+		,
+		224
+		'extends anterolaterally, overlaps head in anterior view'
+		'or does not extend anterolaterally, remains medial to head in anterior view'
+		,
+		225
+		'present'
+		'or absent'
+		,
+		226
+		'divergent from head posterolaterally '
+		'or approximately parallel to lateral surface of head'
+		,
+		227
+		'short, < 20% of maximum ulnar length '
+		'intermediate length, 20 - 30% of maximum ulnar length'
+		'or elongated, > 30% of overall ulnar length'
+		,
+		228
+		'absent'
+		'or present'
+		,
+		229
+		'absent'
+		'present'
+		,
+		230
+		'wide , > or = 20% of maximum ulnar length '
+		'intermediate, > or = 15%, < 20% of maximum ulnar length'
+		'or narrow, < or = 10% of maximum ulnar length'
+		,
+		231
+		'narrow, < 10% of maximum ulnar length'
+		'10 - 15% of maximum ulnar length'
+		'or wide, > 15% of maximum ulnar length'
+		,
+		232
+		'close, < or = 10% of maximum ulnar length '
+		'or biceps tubercle displaced distally, distance > 10% of maximum ulnar length'
+		,
+		233
+		'anconeal process extends further anteriorly'
+		'coronoid process extends further anterior '
+		'or equal in anterior extent'
+		,
+		234
+		'sharp'
+		'or rounded, poorly marked'
+		,
+		235
+		'well marked'
+		'weakly present'
+		'or absent'
+		,
+		236
+		'deep, > or = 10% of maximum ulnar length'
+		'or narrow, < 10% of maximum ulnar length'
+		,
+		237
+		'maximum transverse width > or = anteroposterior depth'
+		'or compressed mediolaterally, width < depth'
+		,
+		238
+		'< or = 90%'
+		'> 90, < or = 100%'
+		'> 100, < or = 120%'
+		'or > 120%'
+		,
+		239
+		'< 75%'
+		'> 75, < or = 85%'
+		'or > 95%'
+		,
+		240
+		'< 15% of maximum radial length'
+		' > or = 15, < 20% of maximum radial length'
+		'> or = 20, < 25% of maximum radial length'
+		'or > or = 25% of maximum radial length'
+		,
+		241
+		'absent'
+		'present, weakly developed'
+		'srtong, angular process'
+		'or present as a well-developed tubercle'
+		,
+		242
+		'large, > or =  1/3 the overall width of the head'
+		'or small, <  1/3 the overall width of the head '
+		,
+		243
+		'contiguous'
+		'or separate'
+		,
+		244
+		'absent'
+		'small. not visible in proximal view'
+		'or large, visible in proximal view'
+		,
+		245
+		'concave medially with flat lateral portion '
+		'or evenly concave'
+		,
+		246
+		'styloid process rudimentary, pseudostyloid process prominent, dorsal tuberosity weak'
+		'styloid process, pseudostyloid process and dorsal tuberosity all prominent'
+		'styloid process and dorsal tuberosity prominent, pseudostyloid process rudimentary or absent'
+		'dorsal tuberosity prominent, much larger than styloid process, pseudostyloid process weakly developed'
+		'dorsal tuberosity prominent, styloid process and pseudostyloid process weakly developed'
+		'or styloid process prominent, pseudostyloid process and dorsal tuberosity weakly developed or absent'
+		,
+		247
+		'distal'
+		'or disolateral'
+		,
+		248
+		'long axis transverse '
+		'long axis runs dorsomedial to ventrolateral'
+		'or long axis runs dorsoventral, or nearly so'
+		,
+		249
+		'absent'
+		'or present'
+		,
+		250
+		'present'
+		'absent'
+		,
+		251
+		'palmar tuberosity narrow, depth < 30% of maximum width of scapholunar'
+		'or palmar tuberosity deep, depth > 35% of maximum width of scapholunar '
+		,
+		252
+		'nearly straight'
+		'or strongly indented, concave in palmar direction '
+		,
+		253
+		'absent'
+		'or present'
+		,
+		254
+		'capitular divided from trapezoid facets by sharp ridge'
+		'or trapezoid and capitular facets continuous'
+		,
+		255
+		'compressed dorsoventrally, transverse width much greater than dorsoventral depth'
+		'or width < or = depth '
+		,
+		256
+		'facets separate'
+		'or facets contiguous'
+		,
+		257
+		'convex'
+		'concave'
+		'or complex, concavo-convex'
+		,
+		258
+		'restricted to medial portion of proximal surface'
+		'or covers entire proximal surface of bone'
+		,
+		259
+		'concave'
+		'or convex'
+		,
+		260
+		'facet tilted to face proximally and laterally'
+		'faet horizontal'
+		'or tilted to face proximally and medially'
+		,
+		261
+		'distally and medially'
+		'medially'
+		'or proximally and medially'
+		,
+		262
+		'narrow, width 50% of maximum dorsoventral depth of capitate'
+		' > or = 50%, < 60%'
+		' > or = 60%, < 70%'
+		' > or = 70%. < 80%'
+		'or very wide, > or = 85%'
+		,
+		263
+		'ovate or rectangular, without lateral indentation'
+		'roughly triangular, with slight lateral indentation'
+		'or L-shaped, with abrupt, step-like lateral indentation between dorsal portion of facet and its palmar extension'
+		,
+		264
+		'trapezoid overlaps capitate faces proximally amd medially'
+		'capitate overlaps trapezoid proximally, trapezoid facet of capitate faces distallu and medially'
+		'or capitate and trapezoid abut along a vertical surface'
+		,
+		265
+		'dumbell shape, with indentations along the medial and lateral margins'
+		'roughly triangular, narrower ventrally than dorsally '
+		'bilobate, with an indentation along the medial margin only'
+		'or rectangular'
+		,
+		266
+		'near dorsal edge of bone, dorsal to dorsoventral midline'
+		'or displaced ventrally, lies at or ventral to dorsoventral midline'
+		,
+		267
+		'absent'
+		'directed distally and ventrally'
+		'or directed distally and ventrally at its base, with a distinct proximal and ventral extension '
+		,
+		268
+		'narrow proximodistally, proximodistal length < transverse width'
+		'or narrow transversely, length > or = width'
+		,
+		269
+		'narrow transversely (width < dorsoventral depth) '
+		'or wide transversely'
+		,
+		270
+		'III elongated, = 30% of humerus length'
+		'or short, < 25% of humerus length'
+		,
+		271
+		'V'
+		'or I'
+		,
+		272
+		'IV'
+		'or III'
+		,
+		273
+		'II < IV'
+		'II = IV'
+		'or II > IV'
+		,
+		274
+		'narrow transversely, minimum width < 20% of maximum length'
+		'minimum width > or = 20, < 30% of maximum length'
+		'minimum width > or = 30, < 45% of maximum length'
+		'or expanded transversely, minimum  width > or = 45% of maximum length'
+		,
+		275
+		'roughly cylindrical, width "‰¥ depth '
+		'dorsoventrally elliptical, depth > width'
+		'or depth > width on all but metacarpal III, in which width "‰¥ depth'
+		,
+		276
+		'distal condyles and keels of metacarpals convex, joint mobile '
+		'all but metacarpal III with mobiel joints, metacarpal III nearly vertical keel and ventral stop, joint immobile'
+		'or joint surface flat or concavoconvex on metacarpals I-IV, joints immoblie'
+		,
+		277
+		'with elongated cylindrical shaft, may be slightly expanded proximally and distally'
+		'dumb-bell shaped, with broadly expanded proximal and distal ends joined by short shaft'
+		'or expanded distally only, with shaft narrowing towards proximal end'
+		,
+		278
+		'triangular, transverse width = dorsoventral depth'
+		'or compressed transversely'
+		,
+		279
+		'present'
+		'or absent'
+		,
+		280
+		'absent'
+		'or present'
+		,
+		281
+		'restriced to dorsal half of medial surface'
+		'or extends almost to ventral extremity of medial surface '
+		,
+		282
+		'articular surfaces curved, concave on metacarpal II, convex on metacarpal III'
+		'articular surfaces flat'
+		'or facet convex on metacarpal II, concave on metacarpal III'
+		,
+		283
+		'palmar tuberosity well developed, little overlap of capitular facet on shaft'
+		'or facet overlaps shaft proximally, palamr tuberosity weakly developed'
+		,
+		284
+		'evenly convex'
+		'or sigmoid, extended to form dorsal shelf'
+		,
+		285
+		'smoothly convex'
+		'or with sharp midline crest terminating in prominent tubercle proximally'
+		,
+		286
+		'present'
+		'absent'
+		,
+		287
+		'elongated dorsoventrally '
+		'or restricted to dorsal half of proximomedial surface'
+		,
+		288
+		'present on metacarpals III and IV'
+		'present on metacarpals II and III'
+		'or absent'
+		,
+		289
+		'absent'
+		'T-shaped proximal end, extensions present medially and laterally '
+		'or extensions present laterally but not medially '
+		,
+		290
+		'evenly convex transversely and anteroposteriorly '
+		'mostly convex but'
+		'State 2'
+		,
+		291
+		'rectangular, long axis oriented dorsoventrally '
+		'triangular with base facing dorsally '
+		'or semicircular with flat edge facing dorsally'
+		,
+		292
+		'flat dorsoventrally '
+		'or convex dorsoventrally'
+		,
+		293
+		'concave dorsoventrally '
+		'or convex dorsoventrally'
+		,
+		294
+		'ovate, proximodistal depth > and = dorsoventral depth '
+		'ovate, compresseed proximodistally '
+		'or triangular, tapers ventrally '
+		,
+		295
+		'lateral tubercle of metacarpal V at or below the level of proximal articular surface on metacarpal IV, articulation on metacarpal V for hamate fairly level'
+		'or metacarpal V forms peg-and-socket articulation with hamate, lateral tubercle of metacarpal V lies proximal to articular surface on metacarpal IV'
+		,
+		296
+		'width > and = depth, shaft cylindrical or even slightly compressed dorsoventrally '
+		'or compressed mediolaterally, width < depth '
+		,
+		297
+		'present'
+		'absent'
+		,
+		298
+		'nearly equivalent, ratio of IP/PP length < 1.2 on all digits'
+		'proximal ohalanx shorter on digits II and III'
+		'proximal phalanges shortened on digits III-V'
+		'or all proximal phalanges shortened'
+		,
+		299
+		'II > IV'
+		'II = IV'
+		'or II < IV'
+		,
+		300
+		'with paired distal condyles separate '
+		'or with paired distal condyles joined at their dorsoventral midpoint by a transverse eminence'
+		,
+		301
+		'visible in dorsal view, dorsal midline process does not extend as far proximally as basal tubera'
+		'not visible dorsally, dorsal midline process elongated proximally '
+		'or not visible dorsally, but dorsal midline process relatively short'
+		,
+		302
+		'roughly equal to UP V'
+		'reduced, smaller than UP V'
+		'or greatly reduced, < 1/2 the length of UP V'
+		,
+		303
+		'not enlarged at all or only slightly enlarged relative to next largest ungual '
+		'or greatly enlarged, length > 1.3 times that of next longest ungual '
+		,
+		304
+		'toes short, < 70% tibial length '
+		'toes intermediate length, 70 - 85% of tibial length '
+		'or toes elongate, > 90% tibial length '
+		,
+		305
+		'toes short, < 60% humeral length '
+		'toes intermediate length, 70-80% of humeral length '
+		'or toes elongate, > 80% humeral length'
+		,
+		306
+		'wtih shallow notch '
+		'with deep notch forming elongated medial and lateral processes, with deep fossa on lateral process'
+		'or deeply concave, wtih elongated lateral process but medial process rudimentary or absent'
+		,
+		307
+		'less than or equal to'
+		'or greater then one-third skull length '
+		,
+		308
+		'subparallel'
+		'or convergent anterior to maxillofrontal junction '
+		,
+		309
+		'C-shaped, broad anteroposteriorly with distinct anteroventral and anterodorsal processes'
+		'or inclined posterodorsally'
+		,
+		310
+		'within premaxilla'
+		'or between premaxilla and maxilla'
+		,
+		311
+		'small or absent, if present extendign posteriorly between for a distance less than or equal to the maximum diameter of the incisive foramen '
+		'or elongate, extends posteriorly for a distance clearly greater than the maximum diameter of the incisive foramen '
+		,
+		312
+		'absent'
+		'or present'
+		,
+		313
+		'absent'
+		'or present'
+		,
+		314
+		'absent '
+		'or present'
+		,
+		315
+		'absent'
+		'or present'
+		,
+		316
+		'multiple within palatine and maxilla '
+		'double within palatine (or posterior within palatine, anterior between palatine and maxilla)'
+		'single within maxilla'
+		'double within maxilla'
+		'or single large foramen within palatine, at times with smaller accessory foramina in palatine'
+		,
+		317
+		'absent'
+		'lies posterior to'
+		'or medial to zygomatic process of maxilla'
+		,
+		318
+		'subparallel, widely separated by preshpenoid and/or vomer'
+		'or converging anteriorly, nearly contacting '
+		,
+		319
+		'both present'
+		'bone present, foramen absent '
+		'or both absent'
+		,
+		320
+		'absent'
+		'or present'
+		,
+		321
+		'within frontal'
+		'or between frontal and orbitosphenoid'
+		,
+		322
+		'absent'
+		'narrow, alisphenoid approximates frontal'
+		'or broad'
+		,
+		323
+		'absent'
+		'Sor present'
+		,
+		324
+		'separate'
+		'or confluent, opening into same fossa'
+		,
+		325
+		'absent'
+		'or present'
+		,
+		326
+		'within alisphenoid '
+		'or between alisphenoid and squamosal'
+		,
+		327
+		'absent'
+		'or present'
+		,
+		328
+		'distal tip anterior to auditory tube'
+		'distal tip extends to levelof fenestra vestibuli'
+		'distal tip extends to level of anterior rim of jugular foramen'
+		,
+		329
+		'widely separated'
+		'or closely approximated or in contact'
+		,
+		330
+		'present'
+		'or absent'
+		,
+		331
+		'present'
+		'or absent'
+		,
+		332
+		'transpromontorial '
+		'on the ventormedial edge of petrosal, lateral to entotympanic if present '
+		'or within or medial to entotympanic'
+		,
+		333
+		'anteromedial'
+		'or medial'
+		,
+		334
+		'prominent, globose'
+		'or weakly developed, flat'
+		,
+		335
+		'open sulcus, crista parotica weak'
+		'open sulcus, crista parotica prominent'
+		'or closed canal'
+		,
+		336
+		'absent'
+		'present'
+		,
+		337
+		'well separated from fenestra vestibuli, facing posteriorly and slightly laterally'
+		'or immediately next to fenestra vestibuli, facing laterally and slightly posteriorly '
+		,
+		338
+		'open posteroventrally'
+		'or shielded posteroventrally by flange on petrosal'
+		,
+		339
+		'in lateral wall, facing medially'
+		'State 1in posterior wall, facing anteriorly '
+		'or in medial wall, facing laterally'
+		,
+		340
+		'absent or forming small part of lateral wall'
+		'or extensive, forming much of roof'
+		,
+		341
+		'concave'
+		'convex'
+		,
+		342
+		'maller head unrotated, incudal facet facing caudally and laterally'
+		'mallear head unrotated, incudal facet facing caudally and medially '
+		'or head rotated dorsad 90Â°, incudal facet facing dorsally, caudally and medially'
+		,
+		343
+		'body gracile, may or may not be rectangular, crura elongated'
+		'body stout and rectanular, crura short'
+		'or body gracile with extreme elongation of crus longum, reduction of crus breve'
+		,
+		344
+		'elongated, height nearly equal to or exceeding greatest width of footplate'
+		'or short, height much less than greatest width of footplate'
+		,
+		345
+		'broad, squamosal well separated from lateral rim of jugular foramen '
+		'or narrow, squamosal approximates lateral rim of jugular foramen'
+		,
+		346
+		'underlies presphenoid in posterior nasopharynx, visible through choanae'
+		'or restricted to anterior nasal cavity, not visible from choanae'
+		,
+		347
+		'absent'
+		'or present '
+		,
+		348
+		'absent or weak, does not reach level of promontorium'
+		'moderate, even with promontorium'
+		'or prominent, ventral to promontorium'
+		,
+		349
+		'present'
+		'or absent'
+		,
+		350
+		'circular'
+		'or oval transversely'
+		,
+		351
+		'subtends an angle greater then 90Â°'
+		'or less than or equal to 90Â°'
+		,
+		352
+		'strongly developed '
+		'or rudimentary to absent'
+		,
+		353
+		'absent'
+		'weak, not clearly demarcated on external surface'
+		'or strong, with distinct lateral bulge on external surface'
+		,
+		354
+		'widely separated from'
+		'or approximating base of zygomatic process'
+		,
+		355
+		'laterally directed '
+		'ventrally directed, elongated '
+		'or ventrally directed, short'
+		,
+		356
+		'concave anteroposteriorly '
+		'convex anteroposteriorly '
+		'or flat anteroposteriorly'
+		,
+		357
+		'on posterior aspect of zygomatic process'
+		'on lateral aspect of zygomatic process'
+		'posterior to zygomatic process'
+		'or absent'
+		,
+		358
+		'present'
+		'or absent'
+		,
+		359
+		'present'
+		'or absent'
+		,
+		360
+		'present'
+		'or rudimentary to absent'
+		,
+		361
+		'absent'
+		'present but weak, developed only inferiorly on petrosal '
+		'or present, strongly developed, extends to roof of cranial cavity'
+		,
+		362
+		'present'
+		'or absent'
+		,
+		363
+		'formed by sphenoid '
+		'or formed by squamosal '
+		,
+		364
+		'long, extends well posterior to level of anterior mental foramen'
+		'or short, ends at or near level of anterior mental foramen'
+		,
+		365
+		'with anterior convexity '
+		'straight profile'
+		'or with anterior concavity '
+		,
+		366
+		'absent'
+		'incipiently developed as dorsolaterally extended folds of dorsal symphyseal margin'
+		'or well-developed, tooth-like conical prongs'
+		,
+		367
+		'absent'
+		'or present'
+		,
+		368
+		'absent'
+		'or present'
+		,
+		369
+		'mediolaterally elongate'
+		'circular'
+		'or anteropposteriorly elongated'
+		,
+		370
+		'dorsal to '
+		'or at the level of the mandibular symphysis'
+		,
+		371
+		'present, well developed'
+		'present but strongly reduced in size'
+		'or absent'
+		,
+		372
+		'present'
+		'or absent'
+		,
+		373
+		'maxillonasal suture longer '
+		'or premaxillonasal suture longer'
+		,
+		374
+		'foramen situated toward back of maxilla, distance from maxillopalatine suture to infraorbital foramen < 20% of the distance from maxillopalatine suture to maxillary/premaxillary suture '
+		'foramen displaced anteriorly, distance from maxillopalatine suture to infraorbital foramen > or = 20%, 30% of the distance from maxillopalatine suture to maxillary/premaxillary suture'
+		'or foramen near midpoint of maxilla, distance from maxillopalatine suture to infraorbital foramen > or = 30% of the distance from maxillopalatine suture to maxillary/premaxillary suture'
+		,
+		375
+		'posterior to maxillary foramen'
+		'at or slightly anterior to maxillary foramen'
+		'or well anterior to maxillary foramen '
+		,
+		376
+		'absent'
+		'or present'
+		,
+		377
+		'small, diameter < 2% greatest skull length'
+		'or large, diameter > 3%'
+		,
+		378
+		'posterior to'
+		'approximately level with '
+		'or anterior to suture'
+		,
+		379
+		'anterior to anterior edge of ectotympanic '
+		'or at level of anterior edge of ectotympanic'
+		,
+		380
+		'present'
+		'or absent'
+		,
+		381
+		'complete'
+		'or incomplete'
+		,
+		382
+		'well anterior to glenoid, at or near postorbital constriction'
+		'at or posterior to glenoid, well posterior to postorbital constriction '
+		,
+		383
+		'present'
+		'or absent'
+		,
+		384
+		'large'
+		'slightly reduced in size'
+		'or strongly reduced'
+		,
+		385
+		'< 25% greatest skull length'
+		'or > or = 25%'
+		,
+		386
+		'elongated, uninflated, with blunt tip or elongated anterior sutural contact with jugal'
+		'or short, inflated at base and pointed at tip'
+		,
+		387
+		'present'
+		'absent'
+		'or mastoid lateral exposure present, posttympanic process of squamosal absent'
+		,
+		388
+		'absent'
+		'or present'
+		,
+		389
+		'in groove between petrosal and tentorium'
+		'or perforates ventral portion of tentorium '
+		,
+		390
+		'jugular foramen lateral to hypoglossal foramen, foramina well separated'
+		'jugular foramen lateral to hypoglossal foramen, foramina close, may even share a common fossa'
+		'jugular foramen anterior to or more medial than hypoglossal foramen, foramina well separated'
+		'or jugular and hypoglossal foramina confluent'
+		,
+		391
+		'absent'
+		'or present'
+		,
+		392
+		'linear'
+		'or reflexed'
+		,
+		393
+		'normal mammalian dentition present'
+		'teeth present but reduced with large triangular canine but no incisors and only a few peg-like postcanine teeth'
+		'or teeth absent'
+		,
+		394
+		'deep, > 10% maximum mandibular length '
+		'or shallow, < or = 10%'
+		,
+		395
+		'absent'
+		'or present'
+		
+	;
+
+	MATRIX
+	'Erinaceus sp.'		                    0023000000?101030120100010000000010000?002100001001?02013?0?002001010010120111200?2001001000111??015?0110210021?01130??1??02?000010010000000020011201010003132202211200?4001?112211010100010210(0,1)0??100203210013110000?02000100001001020?2121032031?0050100101001211010023000011000000011100001120001?100102?0000020?110000140000(0,1)00000001110000000100020000?1?10000200100001100000001211020000001020?100000
+	'Nandinia binotata'		                02201010000000030220010020000000010000?00(0,1)010101002002013?0?010001010000011001200?2311001?1021111?12011002001001020200011000?1000002101001010000131010000131200130(1,0)110010001000211100010011011001031102020000121000011020001101100010200012112103??0110010011001200000000011011100000001000001?200010?00001020011200110000100100101010000101012100100100000011000100000020010000000010200000010000000200000
+	'Manis crassicaudata'		              1?2?21121??221111013111121112201200101?112012301222100111110322011110411121(2,3)3221101200?12111(0,3)21111030222021122111013110110110003111111112331111122012111112131140110111331102101231111001011111?1120111221111010101110221100111101211010002011031112021210111110011214211120100121122111111111021121100112211?1??11011111102202(0,1)(0,1)2(0,1)1(0,1)0010111112111211110011000011111(0,1)???21101200112110210110111200111211210
+	'Manis javanica'		                   1220211212?1(0,1)11302(1,0)(3,1)1111(1,2)1102210200101012201(2,1)(3,2)0122201(2,1)(0,1)1(1,2)010312011211(4,3)011211122110121(1,0)0121113211(1,0)104122101110101(1,2)11(3,2)1111111101(0,1)(3,2)1111201122(0,1)111(0,1)1121121(1,0)11121(4,5)11(1,5)(2,3)(0,1)11111(2,4)(4,5)1102(1,0)(1,0)1231(0,1)020010111111212011121(2,1)11101010011022010011110111(0,1)1101021110111(1,0)20212111111101112141(0,1)11211111(2,1)1(1,2)1101111010102111112011(1,3)(2,0)01(0,1)1121101(1,0)100112202112010(0,1)02011111211121111011120(1,0)01111101112110220011211021010(0,1)(0,1)11200111211210
+	'Manis pentadactyla'		               10002112111221111113111101102210200100?122??230120000201111012101110141(0,1)1213??21101(0,2)1001?0113211(1,0)104121202111211(0,1)01311(0,1)1111(2,1)0(0,1)131111(1,0)(0,1)1123311111(1,2)2(1,0)121111121511500101114(4,5)11111(1,0)1(2,1)201120(0,1)101(0,1)1011212011(1,0)21(0,1)1110101011(1,2)022110(1,0)1111012110100020010(3,2)(1,2)11202121011111011121421110(0,1)11012(1,2)1221111111110211211201122111102100100001021(0,1)2112010101011111(2,1)11121111001100001111111112110220011210010001(0,1)(0,1)11200111111210
+	'Smutsia gigantea'		                 122(0,2)2112111221110(1,2)0(3,4)11110111220121(0,1)1101(1,2)(1,2)(2,0)?122(0,1)02000(0,1)(2,1)113110212011(2,3)11310111231111(0,1)1201102?(0,1)(0,1)2(2,3)11(1,0)?03(0,1)2210110(0,1)211(1,2)0111011101(0,1)00031111110123(3,2)111112211211111213213(3,0,1)(2,1)10011(3,2)(3,2)111(2,1)(1,0)010201101101(1,0)111(0,1)112(2,1)01102211110(2,1)01(0,1)(0,1)(1,2)1122(0,1)(0,1)0(1,0)1110111110200110110(3,2)11120212111111001012232111(1,2)1011122101101011100(1,0)2111(1,0)011113211100211(0,1)101(0,1)111(2,3)1(0,1)2(0,1)01011(0,1)110001110110211?0?011201(1,0)111(1,2)1111(0,1)211(1,0)(1,2)2(0,1)121(2,1)1(1,0)(0,1)0(1,0)0(2,1)01111200111(1,3)11210
+	'Smutsia temminckii'		               122?211212221?1?02021111011111012101101212012210200102011110112010211110111(2,3)30111112011022?12211110402210110221110121010101001131111011122011111221121111121011111110110111101010201101101(1,0)0111112(1,0)011022211101110011?230101?1101111102100211103011202121111111011122321112101100110110111110002111011111311110??1(0,1)1101111121021(0,1)(2,1)(0,1)10101000111011(0,1)211201011(0,1)1(1,0)(1,0)121111111211(1,0)120121(2,1)1011(1,0)1(0,1)(0,1)11112(1,0)01(0,1)1111210
+	'Phataginus tetradactyla'		          122221121020111(3,2)0122111101211121100111110000101121011101011112(2,1)111301(1,2)0002122111112001?1221011110014022101001(2,1)0121131001101201(0,1)312112011110111(0,1)1121101011121(3,2)(2,1)0(3,2)11112112211101020(3,2)0112(1,0)10000200122211102221110(3,2)1110121230111(0,1)1101101(0,1)11(0,1)11(2,0)111112(1,0)1212021111110111122321212111111020101111010012111011111(1,3)21121(0,1)201111111(0,1)1321100111(0,1)012101111(2,1)111211201(0,1)11110112121211121111210212100101201111210101011210
+	'Phataginus tricuspis'		             1222211210212(1,0)1(3,1)01(2,1)(3,2)111101211120100111(0,1)1(0,2)00010102101(0,1)(2,1)012011122111(1,2,3)01(3,2)000212(1,2)(1,2)(2,1)111200(1,0)0(0,1)2210(1,0)3110014022(1,3)02001101211(3,0)10011(0,1)1201(0,1)(3,2)1211(1,2)0111101(0,1)101121101011121310(3,2)(2,1)1112112(3,2)1(0,1)10(1,0)0(2,1)000112110(0,1)002001(1,2)2(2,0)111022(2,1)1110(3,2)111012123011111101101011111(2,1)1(0,1)2112(1,0)12120211(1,0)111011112(1,2)321(1,2)121111110(0,2)01101010100121110111112111211201011111013(0,2)11(0,1)(0,1)111101110(1,0)11111112112011111101121210111211(1,0)1210(1,2)121001012(0,1)11112101(0,1)1011210
+	'Patriomanis americana'		            10001010010100000010010020000000200100010110100110(1,0)00100100?000010100(1,2)001010010110100000000011100001010101000000(0,1)01011000?11?0011000010001000000000011010020?00?2000011??00??????2?000000000100????01112100010000000110211000000011000100000000(1,2)0001000110010000000101100010000111000000000000000000000000(1,0)0000111?1110?11?(4,1)(0,1)?010101000???11?0100(0,1)11????0?10110001(1,2)?211110001200?11010?01100?11210000001210
+	'Cryptomanis gobiensis'		            1000101010010001?0010000200000???01110120100210010200000100?0010102103000011100110010000100020110101010001000200110311101011?000100020000100???0?00????10????0????00?11??11????????00000???????1(1,2)??01??1????10?0??01??21?10101???0?01??000101???00?????110001?????11021000???0?001000001?0000000000?00?00(2,1)100??21??????????????????????????????????????????????????????????????????????????????????????????
+	'Necromanis sp.'		                   120(0,1)1011?11??????00(1,2)?110(1,2)00?00???0?11??12210???1????010010???01010210000101001011010000010012?11010???010100000111101?????1(0,1)1002110000100????????10111010?2???????00?1???00???????1101000???????????1112??10100000021022110000000(0,1)21111010001202001101021000?0????????????101??????????????????????????00??00?1??????????????????????????????????????????????????????1102?????0???11?????????112????????210
+	'Eomanis waldi'		                    01111(0,1)1002121113100(0,1)000??02???0????????1?11??1???0?????0??0?0?(2,1)0?????1101??0010???(1,0)??100100??1010??4000100??(1,2)?????03??0???11?1001100??100100?000010011010020211130??0002?1?10??023???????1(1,0)???01???000??100?1131?0020100110?10????110?1101101203?1?0110100????0???11?210001100?1020?????????00?200?1???0102?0?1120110100111???0?11???????1??00??0???????0???0?000?0?1110???10100?100021?10?00002010???11211
+	'Euromanis krebsi'		                 001110100??10??????(0,1,2)????????????????1??2????????0?0?0?????0???00???000??1???????10?????0??10?1000??40???00??????????00?1??10??00??0????00100?000?1001?010?1011?0????(1,0)00??1???0?????????????????????000???000????????0?????0??0?????10???????1??????????????????????????????????????????????????????????0?0??0?0????????????????????????????????????????????????????????????????????????????????????????????
+	'Eurotamandua joresi'		              0(2,1)01101001020????00(0,1)0??0?0?00??0?0??????????2??01??????0??0???00010001101???0?00??100000??00210????40?0?10???????????0??1?12?00001?02010?(1,2)001000??00111???1?1012?1??000??11?????21?1?????1?00???????00???0???0110002(0,1)10010?11?0??121011?0120?202?????4120???100?00111??2?0?0111123000??112?001?000?1???011??0?0120110????11?(0,1)?0?10???????0??????????????0?????000?023110???111?0?00002??02?000?1010????121?
+	'Palaeanodon sp.'		                  012010100??0??????0?0??0???????????????????????10??????0??0?0(0,1)0001010000111011000?130(1,0)0000002?1???????0110??2011112000????0(0,1)?0000000001004(0,1)0?0?002001010000???1??011?0????????0?2??1????????1?00????????????00100011011010011?0011(0,1)00?1??021121201??03100????????????????????0?12300???002000?11020????01???0???????????00120????0?000???100?010???1????0?0?110000000??0?00???00??00??2???0???00?10??2101?1
+	'Metacheiromys sp.'		                0120101002?10113011100?0?1?02?0???00????????1??11???00?1??0??20001210000110001000?1300?00?0?321001?0011110??2011122001????11?000000020000(1,4)10?10001201010000?01103111000?110?010121?1?0?0?1111?00??1000200200001010111110100110001011011?1020121101??031001??1?11??1101?0?10011?12200??0002000001221????010000?01101001000111010010?0001000020010000???000?0?100001003001???110000000002001000100010??0?0101
+	;
+ENDBLOCK;
+
+BEGIN NOTES;
+
+	[Character comments]
+	TEXT CHARACTER=347 TEXT=' [Note: This feature was termed the "lateral wing of basisphenoid" in Gaudin and Wible (1999). In adult pangolins, the basisphenoid, alisphenoid, and pterygoid are fused]';
+	TEXT CHARACTER=348 TEXT='[Note: This feature is termed the "basioccipital wing" in Gaudin and Wible (1999).]';
+
+	[Attribute comments]
+ENDBLOCK;
+BEGIN ASSUMPTIONS;
+TYPESET * UNTITLED = unord: 1 - 395;
+ENDBLOCK;
+BEGIN MACCLADE;
+Version 4.0 81 ; LastModified -967042581 ; FileSettings editor 1 1 267 1 ; Singles 110 ; Editor 0001100111111110010001001 0 72 Geneva 9 100 1 all ; EditorPosition 40 59 659 939 ; TreeWindowPosition 40 2 728 1018 ; ListWindow Characters closed Geneva 9 50 10 265 359 000 ; ListWindow Taxa closed Geneva 9 50 10 265 278 100 ; ListWindow Trees closed Geneva 9 50 10 276 490 ; ListWindow TypeSets closed Geneva 9 50 10 276 490 ; ListWindow WtSets closed Geneva 9 50 10 276 490 ; ListWindow ExSets closed Geneva 9 50 10 276 490 ; ListWindow CharSets closed Geneva 9 50 10 276 490 ; ListWindow TaxSets closed Geneva 9 50 10 276 490 ; ListWindow CharPartitions closed Geneva 9 50 10 276 490 ; ListWindow CharPartNames closed Geneva 9 50 10 276 490 ; ListWindow WtSets closed Geneva 9 50 10 276 490 ; ChartWindowPosition 52 30 686 964 ; StateNamesSymbols closed Geneva 9 10 50 30 148 220 ; WindowOrder Data ; OtherSymbols &/ 00 ?- ; Correlation 0 0 1000 0 0 10011010 ; Salmo 00000001 ; EditorFile 2 ; ExportHTML _ MOSS 100 110000 ; PrettyPrint 10 ; EditorToolsPosition 541 44 115 165 ; TreeToolsPosition 607 5 126 138 ; TreeWindowProgram 10 ; TreeWindow 0000 ; Continuous 0 3 1 ; Calculations 0000001 ; SummaryMode 0 0 0 ; Charts Geneva 9 (normal) 0010 ; NexusOptions 0 0 50 001011001 ; TipLabel 1 ; TreeFont Geneva 9 (normal) ; TreeShape 1.0 1.0 0100 ; TraceLabels 0101 ; ChartColors 0 0 65535 9 0 1 ; ChartBiggestSpot 1 ; ChartPercent 10 ; ChartBarWidth 139 1 ; ChartVerticalAxis 10101 ; ChartMinMax 0 ; TraceAllChangesDisplay 1 1 ; BarsOnBranchesDisplay 0 0 60000 10000 10000 10000 10000 60000 65000 65000 65000 6 1 0000101 ; ContinuousBranchLabels 0 ; AllStatesBranchLabels 1 ; IndexNotation 2 1 ; PrintTree 10.00 2 2 2 2 2 2 2 2 2 2 2 Geneva 9 (normal) Geneva 10 (normal) Geneva 9 (normal) Geneva 9 (normal) Geneva 9 (bold ) Geneva 9 (normal) Geneva 9 (normal) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 3 -39 4 -40 0 1 2 1 8 0 0 0 2 1000111000000000000100000111000 ; MatchChar 00 . ; EntryInterpretation 01 ; ColorOptions 0 ; TreeTools 0 5 4 0 10 4 0 00100111111101110 ; EditorTools 0 0 0 1000 0 0 6 3 0 100000101110001 ; PairAlign 2 2 3 2 1 1 2 1 3 1010 ; BothTools 1 ;
+ENDBLOCK;
+BEGIN PAUP;
+set opt = deltran ; set mstaxa = polymorph ; constraints Theria = (1 , (2 , (3 , (4 , 5 , 6 , 7 , 8 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , 16 , 17 , 18)))) ; constraints GW99 = (1 , (2 , (3 , (11 , 12 , 13 , 14 , 15 , 16 , 17 , 18 , ((7 , 8) , ((9 , 10) , (4 , (5 , 6)))))))) ; constraints EuroPal = (1 , (2 , (3 , (4 , 5 , 6 , 7 , 8 , 9 , 10 , 11 , 12 , 13 , 14 , 15 , (16 , 17 , 18))))) ;
+ENDBLOCK;
+BEGIN TREES;
+TRANSLATE 1 Erinaceus , 2 Nandinia , 3 M._crassicaudata , 4 M._javanica , 5 M._pentadactyla , 6 S._gigantea , 7 S._temmincki , 8 P._tetradactyla , 9 P._tricuspis , 10 Patriomanis , 11 Cryptomanis , 12 Necromanis , 13 Eomanis_waldi , 14 Euromanis_krebsi , 15 Eurotamandua , 16 Palaeanodon , 17 Metacheiromys ; TREE * UNTITLED = (1 , (((((3 , (4 , 5)) , ((7 , 6) , (8 , 9))) , ((10 , 11) , 12)) , ((13 , 14) , 15)) , (16 , 17))) ;
+ENDBLOCK;

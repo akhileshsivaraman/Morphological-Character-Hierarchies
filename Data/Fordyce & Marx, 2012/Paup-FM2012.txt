@@ -1,0 +1,675 @@
+
+P A U P *
+Version 4.0a (build 166) for macOS (built on Sep  1 2019 at 23:02:50)
+Wed May 13 16:16:54 2020
+
+
+paup> execute FM2012.nex
+
+Processing of file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Fordyce & Marx,
+2012/FM2012.nex" begins...
+
+Are you sure you want to reset the active datafile? (Y/n)y
+
+Data matrix has 23 taxa, 174 characters
+Valid character-state symbols: 012345
+Missing data identified by '?'
+Gaps identified by '-'
+
+*** Skipping "NOTES" block
+
+Character types changed:
+  Of 174 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+
+*** Skipping "MESQUITECHARMODELS" block
+
+*** Skipping "MESQUITE" block
+
+Processing of input file "FM2012.nex" completed.
+
+paup> tstatus
+
+Taxon-status summary:
+   Original data matrix contains 23 taxa
+   No taxa have been deleted
+   No taxa have been assigned to the outgroup: outgroup defaults to first taxon (Zygorhiza kochii)
+
+paup> cstatus
+
+Character-status summary:
+  Current optimality criterion = parsimony
+  No characters are excluded
+  Of 174 total characters:
+    All characters are of type 'unord'
+    All characters have equal weight
+    7 characters are parsimony-uninformative
+    Number of parsimony-informative characters = 167
+
+paup> pset collapse=no
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nreps=50
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 174 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        7 characters are parsimony-uninformative
+        Number of parsimony-informative characters = 167
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 50
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  'Maxtrees' setting = 5000 (will not be increased)
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+  Random-addition-sequence replicate 1:
+    0 trees in memory at start of replicate
+    6 trees found (score=430)
+  Random-addition-sequence replicate 2:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 3:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 4:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 5:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #3,
+      skipping to next replicate
+  Random-addition-sequence replicate 6:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 7:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 8:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 9:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 10:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #3,
+      skipping to next replicate
+  Random-addition-sequence replicate 11:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 12:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 13:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 14:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 15:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 16:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 17:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 18:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 19:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 20:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 21:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 22:
+    6 trees in memory at start of replicate
+    6 suboptimal trees found (score=434), discarded
+  Random-addition-sequence replicate 23:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #3,
+      skipping to next replicate
+  Random-addition-sequence replicate 24:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 25:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 26:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 27:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 28:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 29:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 30:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 31:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 32:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 33:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 34:
+    6 trees in memory at start of replicate
+    6 suboptimal trees found (score=434), discarded
+  Random-addition-sequence replicate 35:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 36:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 37:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 38:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 39:
+    6 trees in memory at start of replicate
+    6 suboptimal trees found (score=434), discarded
+  Random-addition-sequence replicate 40:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 41:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 42:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 43:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 44:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #3,
+      skipping to next replicate
+  Random-addition-sequence replicate 45:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 46:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 47:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 48:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 49:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 50:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+
+Heuristic search completed
+  Total number of rearrangements tried = 592271
+  Score of best tree(s) found = 430
+  Number of trees retained = 6
+  Time used = 0.31 sec (CPU time = 0.31 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1         6         1         6             430            1      47
+     2         6         -         -             434           22       3*
+
+Note(s):
+    * Multiple hits on islands of unsaved trees may in fact represent different islands
+
+paup> hsearch addseq=random hold=10 reconlimit=0 nreps=75
+
+Heuristic search settings:
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 174 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        7 characters are parsimony-uninformative
+        Number of parsimony-informative characters = 167
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 75
+    Starting seed = generated automatically
+    Number of trees held at each step = 10
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with no reconnection limit
+    Steepest descent option not in effect
+  'Maxtrees' setting = 5000 (will not be increased)
+  Zero-length branches not collapsed
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
+
+  Random-addition-sequence replicate 1:
+    0 trees in memory at start of replicate
+    6 trees found (score=430)
+  Random-addition-sequence replicate 2:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 3:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 4:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 5:
+    6 trees in memory at start of replicate
+    6 suboptimal trees found (score=434), discarded
+  Random-addition-sequence replicate 6:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 7:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 8:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 9:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 10:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 11:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 12:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 13:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 14:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 15:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 16:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 17:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 18:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 19:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 20:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 21:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 22:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 23:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 24:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 25:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 26:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 27:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 28:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 29:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 30:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 31:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 32:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 33:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 34:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #3,
+      skipping to next replicate
+  Random-addition-sequence replicate 35:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 36:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 37:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #3,
+      skipping to next replicate
+  Random-addition-sequence replicate 38:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 39:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 40:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 41:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 42:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 43:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 44:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 45:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 46:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #3,
+      skipping to next replicate
+  Random-addition-sequence replicate 47:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #3,
+      skipping to next replicate
+  Random-addition-sequence replicate 48:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 49:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 50:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 51:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 52:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #3,
+      skipping to next replicate
+  Random-addition-sequence replicate 53:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 54:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 55:
+    6 trees in memory at start of replicate
+    6 suboptimal trees found (score=434), discarded
+  Random-addition-sequence replicate 56:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 57:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 58:
+    6 trees in memory at start of replicate
+    6 suboptimal trees found (score=434), discarded
+  Random-addition-sequence replicate 59:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 60:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 61:
+    6 trees in memory at start of replicate
+    6 suboptimal trees found (score=434), discarded
+  Random-addition-sequence replicate 62:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 63:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 64:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 65:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #3,
+      skipping to next replicate
+  Random-addition-sequence replicate 66:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #4,
+      skipping to next replicate
+  Random-addition-sequence replicate 67:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 68:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #6,
+      skipping to next replicate
+  Random-addition-sequence replicate 69:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 70:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #2,
+      skipping to next replicate
+  Random-addition-sequence replicate 71:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+  Random-addition-sequence replicate 72:
+    6 trees in memory at start of replicate
+    6 suboptimal trees found (score=434), discarded
+  Random-addition-sequence replicate 73:
+    6 trees in memory at start of replicate
+    6 suboptimal trees found (score=434), discarded
+  Random-addition-sequence replicate 74:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #1,
+      skipping to next replicate
+  Random-addition-sequence replicate 75:
+    6 trees in memory at start of replicate
+    optimal tree (score=430) identical to tree #5,
+      skipping to next replicate
+
+Heuristic search completed
+  Total number of rearrangements tried = 854442
+  Score of best tree(s) found = 430
+  Number of trees retained = 6
+  Time used = 0.48 sec (CPU time = 0.47 sec)
+
+Tree-island profile:
+                     First      Last                        First    Times
+Island      Size      tree      tree           Score    replicate      hit
+--------------------------------------------------------------------------
+     1         6         1         6             430            1      69
+     2         6         -         -             434            5       6*
+
+Note(s):
+    * Multiple hits on islands of unsaved trees may in fact represent different islands
+
+paup> savetrees file=Paup-FM2012.tre
+
+6 trees saved to file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Fordyce & Marx,
+2012/Paup-FM2012.tre"
+
+paup> contree / file=Paupcontree-FM2012.tre
+
+OK to replace file "Paupcontree-FM2012.tre"? (Y/n)y
+
+Strict consensus of 6 trees:
+
+                                                                  /------- Balaenoptera bonaerensis(6)
+                                                            /-----+------- Megaptera novaeangliae(17)
+                                                     /------+------------- Plesiobalaenoptera quarantellii(23)
+                                              /------+-------------------- Eschrichtius robustus(12)
+                                        /-----+      \-------------------- Megaptera miocaena(16)
+                                 /------+     \--------------------------- Pelocetus calvertensis(21)
+                                 |      \--------------------------------- Diorocetus hiatus(10)
+                                 |                                /------- Herpetocetus bramblei(14)
+                           /-----+                          /-----+------- Herpetocetus transatlanticus(15)
+                           |     |                   /------+     \------- Nannocetus eremus(20)
+                           |     |            /------+      \------------- Caperea marginata(8)
+                           |     |      /-----+      \-------------------- Piscobalaena nana(22)
+                           |     \------+     \--------------------------- Metopocetus durinasus(18)
+                    /------+            \--------------------------------- Cetotherium rathkii(9)
+                    |      |                                      /------- Balaena mysticetus(4)
+                    |      |                                /-----+------- Balaenula astensis(7)
+             /------+      |                         /------+------------- Eubalaena spp.(13)
+             |      |      |                  /------+-------------------- Balaenella brachyrhynus(5)
+       /-----+      |      \------------------+--------------------------- Morenocetus parvus(19)
+/------+     |      \----------------------------------------------------- Eomysticetus whitmorei(11)
+|      |     \------------------------------------------------------------ Aetiocetus cotylalveus(3)
+|      \------------------------------------------------------------------ Physeter catodon(2)
+\------------------------------------------------------------------------- Zygorhiza kochii(1)
+
+Consensus tree(s) written to treefile: ~/Documents/Imperial/Morphological Character Hierarchies/Data/Fordyce &
+Marx, 2012/Paupcontree-FM2012.tre
+
+paup> cd '/Users/akhileshsivaraman/Documents/Imperial/Morphological Character Hierarchies/Data/Takahashi, 2003'
+
+Current directory set to /Users/akhileshsivaraman/Documents/Imperial/Morphological Character
+Hierarchies/Data/Takahashi, 2003
+
+paup> cleartrees
+
+All trees have been cleared from memory.
+
+paup> log file=Paup-T2003.txt
+
+The file "~/Documents/Imperial/Morphological Character Hierarchies/Data/Takahashi, 2003/Paup-T2003.txt"
+already exists.  Do you want to replace, cancel, or append (R/c/a)?R
