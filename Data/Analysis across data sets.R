@@ -375,18 +375,18 @@ corinapppropxres
 # Morphy: r = -0.1606066, t = -0.53968, df = 11, p-value = 0.6002
 
 inappcres <- ggplot(inappres) +
-  geom_point(aes(Resolution, Inapplicable.count, colour = Programme), size = 2) +
-  geom_smooth(aes(Resolution, Inapplicable.count, colour = Programme), method = "lm",
+  geom_point(aes(Inapplicable.count, Resolution, colour = Programme), size = 2) +
+  geom_smooth(aes(Inapplicable.count, Resolution, colour = Programme), method = "lm",
               fullrange=T, se = F, size = 0.75) +
-  labs(y = "Inapplicable count") +
+  labs(x = "Inapplicable count") +
   theme_pubr() +
   color_palette(palette = c(palette[3], palette[2]))
 
 inapppropres <- ggplot(inappres) +
-  geom_point(aes(Resolution, Proportion.of.inapplicable, colour = Programme), size = 2) +
-  geom_smooth(aes(Resolution, Proportion.of.inapplicable, colour = Programme), method = "lm",
+  geom_point(aes(Proportion.of.inapplicable, Resolution, colour = Programme), size = 2) +
+  geom_smooth(aes(Proportion.of.inapplicable, Resolution, colour = Programme), method = "lm",
               fullrange=T, se = F, size = 0.75) +
-  labs(y = "Proportion of inapplicable data") +
+  labs(x = "Proportion of inapplicable data") +
   theme_pubr() +
   color_palette(palette = c(palette[3], palette[2]))
 
@@ -405,7 +405,7 @@ dev.off()
 
 
 
-#### is there a difference in the proportion of resolved ####
+#### is there a difference in the proportion of resolved nodes ####
 ## barplot
 # y-axis = resolution
 # x-axis = study, each study with multiple bars, one for each programme
@@ -443,7 +443,7 @@ morphyres <- c(propnodemorphyAH2006,
                propnodemorphyC2013,
                propnodemorphyC2020,
                propnodemorphyD2016,
-               propnodemorphyL2020,
+               propnodemorphydL2020,
                propnodemorphyE2014,
                propnodemorphyFM2012,
                propnodemorphyL2020,
@@ -451,9 +451,9 @@ morphyres <- c(propnodemorphyAH2006,
                propnodemorphyR2014,
                propnodemorphyT2003)
 
-propnodeanaCPRS2019 <- NA
-propnodeanaL2015 <- NA
-propnodeanaR2014 <- NA
+propnodeanaCPRS2019 <- 0
+propnodeanaL2015 <- 0
+propnodeanaR2014 <- 0
 
 anares <- c(propnodeanaAH2006,
             propnodeanaA2019,
@@ -461,7 +461,7 @@ anares <- c(propnodeanaAH2006,
             propnodeanaC2013,
             propnodeanaC2020,
             propnodeanaD2016,
-            propnodeanaL2020,
+            propnodeanadL2020,
             propnodeanaE2014,
             propnodeanaFM2012,
             propnodeanaL2020,

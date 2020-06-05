@@ -44,9 +44,9 @@ treeslist <- c(pauptrees, morphytrees, anatrees)
 #### plot contrees ####
 par(mar=c(0,0,0,0))
 par(mfrow=c(1,1))
-plot.phylo(paup, type = "cladogram")
-plot.phylo(morphy, type = "cladogram")
-plot.phylo(ana, type = "cladogram")
+plot.phylo(paup, type = "cladogram", label.offset = 0.5, no.margin = T, cex = 0.5)
+plot.phylo(morphy, type = "cladogram", label.offset = 0.5, no.margin = T, cex = 0.5)
+plot.phylo(ana, type = "cladogram", label.offset = 0.5, no.margin = T, cex = 0.5)
 
 
 
@@ -58,13 +58,13 @@ comparePhylo(morphy, ana)
 # visual comparison
 par(mar=c(0,0,0,0))
 pdf("Figures/phylodiff paup vs morphy.pdf", 8.27, 5.83)
-phylo.diff(paup, morphy, type = "cladogram", edge.width = 1.5, label.offset = 0.5, no.margin = T)
+phylo.diff(paup, morphy, type = "cladogram", edge.width = 1.5, label.offset = 0.5, no.margin = T, cex = 0.55)
 dev.off()
 pdf("Figures/phylodiff paup vs ana.pdf", 8.27, 5.83)
-phylo.diff(paup, ana, type = "cladogram", edge.width = 1.5, label.offset = 0.5, no.margin = T)
+phylo.diff(paup, ana, type = "cladogram", edge.width = 1.5, label.offset = 0.5, no.margin = T, cex = 0.55)
 dev.off()
 pdf("Figures/phylodiff morphy vs ana.pdf", 8.27, 5.83)
-phylo.diff(morphy, ana, type = "cladogram", edge.width = 1.5, label.offset = 0.5, no.margin = T)
+phylo.diff(morphy, ana, type = "cladogram", edge.width = 1.5, label.offset = 0.5, no.margin = T, cex = 0.55)
 dev.off()
 
 

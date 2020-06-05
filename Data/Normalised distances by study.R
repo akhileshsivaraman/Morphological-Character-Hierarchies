@@ -115,10 +115,7 @@ plot_grid(legend, plots, ncol = 1, rel_heights = c(0.1,1))
 dev.off()
 
 
-
-
-
-
+write.csv(df, "Normalised distances for all studies.csv")
 
 
 

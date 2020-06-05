@@ -262,16 +262,22 @@ write.csv(normdata, file = "normdataAH2006.csv")
 
 # RF - normalise distributions to use Bhattacharyya
 normpprf <- as.numeric(pprf/randoRFmedian)
+normmmrf <- as.numeric(mmrf/randoRFmedian)
+normaarf <- as.numeric(aarf/randoRFmedian)
 normpmrf <- as.numeric(pmrf/randoRFmedian)
 normparf <- as.numeric(parf/randoRFmedian)
 normmarf <- as.numeric(marf/randoRFmedian)
 
 bhatt.coeff(normpprf, normpmrf) # 0.4459379
+bhatt.coeff(normmmrf, normpprf)
 bhatt.coeff(normpprf, normparf) # 0.9327063
 bhatt.coeff(normpmrf, normparf) # 0.5952563
 bhatt.coeff(normpmrf, normmarf) # 0.742394
 bhatt.coeff(normparf, normmarf) # 0.6750986
-
+# pm and pa closest
+# pa and ma
+# pm and ma
+# pm pa   ma
 
 # Quartets
 normppqu <- as.numeric(ppqu/randoQmedian)
@@ -286,8 +292,7 @@ bhatt.coeff(normpmqu, normmaqu) # 0.8234817
 bhatt.coeff(normpaqu, normmaqu) # 0.549577
 
 
-#### t-test/Wilcoxon ####
-## which programme has sampled the largest area of the tree space?
+#### which programme sampled more of the tree space - t-test/Wilcoxon ####
 
 ### RF
 # paup-morphy

@@ -44,9 +44,9 @@ treeslist <- c(pauptrees, morphytrees, anatrees)
 #### plot contrees ####
 par(mar=c(0,0,0,0))
 par(mfrow=c(1,1))
-plot.phylo(paup, type = "cladogram")
-plot.phylo(morphy, type = "cladogram")
-plot.phylo(ana, type = "cladogram")
+plot.phylo(paup, type = "cladogram", label.offset = 0.5, no.margin = T, cex = 0.8)
+plot.phylo(morphy, type = "cladogram", label.offset = 0.5, no.margin = T, cex = 0.8)
+plot.phylo(ana, type = "cladogram", label.offset = 0.5, no.margin = T, cex = 0.8)
 
 
 

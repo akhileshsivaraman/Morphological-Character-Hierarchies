@@ -60,13 +60,13 @@ comparePhylo(morphy, ana)
 # visual comparison
 par(mar=c(0,0,0,0))
 pdf("Figures/phylodiff paup vs morphy.pdf", 8.27, 5.83)
-phylo.diff(paup, morphy, type = "cladogram", edge.width = 1.5, label.offset = 0.5, no.margin = T)
+phylo.diff(paup, morphy, type = "cladogram", edge.width = 1.5, label.offset = 0.5, no.margin = T, cex = 0.65)
 dev.off()
 pdf("Figures/phylodiff paup vs ana.pdf", 8.27, 5.83)
-phylo.diff(paup, ana, type = "cladogram", edge.width = 1.5, label.offset = 0.5, no.margin = T)
+phylo.diff(paup, ana, type = "cladogram", edge.width = 1.5, label.offset = 0.5, no.margin = T, cex = 0.65)
 dev.off()
 pdf("Figures/phylodiff morphy vs ana.pdf", 8.27, 5.83)
-phylo.diff(morphy, ana, type = "cladogram", edge.width = 1.5, label.offset = 0.5, no.margin = T)
+phylo.diff(morphy, ana, type = "cladogram", edge.width = 1.5, label.offset = 0.5, no.margin = T, cex = 0.65)
 dev.off()
 
 
