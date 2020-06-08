@@ -1,9 +1,7 @@
 # Morphological Character Hierarchies
 Morphological characters often exist in hierarchies whereby the state of one character controls the state of a subset of characters. This violates the assumptions of phylogenetic analysis that characters are independent and applicable to all taxa. As these violations are known to have the possibility of misleading phylogenetic analyses, two programmes, Morphy and Anagallis, have been developed to address the issue of inapplicability by accounting for the violations. The phylogenies produced by Morphy and Anagallis were compared to those of PAUP*, a traditional programme of phylogenetic analysis, to investigate the merit of the new programmes.
 
-This analysis was undertaken as my final year project at Imperial College London under the supervision of Dr. Martin Brazeau with additional inputs from Thomas Guillerme, at the University of Sheffield.
-
-
+This analysis was formed my final year project at Imperial College London under the supervision of Dr. Martin Brazeau with additional inputs from Thomas Guillerme, at the University of Sheffield.
 
 # Repository Description
 In this repository, you can find all the code and data used for the project. As I'm still very new to GitHub, this repository is a bit of mess at the moment! But, I hope that this brief description will make it easier to navigate the repository.
