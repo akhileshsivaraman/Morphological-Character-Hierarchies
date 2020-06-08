@@ -1,7 +1,4 @@
 # Morphological-Character-Hierarchies
-Data and code used in my final year project: Morphological Character Hierarchies: A Test of Competing Programmes of Phylogenetic Analysis
-
-
 In this repository, you can find all the code and data used in my final year project.
 As I'm still very new to GitHub, this repository is a bit of messy at the moment! But, I hope that this brief description will make it easier to navigate the repository.
 
