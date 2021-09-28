@@ -4,7 +4,7 @@ Morphological characters often exist in hierarchies whereby the state of one cha
 This analysis formed my final year project at Imperial College London under the supervision of Dr. Martin Brazeau with additional inputs from Thomas Guillerme, at the University of Sheffield.
 
 # Repository Description
-In this repository, you can find all the code and data used for the project. As I'm still very new to GitHub, this repository is a bit of mess at the moment! But, I hope that this brief description will make it easier to navigate the repository.
+In this repository, you can find all the code and data used for the project and this brief description should make it easier to navigate.
 
 The files present in the "Data" folder are named after the lead author(s) whose morphological data sets I analysed with PAUP*, Morphy and Anagallis.
 
