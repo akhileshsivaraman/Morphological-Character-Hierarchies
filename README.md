@@ -4,6 +4,8 @@ Morphological characters often exist in hierarchies whereby the state of one cha
 
 This analysis formed my final year project at Imperial College London under the supervision of Dr. Martin Brazeau with additional inputs from Thomas Guillerme, at the University of Sheffield.
 
+<br>
+<hr>
 
 ### Repository Description
 In this repository, you can find all the code and data used for the project and this brief description should make it easier to navigate.
@@ -16,20 +18,36 @@ Character matrices can be identified by the extensions .nex and .tnt while tree 
 
 Data obtained from tree comparison analyses are pooled into .csv (and .numbers) files in the "Data" folder and the R scripts in this folder were used to carry out analyses across the data sets.
 
+<br>
+<hr>
 
 ### Summary of Results
 #### Treating inapplicable data as inapplicable affects the topology of optimal trees
 <img align="middle" src="Figures/distances by study.png" width="700">
-* the x-axis designates the study while the y-axis describes the distances between trees of a pair of programmes
-* dots and lines represent the median distance and IQR, respectively
-* the greater the distance, the more different tree topologies are between programmes
+* the x-axis designates the study while the y-axis describes the distances between trees of a pair of programmes\
+* dots and lines represent the median distance and IQR, respectively\
+* the greater the distance, the more different tree topologies are between programmes\
+
+<br>
 
 #### Morphy and Anagallis often sample regions of the tree space not sampled by PAUP*
 <img align="middle" src="Figures/MDS.png" width="800">
-* each plot is a sections of the tree space
-* each dot represents an optimal tree found by one of the programmes
-* topological differences seem to be driven by the programmes sampling different regions
+* each plot is a sections of the tree space\
+* each dot represents an optimal tree found by one of the programmes\
+* topological differences seem to be driven by the programmes sampling different regions\
+
+<br>
 
 #### When inapplicable data are taken into account, consensus trees tend to collapse
+<img align="middle" src="Figures/is there a difference in the proportion of resolved nodes.png" width="800">
+* consensus trees computed by Morphy and Anagallis generally have a lower resolution compared to those of PAUP*\
 
+<br>
 
+##### Example of a consensus tree collapsing
+<img align="middle" src="Figures/Topographical differences.png" width="800">
+* trees generated from the Takahashi (2003) data set
+* a potential maximum of 71 resolved nodes
+* Morphy and Anagallis may be doing what they were designed to do by not basing the topology of optimal trees on illogical states. Alternatively, they might not be detecting homology between taxa
+
+<br>
