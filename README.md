@@ -23,29 +23,29 @@ Data obtained from tree comparison analyses are pooled into .csv (and .numbers) 
 #### Treating inapplicable data as inapplicable affects the topology of optimal trees
 <img align="middle" src="Figures/distances by study.png" width="800">
 <br>
-* the x-axis designates the study while the y-axis describes the distances between trees of a pair of programmes
-* dots and lines represent the median distance and IQR, respectively
-* the greater the distance, the more different tree topologies are between programmes
+- the x-axis designates the study while the y-axis describes the distances between trees of a pair of programmes
+- dots and lines represent the median distance and IQR, respectively
+- the greater the distance, the more different tree topologies are between programmes
 <br>
 
 #### Morphy and Anagallis often sample regions of the tree space not sampled by PAUP*
 <img align="middle" src="Figures/MDS.png" width="800">
 <br>
-* each plot is a sections of the tree space
-* each dot represents an optimal tree found by one of the programmes
-* topological differences seem to be driven by the programmes sampling different regions
+- each plot is a sections of the tree space
+- each dot represents an optimal tree found by one of the programmes
+- topological differences seem to be driven by the programmes sampling different regions
 <br>
 
 #### When inapplicable data are taken into account, consensus trees tend to collapse
 <img align="middle" src="Figures/is there a difference in the proportion of resolved nodes.png" width="800">
 <br>
-* consensus trees computed by Morphy and Anagallis generally have a lower resolution compared to those of PAUP*
+- consensus trees computed by Morphy and Anagallis generally have a lower resolution (fewer resolved nodes) compared to those of PAUP*
 <br>
 
 ##### Example of a consensus tree collapsing
 <img align="middle" src="Figures/Topographical differences.png" width="900">
 <br>
-* trees generated from the Takahashi (2003) data set
-* a potential maximum of 71 resolved nodes
-* Morphy and Anagallis may be doing what they were designed to do by not basing the topology of optimal trees on illogical states. Alternatively, they might not be detecting homology between taxa
+- trees generated from the Takahashi (2003) data set
+- a potential maximum of 71 resolved nodes
+- Morphy and Anagallis may be doing what they were designed to do by not basing the topology of optimal trees on illogical states. Alternatively, they might not be detecting homology between taxa
 <br>
