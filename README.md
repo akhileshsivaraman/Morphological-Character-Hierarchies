@@ -29,15 +29,15 @@ Data obtained from tree comparison analyses are pooled into .csv (and .numbers) 
 <br>
 
 #### Morphy and Anagallis often sample regions of the tree space not sampled by PAUP*
-<img align="middle" src="Figures/MDS.png" width="800">
+<img align="middle" src="Figures/MDS.png" width="900">
 
-- each plot is a sections of the tree space
-- each dot represents an optimal tree found by one of the programmes
-- topological differences seem to be driven by the programmes sampling different regions
+* each plot is a sections of the tree space
+* each dot represents an optimal tree found by one of the programmes
+* topological differences seem to be driven by the programmes sampling different regions
 
 
 #### When inapplicable data are taken into account, consensus trees tend to collapse
-<img align="middle" src="Figures/is there a difference in the proportion of resolved nodes.png" width="800">
+<img align="middle" src="Figures/is there a difference in the proportion of resolved nodes.png" width="700">
 
 * consensus trees computed by Morphy and Anagallis generally have a lower resolution (fewer resolved nodes) compared to those of PAUP*
 
