@@ -49,3 +49,4 @@ Data obtained from tree comparison analyses are pooled into .csv (and .numbers) 
 - a potential maximum of 71 resolved nodes
 - Morphy and Anagallis may be doing what they were designed to do by not basing the topology of optimal trees on illogical states. Alternatively, they might not be detecting homology between taxa
 <br>
+
